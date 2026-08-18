@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Market{% endblock %}
+
+{% block content %}
+<h1>The market</h1>
+<p class="lede">Describe a role in your own words, or browse. Each row is one kind
+of job with seniority stripped out, so "Senior Data Analyst" and "Data Analyst II"
+appear once rather than twice.</p>
+
+<form class="filters" method="get" action="/hiring">
+  <label style="flex:1 1 20rem">Describe the role
+    <input type="search" name="q" value="{{ q }}"
+      placeholder="someone to run our kubernetes platform and CI">
+  </label>
+  <label>Job family
+    <select name="family">
+      <option value="">any</option>
+      {% for f in families %}
+      <option value="{{ f }}" {% if f == family %}selected{% endif %}>{{ family_label(f) }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Order by
+    <select name="sort">
+      <option value="postings" {% if sort == 'postings' %}selected{% endif %}>Postings</option>
+      <option value="employers" {% if sort == 'employers' %}selected{% endif %}>Employers</option>
+      <option value="pay" {% if sort == 'pay' %}selected{% endif %}>Median pay</option>
+    </select>
+  </label>
+  <button type="submit">Search</button>
+  {% if q %}<a class="clear" href="/hiring">Clear</a>{% endif %}
+</form>
+<p class="aside">{{ help }}{% if scored %} Order-by is ignored while a description
+is present, because relevance is the ordering.{% endif %}</p>
+
+{% if rows|length == 0 %}
+<p class="empty">{% if scored %}Nothing matched "{{ q }}". Try naming tools rather
+than describing duties.{% else %}No roles in that family.{% endif %}</p>
+{% else %}
+<p class="count">Showing {{ rows|length }} of {{ total }}</p>
+<table>
+  <thead><tr>
+    <th>Role</th><th>Family</th><th class="n">Postings</th><th class="n">Employers</th>
+    <th class="n">Median pay</th><th class="n">Senior+</th>
+    {% if scored %}<th class="n">Match</th>{% endif %}
+  </tr></thead>
+  <tbody>
+  {% for r in rows.itertuples() %}
+  <tr>
+    <td><a href="/roles/{{ r.role }}">{{ r.role_label }}</a></td>
+    <td class="dim">{{ family_label(r.job_family) }}</td>
+    <td class="n">{{ r.postings|count }}</td>
+    <td class="n">{{ r.companies|count }}</td>
+    <td class="n">{% if r.median_salary|money %}
+        {{ figure(r.median_salary|money, r.salary_companies|count ~ " " ~ r.salary_companies|plural("employer")) }}
+      {% else %}{{ absent(pay_basis(r.salary_companies)) }}{% endif %}</td>
+    <td class="n">{{ r.pct_senior_or_above|pct(0) }}</td>
+    {% if scored %}<td class="n">{{ '%.3f'|format(r.relevance) }}</td>{% endif %}
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}

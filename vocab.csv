@@ -1,0 +1,3001 @@
+skill,count,known
+python,14819,True
+sql,11992,True
+communication,10769,False
+java,9397,True
+aws,8648,True
+communication skills,7158,False
+project management,7122,False
+data analysis,6949,True
+javascript,6434,True
+problem solving,6402,False
+agile,6262,True
+troubleshooting,6152,False
+teamwork,5887,False
+software development,5840,False
+software engineering,5762,False
+collaboration,5451,False
+computer science,5360,False
+kubernetes,5177,True
+problemsolving,5122,False
+docker,4901,True
+linux,4855,True
+bachelor s degree,4660,False
+machine learning,4573,True
+analytical skills,4498,False
+leadership,4486,False
+azure,4389,True
+git,4323,True
+devops,4172,True
+cloud computing,4037,False
+c++,3831,True
+jira,3584,True
+attention to detail,3309,False
+c#,3291,True
+data visualization,3182,True
+interpersonal skills,2948,False
+documentation,2937,False
+react,2882,True
+go,2874,True
+html,2862,True
+css,2788,True
+typescript,2787,True
+customer service,2758,False
+unit testing,2718,True
+automation,2706,False
+agile development,2690,True
+engineering,2627,False
+scrum,2626,True
+business analysis,2614,False
+time management,2550,False
+testing,2541,False
+jenkins,2448,True
+security,2415,False
+tableau,2380,True
+systems engineering,2372,False
+networking,2361,False
+nosql,2345,True
+microservices,2297,True
+ci cd,2267,True
+mentoring,2215,False
+windows,2209,True
+terraform,2201,True
+problemsolving skills,2182,False
+angular,2155,True
+data science,2124,False
+data modeling,2106,True
+data analytics,2105,True
+data engineering,2052,False
+gcp,2038,True
+electrical engineering,2034,False
+risk management,2025,True
+scala,1978,True
+ansible,1968,True
+cybersecurity,1903,True
+debugging,1869,False
+product management,1865,False
+kafka,1849,True
+data warehousing,1821,True
+power bi,1812,True
+node.js,1801,True
+written communication,1774,False
+reporting,1765,False
+oracle,1738,True
+r,1722,True
+mysql,1715,True
+network security,1712,False
+adaptability,1711,False
+spark,1701,True
+business intelligence,1697,False
+design,1672,False
+training,1655,False
+organizational skills,1644,False
+powershell,1631,True
+active directory,1626,True
+sql server,1609,True
+technical writing,1601,False
+.net,1594,True
+requirements gathering,1582,False
+data management,1574,False
+presentation skills,1551,False
+multitasking,1548,False
+critical thinking,1543,False
+excel,1542,True
+scripting,1528,False
+confluence,1518,True
+microsoft office suite,1497,False
+hadoop,1481,True
+dns,1481,False
+master s degree,1470,False
+quality assurance,1441,False
+verbal communication,1437,False
+software design,1427,False
+software testing,1404,False
+distributed systems,1404,True
+continuous integration,1399,True
+artificial intelligence,1391,False
+tcp ip,1367,False
+innovation,1356,False
+microsoft azure,1348,True
+etl,1315,True
+statistics,1312,False
+snowflake,1301,True
+information technology,1284,False
+change management,1281,False
+objectoriented programming,1278,False
+unix,1261,True
+stakeholder management,1246,True
+microsoft office,1240,False
+programming,1240,False
+agile methodologies,1239,True
+postgresql,1239,True
+prioritization,1231,False
+data mining,1226,False
+network engineering,1226,False
+data structures,1225,False
+vmware,1220,True
+xml,1190,True
+mongodb,1187,True
+c,1183,True
+incident response,1161,True
+bash,1159,True
+json,1148,True
+data integration,1143,False
+development,1143,False
+team leadership,1143,False
+software architecture,1143,True
+rest,1125,True
+github,1123,True
+algorithms,1121,False
+scalability,1096,False
+data governance,1080,True
+c c++,1079,True
+firewalls,1077,True
+agile practices,1049,True
+databases,1039,False
+agile methodology,1026,True
+data security,1023,False
+system design,1011,True
+integration testing,1009,False
+cissp,1001,True
+information security,1000,True
+technical support,993,False
+mathematics,992,False
+tensorflow,990,True
+research,987,False
+design patterns,986,False
+computer engineering,986,False
+decision making,985,False
+integration,980,False
+cyber security,978,True
+big data,975,True
+product development,974,False
+u.s. citizenship,972,False
+monitoring,965,False
+open source frameworks,958,False
+golang,953,True
+prototyping,951,True
+configuration management,949,False
+analytical thinking,940,False
+apis,939,False
+relational databases,934,False
+data pipelines,927,True
+flexibility,923,False
+matlab,921,True
+web development,915,False
+programming languages,910,False
+analytics,908,False
+pytorch,895,True
+deployment,894,False
+nosql databases,893,True
+data quality,892,False
+implementation,889,False
+paid time off,888,False
+system administration,888,False
+integrity,886,False
+splunk,885,True
+crossfunctional collaboration,883,False
+root cause analysis,882,False
+technical documentation,882,False
+team collaboration,869,False
+azure devops,869,False
+kanban,868,True
+compliance,861,False
+process improvement,861,False
+analysis,852,False
+coaching,847,False
+html5,846,True
+data architecture,844,False
+sharepoint,844,False
+google cloud,842,True
+business requirements,837,False
+operations,829,False
+information systems,824,False
+deep learning,822,True
+virtualization,817,False
+equal opportunity employer,815,False
+embedded systems,814,False
+web services,813,False
+spring boot,811,True
+jquery,807,True
+people management,803,False
+organization,797,False
+hive,796,True
+statistical analysis,794,True
+confidentiality,794,False
+life insurance,788,False
+rdbms,787,False
+dhcp,779,False
+us citizenship,778,False
+software,771,False
+php,771,True
+mechanical engineering,771,False
+network troubleshooting,771,False
+puppet,767,False
+gitlab,765,True
+optimization,759,False
+robotics,757,False
+computer vision,756,False
+cassandra,756,True
+servicenow,753,True
+ruby,747,True
+availability,745,False
+figma,740,True
+scheduling,737,False
+system integration,736,False
+open source rdbms,736,False
+sdlc,733,False
+technical leadership,726,False
+cloud security,724,False
+diversity,721,False
+decisionmaking,721,False
+selfmotivation,720,False
+maintenance,718,False
+html css,714,True
+bgp,714,False
+travel,705,False
+full stack development,705,False
+physics,703,False
+coding,703,False
+restful apis,699,True
+operating systems,697,False
+continuous improvement,695,False
+planning,694,False
+user stories,694,False
+hardware,691,False
+requirements analysis,691,False
+risk assessment,690,False
+security clearance,689,False
+sales,688,False
+architecture,686,False
+version control,681,False
+team player,681,False
+creativity,679,False
+routing,679,False
+soap,678,False
+ai,678,False
+code reviews,675,False
+salesforce,674,True
+ccna,673,False
+cloud technologies,668,False
+finance,668,False
+cloud services,667,False
+data processing,666,False
+perl,666,False
+s3,665,False
+continuous delivery,662,False
+remote work,658,False
+backend development,657,False
+shell scripting,652,False
+graphql,644,True
+ospf,643,False
+cloud,642,False
+powerpoint,640,False
+independent work,638,False
+penetration testing,638,True
+incident management,637,False
+windows server,636,False
+initiative,635,False
+disaster recovery,635,False
+network design,633,False
+redshift,629,True
+frontend development,624,False
+manufacturing,621,False
+maven,619,False
+best practices,618,False
+selenium,617,False
+infrastructure as code,613,False
+encryption,606,False
+paid holidays,606,False
+redis,603,True
+kotlin,602,True
+reliability,600,False
+saas,596,False
+user experience,595,False
+technical skills,593,False
+powerbi,592,True
+business analyst,591,False
+test automation,591,False
+containerization,590,False
+performance tuning,590,False
+network architecture,587,False
+safety,585,False
+android,585,False
+spring,584,True
+secret clearance,584,False
+data integrity,583,False
+vpn,582,False
+leadership skills,577,False
+performance,577,False
+automated testing,575,False
+data collection,574,False
+ts sci clearance,572,False
+requirements management,572,False
+rest apis,570,True
+mpls,570,False
+visio,569,False
+tsql,567,True
+databricks,567,True
+cisco,566,False
+siem,565,True
+ci cd pipelines,563,False
+pl sql,562,False
+database design,561,False
+test plans,559,False
+devsecops,558,False
+application development,556,False
+microsoft excel,553,True
+sap,551,True
+asp.net,550,False
+bachelor s degree in computer science,546,False
+bitbucket,542,False
+postgres,535,True
+unix linux,534,False
+team management,533,False
+performance optimization,533,False
+ios,531,False
+cloud platforms,531,False
+routers,530,False
+itil,529,False
+vulnerability management,529,False
+load balancing,528,False
+scripting languages,528,False
+product design,524,False
+fullstack development,523,False
+validation,523,False
+.net core,522,False
+data transformation,521,False
+software development life cycle,521,False
+data manipulation,518,False
+sas,516,True
+inventory management,516,False
+stakeholder engagement,515,False
+software development lifecycle,515,False
+nodejs,515,True
+systems analysis,512,False
+rest api,511,True
+program management,509,False
+cloud infrastructure,505,False
+negotiation,504,False
+bootstrap,503,False
+ux design,502,False
+api,501,False
+presentation,499,False
+google cloud platform,498,True
+natural language processing,498,True
+system architecture,497,False
+oral communication,495,False
+airflow,495,True
+it,493,False
+agile scrum,492,True
+merchandising,491,False
+budgeting,490,False
+human resources,490,False
+fastpaced environment,489,False
+forecasting,488,False
+system testing,487,False
+data extraction,487,False
+inclusion,486,False
+crossfunctional teams,483,False
+data migration,482,False
+data interpretation,482,False
+performance testing,481,False
+css3,479,False
+user research,479,True
+visual studio,478,False
+systems integration,478,False
+regression testing,478,False
+problem resolution,475,False
+infrastructure,474,False
+distributed microservices,474,False
+project planning,473,False
+test planning,472,False
+lambda,471,False
+dental insurance,470,False
+vue.js,468,False
+conflict resolution,467,False
+chef,466,False
+onboarding,465,False
+recruiting,464,False
+elasticsearch,463,True
+high school diploma,461,False
+code review,461,False
+nist,460,False
+network administration,460,False
+reactjs,457,False
+strategic planning,457,False
+agile software development,452,False
+user acceptance testing,452,False
+ssis,449,True
+procedures,449,False
+http,448,False
+switches,448,False
+strategic thinking,447,False
+regulatory compliance,446,False
+cism,443,False
+node,442,True
+management,440,False
+database management,439,False
+storage,438,False
+testdriven development,436,False
+system analysis,435,False
+covid19 vaccination,435,False
+junit,433,False
+software maintenance,432,False
+api development,430,False
+rust,427,True
+office 365,426,False
+functional testing,425,False
+asset protection,425,False
+interviewing,422,False
+dod secret clearance,421,False
+security+,419,False
+waterfall,416,False
+it support,415,False
+vision insurance,414,False
+emr,414,False
+system engineering,413,False
+verification,413,False
+cloudformation,412,False
+full stack systems,411,False
+data privacy,410,False
+user training,410,False
+vendor management,409,False
+network protocols,409,False
+dashboards,408,False
+multithreading,407,False
+teamwork skills,405,False
+pandas,405,True
+business acumen,404,False
+collaboration skills,404,False
+health insurance,404,False
+swift,404,True
+stored procedures,403,False
+word,403,False
+apache spark,403,False
+container orchestration,401,False
+tdd,400,False
+ccnp,398,False
+pyspark,398,False
+microsoft sql server,398,True
+functional specifications,394,False
+systems administration,393,False
+objectoriented design,388,False
+vulnerability assessment,387,False
+data warehouse,387,False
+security architecture,386,False
+database administration,386,False
+network infrastructure,385,False
+team building,385,False
+marketing,382,False
+ethernet,381,False
+continuous learning,381,False
+circleci,379,False
+erp,378,False
+relationship building,378,False
+market research,376,False
+functional programming,376,False
+doors,376,False
+mvc,376,False
+data acquisition,375,False
+configuration,375,False
+positive attitude,375,False
+autonomy,374,False
+healthcare,372,False
+support,372,False
+db2,372,False
+supervisory experience,372,False
+authentication,370,False
+dynamodb,370,True
+lan,369,False
+generative ai,369,True
+distributed computing,367,False
+diversity and inclusion,366,False
+ajax,366,False
+financial analysis,366,False
+containers,363,False
+a b testing,363,True
+technical expertise,361,False
+disability insurance,360,False
+web applications,360,False
+cloudbased solutions,359,False
+top secret clearance,359,False
+artifactory,359,False
+ui ux design,358,False
+401 k plan,358,False
+financial services,357,False
+grafana,355,True
+mentorship,355,False
+threat modeling,354,False
+j2ee,354,False
+isis,354,False
+community relations,354,False
+ms office,353,False
+team work,353,False
+github actions,352,False
+equity,351,False
+simulation,351,False
+consulting,349,False
+strong communication skills,349,False
+cloud architecture,348,False
+emerging technologies,346,False
+data reporting,346,False
+concurrency,346,False
+data storage,343,False
+accounting,343,False
+report writing,343,False
+routing protocols,343,False
+wan,342,False
+statistical modeling,342,False
+ssrs,341,False
+english,339,False
+angularjs,338,False
+realtime operating systems,337,False
+modeling,337,False
+iam,336,False
+prometheus,335,True
+business,334,False
+standards,333,False
+401 k,333,False
+datadriven decision making,332,False
+autocad,331,False
+numpy,331,True
+test cases,331,False
+entity framework,330,False
+security policies,329,False
+execution,329,False
+automation tools,329,False
+erp systems,327,False
+ui design,326,False
+data validation,326,False
+data protection,324,False
+continuous deployment,324,False
+ec2,323,False
+supervision,322,False
+wireframing,321,False
+ability to work independently,321,False
+hipaa,320,False
+software deployment,318,False
+react.js,317,False
+technical communication,317,False
+technology,317,False
+firewall,314,False
+mapreduce,314,False
+selfstarter,314,False
+scikitlearn,314,False
+user experience design,313,False
+vision,312,False
+microsoft 365,312,False
+network operations,312,False
+visual design,311,False
+quality control,310,False
+desktop support,310,False
+nlp,310,True
+detailoriented,310,False
+linux os,308,False
+switching,308,False
+safe,308,False
+capacity planning,307,False
+data loading,307,False
+comptia security+,306,False
+test execution,306,False
+network automation,304,False
+sql queries,303,False
+functional requirements,302,False
+segment routing,301,False
+crm,300,False
+django,300,True
+hibernate,298,False
+presentations,297,False
+business development,297,False
+industry trends,297,False
+time management skills,297,False
+software integration,297,False
+retail,297,False
+sketch,296,False
+aws tools and services,296,False
+dental,295,False
+usability testing,294,False
+design thinking,292,False
+tuition reimbursement,291,False
+technical solutions,291,False
+scrum master,290,False
+oop,288,False
+reports,288,False
+data cleansing,288,False
+aerospace engineering,287,False
+control systems,286,False
+stem,285,False
+container orchestration services,285,False
+frameworks,284,False
+sonarqube,284,False
+slack,284,False
+database,284,False
+installation,283,False
+user interface design,283,False
+cucumber,283,False
+accountability,282,False
+paas,281,False
+product strategy,281,False
+business administration,280,False
+software implementation,280,False
+it infrastructure,280,False
+phd,280,False
+technical specifications,279,False
+customer support,278,False
+labview,278,False
+it security,278,False
+procurement,277,False
+cisa,277,False
+ecs,277,False
+written communication skills,277,False
+data mapping,277,False
+security controls,277,False
+business process analysis,276,False
+spring framework,276,False
+business requirements gathering,275,False
+ownership,275,False
+uml,275,False
+microservices architecture,275,False
+rds,274,False
+enterprise architecture,272,False
+mobile development,272,False
+security best practices,271,False
+interaction design,271,False
+writing,270,False
+restful web services,270,False
+.net framework,270,False
+ipsec vpn,269,False
+customer focus,267,False
+coding standards,267,False
+gurobi,266,False
+escalation,265,False
+test driven development,264,False
+azure data factory,264,False
+vmware vsphere,263,False
+spi,262,False
+edi,261,False
+microcontrollers,260,False
+network management,260,False
+gradle,260,False
+instrumentation,260,False
+ecommerce,259,False
+svn,259,False
+microsoft word,259,False
+secret security clearance,259,False
+wireshark,258,False
+cameo,258,False
+logging,257,False
+sdwan,257,False
+vlookups,257,False
+security engineering,256,False
+webpack,256,False
+system configuration,256,False
+solution design,256,False
+supply chain management,256,False
+macos,255,False
+technical requirements,255,False
+rtos,255,False
+communications,255,False
+threat intelligence,255,False
+blockchain,255,False
+software installation,254,False
+mongo,254,False
+negotiation skills,253,False
+401k,253,False
+redux,252,False
+information assurance,252,False
+learning,251,False
+accuracy,251,False
+polygraph,251,False
+network support,250,False
+iaas,250,False
+accessibility,250,False
+performance analysis,249,False
+network monitoring,249,False
+budget management,249,False
+postman,249,False
+high availability,248,False
+test procedures,248,False
+policies,247,False
+automation testing,247,False
+metrics,246,False
+ldap,246,False
+systems design,246,False
+c programming,246,False
+hyperv,246,False
+software development life cycle sdlc,246,False
+ccsp,245,False
+risk analysis,244,False
+aws certified solutions architect,244,False
+outlook,244,False
+web application development,244,False
+multitenant infrastructure,244,False
+physical strength,242,False
+microsoft windows,242,False
+looker,242,True
+deep learning frameworks,242,False
+fpga,240,False
+performance monitoring,240,False
+team environment,240,False
+pki,240,False
+access control,239,False
+tcp,239,False
+security operations,239,False
+workload planning,239,False
+api design,239,False
+computer science degree,239,False
+application security,238,False
+problem solving skills,238,False
+ceh,238,False
+use cases,238,False
+react native,237,False
+economics,237,False
+source control,237,False
+data models,237,False
+design skills,237,False
+telecommunications,237,False
+requirements definition,237,False
+teams,236,False
+wifi,236,False
+software documentation,236,False
+bachelor s in computer science,236,False
+observability,235,False
+2+ years of experience in agile practices,235,False
+plc programming,235,False
+informatica,235,True
+amazon web services,234,True
+dax,234,False
+medical insurance,234,False
+eclipse,234,False
+policies and procedures,234,False
+big data technologies,234,False
+datadog,233,True
+signal processing,233,False
+apex,232,False
+coordination,231,False
+group policy,231,False
+parental leave,230,False
+benefits,230,False
+requirements,229,False
+citrix,229,False
+scada,229,False
+exchange,228,False
+system requirements,228,False
+power automate,228,False
+load balancers,227,False
+protocols,227,False
+certified information systems security professional cissp,227,False
+ability to work under pressure,227,False
+security testing,227,False
+quality management,227,False
+verification and validation,227,False
+microsoft teams,226,False
+curiosity,226,False
+data lakes,225,False
+sysml,225,False
+paid parental leave,225,False
+ms office suite,224,False
+windows 10,224,False
+threat hunting,224,False
+i2c,223,False
+site reliability engineering,223,False
+orchestration,222,False
+networks,222,False
+manual testing,222,False
+data modelling,221,False
+excellent communication skills,221,False
+laravel,221,False
+information architecture,219,False
+data lake,219,False
+data cleaning,219,False
+openshift,219,False
+cobol,219,False
+visualization,218,False
+customer service skills,218,False
+aws services,218,False
+fisma,218,False
+project leadership,218,False
+algorithm development,218,False
+amazon web services aws,218,False
+oauth,218,False
+data,218,False
+communication protocols,217,False
+tomcat,217,False
+springboot,217,False
+dental coverage,217,False
+facilitation,216,False
+restful api,216,True
+visual basic,216,False
+training and development,216,False
+problem management,215,False
+flask,215,True
+can,215,False
+web api,215,False
+api integration,215,False
+equal employment opportunity,214,False
+performance management,214,False
+network,214,False
+six sigma,214,False
+vulnerability scanning,214,False
+effective communication,214,False
+lifting,214,False
+medical,214,False
+creative thinking,214,False
+employee assistance program,214,False
+bip output,214,False
+model deployment,212,False
+holidays,212,False
+business analytics,212,False
+standing,212,False
+e1 interactive applications,212,False
+system security,211,False
+agile environment,211,False
+verbal communication skills,211,False
+technical design,211,False
+test engineering,211,False
+database management systems,211,False
+etl processes,210,False
+ms sql server,210,False
+version control systems,210,False
+malware analysis,210,False
+product roadmap,209,False
+vba,209,False
+alteryx,209,True
+lean,209,False
+flexible hours,209,False
+sre,209,False
+data preparation,208,False
+production support,208,False
+acceptance criteria,208,False
+servers,207,False
+responsive design,207,False
+juniper,207,False
+erp implementation,207,False
+public speaking,206,False
+asset management,206,False
+dbt,206,True
+certifications,205,False
+walking,205,False
+ms excel,205,True
+plc,205,False
+iis,204,False
+empathy,204,False
+reverse engineering,204,False
+ability to meet deadlines,204,False
+motivation,204,False
+ipam,204,False
+simulink,204,False
+resource management,203,False
+predictive modeling,203,False
+eigrp,203,False
+data profiling,203,False
+ip protocols,202,False
+software quality assurance,202,False
+systems,202,False
+workflows,201,False
+pto,201,False
+vue,200,True
+pair programming,200,False
+usercentered design,200,False
+processes,200,False
+f5,200,False
+electronics,200,False
+yaml,199,False
+experimentation,199,False
+strong work ethic,199,False
+aws lambda,199,False
+e1 batch application,199,False
+ged,198,False
+cloud migration,198,False
+professionalism,198,False
+alerting,198,False
+data ingestion,198,False
+security compliance,198,False
+ipsec,198,False
+network implementation,198,False
+cryptography,197,False
+arm,197,False
+wireframes,197,False
+software development methodologies,197,False
+aerospace,197,False
+object oriented programming,197,False
+security standards,196,False
+ability to work independently and as part of a team,196,False
+software engineer,196,False
+agile engineering practices,196,False
+vision coverage,196,False
+microsoft office 365,195,False
+tools,195,False
+palo alto,195,False
+embedded software,195,False
+data warehouses,195,False
+mlops,195,False
+sccm,195,False
+medical coverage,195,False
+design systems,194,False
+business strategy,194,False
+embedded software development,194,False
+cloudwatch,193,False
+risk mitigation,193,False
+it experience,193,False
+hypothesis testing,193,False
+image processing,193,False
+vb.net,193,False
+release management,193,False
+efficiency,192,False
+design reviews,192,False
+wordpress,192,False
+iot,192,False
+maintainability,192,False
+professional development,192,False
+rabbitmq,192,False
+logistics,192,False
+feedback,191,False
+quantitative analysis,191,False
+vlans,191,False
+governance,190,False
+knowledge sharing,190,False
+groovy,190,False
+gap analysis,190,False
+infrastructure as code iac,189,False
+sensors,189,False
+udp,188,False
+analytical,188,False
+realtime systems,188,False
+stem degree,188,False
+resilience,188,False
+applications,188,False
+systems architecture,187,False
+identity and access management,186,False
+protobuf,186,False
+ts sci security clearance,185,False
+user testing,185,False
+aws cloud,185,False
+soa,185,False
+bind,185,False
+security+ certification,185,False
+process mapping,185,False
+microsoft,184,False
+interpersonal communication,184,False
+network maintenance,184,False
+selfmotivated,184,False
+infoblox,184,False
+data preprocessing,184,False
+product ownership,184,False
+gdpr,183,False
+qos,183,False
+documentation skills,182,False
+storm,182,False
+network deployment,182,False
+solarwinds,182,False
+voip,181,False
+predictive analytics,181,False
+management information systems,181,False
+handson experience,181,False
+risk assessments,181,False
+commissioning,181,False
+uxone udo,181,False
+operations research,180,False
+iso,180,False
+auditing,180,False
+data gathering,180,False
+saml,180,False
+cad,180,False
+api testing,180,False
+cypress,180,False
+market analysis,180,False
+functional analysis,180,False
+vpns,179,False
+feasibility analysis,179,False
+chemistry,178,False
+business processes,178,False
+tfs,178,False
+networking protocols,178,False
+kibana,178,False
+statistical methods,178,False
+test,177,False
+software support,177,False
+bachelor s degree in engineering,177,False
+competitive analysis,177,False
+helm,176,True
+system maintenance,176,False
+data presentation,176,False
+systems programming,176,False
+grpc,176,False
+bdd,176,False
+ai ml,175,False
+firmware development,175,False
+ms sql,175,False
+authorization,175,False
+system documentation,175,False
+apache kafka,175,False
+banking,175,False
+paid sick time,175,False
+as is analysis,174,False
+network analysis,173,False
+quality,173,False
+security incidents,172,False
+evaluation,172,False
+business continuity,172,False
+project management skills,172,False
+software applications,172,False
+api gateway,172,False
+jest,172,False
+fintech,172,False
+server administration,172,False
+network scaling,172,False
+data extracts,172,False
+graphic design,171,False
+security monitoring,171,False
+troubleshooting skills,171,False
+windows operating systems,171,False
+user support,171,False
+hbase,171,False
+resiliency,170,False
+oscilloscopes,170,False
+requirements development,170,False
+molecular biology,169,False
+model evaluation,169,False
+written and verbal communication,169,False
+competitive salary,169,False
+requirements elicitation,169,False
+specifications,168,False
+apache,168,False
+business process improvement,167,False
+access,167,False
+dod,166,False
+hybrid work,165,False
+ux ui design,165,False
+customer experience,165,False
+cuda,165,False
+bioinformatics,164,False
+bamboo,164,False
+research and development,163,False
+production,163,False
+software troubleshooting,162,False
+data accuracy,162,False
+data infrastructure,162,False
+oracle database,162,False
+verbal and written communication,162,False
+distribution,162,False
+offensive security,162,False
+refactoring,161,False
+requirements engineering,161,False
+security protocols,161,False
+database development,161,False
+science,161,False
+snmp,161,False
+network configuration,161,False
+retail experience,161,False
+ethics,161,False
+sprint planning,161,False
+model training,161,False
+math,160,False
+code optimization,160,False
+financial reporting,160,False
+web design,159,False
+google analytics,159,True
+agile development methodologies,159,False
+education,158,False
+research skills,158,False
+radius,158,False
+jmeter,158,False
+requirement gathering,158,False
+shell,157,False
+assembly,157,False
+network performance,157,False
+deadlines,157,False
+subversion,157,False
+jcl,157,False
+pci,156,False
+standard operating procedures,156,False
+vpc,156,False
+jama,156,False
+firmware,156,False
+uart,156,False
+bachelor s degree in computer science or related field,156,False
+scalable systems,156,False
+process documentation,156,False
+computer skills,155,False
+sass,155,False
+privacy,155,False
+task management,155,False
+trade studies,155,False
+zoom,155,False
+stakeholder communication,154,False
+digital transformation,154,False
+organization skills,154,False
+ui development,154,False
+iso 27001,153,False
+relocation to madison wi,153,False
+interfaces,153,False
+ui,153,False
+agile project management,153,False
+patch management,153,False
+security analysis,152,False
+feature engineering,152,False
+eventdriven architecture,152,False
+pcie,152,False
+modelbased systems engineering,151,False
+hardware troubleshooting,151,False
+storytelling,151,False
+azure active directory,151,False
+technical guidance,151,False
+ability to work in a fastpaced environment,151,False
+keras,151,False
+ticketing systems,151,False
+insurance,151,False
+glue,151,False
+solution architecture,150,False
+endpoint security,150,False
+clustering,150,False
+testing techniques,150,False
+cash handling,150,False
+jdbc,150,False
+python scripting,150,False
+sso,150,False
+angular js,149,False
+triggers,149,False
+hardware development,149,False
+product knowledge,149,False
+backend engineering,149,False
+bachelors degree,148,False
+matlab simulink,148,False
+bigquery,148,True
+industrial automation,147,False
+nist 80053,147,False
+proposal writing,147,False
+qa,147,False
+itsm,147,False
+npm,147,False
+business rules,147,False
+intune,146,False
+ms project,146,False
+bash scripting,146,False
+technical program management,146,False
+mssql,146,False
+azure sql,146,False
+ccna certification,146,False
+ids ips,145,False
+supply chain,145,False
+hmi,145,False
+defect tracking,144,False
+microsoft active directory,144,False
+pig,144,False
+kinesis,144,False
+microsoft exchange,144,False
+system implementation,144,False
+scaling,144,False
+user manuals,144,False
+influence,144,False
+caching,144,False
+interoperability,144,False
+code quality,144,False
+azure ad,143,False
+mba,143,False
+software requirements,143,False
+gsec,143,False
+ccie,143,False
+react js,143,False
+background check,143,False
+information management,142,False
+software solutions,142,False
+invision,142,False
+restful services,142,False
+dod secret security clearance,142,False
+strategy,142,False
+apache airflow,142,False
+email,142,False
+test scripts,142,False
+associate discount,142,False
+top secret security clearance,141,False
+ux,141,False
+usability,141,False
+issue resolution,141,False
+industry best practices,141,False
+business intelligence bi,141,False
+engineering management,141,False
+vsphere powercli,141,False
+networking hardware,141,False
+data streaming,141,False
+trend analysis,140,False
+ruby on rails,140,False
+delegation,140,False
+adobe creative suite,140,False
+middleware,140,False
+solidworks,140,False
+virtualization technologies,140,False
+realtime data,140,False
+writing skills,140,False
+intrusion detection,140,False
+statistical techniques,140,False
+acas,140,False
+agile development practices,140,False
+powershell scripting,140,False
+new relic,139,False
+embedded linux,139,False
+industry standards,139,False
+adobe xd,139,False
+ssl,139,False
+hardware subsystems,139,False
+digital signal processing,139,False
+help desk,139,False
+experience,139,False
+defensive security,139,False
+demand planning,139,False
+microsoft power bi,138,False
+methodologies,138,False
+data center,138,False
+advanced analytics,138,False
+power apps,138,False
+pricing,138,False
+mockito,138,False
+digital product management,138,False
+product lifecycle management,137,False
+estimation,137,False
+schematics,137,False
+system monitoring,137,False
+clean code,137,False
+mac os,137,False
+knowledge management,136,False
+vxworks,136,False
+new technologies,136,False
+independence,136,False
+hiring,136,False
+administration,136,False
+engineering degree,136,False
+flink,136,True
+work ethic,136,False
+itil processes,136,False
+account management,136,False
+ui ux,135,False
+public cloud,135,False
+radar,135,False
+security procedures,135,False
+ability to travel,135,False
+financial modeling,135,False
+microsoft access,135,False
+sscp,135,False
+hardware engineering,135,False
+xslt,135,False
+mulesoft,135,True
+compensation,135,False
+wireless,134,False
+data entry,134,False
+nexus,134,False
+o365,134,False
+mbse,134,False
+rmf,134,False
+uat,134,False
+database security,134,False
+model engineering,134,False
+cisco routers,134,False
+relationship management,133,False
+cisco switches,133,False
+monitoring tools,133,False
+scope definition,133,False
+restful,133,False
+linux administration,133,False
+stress management,133,False
+cloud environments,133,False
+trello,133,False
+learning agility,133,False
+web technologies,132,False
+mcse,132,False
+technologies,132,False
+application design,132,False
+gpt models,132,False
+hardware design,132,False
+r d,132,False
+antivirus,132,False
+certification,132,False
+symfony,132,False
+gcih,131,False
+infrastructure security,131,False
+photoshop,131,False
+teamcity,131,False
+pcidss,131,False
+relational database,131,False
+cloud native technologies,131,False
+integration projects,131,False
+system performance,130,False
+driver s license,130,False
+microsoft powerpoint,130,False
+avionics,130,False
+azure functions,130,False
+azure cloud,130,False
+workflow,130,False
+microsoft visio,130,False
+sqs,130,False
+printers,130,False
+cisco ise,130,False
+cybersecurity governance,130,False
+detail orientation,129,False
+pcie driver development,129,False
+system development,129,False
+services,129,False
+elk stack,129,False
+software debugging,129,False
+threat detection,129,False
+chemical engineering,129,False
+siemens,129,False
+fulltime availability,129,False
+it systems,129,False
+c++ programming,129,False
+networking fundamentals,129,False
+it service management,129,False
+dynatrace,128,False
+open source,128,False
+computer hardware,128,False
+stakeholder collaboration,128,False
+cloud engineering,128,False
+risk management framework rmf,128,False
+jsp,128,False
+multithreaded programming,128,False
+process automation,128,False
+visualforce,128,False
+user requirements,128,False
+product owner,128,False
+routing protocols ospf bgp,128,False
+mac,127,False
+functions,127,False
+patching,127,False
+nginx,127,False
+threat analysis,127,False
+us citizen,127,False
+device drivers,127,False
+security awareness,127,False
+computer networking,127,False
+associate s degree,127,False
+software configuration management,127,False
+life and disability insurance,127,False
+high school diploma or ged,126,False
+pmp,126,False
+solution development,126,False
+comptia a+,126,False
+javascript frameworks,125,False
+etl tools,125,False
+cloud solutions,125,False
+wpf,125,False
+project execution,125,False
+sql databases,125,False
+industrial automation systems,125,False
+android development,124,False
+workday,124,True
+resource allocation,124,False
+security design,124,False
+master data management,124,False
+data lineage,124,False
+test equipment,124,False
+windows dns console,124,False
+security tools,124,False
+next.js,124,True
+streaming applications,124,False
+calibration,124,False
+hardware installation,123,False
+identity management,123,False
+product vision,123,False
+source control management,123,False
+cnc programming,123,False
+elastic search,123,False
+opencv,123,False
+cics,123,False
+devops engineering,123,False
+kpis,123,False
+flexible,123,False
+top secret sci clearance,123,False
+team lead,123,False
+jde e1,123,False
+unit and integration testing,123,False
+windows servers,122,False
+fortinet,122,False
+soc,122,False
+electronics engineering,122,False
+core java,122,False
+change control,122,False
+unix shell scripting,122,False
+swagger,122,False
+appium,122,False
+osi model,122,False
+ux research,121,False
+workshops,121,False
+microsoft project,121,False
+data quality management,121,False
+embedded software engineering,121,False
+ci cd tools,121,False
+database user interface,121,False
+infrastructure design,120,False
+windows os,120,False
+prototypes,120,False
+test reports,120,False
+data visualization tools,120,False
+eks,120,False
+eligibility to work in the u.s. without visa sponsorship,120,False
+requirements documentation,120,False
+risk management framework,120,False
+okta,120,False
+load testing,120,False
+ts sci,120,False
+customer relationship management,120,False
+systems security,120,False
+cysa+,120,False
+portfolio,119,False
+technical presentations,119,False
+experimental design,119,False
+vlan,119,False
+background investigation,119,False
+iac,119,False
+performance metrics,119,False
+rhapsody,119,False
+ci cd pipeline,119,False
+linear algebra,119,False
+jupyter,119,True
+atlassian,119,False
+lean manufacturing,119,False
+guidance,119,False
+ssl acceleration,119,False
+english proficiency,118,False
+weekends,118,False
+user interface,118,False
+neural networks,118,False
+rf,118,False
+pivot tables,118,False
+wcf,118,False
+aws certification,118,False
+soar,118,False
+gis,118,False
+applied mathematics,118,False
+mvvm,118,False
+cognos,117,False
+business objectives,117,False
+upgrades,117,False
+palo alto firewalls,117,False
+portfolio management,117,False
+front end development,117,False
+microservice architecture,117,False
+senior software engineer,117,False
+advanced degree,117,False
+zookeeper,117,False
+conceptual thinking,117,False
+nessus,117,False
+asp.net mvc,116,False
+database systems,116,False
+critical thinking skills,116,False
+physical demands,116,False
+controls,116,False
+spring mvc,116,False
+automation engineering,116,False
+database technologies,116,False
+mlflow,116,True
+valid driver s license,115,False
+customer satisfaction,115,False
+vsphere,115,False
+unit tests,115,False
+power platform,115,False
+cicd,115,True
+annual leave,115,False
+os coding techniques,115,False
+data strategy,115,False
+product data management,115,False
+migration projects,115,False
+intrusion detection systems,114,False
+qlik,114,False
+mcsa,114,False
+rhel,114,False
+database architecture,114,False
+edr,114,False
+security audits,114,False
+upgrade projects,114,False
+software security,113,False
+service desk,113,False
+machine learning algorithms,113,False
+babel,113,False
+teradata,113,False
+software upgrades,113,False
+network hardware,113,False
+shop floor management,113,False
+test and evaluation,112,False
+civil engineering,112,False
+vulnerability analysis,112,False
+affirmative action,112,False
+multitasking skills,112,False
+5+ years of experience,112,False
+customer engagement,112,False
+collaborative,112,False
+business requirements analysis,112,False
+modbus,112,False
+process optimization,112,False
+ticketing system,112,False
+microsoft windows server,112,False
+nist 80053r5,112,False
+data standards,111,False
+equal opportunity,111,False
+platform engineering,111,False
+virtual machines,111,False
+data sources,111,False
+policy development,111,False
+ftp,111,False
+backup,111,False
+functional design,111,False
+data conversion,111,False
+3+ years of experience in open source frameworks,111,False
+ntp,111,False
+computer systems,110,False
+datadriven decisionmaking,110,False
+worklife balance,110,False
+system upgrades,110,False
+technical analysis,110,False
+jpa,110,False
+fraud detection,110,False
+network+,110,False
+ms word,110,False
+computer information systems,110,False
+oncall support,110,False
+recruitment,110,False
+dod security clearance,110,False
+vulnerability assessments,110,False
+security responsibilities,110,False
+gicsp,110,False
+competitive wage,110,False
+material capacity planning,110,False
+verbal and written communication skills,109,False
+computer architecture,109,False
+security concepts,109,False
+process management,109,False
+regression,109,False
+report generation,109,False
+usb,109,False
+digital forensics,109,False
+jms,109,False
+security+ ce,109,False
+mobile devices,108,False
+architecture design,108,False
+digital marketing,108,False
+vhdl,108,False
+infrastructure management,108,False
+design documentation,108,False
+crisc,108,False
+ssh,108,False
+forensics,108,False
+sns,108,False
+nagios,108,False
+testng,108,False
+professional success,108,False
+user access management,107,False
+business objects,107,False
+dental benefits,107,False
+asana,107,False
+teaching,107,False
+traceability,107,False
+mrp mps,107,False
+linux operating systems,106,False
+unity,106,False
+problem analysis,106,False
+construction,106,False
+bluetooth,106,False
+project coordination,106,False
+business process management,106,False
+regulatory requirements,106,False
+lan wan,106,False
+application architecture,106,False
+audit,106,False
+endtoend testing,106,False
+full stack,105,False
+regulations,105,False
+qt,105,False
+thought leadership,105,False
+delivery,105,False
+modelbased systems engineering mbse,105,False
+security systems,105,False
+data architect,104,False
+pcb design,104,False
+athena,104,False
+data requirements,104,False
+health benefits,104,False
+spss,104,False
+centos,104,False
+power query,104,False
+project delivery,104,False
+datadriven insights,104,False
+academic success,104,False
+hybrid remote work,104,False
+advanced queries,104,False
+tooling,103,False
+stock options,103,False
+security architecture reviews,103,False
+jboss,103,False
+seo,103,False
+security assessments,103,False
+reporting tools,103,False
+incident handling,103,False
+envoy,103,False
+views,103,False
+active secret clearance,103,False
+dod top secret clearance,103,False
+process development,103,False
+orchestrator solutions,103,False
+cybersecurity operations,103,False
+c c++ programming,102,False
+decisionmaking skills,102,False
+pci dss,102,False
+linux unix,102,False
+backup and recovery,102,False
+software design patterns,102,False
+mobile app development,102,False
+high school diploma or equivalent,102,False
+metadata,102,False
+extended hours during golives,102,False
+product marketing,101,False
+user flows,101,False
+dashboard development,101,False
+data encryption,101,False
+oracle pl sql,101,False
+infrastructure engineering,101,False
+service now,101,False
+comptia cybersecurity analyst cysa+,101,False
+crystal reports,100,False
+network documentation,100,False
+cisco ios,100,False
+embedded system design,100,False
+automated testing frameworks,100,False
+network devices,100,False
+security incident escalation,100,False
+business case development,100,False
+ssas,100,False
+product costing manufacturing accounting,100,False
+e1 pages,100,False
+digital engineering,99,False
+microsoft certifications,99,False
+business process reengineering,99,False
+business needs,99,False
+data classification,99,False
+cloud networking,99,False
+flexible spending accounts,99,False
+software verification,99,False
+defect management,99,False
+cost estimation,99,False
+api management,99,False
+fulltime schedule,99,False
+medical devices,99,False
+business intelligence tools,99,False
+aws glue,99,False
+process analysis,99,False
+security technologies,99,False
+linq,98,False
+reasonable accommodation,98,False
+artificial intelligence ai,98,False
+microstrategy,98,False
+objectivec,98,False
+reinforcement learning,98,False
+technical training,98,False
+cloud development,98,False
+schedule management,98,False
+linux system administration,98,False
+metadata management,97,False
+physical requirements,97,False
+hdfs,97,False
+san,97,False
+recommendation systems,97,False
+complex problem solving,97,False
+vision benefits,97,False
+asp.net core,97,False
+microsoft sql,97,False
+jvm,97,False
+dask,97,False
+commuter benefits,97,False
+ux ui,97,False
+python programming,97,False
+nonfunctional requirements,97,False
+visual studio code,97,False
+migration,97,False
+scaled agile framework safe,97,False
+business process mapping,97,False
+data analyst,97,False
+network planning,97,False
+packet inspection,97,False
+cybersecurity control certification,97,False
+relational database design,96,False
+prioritization skills,96,False
+security policies and procedures,96,False
+web application firewalls,96,False
+spreadsheets,96,False
+opensource frameworks,96,False
+vacation,96,False
+resourcefulness,96,False
+unreal engine,96,False
+network connectivity,96,False
+pmp certification,96,False
+cnd,96,False
+software systems,95,False
+application support,95,False
+business management,95,False
+serverless,95,False
+a+ certification,95,False
+mockups,95,False
+masters degree,95,False
+container services,95,False
+biology,95,False
+active listening,95,False
+policy compliance,95,False
+information science,95,False
+log analysis,95,False
+data recovery,95,False
+logic analyzers,95,False
+functional training,95,False
+workload prioritization,95,False
+user interfaces,94,False
+sick leave,94,False
+knowledge transfer,94,False
+enterprise applications,94,False
+relocation assistance,94,False
+netapp,94,False
+onsite work,94,False
+machine learning ml,94,True
+electronic warfare,94,False
+google workspace,94,False
+financial services industry,94,False
+aurora,94,False
+azure databricks,94,False
+specialized experience,94,False
+cloud formation,93,False
+sops,93,False
+network routing,93,False
+qlikview,93,False
+concepts,93,False
+feasibility studies,93,False
+fpga computing hardware,93,False
+anomaly detection,93,False
+vbscript,93,False
+jasmine,93,False
+hybrid working,93,False
+data wrangling,93,False
+large language models,93,True
+systems thinking,93,False
+liaison,93,False
+business process documentation,93,False
+team foundation server,93,False
+networking concepts,93,False
+domain driven design,93,False
+strong analytical skills,93,False
+deadline management,93,False
+agile delivery,93,False
+everify,93,False
+watchlist,93,False
+network engineer,93,False
+http compression caching,93,False
+industry knowledge,92,False
+profiling,92,False
+biochemistry,92,False
+data center operations,92,False
+customer relations,92,False
+earned value management,92,False
+career development,92,False
+influencing,92,False
+written and verbal communication skills,92,False
+ml,92,True
+fortify,92,False
+zend framework,92,False
+agile development methodology,92,False
+cloud service,92,False
+wonderware,92,False
+discovery,91,False
+401k plan,91,False
+nat,91,False
+game development,91,False
+recommendations,91,False
+dashboarding,91,False
+illustrator,91,False
+report development,91,False
+ipv6,91,False
+devops tools,91,False
+highperformance computing,91,False
+requirements allocation,91,False
+nifi,91,False
+dashboard creation,91,False
+ip,91,False
+financial management,91,False
+ibc protocol,91,False
+gitlab ci,91,False
+multicast,91,False
+plcs,91,False
+firstprinciples reasoning,90,False
+technical knowledge,90,False
+inclusivity,90,False
+english fluency,90,False
+hardware support,90,False
+power systems,90,False
+model development,90,False
+managed services,90,False
+atlassian tools,90,False
+4+ years of experience in open source frameworks,90,False
+regulated environment,90,False
+english communication,90,False
+test scenarios,90,False
+business cases,90,False
+passion,90,False
+web3,90,False
+logical thinking,90,False
+mq,90,False
+system troubleshooting,90,False
+requirement analysis,90,False
+product backlog,90,False
+information systems management,90,False
+dell,89,False
+cost management,89,False
+mainframe,89,False
+microsoft visual studio,89,False
+iteration,89,False
+cloud native,89,False
+nights,89,False
+bi tools,89,False
+workload management,89,False
+paid vacation,89,False
+test strategy,89,False
+embedded c,89,False
+hardware maintenance,89,False
+high speed data acquisition,89,False
+network optimization,89,False
+rapid prototyping,88,False
+technical architecture,88,False
+server hardware,88,False
+aws certifications,88,False
+process flows,88,False
+emotional intelligence,88,False
+logstash,88,False
+contract management,88,False
+sustainability,88,False
+applicant resiliency,88,False
+modeling and simulation,88,False
+numba,88,False
+ios development,88,False
+gitops,88,False
+peoplesoft,88,False
+java script,88,False
+electrical,88,False
+work experience,87,False
+microsoft office products,87,False
+immunology,87,False
+algorithm design,87,False
+flexible work hours,87,False
+costbenefit analysis,87,False
+cloud patch management,87,False
+french,87,False
+continuous integration continuous delivery ci cd,87,False
+graduate degree,87,False
+office environment,87,False
+proactivity,87,False
+respect,87,False
+frontend technologies,87,False
+connectivity,87,False
+mobile application development,87,False
+intellij,87,False
+u.s. citizen,87,False
+microsoft sharepoint,87,False
+mis,87,False
+xcode,87,False
+solid principles,87,False
+sox,86,False
+interface design,86,False
+mobile applications,86,False
+design system,86,False
+fault tolerance,86,False
+automotive,86,False
+electrical schematics,86,False
+startup experience,86,False
+risk identification,86,False
+acceptance testing,86,False
+automation frameworks,86,False
+etl elt,86,False
+mathematical skills,86,False
+resolution,86,False
+interface definition,86,False
+quality engineering,86,False
+data backup,86,False
+hardware integration,86,False
+passion for technology,86,False
+medical benefits,86,False
+master s degree preferred,86,False
+detail oriented,86,False
+complex problemsolving skills,86,False
+menus,86,False
+schedule adherence,86,False
+cloud architect,85,False
+product requirements,85,False
+client relationship management,85,False
+data platforms,85,False
+designing,85,False
+azure data lake,85,False
+model based systems engineering,85,False
+results orientation,85,False
+creative problem solving,85,False
+application control,85,False
+smtp,85,False
+oncall rotation,85,False
+ids,85,False
+project status communication,85,False
+it system controls,85,False
+remediation,84,False
+solutions,84,False
+security solutions,84,False
+workflow management,84,False
+diagnostics,84,False
+azure synapse,84,False
+it architecture,84,False
+crossbrowser compatibility,84,False
+configuration management tools,84,False
+sharepoint online,84,False
+classification,84,False
+cissp certification,84,False
+talend,84,False
+node js,84,False
+torch,84,False
+neo4j,84,False
+payroll,84,False
+backend,84,False
+test reporting,84,False
+physical ability,84,False
+matplotlib,84,False
+ada,84,False
+project documentation,84,False
+task prioritization,84,False
+training and development opportunities,84,False
+financial calculations,84,False
+security operations center soc,83,False
+humancentered design,83,False
+repair,83,False
+customer needs,83,False
+aruba,83,False
+microsoft technologies,83,False
+sensor fusion,83,False
+data exploration,83,False
+requirements traceability,83,False
+technical problem solving,83,False
+proactive,83,False
+build processes,83,False
+sql scripting,83,False
+data representation,83,False
+strong cs fundamentals,83,False
+aws security,83,True
+data flows,83,False
+technology management,83,False
+5+ years experience,83,False
+ability to stand and walk for extended periods of time,83,False
+memory management,83,False
+software development tools,83,False
+hsrp,83,False
+drive,83,False
+isc2 certified in cybersecurity cc,83,False
+employee discounts,82,False
+verilog,82,False
+tls,82,False
+meraki,82,False
+healthcare data,82,False
+problem identification,82,False
+system tuning,82,False
+multidisciplinary teams,82,False
+gitlab ci cd,82,False
+systems development,82,False
+bloomberg,82,False
+micro services,82,False
+4+ years of experience,82,False
+aws s3,82,False
+reasonable accommodations,82,False
+service level agreements,82,False
+mobile,82,False
+internet protocols,82,False
+sql db,82,False
+data flow,82,False
+data quality assurance,82,False
+messaging,82,False
+real time closedloopcontrol systems,82,False
+ip networking,82,False
+jde sales,82,False
+word processing,81,False
+technical reports,81,False
+computer programming,81,False
+optics,81,False
+grant writing,81,False
+drupal,81,False
+microsoft suite,81,False
+software configuration,81,False
+data marts,81,False
+subject matter expertise,81,False
+industrial engineering,81,False
+cms,81,False
+inventory,81,False
+flutter,81,False
+network microsegmentation,81,False
+project timelines,81,False
+test case development,81,False
+query optimization,81,False
+html 5,81,False
+technology trends,81,False
+incident escalation,81,False
+sre principles,81,False
+vulnerability research,81,False
+citrix adc citrix netscaler,81,False
+physical security,80,False
+server,80,False
+bi,80,False
+dimensional modeling,80,False
+engineering principles,80,False
+incident resolution,80,False
+presales,80,False
+c# .net,80,False
+security risk assessments,80,False
+integrations,80,False
+mechatronics,80,False
+customer requirements,80,False
+elk,80,False
+conflict management,80,False
+10+ years of experience,80,False
+bachelor s or master s degree,80,False
+google cloud platform gcp,80,False
+security incident response,80,False
+code coverage,80,False
+access management,80,False
+etl pipelines,80,False
+technical discipline,80,False
+jde certified in manufacturing,80,False
+information processing,80,False
+ips,79,False
+solutions architect,79,False
+roadmaps,79,False
+remote support,79,False
+owasp,79,True
+payments,79,False
+bachelor s degree in stem,79,False
+proposals,79,False
+c#.net,79,False
+kubeflow,79,False
+wireless access points,79,False
+nonrelational databases,79,False
+fargate,79,False
+software delivery,79,False
+stigs,79,False
+testing frameworks,79,False
+server management,79,False
+vuejs,79,False
+paid time off pto,79,False
+system health check,79,False
+college degree,78,False
+humancomputer interaction,78,False
+platforms,78,False
+synapse,78,False
+strategic business objectives,78,False
+extended hours,78,False
+atlassian tool suite,78,False
+network technologies,78,False
+peer review,78,False
+techniques,78,False
+credit risk,78,False
+cloud platform,78,False
+enduser support,78,False
+kerberos,78,False
+data pipeline,78,True
+web apis,78,False
+olap,78,False
+ant,78,False
+es6,78,False
+visualization tools,78,False
+structural engineering,77,False
+dlp,77,False
+user experience ux,77,False
+radar systems,77,False
+project plans,77,False
+spanish,77,False
+mui,77,False
+giac,77,False
+performance evaluation,77,False
+roadmapping,77,False
+it project management,77,False
+5g,77,False
+life sciences,77,False
+power electronics,77,False
+schema design,77,False
+javascript typescript,77,False
+ms teams,77,False
+agile teams,77,False
+telemetry,77,False
+highspeed data acquisition,77,False
+microsoft intune,77,False
+technical lead,77,False
+global server load balancing gtm,77,False
+local load balancing ltm,77,False
+risk,76,False
+public trust clearance,76,False
+planning skills,76,False
+communication systems,76,False
+electrical systems,76,False
+data products,76,False
+cmake,76,False
+vcp,76,False
+secure coding,76,False
+data model,76,False
+customer interaction,76,False
+surveys,76,False
+client management,76,False
+esxi,76,False
+frontend frameworks,76,False
+https,76,False
+soql,76,False
+provisioning,76,False
+object detection,76,False
+redhat,76,False
+software analysis,76,False
+master s degree in computer science,76,False
+test management,76,False
+secure coding practices,76,False
+vcenter,76,False
+electronic engineering,76,False
+software development lifecycle sdlc,76,False
+code analysis,76,False
+it operations,76,False
+medical dental and vision coverage,76,False
+load balancing technology,76,False
+hsa,75,False
+product roadmaps,75,False
+lua,75,False
+realworld data,75,False
+data solutions,75,False
+aws rds,75,False
+entrepreneurship,75,False
+data retrieval,75,False
+google suite,75,False
+oscp,75,False
+mes,75,False
+playwright,75,False
+salt,75,False
+training materials,75,False
+ssae 16,75,False
+soapui,75,False
+agile ceremonies,75,False
+judgment,75,False
+android studio,75,False
+cloud computing aws microsoft azure google cloud,75,False
+hl7,75,False
+oozie,75,False
+data dictionaries,75,False
+corrective actions,75,False
+microsoft operating systems,75,False
+proposal development,74,False
+design principles,74,False
+english language,74,False
+connectwise,74,False
+network architectures,74,False
+hvac,74,False
+cabling,74,False
+ubuntu,74,False
+presto,74,False
+probability,74,False
+oral and written communication,74,False
+wsus,74,False
+technical planning,74,False
+technical troubleshooting,74,False
+system reliability,74,False
+user acceptance testing uat,74,False
+object oriented design,74,False
+design specifications,74,False
+investigations,74,False
+u.s. work eligibility,74,False
+computer science fundamentals,74,False
+serverless applications,74,False
+network services,74,False
+status reporting,74,False
+equal opportunity affirmative action employer,74,False
+production deployment,74,False
+project implementation,74,False
+jde oracle support,74,False
+jde,74,False
+system security plan ssp,74,False
+cloud technology,73,False
+analytical and problemsolving skills,73,False
+leadership experience,73,False
+tracking,73,False
+mobile device management,73,False
+end user support,73,False
+storage services,73,False
+crowdstrike,73,False
+health savings account,73,False
+security measures,73,False
+cosmos db,73,False
+tuition assistance,73,False
+java 8,73,False
+statistical software,73,False
+power supplies,73,False
+frontend,73,False
+imaging,73,False
+ui testing,73,False
+bug tracking,73,False
+new product development,73,False
+collaborative environment,73,False
+healthcare experience,73,False
+analytical abilities,73,False
+proof of concept,73,False
+testdriven development tdd,73,False
+security practices,73,False
+strong communication,73,False
+test driven development tdd,73,False
+test strategies,73,False
+load balancer,73,False
+infrastructureascode,73,False
+data communication,73,False
+apigee,73,False
+iso 9001,73,False
+business process modeling,73,False
+application delivery controllers,73,False
+security requirements,72,False
+practices,72,False
+crossfunctional team collaboration,72,False
+ph.d.,72,False
+backend systems,72,False
+architectures,72,False
+ipv4,72,False
+do254,72,False
+cctv,72,False
+complex systems,72,False
+analytical mindset,72,False
+arcgis,72,False
+cisco networking,72,False
+ccsk,72,False
+express,72,False
+distributed data computing tools,72,False
+dependency injection,72,False
+weblogic,72,False
+karma,72,False
+key management,72,False
+autonomous driving,72,False
+windows 10 11,72,False
+retail management,72,False
+nispom,72,False
+setups,72,False
+circleci github actions,72,False
+cost reduction,71,False
+learning and development,71,False
+information retrieval,71,False
+web,71,False
+software programming,71,False
+physical stamina,71,False
+augmented reality,71,False
+fortran,71,False
+public health,71,False
+software tools,71,False
+aci,71,False
+market risk,71,False
+security analyst,71,False
+dsp,71,False
+competitive compensation,71,False
+collaborative work,71,False
+software updates,71,False
+palo alto prisma,71,False
+libraries,71,False
+packer,71,False
+asynchronous programming,71,False
+security groups,71,False
+ability to work in a team,71,False
+iso 13485,71,False
+team leading,71,False
+test data preparation,71,False
+automation tools ansible,71,False
+compilers,70,False
+infrastructure automation,70,False
+clearcase,70,False
+gd t,70,False
+network security groups,70,False
+enterprise software,70,False
+user needs,70,False
+navigation,70,False
+elt,70,False
+service management,70,False
+utilities,70,False
+nist cybersecurity framework,70,False
+lean six sigma,70,False
+client relations,70,False
+listening,70,False
+less,70,False
+opengl,70,False
+system specifications,70,False
+sybase,70,False
+data annotation,70,False
+kpi,70,False
+cloud experience,70,False
+issue tracking,70,False
+audits,70,False
+oracle ebs,70,False
+orm,70,False
+etl development,70,False
+dataintensive solutions,70,False
+process control,70,False
+data loss prevention,70,False
+ccnp security,70,False
+network performance monitoring,70,False
+production engineering,69,False
+data sets,69,False
+data storytelling,69,False
+quality standards,69,False
+sftp,69,False
+epidemiology,69,False
+mitigation,69,False
+mathematical modeling,69,False
+failure analysis,69,False
+linux systems,69,False
+plsql,69,False
+argocd,69,True
+project management tools,69,False
+help desk support,69,False
+web security,69,False
+cdk,69,False
+technical assistance,69,False
+network defense,69,False
+fedramp,69,False
+materials science,69,False
+computer security,69,False
+test design,69,False
+slas,69,False
+enterprise password vaults,69,False
+cloud environment,69,False
+servlets,69,False
+azure resource manager,69,False
+redhat openshift,69,False
+ghidra,69,False
+server maintenance,69,False
+tcp ip networking,69,False
+macros,69,False
+urgency,68,False
+computer software,68,False
+continuous integration continuous deployment ci cd,68,False
+tuning,68,False
+machine learning engineering,68,False
+cots,68,False
+digital design,68,False
+rpa,68,False
+do178,68,False
+productivity,68,False
+data aggregation,68,False
+mvp,68,False
+network traffic analysis,68,False
+security principles,68,False
+comptia network+,68,False
+mfa,68,False
+consensus building,68,False
+mercurial,68,False
+enterprise environments,68,False
+api security,68,False
+vsam,68,False
+cisco meraki,68,False
+customer success,68,False
+waterfall methodology,68,False
+nist framework,68,False
+network testing,68,False
+software quality,68,False
+software validation,68,False
+subnetting,68,False
+operation,68,False
+red hat enterprise linux,68,False
+sans,68,False
+pipelines,67,False
+development tools,67,False
+aws cloud infrastructure,67,False
+cost analysis,67,False
+oracle sql,67,False
+regular attendance,67,False
+togaf,67,False
+security access control management,67,False
+cloud deployment,67,False
+model based systems engineering mbse,67,False
+performance improvement,67,False
+project scheduling,67,False
+data retention,67,False
+public key infrastructure pki,67,False
+ad,67,False
+defi,67,False
+listening skills,67,False
+virtual assistants,67,False
+cmdb,67,False
+dimensional data modeling,67,False
+red hat,67,False
+functional safety,67,False
+speech processing,67,False
+systems engineer,67,False
+reliability engineering,67,False
+data systems,67,False
+disability,67,False
+solaris,67,False
+user documentation,67,False
+helpdesk,67,False
+pc hardware,67,False
+security frameworks,67,False
+backlog management,67,False
+windchill,67,False
+network fundamentals,67,False
+solution proposal,67,False
+nextjs,66,False
+peripherals,66,False
+backups,66,False
+401 k retirement plan,66,False
+lifecycle management,66,False
+firmware engineering,66,False
+engineering leadership,66,False
+quantitative research,66,False
+test automation frameworks,66,False
+powerapps,66,False
+growth mindset,66,False
+application integration,66,False
+debuggers,66,False
+bug fixing,66,False
+iso27001,66,False
+scalable solutions,66,False
+azure policies,66,False
+dynamic environment,66,False
+crossteam collaboration,66,False
+client communication,66,False
+cisco aci,66,False
+fmea,66,False
+us work authorization,66,False
+software architect,66,False
+java j2ee,66,False
+websphere,66,False
+database maintenance,66,False
+it specialist,66,False
+yarn,66,False
+oracle cloud,66,False
+team development,66,False
+jde edwards,66,False
+discrete lean manufacturing,66,False
+academic and professional success,66,False
+test data,65,False
+cobit,65,False
+scientific writing,65,False
+freertos,65,False
+security information and event management siem,65,False
+solution architect,65,False
+serverless computing,65,False
+order management,65,False
+hybrid work schedule,65,False
+arista,65,False
+manufacturing processes,65,False
+ms access,65,False
+facilitation skills,65,False
+defense,65,False
+veeam,65,False
+service oriented architecture,65,False
+remote sensing,65,False
+stream processing,65,False
+bending,65,False
+llms,65,True
+technical direction,65,False
+written and oral communication,65,False
+epic,65,False
+miro,65,False
+supervised learning,65,False
+stp,65,False
+oltp,65,False
+ambiguity tolerance,65,False
+ethical hacking,65,False
+resultsoriented,65,False
+saltstack,65,False
+timeline analysis,65,False
+test coverage,65,False
+audio classification,65,False
+drugfree workplace,65,False
+java ee,65,False
+eligibility to work in the u.s.,65,False
+openstack,65,False
+capital markets,65,False
+benefits package,65,False
+unlimited pto,65,False
+travis ci,65,False
+project,65,False
+version creation,65,False
+logic,64,False
+subject matter expert,64,False
+unstructured data,64,False
+quality improvement,64,False
+7+ years of experience,64,False
+pytest,64,False
+impact analysis,64,False
+languages,64,False
+software development experience,64,False
+static analysis,64,False
+data consistency,64,False
+transparency,64,False
+ado.net,64,False
+data replication,64,False
+database optimization,64,False
+oral communication skills,64,False
+delta lake,64,False
+independent judgment,64,False
+data compliance,64,False
+401 k match,64,False
+queries,64,False
+data availability,64,False
+operationsrelated applications,64,False
+hybrid cloud,64,False
+web servers,64,False
+shortterm disability,64,False
+machine learning models,64,False
+autosar,64,False
+serviceoriented architecture,64,False
+data normalization,64,False
+ip routing,64,False
+antivirus software,64,False
+electrical design,64,False
+sentiment analysis,64,False
+data curation,64,False
+functional design documents,64,False
+us est time zone,64,False
+python3,64,False
+fda approvals,64,False
+financial benefits,63,False
+typography,63,False
+m365,63,False
+batch,63,False
+cost control,63,False
+microsoft dynamics 365,63,False
+engineering design,63,False
+design documents,63,False
+apache tomcat,63,False
+startup environment,63,False
+manual dexterity,63,False
+refinitiv,63,False
+blazor,63,False
+responsive web design,63,False
+wan technologies,63,False
+enterprise architect,63,False
+linux operating system,63,False
+structured data,63,False
+bonus,63,False
+agility,63,False
+ideation,63,False
+high school diploma ged,63,False
+wlan,63,False
+elastic,63,False
+kotlinsql,63,False
+systems testing,63,False
+istio,63,False
+u.s. security clearance,63,False
+java development,63,False
+data ethics,63,False
+software development best practices,63,False
+4+ years of professional software engineering experience,63,False
+equipment maintenance,63,False
+analytical problemsolving,63,False
+sagemaker,63,True
+u.s. citizenship or permanent residency,63,False
+endpoint protection,63,False
+smartsheet,63,False
+emass,63,False
+windows security,62,False
+billing,62,False
+pet insurance,62,False
+mdm,62,False
+server infrastructure,62,False
+server resource capacity management,62,False
+hybrid work environment,62,False
+detailorientation,62,False
+vite,62,False
+topsecret clearance,62,False
+security management,62,False
+sitting,62,False
+issue management,62,False
+cloudfront,62,False
+windows administration,62,False
+meetings,62,False
+talent management,62,False
+pull requests,62,False
+iso17799 27001 27002,62,False
+jwt,62,False
+security operations center,62,False
+flexible schedule,62,False
+network operation,62,False
+rs232,62,False
+dodaf,62,False
+business operations,62,False
+sdks,62,False
+influencing skills,62,False
+relocation,62,False
+preemptive multitasking realtime operating systems,62,False
+ibm mq,62,False
+mitre att ck,62,False
+cbap,62,False
+ccna security,62,False
+mitre att ck framework,62,False
+cis,61,False
+technical,61,False
+cover letter,61,False
+shift work,61,False
+overtime,61,False
+docker containers,61,False
+technical concepts,61,False
+transformers,61,False
+process improvements,61,False
+stability,61,False
+onedrive,61,False
+customer feedback,61,False
+microsoft outlook,61,False
+simulations,61,False
+allen bradley,61,False
+group policy management,61,False
+devops practices,61,False
+adobe analytics,61,False
+sonicwall,61,False
+customer service orientation,61,False
+industry experience,61,False
+security assessment,61,False
+longterm disability,61,False
+safety compliance,61,False
+spectrum analyzers,61,False
+linux environment,61,False
+performance engineering,61,False
+subject matter experts,61,False
+vmware esxi,61,False
+business systems,61,False
+scss,61,False
+workflow analysis,61,False
+network switches,61,False
+nac,61,False
+do178c,61,False
+benchmarking,61,False
+agile framework,61,False
+computer networks,61,False
+natural language processing nlp,61,False
+4+ years of software engineering experience,61,False
+metasploit,61,False
+datadriven solutions,61,False
+disa stigs,61,False
+vision systems,61,False
+processing options,61,False
+disaster recovery planning,60,False
+goal setting,60,False
+gmp,60,False
+network installation,60,False
+cloud service technologies,60,False
+network configurations,60,False
+legal,60,False
+taxonomies,60,False
+high performance computing,60,False
+abap,60,False
+requirements decomposition,60,False
+commitment,60,False
+technical degree,60,False
+web analytics,60,False
+ccnp certification,60,False
+data queries,60,False
+network operating systems,60,False
+data visualizations,60,False
+office365,60,False
+ownership mentality,60,False
+iterative development,60,False
+fda,60,False
+test plan,60,False
+dcs,60,False
+data access,60,False
+microsoft office applications,60,False
+control,60,False
+security certifications,60,False
+windows server administration,60,False
+hardware testing,60,False
+user guides,60,False
+technical excellence,60,False
+jde world,60,False
+star schema,59,False
+multifactor authentication,59,False
+testable code,59,False
+crm systems,59,False
+scipy,59,False
+data insights,59,False
+data centers,59,False
+uipath,59,False
+identity and access management iam,59,False
+software project management,59,False
+data engineer,59,False
+azure application gateways,59,False
+business applications,59,False
+single signon,59,False
+education assistance,59,False
+strategy development,59,False
+scap,59,False
+bsee,59,False
+ba bs degree,59,False
+marketing analytics,59,False
+group policies,59,False
+nunit,59,False
+jamf,59,False
+user account management,59,False
+sensor data monitoring,59,False
+software specifications,59,False
+access controls,59,False
+802.1x,59,False
+ci cd processes,59,False
+process design,59,False
+networking technologies,59,False
+information extraction,59,False
+mission planning,59,False
+functional decomposition,59,False
+product documentation,59,False
+mapping,59,False
+dmvpn,59,False
+simulation testing,59,False
+firewall management,58,False
+analytical tools,58,False
+clinical research,58,False
+video conferencing,58,False
+microsoft power platform,58,False
+cost account management,58,False
+biostatistics,58,False
+azure services,58,False
+case management,58,False
+nas,58,False
+c++ c#,58,False
+criminal background check,58,False
+data organization,58,False
+space systems,58,False
+llm,58,True
+ms visio,58,False
+rest assured,58,False
+financial planning,58,False
+network systems,58,False
+cisco asa,58,False
+security administration,58,False
+continuous monitoring,58,False
+storage systems,58,False
+product launch,58,False
+error handling,58,False
+remedy,58,False
+mitigation strategies,58,False
+savings plan,58,False
+corrective action,58,False
+solr,58,False
+social media,58,False
+dependency management,58,False
+fpga development,58,False
+cisco firewalls,58,False
+lightning,58,False
+autosys,58,False
+ccpa,58,False
+back end development,58,False
+transportation,58,False
+process engineering,58,False
+solid,58,False
+azure certification,58,False
+localization,58,False
+architectural design,58,False
+network switching,58,False
+system optimization,57,False
+genomics,57,False
+supplier management,57,False
+recovery,57,False
+wireless networking,57,False
+it management,57,False
+data querying,57,False
+technical project management,57,False
+bachelor s degree in computer science or information technology,57,False
+biomedical engineering,57,False
+resume,57,False
+strong interpersonal skills,57,False
+aws cloud services,57,False
+rancher,57,False
+customization,57,False
+linux kernel,57,False
+mariadb,57,False
+data confidentiality,57,False
+sci eligibility,57,False
+content management,57,False
+database structures,57,False
+test scripting,57,False
+mastercam,57,False
+sql programming,57,False
+it services,57,False
+spring data,57,False
+control algorithms,57,False
+healthcare industry,57,False
+enhancement,57,False
+fhir,57,False
+nfs,57,False
+tacacs,57,False
+network monitoring tools,57,False
+data standardization,57,False
+microsoft products,57,False
+data factory,57,False
+security consulting,57,False
+conops,57,False
+creo,57,False
+mechanical,57,False
+iat level ii certification,57,False
+emergency response,56,False
+process modeling,56,False
+server virtualization,56,False
+google,56,False
+healthcare benefits,56,False
+api implementation and management,56,False
+software developer,56,False
+database concepts,56,False
+atlassian jira,56,False
+regulatory,56,False
+mentoring skills,56,False
+threat mitigation,56,False
+xp,56,False
+sparkstreaming,56,False
+cisco certified network associate ccna,56,False
+standard operating procedures sops,56,False
+technology solutions,56,False
+training development,56,False
+shell scripts,56,False
+system management,56,False
+persuasion,56,False
+customer relationship management crm,56,False
+sci,56,False
+firewall configuration,56,False
+staffing,56,False
+manufacturing engineering,56,False
+test documentation,56,False
+cloud storage,56,False
+financial markets,56,False
+engineering drawings,56,False
+sick time,56,False
+spring security,56,False
+computer literacy,56,False
+equipment,56,False
+netflow,56,False
+program development,56,False
+backup requirements,56,False
+trust,56,False
+safety critical systems,56,False
+senior network engineer,56,False
+highperformance networks,56,False
+promotion potential,56,False
+3d modeling,55,False
+proxies,55,False
+webbased applications,55,False
+assessments,55,False
+pension scheme,55,False
+public cloud technologies,55,False
+financial systems,55,False
+sc clearance,55,False
+jee,55,False
+data design,55,False
+bachelor s degree in information technology,55,False
+cloud operations,55,False
+enthusiasm,55,False
+stress testing,55,False
+telephony,55,False
+service design,55,False
+paid sick leave,55,False
+qualys,55,False
+time series analysis,55,False
+retail operations,55,False
+1+ years of people management experience,55,False
+user management,55,False
+teamoriented,55,False
+people development,55,False
+concurrency primitives,55,False
+azure cloud services,55,False
+aks,55,False
+collaborative teamwork,55,False
+smart contracts,55,False
+js,55,True
+command line,55,False
+google sheets,55,False
+ability to work nights weekends and holidays,55,False
+jsf,55,False
+willingness to learn,55,False
+bachelor s degree in it,55,False
+data networking,55,False
+sase,55,False
+testability,55,False
+investment banking,55,False
+responsibility,55,False
+itil framework,55,False
+construction management,55,False
+network diagrams,55,False
+data optimization,55,False
+user story writing,55,False
+fullstack engineering,55,False
+data discovery,55,False
+ai algorithms,55,False
+erp systems knowledge,55,False
+quantitative skills,55,False
+adobe illustrator,54,False
+data communications,54,False
+sap hana,54,False
+wellness programs,54,False
+vulnerabilities,54,False
+competitor analysis,54,False
+fpgas,54,False
+a+,54,False
+random forest,54,False
+legal compliance,54,False
+network architecture and design,54,False
+b2b,54,False
+advanced excel,54,False
+exchange online,54,False
+serverless architecture,54,False
+build systems,54,False
+employee stock purchase plan,54,False
+design engineering,54,False
+u.s. government security clearance,54,False
+webapi,54,False
+financial engineering,54,False
+selfdirection,54,False
+logic apps,54,False
+diagrams,54,False
+hybrid work model,54,False
+paid leave,54,False
+nfts,54,False
+rest services,54,False
+purchasing,54,False
+debugging skills,54,False
+xhtml,54,False
+vb,54,False
+qualification,54,False
+soft skills,54,False
+spring batch,54,False
+ccnasecurity,54,False
+rally,54,False
+source code management,54,False
+data acquisition systems,54,False
+qnx,54,False
+mobility,54,False
+data dictionary,54,False
+consulting experience,54,False
+process reengineering,54,False
+diplomacy,54,False
+accounts payable,54,False
+nosql implementation,54,False
+gced,54,False
+consensus algorithms,54,False
+selective service registration,54,False
+energy,53,False
+causal inference,53,False
+revit,53,False
+hci,53,False
+citrix netscaler,53,False
+technology evaluation,53,False
+wsdl,53,False
+container technologies,53,False
+technical aptitude,53,False
+cloudbased technologies,53,False
+vlookup,53,False
+odata,53,False
+bachelor s degree in computer science or engineering,53,False
+operational excellence,53,False
+quality management system,53,False
+aws tools,53,False
+assets and liabilities management,53,False
+data handling,53,False
+internet,53,False
+daos,53,False
+vdi,53,False
+adobe,53,False
+operational stability,53,False
+ip addressing,53,False
+crossfunctional teamwork,53,False
+cloud computing platforms,53,False
+catia,53,False
+graph databases,53,False
+sprint management,53,False
+project estimation,53,False
+ros2,53,False
+sonar,53,False
+competitive pay,53,False

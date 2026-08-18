@@ -1,0 +1,1473 @@
+job_family,skill_name,demand_count,demand_pct
+ai,Machine Learning,1956,73.42
+ai,Python,1907,71.58
+ai,Data Analysis,989,37.12
+ai,Deep Learning,875,32.85
+ai,TensorFlow,805,30.22
+ai,SQL,736,27.63
+ai,PyTorch,732,27.48
+ai,R,532,19.97
+ai,NLP,508,19.07
+ai,AWS,465,17.45
+ai,Java,455,17.08
+ai,C++,441,16.55
+ai,Azure,429,16.1
+ai,Data Visualization,416,15.62
+ai,Spark,416,15.62
+ai,Agile / Scrum,378,14.19
+ai,GCP,322,12.09
+ai,Scala,285,10.7
+ai,LLMs / GenAI,266,9.98
+ai,Docker,256,9.61
+ai,Hadoop,249,9.35
+ai,Statistical Analysis,237,8.9
+ai,Kubernetes,235,8.82
+ai,Big Data,227,8.52
+ai,Pandas,208,7.81
+ai,NumPy,204,7.66
+ai,Data Pipeline,201,7.55
+ai,Tableau,196,7.36
+ai,Linux,181,6.79
+ai,Databricks,164,6.16
+ai,MATLAB,162,6.08
+ai,CI/CD,160,6.01
+ai,Git,158,5.93
+ai,NoSQL,147,5.52
+ai,DevOps,130,4.88
+ai,Jupyter,124,4.65
+ai,MLflow,118,4.43
+ai,Power BI,107,4.02
+ai,Linear,103,3.87
+ai,Data Modeling,102,3.83
+ai,SAS,92,3.45
+ai,Go,86,3.23
+ai,Hive,79,2.97
+ai,Distributed Systems,79,2.97
+ai,Data Warehousing,70,2.63
+ai,GitHub,66,2.48
+ai,Airflow,64,2.4
+ai,Snowflake,63,2.36
+ai,SageMaker,60,2.25
+ai,Jira,58,2.18
+ai,Excel,57,2.14
+ai,Kafka,53,1.99
+ai,Unix,51,1.91
+ai,A/B Testing,50,1.88
+ai,Data Governance,49,1.84
+ai,Risk Management,46,1.73
+ai,JavaScript,44,1.65
+ai,XGBoost,42,1.58
+ai,ETL,41,1.54
+ai,C,41,1.54
+ai,Prototyping,38,1.43
+ai,Confluence,38,1.43
+ai,Windows,37,1.39
+ai,PostgreSQL,37,1.39
+ai,Kanban,36,1.35
+ai,Bash,35,1.31
+ai,Microservices,34,1.28
+ai,System Design,33,1.24
+ai,Software Architecture,33,1.24
+ai,GitLab,31,1.16
+ai,MySQL,30,1.13
+ai,Jenkins,30,1.13
+ai,Kotlin,28,1.05
+ai,LangChain,28,1.05
+ai,scikit-learn,26,0.98
+ai,REST API,25,0.94
+ai,Django,24,0.9
+ai,C#,24,0.9
+ai,Stakeholder Mgmt,22,0.83
+ai,MongoDB,22,0.83
+ai,Terraform,22,0.83
+ai,Oracle,21,0.79
+ai,Cybersecurity,20,0.75
+ai,Unit Testing,20,0.75
+ai,Flask,18,0.68
+ai,Cassandra,18,0.68
+ai,Fine-tuning,17,0.64
+ai,Hugging Face,16,0.6
+ai,Looker,16,0.6
+ai,Redshift,15,0.56
+ai,Elasticsearch,12,0.45
+ai,Vector Databases,12,0.45
+ai,Grafana,11,0.41
+ai,Prompt Engineering,11,0.41
+ai,JSON,10,0.38
+ai,XML,9,0.34
+ai,Node.js,9,0.34
+ai,Rust,9,0.34
+ai,Ruby,9,0.34
+ai,BigQuery,9,0.34
+ai,Angular,8,0.3
+ai,React,8,0.3
+ai,FastAPI,8,0.3
+ai,dbt,8,0.3
+ai,Dagster,8,0.3
+ai,Flink,7,0.26
+ai,Google Analytics,5,0.19
+ai,TypeScript,5,0.19
+ai,Alteryx,5,0.19
+ai,Prometheus,5,0.19
+ai,SAP,5,0.19
+ai,GraphQL,5,0.19
+ai,Splunk,5,0.19
+ai,Workday,4,0.15
+ai,Penetration Testing,4,0.15
+ai,Spring Boot,4,0.15
+ai,.NET,4,0.15
+ai,Redis,4,0.15
+ai,Informatica,4,0.15
+ai,HTML,4,0.15
+ai,Pulumi,4,0.15
+ai,Vue,3,0.11
+ai,Ansible,3,0.11
+ai,Salesforce,3,0.11
+ai,CSS,3,0.11
+ai,Incident Response,2,0.08
+ai,jQuery,2,0.08
+ai,Spring,2,0.08
+ai,DynamoDB,2,0.08
+ai,PHP,2,0.08
+ai,Figma,2,0.08
+ai,AI Agents,2,0.08
+ai,SOC 2,2,0.08
+ai,Helm,1,0.04
+ai,ArgoCD,1,0.04
+ai,CISSP,1,0.04
+ai,Polars,1,0.04
+ai,ClickHouse,1,0.04
+ai,MuleSoft,1,0.04
+ai,Swift,1,0.04
+ai,Trino,1,0.04
+ai,Prefect,1,0.04
+ai,RAG,1,0.04
+ai,vLLM,1,0.04
+ai,User Research,1,0.04
+ai,Amplitude,1,0.04
+ai,Superset,1,0.04
+data,SQL,3432,65.68
+data,Data Analysis,2869,54.91
+data,Python,2698,51.64
+data,Data Visualization,1859,35.58
+data,Power BI,1542,29.51
+data,Tableau,1434,27.44
+data,Data Warehousing,1357,25.97
+data,Data Modeling,1313,25.13
+data,Azure,1095,20.96
+data,Spark,1083,20.73
+data,Agile / Scrum,973,18.62
+data,Machine Learning,959,18.35
+data,Snowflake,957,18.32
+data,AWS,946,18.11
+data,Java,833,15.94
+data,ETL,823,15.75
+data,R,790,15.12
+data,Hadoop,772,14.78
+data,Data Governance,749,14.33
+data,Big Data,727,13.91
+data,Excel,726,13.89
+data,Scala,710,13.59
+data,NoSQL,686,13.13
+data,Kafka,658,12.59
+data,Data Pipeline,619,11.85
+data,Redshift,596,11.41
+data,Hive,467,8.94
+data,GCP,429,8.21
+data,MySQL,409,7.83
+data,Airflow,405,7.75
+data,Databricks,373,7.14
+data,DevOps,353,6.76
+data,CI/CD,352,6.74
+data,Cassandra,346,6.62
+data,Statistical Analysis,305,5.84
+data,Oracle,251,4.8
+data,Informatica,235,4.5
+data,SSIS,223,4.27
+data,Microservices,222,4.25
+data,PostgreSQL,221,4.23
+data,Kubernetes,213,4.08
+data,SAS,205,3.92
+data,Git,203,3.89
+data,Docker,200,3.83
+data,MongoDB,191,3.66
+data,A/B Testing,190,3.64
+data,Linux,182,3.48
+data,Jira,182,3.48
+data,Unit Testing,182,3.48
+data,Looker,169,3.23
+data,dbt,168,3.22
+data,Stakeholder Mgmt,141,2.7
+data,Unix,136,2.6
+data,Jenkins,135,2.58
+data,C#,121,2.32
+data,JavaScript,120,2.3
+data,Salesforce,117,2.24
+data,BigQuery,116,2.22
+data,Terraform,113,2.16
+data,SAP,111,2.12
+data,GitHub,108,2.07
+data,Alteryx,104,1.99
+data,REST API,100,1.91
+data,Risk Management,99,1.89
+data,Windows,90,1.72
+data,Pandas,89,1.7
+data,Confluence,85,1.63
+data,Google Analytics,84,1.61
+data,Go,76,1.45
+data,Bash,76,1.45
+data,C++,72,1.38
+data,Distributed Systems,71,1.36
+data,Angular,68,1.3
+data,PowerShell,67,1.28
+data,HTML,61,1.17
+data,NLP,61,1.17
+data,Kanban,59,1.13
+data,XML,59,1.13
+data,DynamoDB,55,1.05
+data,JSON,55,1.05
+data,Flink,52,1.0
+data,Helm,51,0.98
+data,Elasticsearch,50,0.96
+data,Splunk,49,0.94
+data,System Design,47,0.9
+data,Cybersecurity,42,0.8
+data,NumPy,42,0.8
+data,CSS,40,0.77
+data,Prototyping,40,0.77
+data,.NET,37,0.71
+data,MATLAB,36,0.69
+data,Fivetran,36,0.69
+data,TensorFlow,35,0.67
+data,GitLab,35,0.67
+data,Jupyter,32,0.61
+data,React,31,0.59
+data,Node.js,29,0.56
+data,ServiceNow,29,0.56
+data,Ruby,29,0.56
+data,PyTorch,29,0.56
+data,Software Architecture,28,0.54
+data,Redis,28,0.54
+data,SageMaker,27,0.52
+data,Workday,26,0.5
+data,Spring,25,0.48
+data,Ansible,23,0.44
+data,Spring Boot,23,0.44
+data,Deep Learning,22,0.42
+data,C,21,0.4
+data,Linear,21,0.4
+data,TypeScript,19,0.36
+data,Grafana,19,0.36
+data,GraphQL,17,0.33
+data,Microsoft Fabric,16,0.31
+data,Dynamics 365,16,0.31
+data,Dagster,16,0.31
+data,Datadog,16,0.31
+data,MuleSoft,15,0.29
+data,Active Directory,13,0.25
+data,Prefect,13,0.25
+data,LLMs / GenAI,13,0.25
+data,Django,12,0.23
+data,Metabase,11,0.21
+data,MLflow,11,0.21
+data,Flask,11,0.21
+data,Superset,9,0.17
+data,Amplitude,8,0.15
+data,NetSuite,8,0.15
+data,scikit-learn,7,0.13
+data,Data Observability,6,0.11
+data,ClickHouse,6,0.11
+data,Trino,6,0.11
+data,PHP,6,0.11
+data,Prometheus,6,0.11
+data,User Research,5,0.1
+data,Segment,5,0.1
+data,Pulumi,5,0.1
+data,Mixpanel,5,0.1
+data,CISSP,5,0.1
+data,Airbyte,4,0.08
+data,Kotlin,4,0.08
+data,Figma,4,0.08
+data,Swift,4,0.08
+data,Firebase,4,0.08
+data,Vue,4,0.08
+data,Incident Response,4,0.08
+data,VMware,4,0.08
+data,Apache Iceberg,3,0.06
+data,Rust,3,0.06
+data,FastAPI,3,0.06
+data,Prompt Engineering,3,0.06
+data,Workflow Automation,2,0.04
+data,Polars,2,0.04
+data,Next.js,2,0.04
+data,Zero Trust,2,0.04
+data,Firewalls,2,0.04
+data,AWS Security,2,0.04
+data,XGBoost,1,0.02
+data,jQuery,1,0.02
+data,LangChain,1,0.02
+data,Vector Databases,1,0.02
+data,Hugging Face,1,0.02
+data,SIEM,1,0.02
+database,SQL,368,68.02
+database,Oracle,135,24.95
+database,Data Modeling,129,23.84
+database,Azure,108,19.96
+database,Python,107,19.78
+database,PostgreSQL,101,18.67
+database,Data Analysis,91,16.82
+database,Linux,90,16.64
+database,AWS,85,15.71
+database,Data Warehousing,74,13.68
+database,Windows,73,13.49
+database,Agile / Scrum,67,12.38
+database,MySQL,67,12.38
+database,ETL,55,10.17
+database,Power BI,50,9.24
+database,SSIS,49,9.06
+database,MongoDB,49,9.06
+database,DevOps,48,8.87
+database,PowerShell,46,8.5
+database,Java,42,7.76
+database,NoSQL,42,7.76
+database,Ansible,41,7.58
+database,Git,37,6.84
+database,Jira,33,6.1
+database,Tableau,29,5.36
+database,Jenkins,27,4.99
+database,Unix,27,4.99
+database,Data Governance,26,4.81
+database,VMware,25,4.62
+database,Hadoop,25,4.62
+database,Data Visualization,24,4.44
+database,CI/CD,24,4.44
+database,Snowflake,23,4.25
+database,Confluence,20,3.7
+database,Cybersecurity,20,3.7
+database,Active Directory,20,3.7
+database,Kubernetes,19,3.51
+database,Bash,19,3.51
+database,Terraform,19,3.51
+database,Data Pipeline,18,3.33
+database,C#,17,3.14
+database,JavaScript,16,2.96
+database,Big Data,16,2.96
+database,Machine Learning,15,2.77
+database,DynamoDB,15,2.77
+database,Cassandra,14,2.59
+database,Spark,14,2.59
+database,GCP,14,2.59
+database,C++,14,2.59
+database,Redis,12,2.22
+database,Kafka,12,2.22
+database,GitHub,11,2.03
+database,Redshift,11,2.03
+database,Docker,11,2.03
+database,GitLab,11,2.03
+database,JSON,11,2.03
+database,Hive,11,2.03
+database,System Design,10,1.85
+database,Excel,10,1.85
+database,Informatica,10,1.85
+database,XML,9,1.66
+database,HTML,8,1.48
+database,.NET,7,1.29
+database,Angular,7,1.29
+database,Microservices,7,1.29
+database,Prototyping,7,1.29
+database,Incident Response,7,1.29
+database,Splunk,7,1.29
+database,Risk Management,7,1.29
+database,ServiceNow,7,1.29
+database,Databricks,7,1.29
+database,Unit Testing,7,1.29
+database,Elasticsearch,6,1.11
+database,REST API,6,1.11
+database,R,5,0.92
+database,Ruby,5,0.92
+database,Kanban,5,0.92
+database,Django,5,0.92
+database,PHP,5,0.92
+database,TypeScript,4,0.74
+database,Grafana,4,0.74
+database,Salesforce,4,0.74
+database,Go,4,0.74
+database,Scala,4,0.74
+database,Flask,4,0.74
+database,SAP,3,0.55
+database,React,3,0.55
+database,Firewalls,3,0.55
+database,CSS,3,0.55
+database,Vue,2,0.37
+database,Dynamics 365,2,0.37
+database,SAS,2,0.37
+database,Software Architecture,2,0.37
+database,Node.js,2,0.37
+database,Prometheus,2,0.37
+database,Stakeholder Mgmt,2,0.37
+database,Looker,2,0.37
+database,Alteryx,1,0.18
+database,Distributed Systems,1,0.18
+database,Spring Boot,1,0.18
+database,MuleSoft,1,0.18
+database,Airflow,1,0.18
+database,CISSP,1,0.18
+database,Segment,1,0.18
+database,jQuery,1,0.18
+database,NLP,1,0.18
+database,MATLAB,1,0.18
+database,GraphQL,1,0.18
+database,Penetration Testing,1,0.18
+database,C,1,0.18
+database,BigQuery,1,0.18
+database,Workday,1,0.18
+design_ux,Prototyping,543,55.07
+design_ux,Figma,517,52.43
+design_ux,User Research,395,40.06
+design_ux,Agile / Scrum,346,35.09
+design_ux,HTML,280,28.4
+design_ux,CSS,232,23.53
+design_ux,JavaScript,230,23.33
+design_ux,Data Analysis,133,13.49
+design_ux,Jira,88,8.92
+design_ux,React,87,8.82
+design_ux,Data Visualization,68,6.9
+design_ux,Stakeholder Mgmt,68,6.9
+design_ux,Python,45,4.56
+design_ux,Git,42,4.26
+design_ux,A/B Testing,40,4.06
+design_ux,Confluence,40,4.06
+design_ux,Java,39,3.96
+design_ux,Node.js,38,3.85
+design_ux,Angular,35,3.55
+design_ux,TypeScript,33,3.35
+design_ux,Kanban,32,3.25
+design_ux,Machine Learning,32,3.25
+design_ux,SQL,30,3.04
+design_ux,DevOps,26,2.64
+design_ux,Azure,24,2.43
+design_ux,jQuery,24,2.43
+design_ux,C++,22,2.23
+design_ux,AWS,22,2.23
+design_ux,CI/CD,20,2.03
+design_ux,NoSQL,18,1.83
+design_ux,Windows,18,1.83
+design_ux,Google Analytics,17,1.72
+design_ux,GCP,16,1.62
+design_ux,LLMs / GenAI,16,1.62
+design_ux,Salesforce,15,1.52
+design_ux,Go,14,1.42
+design_ux,REST API,14,1.42
+design_ux,GraphQL,13,1.32
+design_ux,Linux,13,1.32
+design_ux,Docker,13,1.32
+design_ux,Statistical Analysis,11,1.12
+design_ux,GitHub,10,1.01
+design_ux,Kubernetes,10,1.01
+design_ux,Jenkins,10,1.01
+design_ux,Excel,10,1.01
+design_ux,C#,9,0.91
+design_ux,Risk Management,9,0.91
+design_ux,Tableau,9,0.91
+design_ux,MySQL,8,0.81
+design_ux,Cybersecurity,8,0.81
+design_ux,Microservices,8,0.81
+design_ux,Unit Testing,7,0.71
+design_ux,MongoDB,6,0.61
+design_ux,NLP,6,0.61
+design_ux,Swift,6,0.61
+design_ux,Datadog,5,0.51
+design_ux,Data Modeling,4,0.41
+design_ux,PHP,4,0.41
+design_ux,Vue,4,0.41
+design_ux,PostgreSQL,4,0.41
+design_ux,Kotlin,4,0.41
+design_ux,Mixpanel,3,0.3
+design_ux,JSON,3,0.3
+design_ux,Redis,3,0.3
+design_ux,Oracle,3,0.3
+design_ux,Next.js,3,0.3
+design_ux,System Design,3,0.3
+design_ux,GitLab,3,0.3
+design_ux,R,3,0.3
+design_ux,Prometheus,3,0.3
+design_ux,Grafana,3,0.3
+design_ux,Kafka,3,0.3
+design_ux,ServiceNow,2,0.2
+design_ux,XML,2,0.2
+design_ux,Power BI,2,0.2
+design_ux,Spring,2,0.2
+design_ux,Big Data,2,0.2
+design_ux,Elasticsearch,2,0.2
+design_ux,Ruby,2,0.2
+design_ux,Cassandra,2,0.2
+design_ux,Spark,2,0.2
+design_ux,Flink,2,0.2
+design_ux,Hadoop,2,0.2
+design_ux,Svelte,1,0.1
+design_ux,NetSuite,1,0.1
+design_ux,SAP,1,0.1
+design_ux,Spring Boot,1,0.1
+design_ux,Looker,1,0.1
+design_ux,Data Pipeline,1,0.1
+design_ux,BigQuery,1,0.1
+design_ux,Unix,1,0.1
+design_ux,Distributed Systems,1,0.1
+design_ux,Vector Databases,1,0.1
+design_ux,Jupyter,1,0.1
+design_ux,Linear,1,0.1
+design_ux,MATLAB,1,0.1
+design_ux,Hive,1,0.1
+devops,Python,2285,41.06
+devops,DevOps,1487,26.72
+devops,Terraform,1351,24.28
+devops,Kubernetes,1218,21.89
+devops,Azure,1208,21.71
+devops,AWS,1165,20.93
+devops,Ansible,1074,19.3
+devops,Windows,1071,19.25
+devops,Linux,1043,18.74
+devops,Agile / Scrum,1040,18.69
+devops,CI/CD,1040,18.69
+devops,Docker,948,17.04
+devops,PowerShell,816,14.66
+devops,SQL,754,13.55
+devops,Java,748,13.44
+devops,Jenkins,700,12.58
+devops,Go,687,12.35
+devops,VMware,638,11.46
+devops,Git,533,9.58
+devops,Bash,518,9.31
+devops,GCP,437,7.85
+devops,Active Directory,435,7.82
+devops,C++,433,7.78
+devops,Jira,424,7.62
+devops,System Design,414,7.44
+devops,Risk Management,408,7.33
+devops,MATLAB,396,7.12
+devops,Data Analysis,390,7.01
+devops,GitLab,369,6.63
+devops,Cybersecurity,369,6.63
+devops,Ruby,340,6.11
+devops,JavaScript,335,6.02
+devops,GitHub,329,5.91
+devops,Splunk,277,4.98
+devops,Confluence,241,4.33
+devops,Prometheus,236,4.24
+devops,Unix,229,4.12
+devops,Machine Learning,221,3.97
+devops,Firewalls,217,3.9
+devops,Microservices,212,3.81
+devops,Grafana,187,3.36
+devops,MySQL,178,3.2
+devops,C#,174,3.13
+devops,Oracle,173,3.11
+devops,PostgreSQL,172,3.09
+devops,REST API,157,2.82
+devops,Distributed Systems,146,2.62
+devops,NoSQL,142,2.55
+devops,Kafka,142,2.55
+devops,ServiceNow,138,2.48
+devops,Datadog,128,2.3
+devops,Excel,127,2.28
+devops,C,113,2.03
+devops,Node.js,112,2.01
+devops,Incident Response,108,1.94
+devops,HTML,97,1.74
+devops,Unit Testing,93,1.67
+devops,Software Architecture,81,1.46
+devops,TypeScript,81,1.46
+devops,Cassandra,81,1.46
+devops,MongoDB,79,1.42
+devops,JSON,77,1.38
+devops,.NET,76,1.37
+devops,CISSP,76,1.37
+devops,Helm,70,1.26
+devops,PHP,69,1.24
+devops,Spark,69,1.24
+devops,Kanban,67,1.2
+devops,DynamoDB,67,1.2
+devops,Big Data,66,1.19
+devops,Prototyping,60,1.08
+devops,Elasticsearch,60,1.08
+devops,ArgoCD,59,1.06
+devops,XML,57,1.02
+devops,Rust,57,1.02
+devops,React,57,1.02
+devops,Stakeholder Mgmt,56,1.01
+devops,Hadoop,56,1.01
+devops,Redis,54,0.97
+devops,CSS,51,0.92
+devops,Data Visualization,50,0.9
+devops,Angular,46,0.83
+devops,Power BI,46,0.83
+devops,Data Modeling,43,0.77
+devops,Tableau,39,0.7
+devops,Statistical Analysis,39,0.7
+devops,Data Pipeline,38,0.68
+devops,SAP,37,0.66
+devops,Salesforce,35,0.63
+devops,Spring Boot,34,0.61
+devops,Zero Trust,34,0.61
+devops,Scala,34,0.61
+devops,Spring,33,0.59
+devops,R,31,0.56
+devops,SIEM,31,0.56
+devops,Data Warehousing,30,0.54
+devops,Databricks,27,0.49
+devops,Airflow,26,0.47
+devops,ETL,26,0.47
+devops,PyTorch,25,0.45
+devops,Snowflake,25,0.45
+devops,Kotlin,23,0.41
+devops,ClickHouse,22,0.4
+devops,TensorFlow,21,0.38
+devops,Deep Learning,20,0.36
+devops,Penetration Testing,19,0.34
+devops,Redshift,19,0.34
+devops,Informatica,16,0.29
+devops,Swift,16,0.29
+devops,Workday,14,0.25
+devops,LLMs / GenAI,13,0.23
+devops,Pulumi,12,0.22
+devops,NLP,12,0.22
+devops,Django,12,0.22
+devops,Hive,12,0.22
+devops,MuleSoft,11,0.2
+devops,GraphQL,11,0.2
+devops,OWASP,10,0.18
+devops,Pandas,10,0.18
+devops,SageMaker,10,0.18
+devops,Segment,10,0.18
+devops,jQuery,10,0.18
+devops,Flink,10,0.18
+devops,Jupyter,9,0.16
+devops,BigQuery,9,0.16
+devops,Data Governance,9,0.16
+devops,SAS,7,0.13
+devops,Flask,7,0.13
+devops,Dynamics 365,7,0.13
+devops,NetSuite,7,0.13
+devops,Linear,6,0.11
+devops,Prompt Engineering,5,0.09
+devops,SOC 2,5,0.09
+devops,NumPy,5,0.09
+devops,Alteryx,5,0.09
+devops,A/B Testing,5,0.09
+devops,Workflow Automation,4,0.07
+devops,Superset,3,0.05
+devops,Figma,3,0.05
+devops,Vue,3,0.05
+devops,Looker,3,0.05
+devops,dbt,2,0.04
+devops,FastAPI,2,0.04
+devops,AWS Security,2,0.04
+devops,SSIS,1,0.02
+devops,Trino,1,0.02
+devops,Firebase,1,0.02
+devops,MCP,1,0.02
+devops,MLflow,1,0.02
+devops,User Research,1,0.02
+engineering,Agile / Scrum,7117,37.03
+engineering,Java,6413,33.36
+engineering,Python,6276,32.65
+engineering,SQL,6070,31.58
+engineering,JavaScript,5802,30.19
+engineering,AWS,4898,25.48
+engineering,Azure,3698,19.24
+engineering,HTML,3631,18.89
+engineering,Docker,3485,18.13
+engineering,Kubernetes,3485,18.13
+engineering,C++,3447,17.93
+engineering,React,3390,17.64
+engineering,Git,2989,15.55
+engineering,CI/CD,2967,15.44
+engineering,DevOps,2768,14.4
+engineering,TypeScript,2723,14.17
+engineering,C#,2688,13.98
+engineering,REST API,2663,13.85
+engineering,Node.js,2533,13.18
+engineering,Microservices,2484,12.92
+engineering,Go,2433,12.66
+engineering,Angular,2353,12.24
+engineering,NoSQL,2348,12.22
+engineering,CSS,2269,11.8
+engineering,Unit Testing,2191,11.4
+engineering,Linux,2123,11.05
+engineering,GCP,1663,8.65
+engineering,Jira,1550,8.06
+engineering,Machine Learning,1517,7.89
+engineering,Data Analysis,1484,7.72
+engineering,Jenkins,1428,7.43
+engineering,.NET,1354,7.04
+engineering,PostgreSQL,1244,6.47
+engineering,Kafka,1176,6.12
+engineering,Spring,1159,6.03
+engineering,Distributed Systems,1113,5.79
+engineering,MySQL,1084,5.64
+engineering,Software Architecture,1062,5.53
+engineering,Windows,1023,5.32
+engineering,GitHub,982,5.11
+engineering,Scala,916,4.77
+engineering,XML,901,4.69
+engineering,JSON,881,4.58
+engineering,MongoDB,867,4.51
+engineering,C,856,4.45
+engineering,Oracle,847,4.41
+engineering,Spring Boot,799,4.16
+engineering,jQuery,787,4.09
+engineering,Confluence,722,3.76
+engineering,System Design,715,3.72
+engineering,GraphQL,649,3.38
+engineering,PHP,630,3.28
+engineering,Terraform,627,3.26
+engineering,Spark,555,2.89
+engineering,Kotlin,530,2.76
+engineering,Big Data,510,2.65
+engineering,Unix,499,2.6
+engineering,Redis,485,2.52
+engineering,Kanban,462,2.4
+engineering,Data Modeling,447,2.33
+engineering,GitLab,445,2.32
+engineering,Hadoop,435,2.26
+engineering,Salesforce,434,2.26
+engineering,Data Visualization,411,2.14
+engineering,Ansible,384,2.0
+engineering,Cybersecurity,370,1.92
+engineering,MATLAB,351,1.83
+engineering,Cassandra,344,1.79
+engineering,Risk Management,342,1.78
+engineering,Swift,341,1.77
+engineering,Elasticsearch,336,1.75
+engineering,Rust,322,1.68
+engineering,Power BI,318,1.65
+engineering,Tableau,303,1.58
+engineering,ETL,298,1.55
+engineering,Snowflake,288,1.5
+engineering,Ruby,287,1.49
+engineering,Data Warehousing,286,1.49
+engineering,Prototyping,282,1.47
+engineering,DynamoDB,275,1.43
+engineering,PowerShell,273,1.42
+engineering,Bash,263,1.37
+engineering,ServiceNow,244,1.27
+engineering,Django,238,1.24
+engineering,Data Pipeline,222,1.15
+engineering,Excel,215,1.12
+engineering,Figma,204,1.06
+engineering,Hive,194,1.01
+engineering,Splunk,188,0.98
+engineering,R,187,0.97
+engineering,Vue,181,0.94
+engineering,TensorFlow,173,0.9
+engineering,Flask,169,0.88
+engineering,Deep Learning,165,0.86
+engineering,NLP,157,0.82
+engineering,SSIS,152,0.79
+engineering,PyTorch,145,0.75
+engineering,Airflow,142,0.74
+engineering,SAS,138,0.72
+engineering,SAP,137,0.71
+engineering,Active Directory,132,0.69
+engineering,Grafana,123,0.64
+engineering,Next.js,123,0.64
+engineering,Stakeholder Mgmt,122,0.63
+engineering,MuleSoft,121,0.63
+engineering,Databricks,119,0.62
+engineering,VMware,114,0.59
+engineering,Pandas,110,0.57
+engineering,Data Governance,109,0.57
+engineering,Informatica,106,0.55
+engineering,LLMs / GenAI,106,0.55
+engineering,Dynamics 365,92,0.48
+engineering,Flink,91,0.47
+engineering,Redshift,89,0.46
+engineering,Prometheus,88,0.46
+engineering,NumPy,86,0.45
+engineering,Datadog,85,0.44
+engineering,Linear,81,0.42
+engineering,Statistical Analysis,74,0.38
+engineering,Alteryx,72,0.37
+engineering,Firewalls,65,0.34
+engineering,Firebase,64,0.33
+engineering,CISSP,62,0.32
+engineering,Helm,48,0.25
+engineering,A/B Testing,47,0.24
+engineering,Incident Response,45,0.23
+engineering,Google Analytics,44,0.23
+engineering,BigQuery,43,0.22
+engineering,Penetration Testing,42,0.22
+engineering,Workday,40,0.21
+engineering,FastAPI,38,0.2
+engineering,OWASP,37,0.19
+engineering,Looker,33,0.17
+engineering,NetSuite,28,0.15
+engineering,Svelte,27,0.14
+engineering,Jupyter,23,0.12
+engineering,dbt,21,0.11
+engineering,User Research,17,0.09
+engineering,Pulumi,16,0.08
+engineering,Workflow Automation,15,0.08
+engineering,SageMaker,15,0.08
+engineering,LangChain,15,0.08
+engineering,Zero Trust,14,0.07
+engineering,Segment,14,0.07
+engineering,ClickHouse,14,0.07
+engineering,Prompt Engineering,13,0.07
+engineering,Vector Databases,12,0.06
+engineering,MLflow,10,0.05
+engineering,ArgoCD,9,0.05
+engineering,SIEM,7,0.04
+engineering,Apache Iceberg,7,0.04
+engineering,SOC 2,7,0.04
+engineering,Fine-tuning,5,0.03
+engineering,Trino,5,0.03
+engineering,Dagster,4,0.02
+engineering,Polars,4,0.02
+engineering,AWS Security,4,0.02
+engineering,Prefect,4,0.02
+engineering,scikit-learn,4,0.02
+engineering,Superset,3,0.02
+engineering,Mixpanel,3,0.02
+engineering,Fivetran,3,0.02
+engineering,Data Observability,3,0.02
+engineering,Amplitude,2,0.01
+engineering,Metabase,2,0.01
+engineering,MCP,2,0.01
+engineering,Microsoft Fabric,1,0.01
+engineering,AI Agents,1,0.01
+engineering,vLLM,1,0.01
+it_support,Windows,1115,64.19
+it_support,Active Directory,695,40.01
+it_support,Azure,260,14.97
+it_support,ServiceNow,161,9.27
+it_support,VMware,155,8.92
+it_support,Excel,135,7.77
+it_support,Data Analysis,133,7.66
+it_support,Linux,121,6.97
+it_support,Cybersecurity,111,6.39
+it_support,SQL,110,6.33
+it_support,Firewalls,103,5.93
+it_support,PowerShell,68,3.91
+it_support,AWS,54,3.11
+it_support,Jira,51,2.94
+it_support,Salesforce,44,2.53
+it_support,Python,41,2.36
+it_support,Agile / Scrum,32,1.84
+it_support,HTML,32,1.84
+it_support,Risk Management,31,1.78
+it_support,Java,30,1.73
+it_support,JavaScript,29,1.67
+it_support,Oracle,28,1.61
+it_support,SAP,27,1.55
+it_support,Incident Response,25,1.44
+it_support,MCP,22,1.27
+it_support,Confluence,20,1.15
+it_support,CSS,19,1.09
+it_support,Unix,18,1.04
+it_support,Stakeholder Mgmt,16,0.92
+it_support,Power BI,15,0.86
+it_support,Bash,15,0.86
+it_support,GCP,14,0.81
+it_support,C++,14,0.81
+it_support,System Design,14,0.81
+it_support,Kubernetes,13,0.75
+it_support,MySQL,12,0.69
+it_support,C#,12,0.69
+it_support,CISSP,11,0.63
+it_support,DevOps,10,0.58
+it_support,PHP,9,0.52
+it_support,Statistical Analysis,8,0.46
+it_support,Tableau,8,0.46
+it_support,.NET,8,0.46
+it_support,Machine Learning,7,0.4
+it_support,PostgreSQL,7,0.4
+it_support,REST API,7,0.4
+it_support,Docker,7,0.4
+it_support,Data Visualization,6,0.35
+it_support,Unit Testing,6,0.35
+it_support,Ansible,5,0.29
+it_support,Datadog,5,0.29
+it_support,XML,5,0.29
+it_support,Distributed Systems,5,0.29
+it_support,NoSQL,5,0.29
+it_support,Spring,5,0.29
+it_support,Terraform,4,0.23
+it_support,Kanban,4,0.23
+it_support,Angular,4,0.23
+it_support,Node.js,4,0.23
+it_support,GitHub,4,0.23
+it_support,JSON,4,0.23
+it_support,Deep Learning,4,0.23
+it_support,Kafka,4,0.23
+it_support,Go,4,0.23
+it_support,C,4,0.23
+it_support,Software Architecture,3,0.17
+it_support,React,3,0.17
+it_support,MATLAB,3,0.17
+it_support,TypeScript,3,0.17
+it_support,Splunk,3,0.17
+it_support,CI/CD,3,0.17
+it_support,NetSuite,3,0.17
+it_support,Data Modeling,3,0.17
+it_support,Workday,3,0.17
+it_support,Spark,3,0.17
+it_support,ETL,3,0.17
+it_support,Linear,2,0.12
+it_support,Grafana,2,0.12
+it_support,GitLab,2,0.12
+it_support,User Research,2,0.12
+it_support,Figma,2,0.12
+it_support,Swift,2,0.12
+it_support,Git,2,0.12
+it_support,SSIS,2,0.12
+it_support,MuleSoft,2,0.12
+it_support,Snowflake,2,0.12
+it_support,Informatica,2,0.12
+it_support,Ruby,2,0.12
+it_support,SIEM,2,0.12
+it_support,Prototyping,2,0.12
+it_support,jQuery,1,0.06
+it_support,Dynamics 365,1,0.06
+it_support,Google Analytics,1,0.06
+it_support,Data Pipeline,1,0.06
+it_support,DynamoDB,1,0.06
+it_support,Jenkins,1,0.06
+it_support,Penetration Testing,1,0.06
+it_support,Data Warehousing,1,0.06
+it_support,A/B Testing,1,0.06
+it_support,Data Governance,1,0.06
+it_support,SAS,1,0.06
+network_infra,Windows,1137,34.88
+network_infra,VMware,877,26.9
+network_infra,Python,736,22.58
+network_infra,Firewalls,712,21.84
+network_infra,Azure,649,19.91
+network_infra,Ansible,649,19.91
+network_infra,Active Directory,580,17.79
+network_infra,Linux,422,12.94
+network_infra,PowerShell,412,12.64
+network_infra,Segment,390,11.96
+network_infra,DevOps,378,11.6
+network_infra,Go,347,10.64
+network_infra,AWS,321,9.85
+network_infra,Cybersecurity,277,8.5
+network_infra,CI/CD,254,7.79
+network_infra,SQL,204,6.26
+network_infra,CISSP,160,4.91
+network_infra,Agile / Scrum,147,4.51
+network_infra,Kubernetes,137,4.2
+network_infra,Risk Management,114,3.5
+network_infra,Unix,107,3.28
+network_infra,Terraform,101,3.1
+network_infra,Bash,101,3.1
+network_infra,Splunk,99,3.04
+network_infra,GCP,98,3.01
+network_infra,Data Analysis,89,2.73
+network_infra,Docker,88,2.7
+network_infra,Git,74,2.27
+network_infra,ServiceNow,73,2.24
+network_infra,Java,71,2.18
+network_infra,Excel,69,2.12
+network_infra,Incident Response,68,2.09
+network_infra,System Design,60,1.84
+network_infra,Jenkins,54,1.66
+network_infra,Jira,53,1.63
+network_infra,GitHub,42,1.29
+network_infra,Oracle,42,1.29
+network_infra,JavaScript,36,1.1
+network_infra,XML,34,1.04
+network_infra,REST API,33,1.01
+network_infra,Penetration Testing,33,1.01
+network_infra,C++,32,0.98
+network_infra,Confluence,29,0.89
+network_infra,Microservices,29,0.89
+network_infra,HTML,28,0.86
+network_infra,MySQL,28,0.86
+network_infra,Distributed Systems,27,0.83
+network_infra,GitLab,26,0.8
+network_infra,JSON,26,0.8
+network_infra,NoSQL,25,0.77
+network_infra,Zero Trust,23,0.71
+network_infra,Salesforce,22,0.67
+network_infra,Power BI,22,0.67
+network_infra,Machine Learning,21,0.64
+network_infra,PostgreSQL,21,0.64
+network_infra,Hadoop,21,0.64
+network_infra,SIEM,20,0.61
+network_infra,Grafana,19,0.58
+network_infra,Big Data,18,0.55
+network_infra,CSS,16,0.49
+network_infra,PHP,15,0.46
+network_infra,.NET,15,0.46
+network_infra,Stakeholder Mgmt,15,0.46
+network_infra,Kanban,14,0.43
+network_infra,C#,14,0.43
+network_infra,Tableau,11,0.34
+network_infra,Spark,11,0.34
+network_infra,Ruby,11,0.34
+network_infra,Data Modeling,10,0.31
+network_infra,Dynamics 365,10,0.31
+network_infra,Kafka,10,0.31
+network_infra,MongoDB,9,0.28
+network_infra,Software Architecture,9,0.28
+network_infra,SAP,9,0.28
+network_infra,Prototyping,8,0.25
+network_infra,Elasticsearch,8,0.25
+network_infra,Data Warehousing,7,0.21
+network_infra,Cassandra,7,0.21
+network_infra,Prometheus,7,0.21
+network_infra,Angular,6,0.18
+network_infra,Data Pipeline,6,0.18
+network_infra,C,6,0.18
+network_infra,Spring,6,0.18
+network_infra,jQuery,5,0.15
+network_infra,React,5,0.15
+network_infra,Data Governance,5,0.15
+network_infra,Datadog,5,0.15
+network_infra,Data Visualization,5,0.15
+network_infra,Node.js,4,0.12
+network_infra,Swift,4,0.12
+network_infra,Workday,4,0.12
+network_infra,Scala,4,0.12
+network_infra,AWS Security,4,0.12
+network_infra,Snowflake,4,0.12
+network_infra,Unit Testing,4,0.12
+network_infra,BigQuery,3,0.09
+network_infra,Looker,3,0.09
+network_infra,Helm,3,0.09
+network_infra,ETL,3,0.09
+network_infra,NetSuite,3,0.09
+network_infra,R,3,0.09
+network_infra,Redshift,3,0.09
+network_infra,DynamoDB,3,0.09
+network_infra,Rust,3,0.09
+network_infra,OWASP,3,0.09
+network_infra,MCP,3,0.09
+network_infra,Deep Learning,2,0.06
+network_infra,ArgoCD,2,0.06
+network_infra,LLMs / GenAI,2,0.06
+network_infra,Jupyter,2,0.06
+network_infra,TypeScript,2,0.06
+network_infra,SAS,2,0.06
+network_infra,Fine-tuning,1,0.03
+network_infra,Spring Boot,1,0.03
+network_infra,Hive,1,0.03
+network_infra,Redis,1,0.03
+network_infra,Flink,1,0.03
+network_infra,NLP,1,0.03
+network_infra,Google Analytics,1,0.03
+network_infra,SOC 2,1,0.03
+network_infra,Statistical Analysis,1,0.03
+network_infra,A/B Testing,1,0.03
+network_infra,Flask,1,0.03
+network_infra,MuleSoft,1,0.03
+network_infra,TensorFlow,1,0.03
+product,Data Analysis,2234,43.68
+product,Agile / Scrum,2005,39.2
+product,SQL,1337,26.14
+product,Excel,772,15.09
+product,Stakeholder Mgmt,718,14.04
+product,Jira,694,13.57
+product,Risk Management,476,9.31
+product,Power BI,444,8.68
+product,Data Visualization,402,7.86
+product,Tableau,398,7.78
+product,Python,390,7.62
+product,Confluence,337,6.59
+product,Azure,304,5.94
+product,DevOps,258,5.04
+product,Machine Learning,244,4.77
+product,Salesforce,242,4.73
+product,Unit Testing,232,4.54
+product,Kanban,225,4.4
+product,Data Modeling,179,3.5
+product,SAP,173,3.38
+product,Prototyping,170,3.32
+product,AWS,169,3.3
+product,Oracle,168,3.28
+product,Java,166,3.25
+product,ServiceNow,142,2.78
+product,R,138,2.7
+product,JavaScript,133,2.6
+product,Data Governance,117,2.29
+product,System Design,112,2.19
+product,Data Warehousing,108,2.11
+product,HTML,105,2.05
+product,Windows,90,1.76
+product,C++,87,1.7
+product,Cybersecurity,85,1.66
+product,CSS,85,1.66
+product,Statistical Analysis,84,1.64
+product,User Research,77,1.51
+product,LLMs / GenAI,67,1.31
+product,Workday,64,1.25
+product,REST API,61,1.19
+product,GCP,60,1.17
+product,Big Data,55,1.08
+product,SAS,54,1.06
+product,A/B Testing,52,1.02
+product,C#,51,1.0
+product,Snowflake,50,0.98
+product,CI/CD,50,0.98
+product,XML,49,0.96
+product,NoSQL,48,0.94
+product,Microservices,48,0.94
+product,Distributed Systems,47,0.92
+product,Linux,43,0.84
+product,ETL,41,0.8
+product,Looker,41,0.8
+product,Dynamics 365,40,0.78
+product,.NET,35,0.68
+product,Git,34,0.66
+product,React,34,0.66
+product,JSON,33,0.65
+product,MySQL,28,0.55
+product,Alteryx,28,0.55
+product,Kubernetes,28,0.55
+product,Hadoop,27,0.53
+product,GitHub,26,0.51
+product,Spark,26,0.51
+product,Google Analytics,26,0.51
+product,NLP,25,0.49
+product,Software Architecture,24,0.47
+product,Docker,23,0.45
+product,Kafka,23,0.45
+product,Angular,23,0.45
+product,Go,23,0.45
+product,Unix,21,0.41
+product,Figma,21,0.41
+product,Databricks,20,0.39
+product,Jenkins,19,0.37
+product,Data Pipeline,18,0.35
+product,CISSP,18,0.35
+product,GitLab,16,0.31
+product,NetSuite,16,0.31
+product,PostgreSQL,15,0.29
+product,Node.js,15,0.29
+product,Redshift,15,0.29
+product,Active Directory,15,0.29
+product,MATLAB,14,0.27
+product,Swift,13,0.25
+product,MongoDB,13,0.25
+product,Pandas,13,0.25
+product,PHP,12,0.23
+product,Hive,11,0.22
+product,MuleSoft,11,0.22
+product,Informatica,9,0.18
+product,Splunk,9,0.18
+product,SSIS,8,0.16
+product,PowerShell,8,0.16
+product,Spring Boot,8,0.16
+product,BigQuery,8,0.16
+product,Incident Response,8,0.16
+product,Terraform,7,0.14
+product,Scala,7,0.14
+product,Deep Learning,7,0.14
+product,DynamoDB,7,0.14
+product,Rust,7,0.14
+product,Workflow Automation,7,0.14
+product,jQuery,6,0.12
+product,Linear,6,0.12
+product,Airflow,6,0.12
+product,Cassandra,6,0.12
+product,VMware,6,0.12
+product,Amplitude,6,0.12
+product,C,5,0.1
+product,Segment,5,0.1
+product,Zero Trust,5,0.1
+product,Ruby,5,0.1
+product,Redis,4,0.08
+product,Ansible,4,0.08
+product,Flink,4,0.08
+product,Apache Iceberg,4,0.08
+product,Data Observability,3,0.06
+product,Elasticsearch,3,0.06
+product,TypeScript,3,0.06
+product,Django,3,0.06
+product,GraphQL,3,0.06
+product,Spring,2,0.04
+product,Vue,2,0.04
+product,Bash,2,0.04
+product,dbt,2,0.04
+product,Penetration Testing,2,0.04
+product,Metabase,2,0.04
+product,Flask,2,0.04
+product,SIEM,2,0.04
+product,Mixpanel,2,0.04
+product,Prometheus,2,0.04
+product,Grafana,2,0.04
+product,Prompt Engineering,2,0.04
+product,Datadog,2,0.04
+product,Kotlin,1,0.02
+product,Firewalls,1,0.02
+product,TensorFlow,1,0.02
+product,PyTorch,1,0.02
+product,LangChain,1,0.02
+product,SageMaker,1,0.02
+product,SOC 2,1,0.02
+product,AWS Security,1,0.02
+product,NumPy,1,0.02
+product,Jupyter,1,0.02
+qa,Python,581,34.79
+qa,Agile / Scrum,471,28.2
+qa,Java,355,21.26
+qa,Data Analysis,341,20.42
+qa,SQL,284,17.01
+qa,Jira,270,16.17
+qa,CI/CD,227,13.59
+qa,C++,187,11.2
+qa,MATLAB,158,9.46
+qa,Jenkins,156,9.34
+qa,DevOps,154,9.22
+qa,Git,151,9.04
+qa,Linux,150,8.98
+qa,JavaScript,136,8.14
+qa,C#,130,7.78
+qa,Windows,124,7.43
+qa,Azure,121,7.25
+qa,Confluence,117,7.01
+qa,Unit Testing,112,6.71
+qa,Risk Management,90,5.39
+qa,REST API,90,5.39
+qa,AWS,87,5.21
+qa,Excel,79,4.73
+qa,GitHub,57,3.41
+qa,Statistical Analysis,56,3.35
+qa,C,54,3.23
+qa,Docker,49,2.93
+qa,Unix,47,2.81
+qa,GitLab,45,2.69
+qa,Cybersecurity,45,2.69
+qa,XML,44,2.63
+qa,Microservices,41,2.46
+qa,HTML,41,2.46
+qa,System Design,37,2.22
+qa,.NET,35,2.1
+qa,Angular,33,1.98
+qa,TypeScript,30,1.8
+qa,Kanban,30,1.8
+qa,Oracle,30,1.8
+qa,JSON,29,1.74
+qa,NoSQL,29,1.74
+qa,Bash,28,1.68
+qa,Ruby,26,1.56
+qa,Machine Learning,25,1.5
+qa,Splunk,24,1.44
+qa,CSS,24,1.44
+qa,Prototyping,24,1.44
+qa,Node.js,23,1.38
+qa,SAP,23,1.38
+qa,React,22,1.32
+qa,VMware,21,1.26
+qa,Kubernetes,21,1.26
+qa,MySQL,20,1.2
+qa,PostgreSQL,20,1.2
+qa,Snowflake,18,1.08
+qa,Salesforce,17,1.02
+qa,Software Architecture,16,0.96
+qa,MongoDB,16,0.96
+qa,Power BI,15,0.9
+qa,GCP,14,0.84
+qa,Stakeholder Mgmt,13,0.78
+qa,Kafka,13,0.78
+qa,Swift,13,0.78
+qa,ETL,12,0.72
+qa,Spring,12,0.72
+qa,ServiceNow,12,0.72
+qa,Penetration Testing,12,0.72
+qa,Spark,10,0.6
+qa,Go,10,0.6
+qa,Firewalls,9,0.54
+qa,Spring Boot,9,0.54
+qa,Tableau,9,0.54
+qa,Data Visualization,9,0.54
+qa,Big Data,9,0.54
+qa,Distributed Systems,8,0.48
+qa,PowerShell,8,0.48
+qa,Data Governance,7,0.42
+qa,Data Warehousing,7,0.42
+qa,MuleSoft,7,0.42
+qa,Ansible,6,0.36
+qa,GraphQL,6,0.36
+qa,Redshift,6,0.36
+qa,PHP,5,0.3
+qa,R,5,0.3
+qa,Hadoop,5,0.3
+qa,jQuery,5,0.3
+qa,Data Modeling,5,0.3
+qa,Kotlin,5,0.3
+qa,Grafana,4,0.24
+qa,Dynamics 365,4,0.24
+qa,Cassandra,4,0.24
+qa,Django,4,0.24
+qa,NumPy,4,0.24
+qa,Redis,4,0.24
+qa,Linear,4,0.24
+qa,Databricks,4,0.24
+qa,SSIS,3,0.18
+qa,SAS,3,0.18
+qa,Datadog,3,0.18
+qa,Figma,3,0.18
+qa,Elasticsearch,3,0.18
+qa,Scala,3,0.18
+qa,DynamoDB,3,0.18
+qa,Informatica,2,0.12
+qa,Alteryx,2,0.12
+qa,Flask,2,0.12
+qa,Segment,2,0.12
+qa,Terraform,2,0.12
+qa,Rust,2,0.12
+qa,Active Directory,2,0.12
+qa,A/B Testing,2,0.12
+qa,Next.js,2,0.12
+qa,Vue,1,0.06
+qa,Hive,1,0.06
+qa,Flink,1,0.06
+qa,Firebase,1,0.06
+qa,Data Pipeline,1,0.06
+qa,Jupyter,1,0.06
+qa,Pandas,1,0.06
+qa,dbt,1,0.06
+qa,Zero Trust,1,0.06
+qa,OWASP,1,0.06
+qa,Looker,1,0.06
+qa,Airflow,1,0.06
+qa,NetSuite,1,0.06
+qa,Prometheus,1,0.06
+qa,Workday,1,0.06
+qa,Amplitude,1,0.06
+qa,ArgoCD,1,0.06
+qa,CISSP,1,0.06
+security,Cybersecurity,2678,64.25
+security,CISSP,1230,29.51
+security,Incident Response,1101,26.42
+security,Risk Management,1007,24.16
+security,Windows,721,17.3
+security,Azure,690,16.55
+security,Python,634,15.21
+security,Penetration Testing,564,13.53
+security,SIEM,486,11.66
+security,AWS,479,11.49
+security,Firewalls,477,11.44
+security,Linux,439,10.53
+security,Splunk,373,8.95
+security,Data Analysis,369,8.85
+security,Agile / Scrum,284,6.81
+security,GCP,249,5.97
+security,PowerShell,243,5.83
+security,Active Directory,242,5.81
+security,DevOps,197,4.73
+security,SQL,157,3.77
+security,Java,149,3.57
+security,VMware,148,3.55
+security,C++,142,3.41
+security,Kubernetes,124,2.98
+security,Unix,118,2.83
+security,AWS Security,110,2.64
+security,Jira,99,2.38
+security,Bash,95,2.28
+security,Machine Learning,94,2.26
+security,JavaScript,94,2.26
+security,Docker,88,2.11
+security,Ansible,88,2.11
+security,OWASP,84,2.02
+security,CI/CD,81,1.94
+security,Excel,81,1.94
+security,ServiceNow,79,1.9
+security,Zero Trust,79,1.9
+security,Git,78,1.87
+security,C,78,1.87
+security,System Design,71,1.7
+security,Stakeholder Mgmt,65,1.56
+security,Terraform,62,1.49
+security,Go,61,1.46
+security,Jenkins,50,1.2
+security,Confluence,48,1.15
+security,HTML,40,0.96
+security,LLMs / GenAI,38,0.91
+security,Big Data,37,0.89
+security,Burp Suite,37,0.89
+security,C#,36,0.86
+security,NoSQL,33,0.79
+security,Salesforce,32,0.77
+security,Microservices,31,0.74
+security,Oracle,31,0.74
+security,REST API,29,0.7
+security,Power BI,29,0.7
+security,Data Visualization,28,0.67
+security,Ruby,27,0.65
+security,SOC 2,26,0.62
+security,Tableau,25,0.6
+security,Rust,24,0.58
+security,CSS,23,0.55
+security,.NET,21,0.5
+security,SAP,20,0.48
+security,Kanban,19,0.46
+security,TypeScript,19,0.46
+security,Data Governance,18,0.43
+security,GitHub,17,0.41
+security,Dynamics 365,16,0.38
+security,Prototyping,15,0.36
+security,Workday,15,0.36
+security,GitLab,14,0.34
+security,MATLAB,13,0.31
+security,MySQL,13,0.31
+security,R,13,0.31
+security,Node.js,12,0.29
+security,Distributed Systems,12,0.29
+security,React,11,0.26
+security,PHP,11,0.26
+security,Software Architecture,10,0.24
+security,Spark,10,0.24
+security,Elasticsearch,10,0.24
+security,Statistical Analysis,10,0.24
+security,Hadoop,8,0.19
+security,Jupyter,8,0.19
+security,PostgreSQL,7,0.17
+security,Kafka,7,0.17
+security,XML,7,0.17
+security,Data Modeling,6,0.14
+security,Spring,6,0.14
+security,Deep Learning,6,0.14
+security,Angular,6,0.14
+security,PyTorch,6,0.14
+security,JSON,5,0.12
+security,Data Warehousing,5,0.12
+security,Unit Testing,5,0.12
+security,NLP,5,0.12
+security,TensorFlow,5,0.12
+security,Pandas,5,0.12
+security,Prometheus,4,0.1
+security,Grafana,4,0.1
+security,MongoDB,4,0.1
+security,Databricks,4,0.1
+security,Datadog,4,0.1
+security,Snowflake,4,0.1
+security,Linear,3,0.07
+security,Scala,3,0.07
+security,Hive,3,0.07
+security,ETL,3,0.07
+security,Workflow Automation,3,0.07
+security,Spring Boot,3,0.07
+security,NumPy,3,0.07
+security,Alteryx,2,0.05
+security,Cassandra,2,0.05
+security,Data Pipeline,2,0.05
+security,BigQuery,2,0.05
+security,SSIS,2,0.05
+security,Redshift,2,0.05
+security,Redis,2,0.05
+security,DynamoDB,2,0.05
+security,SageMaker,1,0.02
+security,User Research,1,0.02
+security,SAS,1,0.02
+security,Flink,1,0.02
+security,ArgoCD,1,0.02
+security,Helm,1,0.02
+security,jQuery,1,0.02
+security,Airflow,1,0.02
+security,FastAPI,1,0.02
+security,Swift,1,0.02
+security,Kotlin,1,0.02
+security,Apache Iceberg,1,0.02

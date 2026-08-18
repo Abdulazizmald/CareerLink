@@ -1,0 +1,138 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent, bar %}
+{% block title %}{{ skill }}{% endblock %}
+
+{% block content %}
+<p class="crumb"><a href="/skills">Skills</a></p>
+<h1>{{ skill }}</h1>
+{% if description %}<p class="lede">{{ description }}</p>
+{% else %}<p class="lede dim">No description written for this skill yet. The
+complement and substitute split below reads these descriptions, so this skill's
+labels are weaker than the rest.</p>{% endif %}
+
+<h2>Worth learning next</h2>
+<p class="aside">These share job ads with {{ skill }} but describe a different
+kind of thing, so each one adds something {{ skill }} does not give you.</p>
+{% if complements|length == 0 %}
+<p class="empty">None found. Either no skill co-occurs with {{ skill }} often
+enough, or the pairs are all substitutes.</p>
+{% else %}
+<table class="skills">
+  <thead><tr><th>Skill</th><th class="n">Asked for together</th><th class="n">Description overlap</th></tr></thead>
+  <tbody>
+  {% for r in complements.itertuples() %}
+  <tr>
+    <td><a href="/skills/{{ r.skill_name }}">{{ r.skill_name }}</a></td>
+    <td class="track">{{ bar(r.association * 100) }}<span class="fig">{{ '%.2f'|format(r.association) }}</span></td>
+    <td class="n">{% if r.meaning is not none %}{{ '%.2f'|format(r.meaning) }}{% else %}{{ absent("pair not labelled") }}{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+<h2>Alternatives, you probably only need one</h2>
+<p class="aside">These share job ads with {{ skill }} <i>and</i> describe the same
+kind of thing, so the second one adds little.</p>
+{% if substitutes|length == 0 %}
+<p class="empty">Nothing in the data does the same job as {{ skill }}.</p>
+{% else %}
+<table class="skills">
+  <thead><tr><th>Skill</th><th class="n">Asked for together</th><th class="n">Description overlap</th></tr></thead>
+  <tbody>
+  {% for r in substitutes.itertuples() %}
+  <tr>
+    <td><a href="/skills/{{ r.skill_name }}">{{ r.skill_name }}</a></td>
+    <td class="track">{{ bar(r.association * 100) }}<span class="fig">{{ '%.2f'|format(r.association) }}</span></td>
+    <td class="n">{{ '%.2f'|format(r.meaning) }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+<details class="how">
+  <summary>How the split is decided</summary>
+  <p>Two separate signals. <b>Asked for together</b> comes from real job ads: how
+  often the pair appears in one posting, divided by how common each skill is, so
+  it means "unusually often" rather than "common". <b>Description overlap</b>
+  comes from embedding a one-line description of each skill with the name and the
+  vendor stripped out, so the comparison is about what the tool does rather than
+  who makes it.</p>
+  <p>Sharing ads and describing the same kind of thing means substitutes, like
+  PyTorch and TensorFlow. Sharing ads while describing different things means
+  complements, like Docker and Kubernetes. Co-occurrence alone cannot tell these
+  apart, because an ad saying "X and Y" looks identical to one saying "X or Y".</p>
+  <p>The cut is a fixed threshold on description overlap, not a trained model.
+  Three description groups are written identically after the vendor is stripped
+  (AWS, Azure and GCP; PyTorch and TensorFlow; MySQL and PostgreSQL), so those
+  pairs score 1.00 and the embedding did no work on them.</p>
+</details>
+
+<h2>What postings mentioning {{ skill }} paid</h2>
+{% if pay_rows|length == 0 %}
+<p class="empty">{{ skill }} does not clear the bar for a pay figure: fifteen
+employers and twenty-five salaried postings inside one job family.</p>
+{% else %}
+<table>
+  <thead><tr><th>Job family</th><th class="n">Median pay</th><th class="n">Against the family baseline</th><th class="n">Employers</th></tr></thead>
+  <tbody>
+  {% for r in pay_rows.itertuples() %}
+  <tr>
+    <td>{{ r.family_label }}</td>
+    <td class="n">{{ figure(r.median_salary|money, r.jobs_with_salary|count ~ " salaried " ~ r.jobs_with_salary|plural("posting")) }}</td>
+    <td class="n {{ 'up' if r.salary_premium_pct > 0 else 'down' }}">{{ r.salary_premium_pct|signed }}</td>
+    <td class="n">{{ r.companies|count }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="aside">January 2024. One figure per employer, then the median across
+employers, so one large company cannot set the number.</p>
+{% endif %}
+
+<h2>Demand, from the 2024 postings</h2>
+{% if post_rows|length == 0 %}
+<p class="empty">{{ skill }} was not found in the 2024 postings.</p>
+{% else %}
+<table class="skills">
+  <thead><tr><th>Job family</th><th class="n">Postings</th><th>Share of that family</th></tr></thead>
+  <tbody>
+  {% for r in post_rows.itertuples() %}
+  <tr>
+    <td>{{ r.family_label }}</td>
+    <td class="n">{{ r.demand_count|count }}</td>
+    <td class="track">{{ bar(r.demand_pct) }}<span class="fig">{{ r.demand_pct|pct }}</span></td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="aside">The count says how many jobs. The share says how normal the skill
+is in that family, which matters because the families are very different sizes.</p>
+{% endif %}
+
+<h2>Scarcity, from the 2026 index</h2>
+{% if index_rows|length == 0 %}
+<p class="empty">{{ skill }} is not measured by the 2026 index. That is not the
+same as zero demand.</p>
+{% else %}
+<table>
+  <thead><tr><th>Category</th><th class="n">Share of postings</th><th class="n">Days open</th><th class="n">Pay premium</th><th class="n">Scarcity</th></tr></thead>
+  <tbody>
+  {% for r in index_rows.itertuples() %}
+  <tr>
+    <td>{{ r.category }}</td>
+    <td class="n">{{ r.demand_pct|pct }}</td>
+    <td class="n">{% if r.median_days_open is not none %}{{ '%.0f'|format(r.median_days_open) }}{% else %}{{ absent("not measured") }}{% endif %}</td>
+    <td class="n {{ 'up' if r.salary_premium_pct > 0 else 'down' }}">{{ r.salary_premium_pct|signed }}</td>
+    <td class="n">{{ '%.1f'|format(r.scarcity_score) }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="aside">Median of eight daily snapshots taken in July 2026. A skill
+behaves differently in each category, which is why the rows are kept apart rather
+than averaged into one number. A blank in days open means the index recorded a
+zero, which marks missing data rather than a same-day fill.</p>
+{% endif %}
+{% endblock %}

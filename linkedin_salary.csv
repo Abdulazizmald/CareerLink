@@ -1,0 +1,308 @@
+job_family,skill_name,jobs_mentioning,companies,jobs_with_salary,median_salary,salary_premium_pct
+ai,Fine-tuning,73,19,39,192500,26.1
+ai,Scala,156,26,87,180368,18.1
+ai,NLP,248,38,84,176750,15.8
+ai,Hadoop,128,20,30,176250,15.4
+ai,TensorFlow,416,72,141,175000,14.6
+ai,PyTorch,415,71,133,175000,14.6
+ai,Pandas,91,22,28,175000,14.6
+ai,Spark,260,43,81,171254,12.2
+ai,Machine Learning,1180,160,330,171252,12.2
+ai,scikit-learn,165,35,71,171250,12.2
+ai,Databricks,81,15,26,169850,11.2
+ai,Data Visualization,212,36,44,169495,11.0
+ai,C++,303,46,75,168750,10.5
+ai,Deep Learning,449,76,125,167500,9.7
+ai,Snowflake,47,17,26,167500,9.7
+ai,Big Data,228,29,61,167319,9.6
+ai,Azure,222,41,73,167319,9.6
+ai,Tableau,182,30,44,164722,7.9
+ai,Kubernetes,105,20,25,164419,7.7
+ai,Python,1205,165,347,163838,7.3
+ai,AWS,361,60,105,163541,7.1
+ai,Java,281,38,101,163541,7.1
+ai,SQL,524,92,142,160600,5.2
+ai,Linear,94,28,32,150075,-1.7
+ai,Statistical Analysis,201,32,47,143888,-5.8
+ai,Data Analysis,463,88,128,133525,-12.5
+ai,MATLAB,133,24,34,130517,-14.5
+ai,Excel,130,29,54,120500,-21.1
+data,Kafka,374,34,92,164156,46.6
+data,Hive,289,24,71,164150,46.6
+data,Spark,714,65,139,162700,45.3
+data,Scala,426,32,100,160680,43.5
+data,Airflow,290,47,86,159264,42.2
+data,Kubernetes,129,22,29,158700,41.7
+data,Java,539,39,104,151000,34.8
+data,Hadoop,411,43,98,150000,33.9
+data,MySQL,243,29,68,147680,31.9
+data,GCP,249,27,42,147500,31.7
+data,AWS,1018,96,193,146900,31.2
+data,NoSQL,416,42,101,147000,31.2
+data,Redshift,443,48,100,146881,31.1
+data,Data Pipeline,253,31,51,146442,30.8
+data,Docker,111,20,27,146221,30.6
+data,Databricks,352,45,60,145080,29.5
+data,CI/CD,249,32,37,145040,29.5
+data,Big Data,693,76,163,144938,29.4
+data,Git,185,27,30,140400,25.4
+data,DevOps,305,36,46,139375,24.4
+data,Data Warehousing,755,79,146,139050,24.2
+data,Snowflake,722,91,160,138840,24.0
+data,Machine Learning,544,72,120,135750,21.2
+data,dbt,155,30,32,135570,21.0
+data,Data Governance,505,75,93,133850,19.5
+data,Data Modeling,754,117,158,132367,18.2
+data,Azure,947,87,169,130600,16.6
+data,ETL,1380,139,205,127500,13.8
+data,Looker,150,23,29,126000,12.5
+data,Python,1945,221,393,125840,12.4
+data,Unix,259,16,65,124150,10.8
+data,Oracle,422,52,61,118784,6.1
+data,Informatica,232,19,25,117968,5.3
+data,SQL,2908,302,504,115000,2.7
+data,Salesforce,110,23,28,114400,2.1
+data,Data Visualization,713,95,122,112500,0.4
+data,Tableau,1088,146,198,111900,-0.1
+data,Linux,242,18,64,111050,-0.8
+data,SAP,219,33,42,109564,-2.2
+data,Data Analysis,1238,177,239,109000,-2.7
+data,Statistical Analysis,205,33,35,105200,-6.1
+data,SSIS,271,30,36,101249,-9.6
+data,Power BI,1034,126,166,100866,-9.9
+data,SAS,204,27,33,96200,-14.1
+data,Excel,966,146,177,91600,-18.2
+database,Oracle,236,25,27,132500,3.9
+database,SQL,407,45,52,130000,2.0
+design_ux,Prototyping,291,51,64,145000,1.2
+design_ux,User Research,322,59,78,140000,-2.3
+design_ux,Figma,467,83,104,135000,-5.8
+design_ux,JavaScript,136,29,32,135000,-5.8
+design_ux,HTML,191,39,46,130350,-9.0
+design_ux,CSS,198,38,47,127750,-10.9
+devops,Distributed Systems,168,23,35,187000,36.0
+devops,Prometheus,152,23,29,175000,27.3
+devops,Grafana,157,20,27,161915,17.8
+devops,Machine Learning,203,34,55,161509,17.5
+devops,C++,420,52,117,158750,15.5
+devops,Kubernetes,873,105,188,157500,14.5
+devops,GCP,281,50,68,155870,13.4
+devops,MATLAB,367,40,120,153250,11.5
+devops,Microservices,144,21,30,153275,11.5
+devops,Python,1542,159,364,152500,10.9
+devops,Terraform,806,105,186,152500,10.9
+devops,MySQL,129,21,28,152500,10.9
+devops,CI/CD,708,90,146,152375,10.8
+devops,Java,614,60,108,152250,10.7
+devops,Jira,471,43,123,150000,9.1
+devops,Docker,660,86,149,149125,8.5
+devops,Unix,315,39,68,148550,8.0
+devops,Ruby,223,27,44,148555,8.0
+devops,Bash,529,74,115,148402,7.9
+devops,Ansible,655,80,152,147875,7.5
+devops,DevOps,1190,122,248,147250,7.1
+devops,GitLab,240,32,49,147250,7.1
+devops,AWS,1195,143,293,146558,6.6
+devops,Kafka,121,25,28,145600,5.9
+devops,Jenkins,553,59,100,145300,5.7
+devops,JavaScript,281,42,59,145150,5.6
+devops,Linux,1177,124,248,145050,5.5
+devops,GitHub,336,41,61,145000,5.5
+devops,Confluence,232,34,85,144536,5.1
+devops,Git,467,53,98,144072,4.8
+devops,Segment,99,16,52,144000,4.7
+devops,Azure,1069,119,220,142500,3.6
+devops,Prototyping,97,17,26,142350,3.5
+devops,Data Analysis,198,23,47,142300,3.5
+devops,HTML,161,16,26,142350,3.5
+devops,Splunk,165,26,35,142050,3.3
+devops,System Design,662,62,175,140612,2.3
+devops,SQL,649,75,127,140400,2.1
+devops,Firewalls,278,38,53,140000,1.8
+devops,Risk Management,381,39,97,139800,1.7
+devops,Oracle,212,28,31,136280,-0.9
+devops,Windows,945,94,188,130122,-5.4
+devops,PowerShell,512,65,107,130000,-5.5
+devops,Excel,468,50,103,130000,-5.5
+devops,Cybersecurity,403,38,80,130000,-5.5
+devops,Active Directory,416,51,100,127160,-7.5
+devops,VMware,558,60,97,119850,-12.8
+engineering,Snowflake,285,31,81,185000,32.1
+engineering,Linear,117,23,40,180000,28.6
+engineering,Rust,249,53,91,179000,27.9
+engineering,Distributed Systems,586,93,208,178500,27.5
+engineering,Databricks,135,22,40,176625,26.2
+engineering,Deep Learning,139,24,38,176438,26.0
+engineering,Scala,510,44,140,174875,24.9
+engineering,Spark,462,64,125,174375,24.6
+engineering,Airflow,108,22,32,172604,23.3
+engineering,PyTorch,79,18,26,171280,22.3
+engineering,Cassandra,200,27,46,170770,22.0
+engineering,Kotlin,385,63,101,170625,21.9
+engineering,Elasticsearch,282,37,70,170000,21.4
+engineering,Hive,116,17,25,167954,20.0
+engineering,Data Governance,91,21,29,167440,19.6
+engineering,GraphQL,406,61,92,167250,19.5
+engineering,Machine Learning,959,108,225,167000,19.3
+engineering,Helm,84,16,29,164500,17.5
+engineering,Segment,133,19,41,163900,17.1
+engineering,GCP,1075,84,291,163550,16.8
+engineering,Terraform,449,71,118,162448,16.0
+engineering,Kafka,870,100,197,160972,15.0
+engineering,MATLAB,347,40,92,160842,14.9
+engineering,System Design,688,82,140,160500,14.6
+engineering,TypeScript,1723,173,370,160000,14.3
+engineering,DynamoDB,227,35,56,160000,14.3
+engineering,Ruby,354,65,99,159264,13.8
+engineering,Kubernetes,1787,176,418,158750,13.4
+engineering,Big Data,511,51,96,158000,12.9
+engineering,Hadoop,237,29,45,158080,12.9
+engineering,Ansible,354,44,75,157625,12.6
+engineering,Swift,283,47,66,157500,12.5
+engineering,Django,252,48,54,155922,11.4
+engineering,GitHub,793,100,169,155698,11.2
+engineering,AWS,3781,295,751,155397,11.0
+engineering,TensorFlow,106,16,36,155000,10.7
+engineering,Software Architecture,598,84,151,155000,10.7
+engineering,Prototyping,388,49,97,154650,10.5
+engineering,C++,3153,265,809,152500,8.9
+engineering,Flask,172,35,40,151845,8.5
+engineering,React,2681,266,519,151625,8.3
+engineering,Node.js,944,89,194,151368,8.1
+engineering,NoSQL,1156,104,202,151025,7.9
+engineering,Python,4514,391,1076,150000,7.1
+engineering,Risk Management,287,34,74,149430,6.7
+engineering,GitLab,451,60,107,148777,6.3
+engineering,Vue,500,54,81,148787,6.3
+engineering,Java,5023,331,994,148500,6.1
+engineering,Docker,1907,165,392,148450,6.0
+engineering,CI/CD,1869,194,337,147500,5.4
+engineering,Linux,2437,220,574,146950,5.0
+engineering,Redis,397,68,89,146775,4.8
+engineering,Jenkins,1198,96,217,146570,4.7
+engineering,Agile / Scrum,670,68,118,146325,4.5
+engineering,Microservices,1523,132,292,146225,4.4
+engineering,Spring,1460,107,226,144560,3.3
+engineering,Bash,379,38,78,144500,3.2
+engineering,Data Analysis,463,55,90,143750,2.7
+engineering,DevOps,2179,166,308,143482,2.5
+engineering,Jira,1349,112,234,143000,2.1
+engineering,PostgreSQL,645,93,148,142500,1.8
+engineering,Data Visualization,189,38,52,142350,1.7
+engineering,Azure,2887,182,500,141978,1.4
+engineering,MySQL,801,100,168,141978,1.4
+engineering,ServiceNow,216,19,25,141606,1.1
+engineering,MongoDB,612,82,137,141421,1.0
+engineering,Unix,738,71,114,141075,0.8
+engineering,Cybersecurity,483,38,94,141121,0.8
+engineering,REST API,436,42,56,140400,0.3
+engineering,Spring Boot,774,67,107,140400,0.3
+engineering,JavaScript,4252,309,707,140000,0.0
+engineering,CSS,2214,160,347,139900,-0.1
+engineering,Salesforce,448,37,73,138384,-1.2
+engineering,Confluence,519,45,102,137984,-1.4
+engineering,HTML,2275,166,376,137641,-1.7
+engineering,Unit Testing,1144,98,213,137000,-2.1
+engineering,Kanban,282,30,56,135475,-3.2
+engineering,Angular,2037,156,312,135100,-3.5
+engineering,Git,2654,196,379,134988,-3.6
+engineering,Data Warehousing,164,28,39,134368,-4.0
+engineering,Data Modeling,362,51,65,133307,-4.8
+engineering,Tableau,204,34,41,132184,-5.6
+engineering,SQL,5158,353,787,130800,-6.6
+engineering,Active Directory,137,16,28,130730,-6.6
+engineering,Windows,1018,88,176,130278,-6.9
+engineering,Excel,747,91,153,130000,-7.1
+engineering,Oracle,1382,110,188,129480,-7.5
+engineering,XML,949,72,113,129325,-7.6
+engineering,ETL,492,55,70,129402,-7.6
+engineering,PowerShell,262,25,44,128960,-7.9
+engineering,JSON,867,72,113,127475,-8.9
+engineering,jQuery,766,53,71,127400,-9.0
+engineering,.NET,2232,148,227,126490,-9.6
+engineering,SAP,359,28,72,125000,-10.7
+engineering,PHP,499,54,70,115000,-17.9
+engineering,Workday,145,15,35,115000,-17.9
+engineering,Power BI,215,26,27,111940,-20.0
+it_support,Azure,266,29,45,70817,4.9
+it_support,Active Directory,650,64,90,64490,-4.5
+it_support,ServiceNow,160,24,26,63809,-5.5
+it_support,Windows,1065,108,155,63227,-6.3
+it_support,Firewalls,131,15,25,62500,-7.4
+it_support,Excel,279,38,46,62447,-7.5
+network_infra,AWS,439,45,63,135000,22.7
+network_infra,Ansible,236,31,48,130000,18.2
+network_infra,Python,327,49,67,129500,17.7
+network_infra,CISSP,178,31,51,120000,9.1
+network_infra,Firewalls,918,82,158,117349,6.7
+network_infra,Bash,136,21,27,116850,6.2
+network_infra,Splunk,103,17,41,116300,5.7
+network_infra,Linux,665,77,171,116064,5.5
+network_infra,Azure,614,65,117,114400,4.0
+network_infra,Cybersecurity,280,39,66,106050,-3.6
+network_infra,VMware,727,67,177,105000,-4.5
+network_infra,Excel,180,36,42,105000,-4.5
+network_infra,Unix,200,31,71,104000,-5.5
+network_infra,PowerShell,258,26,48,102500,-6.8
+network_infra,SQL,279,44,73,99250,-9.8
+network_infra,Windows,954,96,234,96425,-12.3
+network_infra,Active Directory,575,63,132,92500,-15.9
+product,Machine Learning,157,26,37,153750,34.4
+product,AWS,157,24,32,146550,28.1
+product,Python,203,33,39,126400,10.5
+product,Confluence,274,34,53,124900,9.2
+product,Azure,255,36,42,119698,4.6
+product,Jira,657,70,107,119600,4.5
+product,System Design,141,19,27,117500,2.7
+product,Risk Management,205,28,39,116950,2.2
+product,Data Analysis,639,89,117,114400,0.0
+product,SAP,301,29,38,110000,-3.8
+product,Salesforce,222,29,33,110000,-3.8
+product,Tableau,280,42,48,109270,-4.5
+product,SQL,996,114,142,109174,-4.6
+product,Oracle,265,29,33,109148,-4.6
+product,Agile / Scrum,280,36,53,108362,-5.3
+product,Workday,86,22,25,103962,-9.1
+product,Kanban,179,21,27,102924,-10.0
+product,Power BI,286,31,37,100000,-12.6
+product,Excel,1254,144,207,97360,-14.9
+qa,Confluence,122,17,33,145000,15.9
+qa,Git,170,21,33,145000,15.9
+qa,Data Analysis,217,48,82,142350,13.8
+qa,DevOps,165,18,27,142288,13.7
+qa,Python,553,86,167,141642,13.2
+qa,C++,225,40,66,136910,9.4
+qa,Windows,142,22,33,134250,7.3
+qa,MATLAB,147,30,69,134045,7.1
+qa,Linux,211,36,60,132475,5.9
+qa,Jira,302,32,57,132280,5.7
+qa,Jenkins,149,18,25,132280,5.7
+qa,JavaScript,116,21,25,130000,3.9
+qa,Java,374,35,50,121900,-2.6
+qa,SQL,326,40,47,121559,-2.8
+qa,Excel,182,30,44,114000,-8.9
+security,Kubernetes,82,16,26,164100,25.5
+security,DevOps,140,20,37,163950,25.4
+security,Data Analysis,105,15,35,158000,20.9
+security,Java,144,23,40,157000,20.1
+security,GCP,159,27,48,155550,19.0
+security,SQL,174,23,32,155000,18.6
+security,Bash,129,20,32,152925,17.0
+security,AWS,533,66,144,142425,9.0
+security,Linux,662,59,157,142350,8.9
+security,Unix,167,17,25,142350,8.9
+security,Python,512,58,117,141000,7.9
+security,Azure,580,68,128,138212,5.7
+security,CISSP,1215,110,297,137422,5.1
+security,SIEM,564,63,91,136629,4.5
+security,Windows,668,58,146,135814,3.9
+security,Firewalls,597,68,102,135200,3.4
+security,Penetration Testing,346,50,61,135100,3.4
+security,Cybersecurity,1837,149,395,134100,2.6
+security,PowerShell,224,31,53,132500,1.4
+security,Splunk,348,38,94,132500,1.4
+security,Incident Response,847,106,146,131713,0.8
+security,Risk Management,838,70,200,131713,0.8
+security,VMware,152,16,33,131100,0.3
+security,Active Directory,201,26,40,129975,-0.6
+security,Excel,232,23,57,120000,-8.2

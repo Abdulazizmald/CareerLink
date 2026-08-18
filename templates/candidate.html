@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}{{ candidate.candidate_id }}{% endblock %}
+
+{% block content %}
+<p class="crumb"><a href="/candidates">Candidates</a></p>
+<h1>{{ candidate.candidate_id }}</h1>
+
+<p class="lede">
+  <span class="tag {{ 'tag-synth' if candidate.source == 'llm_generated' else '' }}">{{ "real resume" if candidate.source == "resume_dataset" else "written by a language model" }}</span>
+  Filed by the source under <b>{{ candidate.category }}</b>.
+</p>
+{% if candidate.source == "llm_generated" %}
+<p class="aside">This profile is not a person. It was generated for demonstration
+and its category label came with it, so it cannot be used to measure whether
+matching works.</p>
+{% else %}
+<p class="aside">A real resume from a public dataset. Employer names were already
+redacted at source to "Company Name". Contact details that survived that
+redaction were removed here and are marked in the text.</p>
+{% endif %}
+
+<h2>Skills this project recognised</h2>
+{% if skills|length == 0 %}
+<p class="empty">None. The resume may still describe relevant work: this only
+counts named tools from a fixed list of {{ 176 }} skills, and resume prose
+describes work where a job ad names tools.</p>
+{% else %}
+<ul class="chips">
+  {% for s in skills %}<li><a href="/skills/{{ s }}">{{ s }}</a></li>{% endfor %}
+</ul>
+{% endif %}
+
+<h2>The resume</h2>
+<div class="posting">{{ candidate.resume_text }}</div>
+{% endblock %}

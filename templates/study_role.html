@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent, bar %}
+{% block title %}Study guide: {{ role.role_label }}{% endblock %}
+
+{% block content %}
+<p class="crumb"><a href="/study">Study guide</a> / {{ family_label(role.job_family) }}</p>
+<h1>{{ role.role_label }}</h1>
+
+<h2>1. What the job is</h2>
+<p class="aside">The posting closest to the average of all {{ role.postings|count }},
+so this is the least unusual example rather than whichever came first:
+<b>{{ role.example_title }}</b> at {{ role.example_company }}.</p>
+<div class="posting">{{ role.description }}</div>
+
+<dl class="ledger">
+  <div><dt>Postings</dt><dd>{{ figure(role.postings|count, "Jan 2024") }}</dd></div>
+  <div><dt>Employers hiring</dt><dd>{{ figure(role.companies|count, "distinct " ~ role.companies|plural("company","companies")) }}</dd></div>
+  <div><dt>Median pay</dt>
+    <dd>{% if role.median_salary|money %}{{ figure(role.median_salary|money, role.salary_companies|count ~ " " ~ role.salary_companies|plural("employer")) }}
+    {% else %}{{ absent(pay_basis(role.salary_companies)) }}{% endif %}</dd></div>
+</dl>
+
+<h2>2. What to learn, in order</h2>
+{% if plan|length == 0 %}
+<p class="empty">No skills were found in this role's postings, so there is nothing
+to sequence.</p>
+{% else %}
+<p class="aside">The order is the data, not an opinion. A skill asked for by 70% of
+this role's postings comes before one asked for by 12%. Nothing is recommended
+that these postings did not ask for.</p>
+{% for step in plan %}
+<div class="step">
+  <h3>{{ loop.index }}. {{ step.title }}</h3>
+  <p class="aside">{{ step.why }}</p>
+  <table class="skills">
+    <tbody>
+    {% for s in step.skills %}
+    <tr>
+      <td><a href="/skills/{{ s.skill_name }}">{{ s.skill_name }}</a></td>
+      <td class="track">{{ bar(s.share_pct) }}<span class="fig">{{ s.share_pct|pct }}</span></td>
+      <td class="n"><a class="tiny" href="{{ youtube(s.skill_name ~ ' tutorial') }}"
+        target="_blank" rel="noopener">videos</a>
+        <a class="tiny" href="{{ books(s.skill_name) }}"
+        target="_blank" rel="noopener">books</a></td>
+    </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endfor %}
+{% endif %}
+
+<h2>3. Material for the role itself</h2>
+<p class="aside">These open a real search rather than a curated list. A link built
+from a search query cannot go stale or point at a video that was taken down, and
+nothing here is a URL this project invented.</p>
+<p class="links">
+  <a class="go" href="{{ youtube(role.role_label ~ ' career guide') }}" target="_blank" rel="noopener">Videos on YouTube</a>
+  <a class="go" href="{{ books(role.role_label) }}" target="_blank" rel="noopener">Books on Google Books</a>
+  <a class="go" href="/jobs?q={{ role.role_label|urlencode }}">Open jobs like this</a>
+</p>
+
+<h2>4. Certifications worth having</h2>
+{% if certs|length == 0 %}
+<p class="empty">No certifications are listed for {{ family_label(role.job_family) }} yet.</p>
+{% else %}
+<p class="aside">A hand-checked list, easiest first. Nothing here was generated.</p>
+<table>
+  <thead><tr><th>Certification</th><th>Provider</th><th>Level</th><th>What it covers</th></tr></thead>
+  <tbody>
+  {% for c in certs %}
+  <tr><td>{{ c.name }}</td><td class="dim">{{ c.provider }}</td>
+    <td><span class="tag">{{ c.level }}</span></td><td class="dim">{{ c.focus }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% if cert_gone|length %}
+<p class="aside"><b>Left off the list above.</b>
+{% for g in cert_gone %}{{ g.name }} &mdash; {{ g.status }}. {% endfor %}
+Certification programmes change, so this file carries a status per row.</p>
+{% endif %}
+
+{% if siblings|length %}
+<h2>Related roles</h2>
+<ul class="chips">
+  {% for s in siblings.itertuples() %}
+  <li><a href="/study/{{ s.role }}">{{ s.role_label }}<span>{{ s.postings|count }}</span></a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

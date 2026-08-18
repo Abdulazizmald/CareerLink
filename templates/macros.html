@@ -1,0 +1,89 @@
+{#
+  Macros for printing a number. Kept out of base.html because importing from a
+  template also runs its top level, and base.html is the layout.
+
+  These exist because this site's one job is never to state a figure without its
+  evidence. figure() prints a value above the sample it rests on. absent() prints
+  a dashed rule and the reason. Every number goes through one of the two, so a
+  suppressed median cannot leak out as a blank cell that reads as zero.
+#}
+{% macro figure(value, basis=None) %}
+  {%- if value is none -%}
+    {{ absent(basis or "not measured") }}
+  {%- else -%}
+    <span class="fig">{{ value }}{% if basis %}<span class="basis">{{ basis }}</span>{% endif %}</span>
+  {%- endif -%}
+{% endmacro %}
+
+{% macro absent(reason) %}
+  <span class="fig fig-absent" title="{{ reason }}"><span class="dash"></span><span class="basis">{{ reason }}</span></span>
+{% endmacro %}
+
+{% macro bar(share) %}
+  <span class="bar" style="--w: {{ '%.1f'|format(share) }}%"><i></i></span>
+{% endmacro %}
+
+{#
+  Charts, as inline SVG. No chart library on purpose.
+
+  Chart.js and its peers default to a plotted frame, gridlines, a legend and
+  hover tooltips. Every one of those is ink that carries no data, which is the
+  definition of chartjunk, and a legend forces the eye to jump between the key
+  and the mark instead of reading the mark directly.
+
+  So: one baseline rule, direct labels on the marks, no frame, no grid, no
+  legend. Cleveland and McGill ranked graphical perception tasks and put
+  position on a common scale first and length second, with angle and area far
+  behind, which is why everything here is a bar or a dot and there is no pie
+  anywhere in this project.
+#}
+
+{# Horizontal bars. Length from a common zero, sorted, value labelled on the
+   mark. Sorting is not cosmetic: an unordered bar chart makes the reader do the
+   ranking themselves. #}
+{% macro hbars(rows, max_value, unit="") %}
+<div class="chart">
+  {% for r in rows %}
+  <div class="row">
+    <span class="key">{{ r.label }}</span>
+    <span class="plot"><i style="--w: {{ '%.2f'|format(100 * r.value / max_value) }}%"></i></span>
+    <span class="val">{{ r.display }}{{ unit }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endmacro %}
+
+{# A dot on a common 0..max scale. Used where the quantity is a rate or a level
+   rather than a count, because a bar from zero implies the zero is meaningful
+   and for a median salary it is not. #}
+{% macro dots(rows, max_value, unit="") %}
+<div class="chart chart-dot">
+  {% for r in rows %}
+  <div class="row">
+    <span class="key">{{ r.label }}</span>
+    <span class="plot">
+      {% if r.value is not none %}
+      <b style="--x: {{ '%.2f'|format(100 * r.value / max_value) }}%"></b>
+      {% else %}<em class="nodata">not measured</em>{% endif %}
+    </span>
+    <span class="val">{% if r.value is not none %}{{ r.display }}{{ unit }}{% else %}&ndash;{% endif %}</span>
+    <span class="basis">{{ r.basis }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endmacro %}
+
+{# Two rates side by side on one scale. The whole point of the panel is the gap
+   between them, so they share an axis and the gap is stated in words too. #}
+{% macro compare(a_label, a_value, b_label, b_value, unit="%") %}
+<div class="chart chart-compare">
+  {% for it in [(a_label, a_value, true), (b_label, b_value, false)] %}
+  <div class="row">
+    <span class="key">{{ it[0] }}</span>
+    <span class="plot"><i class="{{ 'hi' if it[2] else 'lo' }}"
+      style="--w: {{ '%.2f'|format(it[1]) }}%"></i></span>
+    <span class="val">{{ '%.1f'|format(it[1]) }}{{ unit }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endmacro %}

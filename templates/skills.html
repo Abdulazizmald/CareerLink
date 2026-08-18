@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Skills{% endblock %}
+
+{% block content %}
+<h1>Skills</h1>
+<p class="lede">{{ total }} skills. Each is measured by up to two sources that do
+not share a taxonomy, so the two counts below are reported side by side and never
+added together.</p>
+
+<form class="filters" method="get" action="/skills">
+  <label>Category
+    <select name="category">
+      <option value="">all</option>
+      {% for c in categories %}
+      <option value="{{ c }}" {% if c == category %}selected{% endif %}>{{ c }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Skill
+    <select name="skill">
+      <option value="">pick one for its five closest</option>
+      {% for s in all_skills %}
+      <option value="{{ s }}" {% if s == skill %}selected{% endif %}>{{ s }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Or type a fragment
+    <input type="search" name="q" value="{{ q }}" placeholder="kubernetes, k8s, excel">
+  </label>
+  <button type="submit">Show</button>
+  {% if q or category or skill %}<a class="clear" href="/skills">Clear</a>{% endif %}
+</form>
+<p class="aside">The category list comes from the 2026 index, which measures 141
+skills across 6 categories. Choosing one narrows the skill dropdown to skills that
+index actually measures there.</p>
+
+{% if skill %}
+<h2>The five skills closest to {{ skill }}</h2>
+<p class="aside">Ranked by how often they share a job advert with {{ skill }},
+divided by how common each is, so this means "asked for together unusually often"
+rather than "common". Each is labelled by whether it does a different job from
+{{ skill }} or the same one.</p>
+{% if related|length == 0 %}
+<p class="empty">No co-occurrence data for {{ skill }}.</p>
+{% else %}
+<table class="skills">
+  <thead><tr><th>Skill</th><th class="n">Asked for together</th>
+    <th>Relationship</th><th class="n">Description overlap</th></tr></thead>
+  <tbody>
+  {% for r in related %}
+  <tr>
+    <td><a href="/skills/{{ r.skill_name }}">{{ r.skill_name }}</a></td>
+    <td class="n">{{ '%.2f'|format(r.association) }}</td>
+    <td>{% if r.relation == "complements" %}<span class="tag">learn next</span>
+        {% else %}<span class="tag tag-synth">alternative, pick one</span>{% endif %}</td>
+    <td class="n">{% if r.meaning is not none %}{{ '%.2f'|format(r.meaning) }}{% else %}{{ absent("not labelled") }}{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="links"><a class="go" href="/skills/{{ skill }}">Full page for {{ skill }}</a></p>
+{% endif %}
+{% endif %}
+
+{% if rows|length == 0 %}
+<p class="empty">Nothing matches "{{ q }}". Try a shorter fragment, or an alias
+like k8s or postgres.</p>
+{% else %}
+<p class="count">Showing {{ rows|length }} of {{ total }}</p>
+<table>
+  <thead><tr>
+    <th>Skill</th><th class="n">Postings asking for it</th>
+    <th class="n">2026 index categories</th><th class="n">2024 job families</th>
+  </tr></thead>
+  <tbody>
+  {% for r in rows.itertuples() %}
+  <tr>
+    <td><a href="/skills/{{ r.skill_name }}">{{ r.label }}</a></td>
+    <td class="n">{% if r.postings %}{{ r.postings|count }}{% else %}{{ absent("not found in postings") }}{% endif %}</td>
+    <td class="n">{% if r.categories %}{{ r.categories }} of 6{% else %}{{ absent("not in the 2026 index") }}{% endif %}</td>
+    <td class="n">{% if r.families %}{{ r.families }} of 11{% else %}{{ absent("not found in postings") }}{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}

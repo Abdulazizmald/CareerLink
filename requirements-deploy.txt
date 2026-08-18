@@ -1,0 +1,12 @@
+# What the live server actually imports, and nothing else. Checked by walking
+# the import graph from main.py/api.py/data.py/queries.py/context.py -- see
+# README-deploy.md. sentence-transformers, torch and scikit-learn's other
+# uses are all in the one-time build_*.py scripts, not the serving path, so
+# they're deliberately left out here to keep the deploy install fast.
+fastapi
+uvicorn[standard]
+jinja2
+pandas
+numpy
+scikit-learn          # context.py: TfidfVectorizer, for role/candidate search
+requests               # learn.py: the YouTube and Google Books calls

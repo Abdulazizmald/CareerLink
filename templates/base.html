@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Skill and Job Recommender{% endblock %}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Public+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header class="rail">
+  <a class="mark" href="/">Skill&nbsp;&amp;&nbsp;Job<span>Find work. Learn what pays.</span></a>
+  {# Five tabs, grouped by who they are for. The dashboard sits outside both
+     groups because it describes the data rather than serving either side. #}
+  <nav>
+    <a href="/">Home</a>
+    <span class="side">Job seekers</span>
+    <a href="/study">Study guide</a>
+    <a href="/jobs">Jobs</a>
+    <a href="/skills">Skills</a>
+    <span class="side">Recruiters</span>
+    <a href="/hiring">Market</a>
+    <a href="/candidates">Candidates</a>
+  </nav>
+</header>
+
+<main>
+{% block content %}{% endblock %}
+</main>
+
+<footer>
+  <div class="inner">
+    <p>Built on 58,954 real job adverts from January 2024 and a 2026 index of 141
+    skills. A dotted line means the advert did not say, not that the answer is zero.</p>
+    <p><a href="/analysis">How this data was checked</a><br>
+    Method, gaps, and what they stop the site from claiming.</p>
+  </div>
+</footer>
+
+</body>
+</html>

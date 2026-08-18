@@ -1,0 +1,72 @@
+job_family,name,provider,level,focus,status,url
+it_support,CompTIA A+,CompTIA,entry,"Hardware, operating systems, and first-line troubleshooting",current,https://www.comptia.org/certifications/a
+it_support,ITIL 4 Foundation,PeopleCert,entry,"Service management vocabulary and process, the one most help-desk adverts name",current,https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565
+it_support,Microsoft Certified: Azure Fundamentals (AZ-900),Microsoft,entry,Cloud concepts and Azure basics,current,https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
+it_support,CompTIA Network+,CompTIA,entry,"Networking fundamentals, useful before moving off the help desk",current,https://www.comptia.org/certifications/network
+it_support,HDI Support Center Analyst,HDI,entry,Customer-facing support process and escalation,current,https://www.thinkhdi.com/education/courses/hdi-support-center-analyst-new-version
+network_infra,Cisco CCNA,Cisco,associate,"Routing, switching, IP services, the default network credential",current,https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ccna/index.html
+network_infra,Cisco CCNP Enterprise,Cisco,professional,Advanced enterprise routing and switching design,current,https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/index.html
+network_infra,CompTIA Network+,CompTIA,entry,Vendor-neutral networking fundamentals,current,https://www.comptia.org/certifications/network
+network_infra,Red Hat Certified System Administrator (RHCSA),Red Hat,associate,"Linux administration, tested by doing rather than by multiple choice",current,https://www.redhat.com/en/services/certification/rhcsa
+network_infra,Microsoft Certified: Azure Administrator Associate (AZ-104),Microsoft,associate,Running Azure infrastructure day to day,current,https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/
+network_infra,"VMware Certified Professional, Data Center Virtualization",Broadcom,professional,vSphere virtualisation in enterprise data centres,current,https://www.broadcom.com/support/vmware/education/certification/vcp-dcv
+security,CompTIA Security+,CompTIA,entry,"The baseline security credential, and a US DoD 8570 requirement",current,https://www.comptia.org/certifications/security
+security,(ISC)2 Certified in Cybersecurity (CC),(ISC)2,entry,"Entry-level security concepts, aimed at career changers",current,https://www.isc2.org/certifications/cc
+security,(ISC)2 CISSP,(ISC)2,expert,Broad security management; needs five years of experience,current,https://www.isc2.org/certifications/cissp
+security,CompTIA CySA+,CompTIA,associate,"Detection and response, aimed at SOC analyst work",current,https://www.comptia.org/certifications/cybersecurity-analyst
+security,CompTIA PenTest+,CompTIA,associate,Penetration testing methodology and reporting,current,https://www.comptia.org/certifications/pentest
+security,OffSec Certified Professional (OSCP),OffSec,professional,Hands-on exploitation in a 24-hour practical exam,current,https://www.offsec.com/courses/pen-200/
+security,GIAC Security Essentials (GSEC),SANS/GIAC,associate,Broad technical security; expensive but well regarded,current,https://www.giac.org/certifications/security-essentials-gsec/
+security,ISACA CISA,ISACA,professional,"IT audit and controls, common in banking and compliance roles",current,https://www.isaca.org/credentialing/cisa
+security,ISACA CISM,ISACA,professional,Security management and governance rather than hands-on work,current,https://www.isaca.org/credentialing/cism
+security,EC-Council CEH,EC-Council,associate,"Offensive security concepts; widely listed by HR, mixed reputation among practitioners",current,https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/
+security,Microsoft Certified: Security Operations Analyst Associate (SC-200),Microsoft,associate,Threat detection with Microsoft Sentinel and Defender,current,https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/
+security,Microsoft Certified: Azure Security Engineer Associate (AZ-500),Microsoft,associate,Securing Azure workloads,"retiring 31 Aug 2026, replaced by SC-500",https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/
+security,"AWS Certified Security, Specialty",AWS,professional,"Securing AWS accounts, data and workloads",current,https://aws.amazon.com/certification/certified-security-specialty/
+devops,Certified Kubernetes Administrator (CKA),CNCF,associate,"Running Kubernetes clusters, entirely hands-on",current,https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+devops,Certified Kubernetes Application Developer (CKAD),CNCF,associate,Building and deploying applications on Kubernetes,current,https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+devops,Certified Kubernetes Security Specialist (CKS),CNCF,professional,Hardening clusters; requires a valid CKA first,current,https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/
+devops,HashiCorp Certified: Terraform Associate,HashiCorp,associate,Infrastructure as code with Terraform,current,https://developer.hashicorp.com/certifications/infrastructure-automation
+devops,"AWS Certified Solutions Architect, Associate",AWS,associate,"Designing AWS systems, the most widely requested cloud credential",current,https://aws.amazon.com/certification/certified-solutions-architect-associate/
+devops,"AWS Certified DevOps Engineer, Professional",AWS,professional,"CI/CD, monitoring and automation on AWS",current,https://aws.amazon.com/certification/certified-devops-engineer-professional/
+devops,Microsoft Certified: DevOps Engineer Expert (AZ-400),Microsoft,expert,Azure DevOps pipelines and practices; needs AZ-104 or AZ-204 first,current,https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/
+devops,Google Cloud Professional Cloud DevOps Engineer,Google Cloud,professional,SRE practice and delivery pipelines on GCP,current,https://cloud.google.com/learn/certification/cloud-devops-engineer
+devops,Red Hat Certified Engineer (RHCE),Red Hat,professional,Linux automation with Ansible; requires RHCSA,current,https://www.redhat.com/en/services/certification/rhce
+devops,CompTIA Linux+,CompTIA,entry,Vendor-neutral Linux fundamentals,current,https://www.comptia.org/certifications/linux
+data,Microsoft Certified: Power BI Data Analyst Associate (PL-300),Microsoft,associate,Modelling and visualising data in Power BI,current,https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst/
+data,Tableau Desktop Specialist,Tableau,entry,"Core Tableau skills, no expiry",current,https://www.tableau.com/learn/certification/desktop-specialist
+data,Google Cloud Professional Data Engineer,Google Cloud,professional,Designing data pipelines and warehouses on GCP,current,https://cloud.google.com/learn/certification/data-engineer
+data,"AWS Certified Data Engineer, Associate",AWS,associate,"Pipelines, storage and transformation on AWS",current,https://aws.amazon.com/certification/certified-data-engineer-associate/
+data,Databricks Certified Data Engineer Associate,Databricks,associate,Spark and Delta Lake pipelines on Databricks,current,https://www.databricks.com/learn/certification/data-engineer-associate
+data,SnowPro Core,Snowflake,associate,"Snowflake architecture, loading and querying",current,https://www.snowflake.com/en/certifications/snowpro-core/
+data,CompTIA Data+,CompTIA,entry,Vendor-neutral analytics fundamentals and reporting,current,https://www.comptia.org/certifications/data
+ai,"AWS Certified Machine Learning Engineer, Associate",AWS,associate,Building and operating ML systems on AWS,current,https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/
+ai,Google Cloud Professional Machine Learning Engineer,Google Cloud,professional,ML system design and productionisation on GCP,current,https://cloud.google.com/learn/certification/machine-learning-engineer
+ai,Databricks Certified Machine Learning Associate,Databricks,associate,ML workflows and MLflow on Databricks,current,https://www.databricks.com/learn/certification/machine-learning-associate
+ai,AWS Certified AI Practitioner,AWS,entry,"Generative AI and ML concepts, non-engineering",current,https://aws.amazon.com/certification/certified-ai-practitioner/
+ai,NVIDIA-Certified Associate: Generative AI LLMs,NVIDIA,associate,LLM fundamentals and deployment,current,https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/
+ai,Microsoft Certified: Azure Data Scientist Associate (DP-100),Microsoft,associate,ML on Azure Machine Learning,"retired 1 Jun 2026, replaced by AI-300 (MLOps Engineer Associate)",https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/
+ai,Microsoft Certified: Azure AI Engineer Associate (AI-102),Microsoft,associate,Azure AI services integration,"retired 30 Jun 2026, replaced by AI-103 (AI App and Agent Developer)",https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/
+engineering,Oracle Certified Professional: Java SE Developer,Oracle,professional,Core Java language and libraries,current,https://education.oracle.com/java-certification
+engineering,"AWS Certified Developer, Associate",AWS,associate,Writing and deploying applications against AWS services,current,https://aws.amazon.com/certification/certified-developer-associate/
+engineering,PCAP: Certified Associate in Python Programming,Python Institute,associate,"Python language fundamentals, vendor-neutral",current,https://pythoninstitute.org/pcap
+engineering,Microsoft Certified: Azure Developer Associate (AZ-204),Microsoft,associate,Building applications on Azure,"retiring 31 Jul 2026, replaced by AI-200 (Azure AI Cloud Developer)",https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/
+engineering,The Open Group TOGAF Enterprise Architecture Foundation,The Open Group,associate,"Enterprise architecture method, relevant to architect titles",current,https://www.opengroup.org/certifications/togaf
+engineering,Google Associate Android Developer,Google,associate,Android application development,current,https://developers.google.com/certification/associate-android-developer
+qa,ISTQB Certified Tester Foundation Level,ISTQB,entry,"Test design, process and terminology; the standard QA credential",current,https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/
+qa,"ISTQB Certified Tester, Advanced Level Test Automation Engineer",ISTQB,professional,Designing and maintaining automation frameworks,current,https://istqb.org/certifications/certified-tester-advanced-level-test-automation-engineering-ctal-tae-v2-0/
+qa,ISTQB Certified Tester Foundation Level Agile Tester,ISTQB,entry,Testing inside Scrum teams,current,https://istqb.org/certifications/
+product,Professional Scrum Master I (PSM I),Scrum.org,entry,Scrum framework and the Scrum Master role; no renewal fee,current,https://www.scrum.org/professional-scrum-master-i-certification
+product,Certified ScrumMaster (CSM),Scrum Alliance,entry,Scrum with a mandatory two-day course,current,https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster
+product,IIBA Entry Certificate in Business Analysis (ECBA),IIBA,entry,"Business analysis fundamentals, no experience needed",current,https://www.iiba.org/business-analysis-certifications/ecba/
+product,IIBA Certified Business Analysis Professional (CBAP),IIBA,professional,"Senior business analysis; needs 7,500 hours of experience",current,https://www.iiba.org/business-analysis-certifications/cbap/
+product,PMI Project Management Professional (PMP),PMI,professional,Project management; needs documented project hours,current,https://www.pmi.org/certifications/project-management-pmp
+product,PMI Professional in Business Analysis (PMI-PBA),PMI,professional,Requirements and business analysis within projects,current,https://www.pmi.org/certifications/business-analysis-pba
+design_ux,Nielsen Norman Group UX Certification,Nielsen Norman Group,professional,"Research and design practice, taught by course modules",current,https://www.nngroup.com/ux-certification/
+design_ux,Google UX Design Professional Certificate,Google,entry,"Portfolio-led introduction to UX, delivered on Coursera",current,https://grow.google/certificates/ux-design/
+design_ux,Adobe Certified Professional,Adobe,entry,Tool proficiency in Adobe design applications,current,https://certifiedprofessional.adobe.com/en/home
+design_ux,Human Factors International Certified Usability Analyst,HFI,professional,Usability method and evaluation,current,https://humanfactors.com/hfi-training/cua_exam.asp
+database,Oracle Database Administration Certified Professional,Oracle,professional,Oracle DBA operations and tuning,current,https://education.oracle.com/oracle-database-certifications
+database,Microsoft Certified: Azure Database Administrator Associate (DP-300),Microsoft,associate,Running SQL Server and Azure SQL,current,https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/
+database,MongoDB Associate Database Administrator,MongoDB,associate,Operating MongoDB deployments,current,https://learn.mongodb.com/pages/mongodb-associate-database-administrator-exam
+database,PostgreSQL Certified Associate,EDB,associate,PostgreSQL administration fundamentals,current,https://www.enterprisedb.com/training/certification-exams

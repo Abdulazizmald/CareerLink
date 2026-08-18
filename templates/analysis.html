@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent, hbars, dots, compare %}
+{% block title %}How this data was checked{% endblock %}
+
+{% block content %}
+{#
+  Visual hierarchy, top to bottom: what was measured, what it shows, why the gaps
+  are there, and what that stops you doing. Descriptive first, then diagnostic,
+  because "why" is not a question until you have seen the "what".
+#}
+<section class="page-head">
+  <p class="eyebrow">Method and limitations</p>
+  <h1>How this data was checked</h1>
+  <p class="lede">The rest of the site shows what the job market looks like. This
+  page shows the working: what was measured, where the gaps are, what causes them,
+  and what they stop the site from claiming. Written for anyone who wants to know
+  whether to trust the numbers.</p>
+</section>
+
+<h2>1. What was measured</h2>
+<p class="aside">Each figure carries the sample it rests on and what it gates.
+A coverage percentage on its own is not actionable: 26.6% only means something
+once you know it blanks the pay median for 296 roles.</p>
+<dl class="ledger kpi">
+  {% for k in kpis %}
+  <div>
+    <dt>{{ k.label }}</dt>
+    <dd>{{ figure(k.value, k.basis) }}</dd>
+    <p class="gate">{{ k.gates }}</p>
+  </div>
+  {% endfor %}
+</dl>
+
+<h2>2. The market, by job family</h2>
+<p class="aside">Counts, so bars from a common zero. Sorted, because an unordered
+bar chart leaves the reader to do the ranking.</p>
+{{ hbars(fam_postings, fam_postings_max, "") }}
+
+<h3>Median pay</h3>
+<p class="aside">Dots rather than bars. A bar from zero implies zero is a
+meaningful value, and a salary of nothing is not a salary. The count beside each
+dot is how many postings disclosed pay in that family, which is what the dot is
+actually built on.</p>
+{{ dots(fam_pay, fam_pay_max, "") }}
+
+<h3>Remote share, among postings that said</h3>
+<p class="aside">Computed only over the {{ '%.0f'|format(worksite_coverage) }}% of
+postings that stated a worksite. Including the silent ones would count them as
+onsite and manufacture a result.</p>
+{{ dots(fam_remote, 100, "%") }}
+
+<h2>3. Why the pay is missing</h2>
+<p class="aside">Not a guess. If disclosure is driven by pay transparency law,
+states that had a posting mandate in force in January 2024 should disclose far
+more often than states without one. That is a testable claim, so here is the
+test.</p>
+
+{{ compare("States with a posting mandate", state.mandate_pct,
+           "States without one", state.other_pct) }}
+
+<p class="finding"><b>{{ state.ratio }}x more likely to disclose.</b>
+{{ state.mandate_pct }}% across {{ state.mandate_n|count }} postings in
+{{ state.mandate_states|join(", ") }}, against {{ state.other_pct }}% across
+{{ state.other_n|count }} postings elsewhere. All
+{{ state.in_top10 }} mandate states appear in the top ten by disclosure rate.</p>
+
+<h3>Top ten states by disclosure rate</h3>
+{{ dots(state_top, 60, "%") }}
+
+<p class="aside"><b>Where this explanation is incomplete.</b> New Hampshire tops
+the list at 55.6% with no mandate at all, and Montana and Connecticut also beat
+two mandate states. New Hampshire's sample is 311 postings, so it is thin, but it
+is not nothing. The law explains most of the pattern, not all of it. Company size,
+industry and remote-posting practice are untested here.</p>
+<p class="aside">{{ state.unparsed|count }} of {{ (state.parsed + state.unparsed)|count }}
+postings carry a region, a metro area or a non-US location instead of "City, ST",
+so they are excluded rather than assigned a state.</p>
+
+<h2>4. Why one employer can look like a hiring boom</h2>
+<p class="aside">{{ repost.repeat_pct }}% of postings repeat a job already counted:
+{{ repost.repeats|count }} rows across {{ repost.repeated_pairs|count }} repeated
+title-and-company pairs.</p>
+<table>
+  <thead><tr><th>Title</th><th>Company</th><th class="n">Times posted</th></tr></thead>
+  <tbody>
+  {% for w in repost.worst %}
+  <tr><td>{{ w.title }}</td><td class="dim">{{ w.company }}</td>
+    <td class="n">{{ w.times }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="finding"><b>One cause, two separate data problems.</b> The worst
+offender is a clothing retailer posting a checkout supervisor job 452 times. That
+inflated the posting count, and because "front end" reads as technical, it also
+put a retail role into the software engineering family. The taxonomy fix removes
+the misfiling; only counting distinct adverts removes the inflation. Neither fix
+alone was enough.</p>
+
+<h2>5. The level label is missing at scale</h2>
+<p class="aside">Seniority is read from the job title and never from the
+description, because job ads are full of "lead a team" and "reports to the
+manager". The cost of that decision is {{ missing.total|count }} postings with no
+level, and the cost is not spread evenly.</p>
+{{ dots(level_rows, 60, "%") }}
+<p class="finding"><b>Over half of IT support postings carry no level.</b>
+{% if missing.exceeding %}And in {{ missing.exceeding|join(", ") }}, unlabelled
+postings show a <i>higher</i> median than ones labelled senior, which is the
+signature of a missing label rather than a real level. It is the only family where
+that happens, so this is one anomaly and not a general pattern.{% endif %}
+This is the case for training a model to read the level out of the description
+text: the label comes from the title, the evidence comes from the body, and a
+third of the market is currently unreachable by any filter.</p>
+
+<h2>6. Data quality assessment</h2>
+<p class="aside">Completeness is only half of it. The other half is what a blank
+means, because almost every chart treats "unknown" and "zero" identically and
+that is where wrong conclusions come from.</p>
+<table>
+  <thead><tr><th>Field</th><th>In</th><th class="n">Complete</th>
+    <th>A blank means</th><th>What it blocks</th></tr></thead>
+  <tbody>
+  {% for d in quality %}
+  <tr>
+    <td><code>{{ d.field }}</code></td>
+    <td class="dim">{{ d.where }}</td>
+    <td class="n">{{ d.complete }}%</td>
+    <td class="dim">{{ d.means }}</td>
+    <td class="dim">{{ d.blocks }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<h2>7. The weakest claim in this project</h2>
+<p class="aside">Stated here rather than buried, because a dashboard that only
+reports what worked is advertising.</p>
+<p class="finding">The complement and substitute classifier labels
+{{ subs.substitutes }} of {{ subs.total|count }} skill pairs as substitutes, which
+is {{ subs.pct }}%. A model that answered "complements" every single time would
+score {{ subs.majority_baseline }}%, so headline accuracy is not the interesting
+number here and should not be quoted. Three description groups are also written
+identically once the vendor name is stripped, so those pairs score a perfect 1.00
+and the embedding did no work on them.
+<a href="/skills/Tableau">See the split on a real skill</a>.</p>
+{% endblock %}

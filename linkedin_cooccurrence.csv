@@ -1,0 +1,7706 @@
+skill_a,skill_b,count
+Python,SQL,6495
+Java,Python,5482
+Agile / Scrum,Python,4902
+Agile / Scrum,SQL,4892
+AWS,Python,4866
+Agile / Scrum,Java,4520
+Java,SQL,4329
+Docker,Kubernetes,4133
+AWS,Azure,4062
+AWS,Agile / Scrum,4003
+Data Analysis,SQL,3846
+AWS,Java,3806
+AWS,SQL,3755
+Azure,Python,3733
+HTML,JavaScript,3718
+Machine Learning,Python,3501
+Kubernetes,Python,3449
+Azure,SQL,3421
+Docker,Python,3324
+Agile / Scrum,Azure,3259
+Agile / Scrum,JavaScript,3254
+Data Analysis,Python,3213
+AWS,Kubernetes,3160
+AWS,Docker,3111
+Go,Python,3057
+JavaScript,SQL,3029
+Java,JavaScript,2996
+AWS,GCP,2920
+C++,Python,2914
+Azure,GCP,2798
+JavaScript,Python,2685
+Java,Kubernetes,2670
+Docker,Java,2662
+DevOps,Python,2638
+NoSQL,SQL,2626
+NoSQL,Python,2600
+Agile / Scrum,DevOps,2563
+CSS,HTML,2552
+Agile / Scrum,Docker,2535
+Docker,SQL,2474
+Azure,Java,2464
+Agile / Scrum,Kubernetes,2441
+CSS,JavaScript,2439
+CI/CD,Python,2432
+Data Analysis,Data Visualization,2375
+Azure,DevOps,2366
+Kubernetes,SQL,2360
+Java,NoSQL,2354
+Linux,Python,2347
+JavaScript,React,2230
+GCP,Python,2209
+AWS,NoSQL,2171
+Agile / Scrum,NoSQL,2164
+AWS,JavaScript,2153
+Agile / Scrum,HTML,2147
+Data Visualization,SQL,2133
+HTML,SQL,2108
+CI/CD,DevOps,2107
+Agile / Scrum,CI/CD,2102
+Go,Java,2093
+Go,Kubernetes,2088
+JavaScript,TypeScript,2065
+AWS,Go,2042
+Azure,Kubernetes,2037
+Azure,JavaScript,1988
+AWS,DevOps,1969
+Agile / Scrum,Data Analysis,1951
+Linux,Windows,1930
+Machine Learning,SQL,1923
+Agile / Scrum,Jira,1918
+DevOps,SQL,1916
+SQL,Tableau,1909
+Python,Spark,1901
+Azure,Docker,1869
+Java,Microservices,1845
+Docker,Go,1843
+Git,Python,1837
+Agile / Scrum,Git,1835
+C++,Java,1817
+HTML,Java,1807
+Python,Scala,1780
+Data Visualization,Python,1777
+Power BI,SQL,1770
+C#,SQL,1751
+Data Analysis,Machine Learning,1748
+Kubernetes,NoSQL,1739
+AWS,CI/CD,1738
+Docker,JavaScript,1713
+Docker,NoSQL,1701
+Go,SQL,1696
+CI/CD,Kubernetes,1679
+Agile / Scrum,Microservices,1669
+Git,SQL,1668
+GCP,Java,1666
+Agile / Scrum,Go,1646
+Angular,JavaScript,1645
+Data Analysis,Tableau,1642
+CI/CD,Java,1635
+DevOps,Kubernetes,1620
+Python,R,1614
+Agile / Scrum,TypeScript,1614
+AWS,Microservices,1610
+AWS,Node.js,1603
+Agile / Scrum,GCP,1594
+Python,Terraform,1588
+DevOps,Java,1582
+Java,Scala,1581
+JavaScript,Kubernetes,1561
+Agile / Scrum,Node.js,1556
+GCP,SQL,1549
+Active Directory,Windows,1532
+Data Analysis,Power BI,1530
+Agile / Scrum,React,1526
+CI/CD,SQL,1522
+Azure,CI/CD,1515
+AWS,TypeScript,1506
+CI/CD,Docker,1501
+Kubernetes,Microservices,1488
+Data Modeling,SQL,1485
+HTML,React,1481
+Git,JavaScript,1467
+Python,Tableau,1451
+Azure,NoSQL,1446
+Git,Java,1443
+DevOps,Docker,1443
+Microservices,SQL,1440
+Agile / Scrum,REST API,1434
+Java,Machine Learning,1434
+Python,Windows,1431
+Confluence,Jira,1422
+Agile / Scrum,Unit Testing,1419
+Ansible,Python,1413
+JavaScript,Node.js,1410
+HTML,TypeScript,1402
+JavaScript,REST API,1399
+Java,Node.js,1399
+Microservices,Python,1397
+C++,Linux,1394
+Agile / Scrum,Machine Learning,1393
+AWS,Git,1388
+Data Warehousing,SQL,1381
+AWS,Machine Learning,1379
+Java,Linux,1374
+R,SQL,1363
+HTML,Python,1359
+Agile / Scrum,Linux,1357
+AWS,React,1352
+SQL,Spark,1349
+Docker,Microservices,1347
+Node.js,Python,1345
+React,TypeScript,1341
+Data Visualization,Tableau,1340
+Jenkins,Python,1334
+CI/CD,Git,1332
+Hadoop,Python,1326
+Azure,Windows,1310
+GCP,Kubernetes,1308
+Docker,Git,1299
+Java,REST API,1294
+AWS,HTML,1292
+Kafka,Python,1291
+C#,JavaScript,1279
+REST API,SQL,1274
+Agile / Scrum,Angular,1273
+Java,Jenkins,1264
+Java,React,1260
+Angular,Java,1250
+Jira,SQL,1249
+SQL,Scala,1248
+Node.js,SQL,1239
+Azure,HTML,1237
+Java,TypeScript,1233
+Agile / Scrum,CSS,1230
+Docker,Node.js,1230
+PowerShell,Python,1229
+Java,Kafka,1226
+CI/CD,Jenkins,1223
+Node.js,React,1220
+Angular,HTML,1217
+Angular,React,1217
+Power BI,Tableau,1216
+DevOps,Git,1215
+CI/CD,JavaScript,1209
+Agile / Scrum,C++,1208
+SQL,TypeScript,1205
+Docker,GCP,1204
+Python,TypeScript,1204
+Docker,TypeScript,1201
+VMware,Windows,1199
+JavaScript,NoSQL,1198
+Agile / Scrum,Jenkins,1197
+AWS,Scala,1195
+Kubernetes,Terraform,1189
+Git,Jira,1189
+Go,NoSQL,1188
+Docker,Jenkins,1184
+Big Data,Python,1182
+Azure,Machine Learning,1181
+Linux,SQL,1181
+Azure,Microservices,1178
+Hadoop,Spark,1174
+Angular,SQL,1171
+AWS,Terraform,1168
+Kubernetes,TypeScript,1164
+AWS,Linux,1161
+Data Analysis,R,1160
+Data Visualization,Power BI,1155
+DevOps,JavaScript,1154
+Data Analysis,Excel,1153
+Git,Jenkins,1152
+Oracle,SQL,1152
+Kubernetes,Node.js,1140
+CSS,SQL,1133
+DevOps,Jenkins,1128
+Agile / Scrum,C#,1126
+Go,JavaScript,1120
+Java,Spark,1117
+React,SQL,1114
+Docker,HTML,1114
+Azure,Git,1113
+Jira,Python,1112
+Ansible,Terraform,1111
+Agile / Scrum,Scala,1105
+SQL,Unit Testing,1086
+Data Warehousing,Python,1086
+JavaScript,Microservices,1082
+Python,React,1079
+Git,Kubernetes,1073
+Microservices,NoSQL,1072
+Jenkins,Kubernetes,1068
+Data Analysis,Data Modeling,1064
+AWS,Jenkins,1062
+Power BI,Python,1058
+PowerShell,Windows,1052
+CSS,React,1045
+Azure,TypeScript,1042
+Azure,Go,1042
+Hadoop,SQL,1032
+Docker,React,1031
+MySQL,Python,1031
+AWS,Spark,1031
+.NET,C#,1024
+Java,Spring,1019
+Data Visualization,Machine Learning,1019
+AWS,REST API,1014
+HTML,Kubernetes,1006
+Go,TypeScript,1005
+Azure,Data Analysis,1004
+DevOps,Terraform,1003
+C#,Python,1002
+Bash,Python,1002
+Docker,Terraform,997
+Python,Snowflake,996
+SQL,Windows,996
+Data Modeling,Python,993
+Data Analysis,Java,991
+Kubernetes,Linux,990
+GCP,NoSQL,986
+Azure,C#,986
+Kafka,SQL,985
+ETL,SQL,980
+Agile / Scrum,Confluence,973
+Git,Linux,973
+Python,REST API,972
+AWS,Kafka,970
+Deep Learning,Machine Learning,967
+NoSQL,Scala,966
+Scala,Spark,966
+CISSP,Cybersecurity,964
+Kubernetes,React,962
+Node.js,TypeScript,959
+AWS,Data Analysis,957
+C,C++,945
+Data Analysis,Data Warehousing,944
+Git,HTML,942
+Azure,Node.js,942
+DevOps,Linux,940
+Python,TensorFlow,936
+CSS,Java,933
+Excel,SQL,931
+Java,Jira,930
+Azure,REST API,930
+Jenkins,SQL,929
+CI/CD,REST API,927
+Machine Learning,Spark,927
+Docker,Linux,919
+Ansible,Kubernetes,911
+GCP,JavaScript,910
+C++,SQL,909
+.NET,SQL,907
+C#,Java,906
+CI/CD,Microservices,903
+Java,Unit Testing,902
+Azure,Linux,900
+SQL,Snowflake,897
+Kafka,Spark,894
+Data Visualization,R,889
+Git,REST API,887
+PostgreSQL,Python,885
+Agile / Scrum,Kanban,883
+CI/CD,Terraform,883
+AWS,Angular,883
+Go,Node.js,881
+C++,Machine Learning,877
+Azure,React,875
+AWS,Jira,873
+Cybersecurity,Risk Management,872
+Machine Learning,TensorFlow,871
+Hadoop,Java,866
+Ansible,DevOps,864
+GCP,Go,861
+Angular,Azure,861
+Kafka,Kubernetes,859
+Big Data,SQL,856
+HTML,REST API,854
+MySQL,SQL,851
+HTML,NoSQL,849
+PostgreSQL,SQL,849
+NoSQL,Node.js,847
+JavaScript,Unit Testing,845
+Git,React,842
+PyTorch,Python,841
+PyTorch,TensorFlow,841
+Deep Learning,Python,840
+Java,MySQL,838
+Agile / Scrum,Spark,836
+Angular,TypeScript,835
+Azure,Spark,835
+Data Pipeline,Python,834
+Go,Microservices,831
+REST API,React,829
+NoSQL,Spark,823
+R,Tableau,816
+Azure,Terraform,809
+Kafka,NoSQL,807
+AWS,PostgreSQL,807
+DevOps,Go,802
+DevOps,Microservices,798
+Azure,Jenkins,797
+C#,DevOps,795
+Machine Learning,PyTorch,792
+Ansible,Docker,788
+AWS,MySQL,786
+DevOps,Jira,786
+HTML,Node.js,786
+Active Directory,Azure,785
+Machine Learning,R,785
+C#,HTML,783
+Azure,Scala,782
+Python,Unit Testing,781
+GCP,Machine Learning,781
+Agile / Scrum,Kafka,769
+Big Data,Machine Learning,764
+CI/CD,React,762
+Cybersecurity,Incident Response,762
+C++,Git,759
+AWS,Hadoop,758
+HTML,Microservices,751
+Data Modeling,Data Warehousing,751
+Angular,Python,749
+Hadoop,NoSQL,746
+Microservices,REST API,745
+Go,Scala,742
+C#,C++,741
+Linux,Unix,738
+NoSQL,TypeScript,738
+DevOps,GCP,735
+JavaScript,MySQL,734
+Machine Learning,NoSQL,734
+Microservices,Node.js,734
+Angular,CSS,731
+Java,Spring Boot,730
+Azure,PowerShell,730
+CI/CD,Linux,729
+Docker,REST API,725
+AWS,C++,716
+Go,HTML,715
+JavaScript,jQuery,715
+JavaScript,PostgreSQL,715
+Hadoop,Kafka,714
+Big Data,Spark,714
+Go,Terraform,713
+MATLAB,Python,713
+Angular,Docker,713
+Microservices,React,712
+Data Modeling,Data Visualization,710
+Big Data,Java,705
+Data Governance,SQL,700
+Agile / Scrum,Windows,700
+AWS,Ansible,697
+CI/CD,Go,695
+Hive,Python,692
+DevOps,Windows,692
+Azure,Power BI,691
+AWS,Windows,689
+Microservices,TypeScript,688
+DevOps,REST API,688
+Active Directory,VMware,687
+GCP,Microservices,680
+CI/CD,Unit Testing,680
+CI/CD,GCP,679
+GitHub,Python,679
+Hadoop,Scala,678
+Cybersecurity,Windows,677
+Angular,REST API,676
+JavaScript,Linux,675
+Hadoop,Machine Learning,675
+JavaScript,Jenkins,675
+Hadoop,Hive,672
+DevOps,Machine Learning,669
+CSS,Git,668
+Java,Oracle,668
+Java,PostgreSQL,667
+Docker,Kafka,667
+Machine Learning,NLP,666
+CSS,Python,665
+Docker,PostgreSQL,665
+Azure,Data Warehousing,664
+Angular,Node.js,664
+Jenkins,Terraform,662
+GitLab,Python,660
+ETL,Python,658
+Angular,Microservices,658
+Python,Ruby,658
+Kubernetes,PostgreSQL,658
+Confluence,Python,654
+Kubernetes,Scala,654
+C#,Git,653
+Machine Learning,Scala,651
+AWS,GitHub,650
+Ansible,Jenkins,649
+.NET,JavaScript,649
+Data Analysis,Data Governance,648
+Azure,Jira,648
+GitHub,Kubernetes,646
+Jenkins,Jira,645
+Kafka,Microservices,644
+MySQL,PostgreSQL,644
+Kubernetes,Machine Learning,643
+Agile / Scrum,MySQL,642
+Docker,Machine Learning,641
+Azure,Kafka,641
+Kubernetes,REST API,641
+C++,Docker,641
+Docker,Scala,640
+Python,Redshift,639
+DevOps,HTML,637
+CSS,TypeScript,637
+Agile / Scrum,GitHub,637
+Data Pipeline,SQL,636
+AWS,Distributed Systems,636
+Angular,Git,634
+Angular,Kubernetes,633
+DevOps,NoSQL,630
+Machine Learning,Tableau,630
+Agile / Scrum,Data Visualization,629
+Java,Windows,629
+Ansible,CI/CD,628
+Ansible,Linux,628
+Data Visualization,Data Warehousing,628
+Distributed Systems,Python,628
+Jira,Linux,625
+Node.js,REST API,622
+Python,Unix,621
+REST API,Unit Testing,621
+GCP,Node.js,618
+Distributed Systems,Kubernetes,618
+GCP,TypeScript,616
+Azure,CSS,615
+Cassandra,Python,614
+AWS,Snowflake,614
+DevOps,React,612
+C++,JavaScript,611
+CI/CD,NoSQL,611
+Big Data,Hadoop,611
+Agile / Scrum,PostgreSQL,610
+Jenkins,Linux,610
+CI/CD,Kafka,609
+AWS,Big Data,609
+Azure,VMware,607
+GCP,Scala,605
+Distributed Systems,Java,604
+JavaScript,Jira,604
+Angular,C#,604
+Azure,Cybersecurity,601
+CI/CD,Node.js,599
+MongoDB,SQL,598
+AWS,CSS,596
+SQL,XML,595
+CSS,REST API,595
+Git,Microservices,593
+Agile / Scrum,Spring,593
+JavaScript,XML,593
+PostgreSQL,React,593
+DevOps,Unit Testing,593
+AWS,Unit Testing,592
+Data Warehousing,Machine Learning,591
+Snowflake,Spark,591
+GCP,HTML,590
+Docker,Jira,589
+Hive,Spark,589
+Node.js,Scala,588
+CI/CD,Jira,586
+Angular,CI/CD,585
+NLP,Python,582
+Docker,GitHub,581
+MongoDB,Python,581
+Agile / Scrum,Big Data,580
+Cassandra,Kafka,580
+CI/CD,GitHub,579
+DevOps,PowerShell,578
+Excel,Tableau,576
+Jira,Kubernetes,576
+Azure,Unit Testing,575
+Confluence,Git,574
+C,Python,574
+Power BI,R,572
+Azure,C++,572
+Ansible,Azure,570
+MySQL,NoSQL,570
+AWS,C#,569
+Big Data,Data Analysis,569
+Azure,Snowflake,569
+Cybersecurity,Python,569
+C++,Windows,569
+Agile / Scrum,Oracle,568
+Data Modeling,Power BI,568
+Git,PostgreSQL,568
+JSON,JavaScript,567
+HTML,jQuery,565
+Cassandra,Java,564
+JSON,XML,564
+Azure,Hadoop,563
+Agile / Scrum,Data Warehousing,562
+Data Warehousing,Snowflake,561
+Angular,DevOps,561
+Git,Unit Testing,561
+Kafka,Scala,560
+CI/CD,TypeScript,559
+Data Warehousing,Spark,558
+SQL,Unix,558
+CI/CD,HTML,558
+Agile / Scrum,Hadoop,557
+C++,Kubernetes,556
+Confluence,SQL,556
+Agile / Scrum,Data Modeling,555
+.NET,Agile / Scrum,554
+DevOps,GitHub,553
+JavaScript,MongoDB,553
+AWS,Data Warehousing,551
+Java,Terraform,550
+Cassandra,NoSQL,549
+SQL,Terraform,548
+REST API,TypeScript,548
+Azure,Data Modeling,547
+GCP,Git,547
+Go,React,546
+GCP,Spark,545
+C++,CI/CD,544
+Agile / Scrum,Terraform,543
+Agile / Scrum,Risk Management,543
+Java,Snowflake,543
+C#,CI/CD,542
+C#,CSS,541
+Python,VMware,540
+Deep Learning,TensorFlow,540
+Agile / Scrum,Software Architecture,539
+Linux,VMware,539
+Data Visualization,Excel,539
+GitHub,SQL,538
+CI/CD,GitLab,537
+Airflow,Python,537
+JavaScript,PHP,535
+Data Analysis,Spark,534
+Bash,Linux,533
+JSON,REST API,530
+Excel,Power BI,530
+Java,Unix,529
+C++,Data Analysis,528
+Azure,MySQL,527
+Distributed Systems,Go,527
+Data Warehousing,Java,524
+Java,XML,522
+Git,Node.js,520
+Databricks,Python,519
+Data Analysis,JavaScript,512
+Git,NoSQL,512
+Confluence,Java,511
+NoSQL,React,510
+HTML,Unit Testing,509
+Deep Learning,PyTorch,509
+Data Analysis,DevOps,509
+Data Analysis,Statistical Analysis,508
+.NET,Azure,505
+MongoDB,PostgreSQL,505
+CI/CD,Machine Learning,505
+Hive,SQL,504
+Jenkins,REST API,503
+Data Analysis,NoSQL,503
+Big Data,Scala,501
+CI/CD,PostgreSQL,500
+Firewalls,Windows,500
+AWS,MongoDB,500
+Agile / Scrum,JSON,499
+Linux,Terraform,498
+AWS,Cassandra,497
+C++,DevOps,496
+Azure,Big Data,496
+Data Analysis,Risk Management,495
+CSS,Docker,495
+Data Warehousing,Power BI,493
+C#,Unit Testing,492
+Hive,Kafka,490
+Go,Linux,490
+C++,Jira,489
+Oracle,Python,488
+Azure,PostgreSQL,488
+HTML,MySQL,487
+Data Governance,Data Modeling,487
+Azure,Data Visualization,485
+Ansible,Go,485
+Data Analysis,ETL,484
+Kafka,Snowflake,484
+Git,TypeScript,483
+CSS,Node.js,483
+GitHub,Jenkins,483
+Cassandra,Hadoop,482
+Java,MongoDB,482
+Data Warehousing,Hadoop,481
+Data Warehousing,NoSQL,481
+Active Directory,PowerShell,480
+Agile / Scrum,XML,480
+C++,MATLAB,479
+HTML,XML,478
+CI/CD,Windows,477
+Data Governance,Python,477
+Agile / Scrum,Snowflake,477
+C#,React,476
+Kubernetes,Spark,475
+GitHub,Java,475
+Data Warehousing,Tableau,474
+Redshift,SQL,473
+MongoDB,React,473
+Redshift,Snowflake,473
+JavaScript,Machine Learning,472
+Big Data,Data Warehousing,472
+Kafka,MySQL,471
+Azure,Firewalls,471
+HTML,PostgreSQL,470
+CSS,DevOps,470
+SQL,Spring,468
+Go,PowerShell,467
+Big Data,NoSQL,466
+Data Modeling,Tableau,466
+JSON,SQL,466
+Angular,NoSQL,466
+Agile / Scrum,Stakeholder Mgmt,465
+React,Unit Testing,464
+GCP,Linux,464
+JavaScript,Windows,464
+Azure,Databricks,464
+Docker,MySQL,463
+Agile / Scrum,Power BI,462
+Spring,Spring Boot,462
+REST API,XML,461
+Bash,Kubernetes,461
+C#,REST API,461
+NoSQL,REST API,460
+AWS,Confluence,460
+Data Analysis,Stakeholder Mgmt,459
+GitLab,Kubernetes,459
+NoSQL,Snowflake,459
+PowerShell,Terraform,458
+Linux,NoSQL,456
+Docker,GitLab,456
+AWS,Data Visualization,455
+Hive,Java,454
+DevOps,Node.js,453
+Linux,Machine Learning,453
+PowerShell,VMware,453
+Hive,NoSQL,452
+Ansible,Java,452
+Data Modeling,ETL,452
+Excel,Python,452
+Hadoop,MySQL,451
+Data Governance,Data Visualization,451
+AWS,Hive,451
+Data Pipeline,Spark,449
+C#,Windows,449
+MySQL,React,447
+Data Warehousing,Scala,446
+Redshift,Spark,445
+Azure,GitHub,445
+JavaScript,Spring,445
+C++,Go,444
+Microservices,Unit Testing,444
+C#,Jira,444
+Python,Splunk,442
+.NET,DevOps,442
+GCP,React,442
+Scala,Snowflake,441
+Bash,DevOps,440
+Agile / Scrum,MongoDB,440
+Machine Learning,Power BI,439
+Git,MySQL,439
+Data Analysis,Hadoop,438
+Data Analysis,GCP,438
+Cassandra,SQL,438
+Git,Machine Learning,437
+MongoDB,MySQL,436
+GCP,Terraform,435
+Hadoop,Snowflake,435
+AWS,Redshift,435
+Docker,Spark,434
+Agile / Scrum,Ansible,433
+Agile / Scrum,Distributed Systems,432
+Kubernetes,MySQL,432
+Databricks,SQL,431
+Data Analysis,Kubernetes,431
+Data Modeling,Machine Learning,431
+Data Pipeline,Machine Learning,431
+Agile / Scrum,Tableau,430
+Data Governance,Data Warehousing,429
+Ansible,PowerShell,429
+Ansible,Git,428
+AWS,Cybersecurity,426
+Kafka,Machine Learning,425
+Data Analysis,Data Pipeline,425
+Distributed Systems,Docker,424
+Cassandra,Spark,424
+Python,Software Architecture,423
+MongoDB,NoSQL,421
+Agile / Scrum,Cybersecurity,420
+Cassandra,MySQL,420
+Data Analysis,Jira,420
+Java,Kotlin,420
+Linux,PowerShell,420
+Cybersecurity,Linux,419
+JavaScript,Oracle,418
+JSON,Java,418
+Data Warehousing,ETL,417
+Bash,Docker,416
+Jenkins,Microservices,416
+Cybersecurity,Data Analysis,416
+Docker,Unit Testing,415
+Pandas,Python,413
+Hive,Scala,413
+Git,Terraform,411
+GitHub,Jira,410
+Python,Statistical Analysis,410
+Docker,MongoDB,410
+.NET,HTML,410
+AWS,Data Modeling,410
+Unix,Windows,409
+Airflow,SQL,409
+CSS,Kubernetes,409
+Java,Redshift,409
+Git,Windows,408
+Microservices,Scala,407
+GCP,Kafka,407
+Kubernetes,Windows,407
+AWS,Unix,406
+REST API,Spring,406
+GitLab,Jenkins,405
+Jira,Windows,405
+GCP,Jenkins,405
+GCP,Hadoop,404
+CSS,jQuery,404
+SQL,jQuery,402
+Azure,MongoDB,402
+Agile / Scrum,Prototyping,402
+Data Analysis,Docker,400
+Azure,Data Pipeline,400
+AWS,Data Pipeline,400
+SQL,SSIS,399
+C,Linux,399
+Kubernetes,MongoDB,398
+PowerShell,SQL,396
+AWS,Bash,396
+Angular,PostgreSQL,396
+MySQL,Spark,396
+Confluence,Docker,395
+HTML,JSON,395
+Ansible,Bash,394
+GitHub,JavaScript,394
+GraphQL,TypeScript,393
+Microservices,Spring Boot,392
+Data Visualization,Statistical Analysis,392
+Java,Software Architecture,392
+Agile / Scrum,Spring Boot,391
+GitHub,React,391
+LLMs / GenAI,Machine Learning,391
+Machine Learning,Microservices,390
+CI/CD,Spark,390
+DevOps,TypeScript,389
+Data Analysis,Snowflake,389
+AWS,Oracle,388
+Git,MongoDB,388
+CSS,MySQL,388
+Distributed Systems,SQL,386
+Git,GitHub,386
+Jenkins,Spring,386
+Jenkins,NoSQL,385
+Machine Learning,Snowflake,385
+Java,Ruby,385
+DevOps,PostgreSQL,384
+Jira,REST API,383
+HTML,Linux,383
+GraphQL,JavaScript,382
+CI/CD,Spring,382
+Linux,Unit Testing,382
+Data Modeling,Snowflake,382
+Cassandra,Hive,381
+C++,GCP,380
+Bash,Terraform,380
+Python,Risk Management,378
+Hadoop,Redshift,378
+CI/CD,PowerShell,378
+Angular,Spring,377
+GraphQL,React,376
+Data Analysis,Linux,376
+Ansible,Segment,375
+NoSQL,Redshift,375
+Agile / Scrum,Unix,374
+Node.js,PostgreSQL,373
+PostgreSQL,REST API,373
+Microservices,PostgreSQL,373
+Microservices,Spring,373
+HTML,MongoDB,372
+CSS,Unit Testing,372
+Data Warehousing,Kafka,371
+Microservices,MySQL,371
+SQL,Statistical Analysis,371
+Cybersecurity,Penetration Testing,371
+DevOps,GitLab,371
+Kanban,SQL,370
+Azure,CISSP,370
+Kafka,Redshift,370
+Redshift,Scala,369
+SAS,SQL,368
+Confluence,Linux,367
+Cybersecurity,Firewalls,367
+AWS,Spring,366
+HTML,PHP,366
+Agile / Scrum,GraphQL,366
+Confluence,Kubernetes,365
+Jira,Unit Testing,364
+C++,Deep Learning,364
+Angular,Unit Testing,363
+Kubernetes,Unit Testing,363
+C,Java,363
+HTML,Jira,362
+Ansible,SQL,362
+Data Warehousing,Redshift,362
+Java,Tableau,362
+Airflow,Spark,362
+Kafka,PostgreSQL,361
+CI/CD,CSS,359
+Hadoop,Kubernetes,359
+.NET,Java,359
+CISSP,Risk Management,358
+Data Visualization,Java,356
+Data Visualization,Spark,356
+Distributed Systems,Microservices,354
+Azure,ETL,354
+Hive,MySQL,353
+Angular,GCP,353
+Big Data,Kafka,353
+CI/CD,Data Analysis,352
+MongoDB,Node.js,352
+Azure,JSON,351
+GitLab,Terraform,351
+PostgreSQL,TypeScript,349
+Docker,Spring,349
+C++,Unit Testing,349
+Data Modeling,Java,349
+CSS,NoSQL,348
+Azure,Bash,348
+Azure,Oracle,348
+.NET,Git,347
+Python,System Design,347
+Data Modeling,Spark,346
+MySQL,Redshift,346
+Angular,Jenkins,346
+Big Data,Data Visualization,345
+Jenkins,React,345
+NoSQL,Unit Testing,344
+Linux,MySQL,344
+.NET,AWS,344
+Azure,TensorFlow,344
+Data Pipeline,Java,343
+TypeScript,Unit Testing,343
+Confluence,Jenkins,343
+Linux,REST API,342
+Agile / Scrum,Kotlin,342
+Active Directory,Linux,342
+C++,NoSQL,342
+Jenkins,Unit Testing,341
+Azure,Confluence,340
+Bash,Java,339
+AWS,GitLab,337
+AWS,Spring Boot,337
+Agile / Scrum,GitLab,337
+GCP,MySQL,337
+Kanban,Python,337
+Data Governance,Power BI,336
+HTML,Windows,336
+Data Analysis,SAS,336
+GCP,REST API,335
+Git,Spring,334
+Bash,CI/CD,334
+Data Pipeline,Data Warehousing,334
+Ansible,Windows,333
+Azure,Tableau,333
+Docker,Hadoop,333
+CISSP,Incident Response,333
+Go,Windows,332
+MySQL,Oracle,331
+Confluence,DevOps,331
+Kubernetes,Redis,331
+Data Analysis,Unit Testing,331
+MySQL,Snowflake,331
+GCP,PostgreSQL,330
+AWS,Tableau,330
+JSON,Python,330
+DevOps,Kafka,330
+Java,R,330
+MySQL,Scala,329
+NumPy,Python,328
+C#,Kubernetes,328
+ETL,Power BI,328
+HTML,Jenkins,328
+Jira,NoSQL,327
+Docker,Windows,327
+Data Visualization,ETL,327
+.NET,Angular,327
+LLMs / GenAI,Python,327
+Python,SAS,327
+Bash,SQL,325
+REST API,Spring Boot,325
+Agile / Scrum,Figma,324
+JavaScript,Kafka,323
+Python,Redis,323
+Azure,Splunk,323
+Kubernetes,Spring,323
+Figma,Prototyping,322
+AWS,PowerShell,322
+Jira,Kanban,322
+Confluence,JavaScript,322
+Git,JSON,321
+R,SAS,321
+CSS,Microservices,320
+AWS,Redis,319
+Hive,Machine Learning,319
+Bash,Jenkins,318
+CSS,PostgreSQL,318
+AWS,TensorFlow,318
+Hive,Snowflake,318
+Incident Response,Penetration Testing,317
+MySQL,PHP,317
+Agile / Scrum,ETL,317
+Data Analysis,Oracle,317
+CI/CD,MongoDB,317
+Bash,PowerShell,316
+Agile / Scrum,Data Pipeline,316
+Cassandra,Scala,316
+Kubernetes,Ruby,315
+Bash,Git,315
+Agile / Scrum,System Design,315
+Agile / Scrum,Cassandra,314
+PHP,Python,314
+AWS,Ruby,313
+AWS,Kanban,312
+NoSQL,PostgreSQL,310
+Docker,Redis,310
+GraphQL,REST API,310
+CI/CD,Distributed Systems,310
+C++,Jenkins,310
+Node.js,Unit Testing,309
+Azure,XML,309
+Azure,Data Governance,309
+Spark,Tableau,309
+SQL,Spring Boot,309
+Hive,Redshift,308
+Data Analysis,Scala,308
+.NET,Python,307
+C++,Software Architecture,307
+Linux,Oracle,306
+Active Directory,SQL,306
+CISSP,Windows,306
+MongoDB,REST API,306
+Git,Kafka,305
+DevOps,Spark,305
+C++,HTML,305
+NumPy,Pandas,305
+Machine Learning,Statistical Analysis,305
+React,Spring,305
+Jenkins,Node.js,305
+Data Analysis,Git,304
+CI/CD,Confluence,304
+CI/CD,Spring Boot,304
+DevOps,Ruby,304
+AWS,Splunk,304
+Azure,Cassandra,304
+Data Governance,Machine Learning,303
+Kafka,Terraform,303
+C#,Docker,303
+Go,Machine Learning,303
+Risk Management,SQL,303
+Java,Kanban,302
+Big Data,Data Pipeline,302
+Cassandra,Kubernetes,302
+Azure,Kanban,301
+Agile / Scrum,Salesforce,301
+Oracle,PostgreSQL,300
+Kafka,REST API,300
+Cassandra,Snowflake,300
+AWS,JSON,299
+Data Pipeline,Scala,299
+Data Visualization,Hadoop,299
+Angular,jQuery,298
+Ansible,GCP,298
+AWS,ETL,298
+JavaScript,Software Architecture,298
+GitLab,Java,298
+Firewalls,VMware,298
+AWS,Airflow,298
+Figma,HTML,298
+CSS,PHP,298
+Go,Kafka,298
+Jira,React,298
+Microservices,MongoDB,297
+Ruby,SQL,296
+Data Modeling,Data Pipeline,296
+Data Warehousing,Hive,296
+C#,jQuery,293
+Cassandra,Redshift,293
+Terraform,Windows,293
+CI/CD,MySQL,293
+Agile / Scrum,jQuery,293
+Incident Response,SIEM,292
+Data Analysis,HTML,292
+Kafka,React,292
+Big Data,DevOps,292
+Big Data,Data Modeling,292
+Machine Learning,MySQL,291
+NLP,SQL,291
+Docker,Ruby,291
+Go,Ruby,290
+GitHub,Linux,290
+Data Warehousing,GCP,290
+GitHub,TypeScript,290
+C#,Linux,290
+Agile / Scrum,Bash,289
+DevOps,Kanban,289
+GCP,Snowflake,289
+C++,Confluence,289
+DevOps,Oracle,289
+DevOps,MySQL,289
+SQL,Software Architecture,288
+Angular,MongoDB,288
+SQL,Stakeholder Mgmt,288
+Active Directory,Cybersecurity,287
+DevOps,Spring,287
+Python,XML,286
+ETL,Tableau,286
+Ansible,GitLab,286
+Machine Learning,Pandas,286
+Machine Learning,React,286
+Agile / Scrum,R,286
+Splunk,Windows,284
+Incident Response,Risk Management,284
+Active Directory,Firewalls,284
+AWS,VMware,284
+AWS,PyTorch,284
+C#,TypeScript,283
+GraphQL,Node.js,283
+C#,Microservices,282
+Prototyping,User Research,282
+Bash,Windows,282
+Databricks,Spark,282
+Snowflake,Tableau,282
+R,Spark,281
+GCP,Jira,281
+GitHub,Terraform,281
+Kafka,MongoDB,281
+Hadoop,Linux,281
+Machine Learning,Redshift,281
+Jenkins,Windows,281
+Java,TensorFlow,281
+Cassandra,Microservices,281
+AWS,Software Architecture,280
+Docker,Spring Boot,280
+Go,Jenkins,280
+Distributed Systems,TypeScript,280
+Linux,PostgreSQL,280
+Data Governance,Tableau,279
+Kafka,Redis,279
+Data Analysis,Windows,279
+HTML,Spring,279
+Azure,Redshift,278
+Data Analysis,Go,278
+HTML,Oracle,278
+MySQL,Node.js,278
+Data Warehousing,MySQL,277
+AWS,DynamoDB,277
+Git,Oracle,277
+ETL,Spark,276
+Linux,Spark,276
+Kubernetes,Spring Boot,276
+.NET,REST API,276
+Elasticsearch,Python,276
+Django,Python,276
+Azure,PyTorch,275
+C++,TensorFlow,275
+Big Data,GCP,275
+Agile / Scrum,Hive,275
+AWS,GraphQL,274
+Jenkins,Kafka,274
+.NET,CSS,273
+Cybersecurity,SIEM,273
+Incident Response,Windows,273
+Data Visualization,NoSQL,272
+Deep Learning,NLP,272
+SQL,Salesforce,272
+DevOps,Power BI,272
+Agile / Scrum,Data Governance,272
+Java,jQuery,271
+Angular,MySQL,271
+C++,PyTorch,271
+Azure,Hive,271
+Azure,Distributed Systems,270
+CSS,Figma,270
+CSS,Jira,270
+JavaScript,Spring Boot,270
+Kubernetes,Prometheus,270
+Python,Spring,270
+Big Data,Snowflake,270
+Figma,JavaScript,270
+Airflow,Snowflake,269
+Java,System Design,269
+Big Data,Hive,269
+Angular,Spring Boot,269
+AWS,CISSP,268
+Java,PyTorch,267
+Docker,Unix,267
+Hadoop,Microservices,267
+GCP,TensorFlow,267
+Distributed Systems,React,267
+Data Analysis,MATLAB,267
+Kubernetes,Splunk,266
+Agile / Scrum,Redshift,266
+NLP,TensorFlow,266
+Agile / Scrum,ServiceNow,265
+Cassandra,Docker,265
+Microservices,Spark,265
+Incident Response,Python,264
+.NET,React,264
+Azure,Unix,263
+AWS,XML,263
+GitHub,Go,263
+SAS,Tableau,263
+Risk Management,Windows,262
+Go,MySQL,262
+Hadoop,Tableau,262
+JavaScript,Kanban,262
+Agile / Scrum,Databricks,262
+Microservices,Terraform,261
+Kafka,Spring,260
+Git,Go,260
+CISSP,Firewalls,260
+DevOps,MongoDB,259
+GitLab,Linux,259
+Kafka,Spring Boot,258
+Jenkins,PostgreSQL,258
+JavaScript,Terraform,258
+Kafka,Linux,257
+Cassandra,MongoDB,257
+Cybersecurity,SQL,257
+Git,Spring Boot,257
+CI/CD,JSON,257
+Ruby,Terraform,256
+C#,JSON,256
+Distributed Systems,NoSQL,255
+JavaScript,Ruby,255
+Linux,Microservices,255
+DevOps,JSON,255
+Distributed Systems,Machine Learning,255
+Data Visualization,Snowflake,254
+Ansible,Ruby,254
+Databricks,Machine Learning,254
+CSS,MongoDB,253
+Oracle,REST API,253
+MySQL,REST API,253
+Git,GitLab,253
+Linux,React,253
+CSS,Linux,252
+Machine Learning,NumPy,252
+Azure,GitLab,251
+Azure,Incident Response,251
+Jira,Microservices,251
+GCP,Windows,251
+Data Analysis,Microservices,251
+Data Modeling,R,250
+Node.js,Terraform,250
+Jenkins,Oracle,250
+Distributed Systems,JavaScript,250
+Angular,Go,250
+Data Analysis,Kafka,249
+Linux,Splunk,249
+Active Directory,Python,249
+Azure,Risk Management,249
+Git,PHP,249
+Data Pipeline,Data Visualization,249
+Oracle,Windows,248
+CI/CD,Kanban,248
+CSS,XML,248
+Jira,Machine Learning,248
+C++,System Design,248
+A/B Testing,SQL,248
+Data Pipeline,Snowflake,248
+DevOps,Software Architecture,247
+CI/CD,Splunk,247
+A/B Testing,Data Analysis,246
+.NET,CI/CD,246
+REST API,jQuery,246
+Go,PostgreSQL,245
+Redis,SQL,245
+R,Statistical Analysis,244
+Agile / Scrum,TensorFlow,244
+Kubernetes,Unix,243
+Power BI,Snowflake,243
+Cassandra,Machine Learning,243
+Agile / Scrum,PowerShell,243
+A/B Testing,Python,242
+PostgreSQL,Spark,242
+Ansible,VMware,242
+ETL,Snowflake,242
+AWS,Power BI,241
+NoSQL,Spring,241
+Prometheus,Python,241
+Data Modeling,NoSQL,240
+CSS,Jenkins,240
+Grafana,Python,240
+AWS,Deep Learning,240
+CI/CD,Software Architecture,240
+Agile / Scrum,Excel,240
+Informatica,SQL,240
+Data Visualization,JavaScript,239
+Cassandra,Data Warehousing,239
+Java,Redis,238
+Git,Spark,238
+GCP,MongoDB,238
+Angular,Kafka,238
+CI/CD,Oracle,238
+ServiceNow,Windows,238
+Azure,Deep Learning,237
+Data Analysis,NLP,237
+Spark,TensorFlow,237
+Data Analysis,Deep Learning,237
+Data Modeling,Hadoop,237
+C++,React,237
+Data Analysis,Prototyping,236
+Cybersecurity,Splunk,236
+CSS,JSON,236
+Docker,Splunk,236
+Excel,R,236
+C++,Microservices,236
+Big Data,Redshift,235
+ETL,Java,235
+React,Terraform,235
+.NET,Unit Testing,235
+Spring,Unit Testing,235
+Jenkins,Spring Boot,234
+Jira,Node.js,234
+Grafana,Kubernetes,234
+Data Pipeline,Hadoop,234
+Kafka,Node.js,234
+Bash,Go,233
+Big Data,CI/CD,233
+Data Governance,Spark,233
+DevOps,Distributed Systems,233
+Kotlin,Swift,233
+Airflow,Kafka,233
+Git,Kanban,233
+Elasticsearch,Java,233
+Airflow,Kubernetes,232
+Linux,Node.js,232
+AWS,Active Directory,232
+Statistical Analysis,Tableau,232
+SQL,System Design,232
+Jenkins,MySQL,231
+Ansible,JavaScript,231
+SQL,VMware,231
+.NET,Jira,231
+Agile / Scrum,Ruby,230
+Kafka,Unit Testing,230
+GCP,Hive,229
+Python,Rust,229
+C#,XML,229
+C++,Distributed Systems,229
+Jenkins,Unix,228
+Firewalls,Python,228
+NLP,PyTorch,228
+AWS,Risk Management,227
+Kubernetes,Software Architecture,227
+Cybersecurity,DevOps,227
+Jenkins,Splunk,227
+Hadoop,R,227
+Git,XML,227
+Big Data,Kubernetes,227
+Confluence,NoSQL,227
+GCP,PyTorch,225
+DevOps,Unix,225
+Java,NLP,224
+PostgreSQL,Redis,224
+AWS,Databricks,224
+Agile / Scrum,Swift,223
+MySQL,Unit Testing,223
+Cybersecurity,GCP,223
+Angular,Jira,223
+CISSP,Python,223
+C#,Node.js,222
+Grafana,Prometheus,222
+Data Analysis,System Design,222
+Docker,Software Architecture,222
+ETL,Machine Learning,222
+Confluence,Data Analysis,221
+SQL,TensorFlow,221
+AWS,Data Governance,220
+Deep Learning,Java,220
+Cybersecurity,VMware,220
+Figma,User Research,220
+GitHub,REST API,219
+Deep Learning,SQL,219
+GitHub,Microservices,219
+React,jQuery,219
+MongoDB,Spark,219
+Angular,JSON,219
+Azure,jQuery,219
+Data Modeling,DevOps,218
+Hive,Microservices,218
+CI/CD,Scala,218
+C#,NoSQL,218
+Big Data,Tableau,218
+MongoDB,TypeScript,218
+Data Pipeline,Kafka,218
+AWS,R,217
+Azure,R,217
+PostgreSQL,Terraform,217
+GitLab,SQL,217
+Looker,SQL,216
+Ansible,Splunk,215
+React,Spring Boot,214
+MySQL,Terraform,214
+Docker,Prometheus,214
+Data Pipeline,GCP,214
+CI/CD,Data Pipeline,214
+Kubernetes,PowerShell,214
+PyTorch,Spark,214
+Go,VMware,214
+Docker,Oracle,214
+NoSQL,Terraform,214
+DevOps,XML,213
+Cassandra,GCP,213
+Oracle,Spring,213
+.NET,Windows,212
+C++,Rust,212
+AWS,Elasticsearch,212
+Big Data,ETL,212
+Agile / Scrum,Splunk,211
+Confluence,Windows,211
+Microservices,Snowflake,210
+Agile / Scrum,NLP,210
+React,Redis,210
+Ansible,GitHub,210
+Go,Rust,210
+DynamoDB,SQL,210
+Java,Splunk,210
+GitHub,Unit Testing,209
+DevOps,Splunk,209
+CSS,GCP,209
+Java,PHP,209
+GitLab,Jira,209
+Big Data,Data Governance,208
+Machine Learning,REST API,208
+SQL,Splunk,208
+NumPy,TensorFlow,208
+Git,jQuery,208
+Jira,Risk Management,208
+Pandas,TensorFlow,207
+Prototyping,Python,207
+GitHub,Kafka,207
+Firewalls,Linux,207
+CI/CD,Data Modeling,207
+DevOps,Hadoop,207
+Distributed Systems,GitHub,206
+Linux,Scala,206
+Airflow,Docker,206
+NoSQL,Windows,206
+Machine Learning,Risk Management,206
+Hadoop,MongoDB,205
+GitHub,HTML,205
+Flask,Python,205
+CI/CD,Ruby,205
+C#,GitHub,205
+Pandas,SQL,205
+Data Analysis,Salesforce,204
+Power BI,Spark,204
+XML,jQuery,203
+JavaScript,Prototyping,203
+Prometheus,Terraform,203
+CI/CD,XML,202
+Azure,Software Architecture,202
+DevOps,VMware,202
+Java,Power BI,202
+Cybersecurity,PowerShell,201
+Data Analysis,React,201
+Data Warehousing,R,201
+Go,REST API,201
+Oracle,XML,201
+Cybersecurity,Java,201
+Confluence,HTML,201
+Bash,GitLab,201
+Data Modeling,Kafka,200
+DynamoDB,Java,200
+GraphQL,HTML,200
+C++,CSS,200
+CSS,Windows,200
+PyTorch,SQL,200
+CI/CD,System Design,200
+CI/CD,Prometheus,200
+Confluence,REST API,200
+Splunk,Terraform,199
+Data Governance,ETL,199
+A/B Testing,Data Visualization,199
+Kubernetes,Oracle,199
+Distributed Systems,Kafka,199
+DynamoDB,Python,199
+C#,Data Analysis,198
+AWS,NLP,198
+Bash,GCP,197
+Data Warehousing,DevOps,197
+Figma,React,197
+Azure,Ruby,197
+C#,MySQL,197
+Confluence,GCP,197
+Data Pipeline,DevOps,197
+PHP,React,197
+Docker,Elasticsearch,196
+Big Data,Docker,196
+Linux,Ruby,196
+Ansible,Prometheus,196
+HTML,Prototyping,196
+Big Data,Cassandra,196
+Incident Response,Splunk,196
+DevOps,Scala,196
+Software Architecture,Unit Testing,196
+Data Visualization,SAS,196
+Data Analysis,TensorFlow,196
+CSS,Spring,196
+Jenkins,MongoDB,196
+React,Software Architecture,195
+JSON,Node.js,195
+Docker,JSON,195
+Data Pipeline,NoSQL,195
+MySQL,Redis,195
+PHP,SQL,194
+Big Data,Microservices,194
+Agile / Scrum,User Research,194
+Data Visualization,GCP,194
+Git,Software Architecture,194
+Azure,Spring,194
+GCP,Redshift,193
+Data Analysis,MySQL,193
+JavaScript,PowerShell,193
+Java,Swift,193
+Docker,Grafana,192
+Agile / Scrum,C,192
+NoSQL,Spring Boot,192
+Data Analysis,Databricks,192
+GitLab,JavaScript,191
+Confluence,Kanban,191
+DevOps,jQuery,191
+Data Analysis,REST API,191
+Angular,XML,191
+GCP,Unit Testing,191
+Angular,Oracle,191
+Docker,Kanban,191
+C#,Jenkins,191
+Docker,DynamoDB,191
+Jupyter,Python,191
+Data Warehousing,Microservices,190
+CISSP,Linux,189
+AWS,Firewalls,189
+CI/CD,DynamoDB,189
+Jenkins,Spark,189
+Elasticsearch,Kubernetes,189
+CI/CD,GraphQL,188
+CSS,Data Analysis,188
+JavaScript,Salesforce,188
+Jira,Tableau,188
+Machine Learning,PostgreSQL,188
+JavaScript,Unix,188
+Kubernetes,VMware,188
+Node.js,Redis,188
+Data Analysis,PyTorch,187
+AWS,System Design,187
+JSON,Jenkins,187
+Linux,XML,187
+Confluence,GitHub,187
+DynamoDB,Kubernetes,186
+Go,Redis,186
+Angular,GitHub,186
+C#,Oracle,186
+Azure,GraphQL,186
+REST API,Windows,186
+Jira,Oracle,186
+JavaScript,Spark,186
+CSS,Go,185
+GitHub,Node.js,185
+Databricks,Snowflake,185
+Microservices,Software Architecture,185
+Elasticsearch,JavaScript,184
+Distributed Systems,GCP,184
+Git,Unix,184
+CSS,GraphQL,184
+CI/CD,Unix,184
+DevOps,Prometheus,184
+C++,REST API,184
+Python,Spring Boot,183
+Oracle,Unit Testing,183
+Java,Risk Management,183
+Agile / Scrum,Elasticsearch,183
+CI/CD,Data Visualization,183
+NoSQL,Unix,183
+C++,Unix,183
+Go,Spark,183
+Airflow,Java,183
+CI/CD,Hadoop,183
+Linux,Software Architecture,182
+A/B Testing,Tableau,182
+Data Modeling,Oracle,182
+Data Governance,Snowflake,182
+Azure,SSIS,182
+GCP,GitHub,182
+Kubernetes,Snowflake,182
+Data Analysis,Hive,182
+DevOps,Risk Management,181
+GraphQL,Python,181
+Git,Hadoop,181
+Go,Unit Testing,181
+Kubernetes,PyTorch,181
+Docker,PyTorch,181
+Go,Unix,181
+Big Data,R,181
+Elasticsearch,SQL,181
+Firewalls,Incident Response,180
+CI/CD,Snowflake,180
+AWS,Incident Response,180
+CSS,Oracle,179
+Deep Learning,GCP,179
+Machine Learning,Node.js,179
+Machine Learning,SAS,179
+Big Data,MySQL,179
+DevOps,Spring Boot,179
+Linux,Risk Management,178
+Cassandra,PostgreSQL,178
+Data Analysis,Kanban,178
+Alteryx,SQL,178
+C#,Machine Learning,178
+Big Data,Linux,178
+AWS,PHP,178
+Data Visualization,DevOps,178
+Jenkins,Ruby,177
+Data Analysis,Node.js,177
+Docker,TensorFlow,177
+C++,Spark,177
+NoSQL,Tableau,177
+MATLAB,Machine Learning,177
+LLMs / GenAI,NLP,176
+DevOps,Grafana,176
+Unit Testing,jQuery,176
+Docker,PowerShell,176
+JSON,Linux,176
+Kubernetes,TensorFlow,175
+Penetration Testing,Risk Management,175
+Jira,ServiceNow,175
+C,C#,175
+Cassandra,Terraform,175
+Microservices,Redis,175
+Agile / Scrum,PHP,175
+Ansible,Jira,174
+CI/CD,Redis,174
+Jenkins,TypeScript,174
+Confluence,Machine Learning,174
+Jira,Kafka,174
+Looker,Tableau,174
+Kanban,Kubernetes,174
+JSON,React,174
+Agile / Scrum,Airflow,174
+Data Modeling,Scala,173
+Data Analysis,SAP,173
+Unit Testing,XML,173
+Airflow,NoSQL,173
+NoSQL,Redis,173
+Grafana,Terraform,173
+Power BI,Statistical Analysis,173
+AWS,Prometheus,172
+HTML,Kanban,172
+Linux,MongoDB,172
+Agile / Scrum,Redis,172
+Helm,Kubernetes,172
+CI/CD,Grafana,172
+Data Governance,Data Pipeline,172
+GitHub,Windows,172
+C++,Hadoop,171
+Airflow,Data Pipeline,171
+GitHub,NoSQL,171
+Oracle,Unix,171
+Git,PowerShell,170
+Microservices,Redshift,170
+Airflow,Data Modeling,170
+Go,Hadoop,170
+Docker,Snowflake,170
+Angular,Linux,170
+Airflow,Scala,169
+Data Pipeline,ETL,169
+Data Analysis,Redshift,169
+GCP,Unix,169
+CI/CD,Kotlin,169
+HTML,Software Architecture,168
+Risk Management,Stakeholder Mgmt,168
+Python,Stakeholder Mgmt,168
+HTML,Machine Learning,168
+Databricks,Power BI,168
+Jira,PostgreSQL,168
+Data Analysis,PostgreSQL,168
+C#,PostgreSQL,168
+C#,PowerShell,168
+JSON,Unit Testing,168
+Windows,XML,168
+Incident Response,Linux,168
+PostgreSQL,Unit Testing,168
+Agile / Scrum,PyTorch,167
+Machine Learning,MongoDB,167
+Data Modeling,GCP,167
+CISSP,Penetration Testing,167
+A/B Testing,R,167
+JavaScript,Power BI,167
+Power BI,SSIS,167
+Node.js,XML,167
+Git,Splunk,167
+Linux,Spring,166
+Kanban,NoSQL,166
+Node.js,Spring,166
+C#,Go,166
+Scala,Unit Testing,166
+JavaScript,Redis,166
+Ansible,Unix,166
+REST API,Terraform,165
+CISSP,GCP,165
+Data Governance,Hadoop,165
+Jenkins,Machine Learning,165
+Hive,Kubernetes,165
+Data Pipeline,Databricks,165
+Confluence,React,165
+C++,Cybersecurity,165
+Jira,MySQL,165
+C++,Node.js,165
+Data Analysis,Pandas,164
+Bash,C++,164
+Data Modeling,JavaScript,164
+Azure,Spring Boot,164
+C++,GitLab,164
+Hadoop,Power BI,164
+C++,GitHub,164
+AWS,Kotlin,164
+Cybersecurity,Machine Learning,164
+Alteryx,Tableau,164
+Big Data,REST API,164
+HTML,Kafka,164
+Cassandra,Redis,164
+NLP,Spark,164
+Airflow,Machine Learning,164
+Machine Learning,Unit Testing,164
+Distributed Systems,Linux,163
+Elasticsearch,Kafka,163
+SQL,dbt,163
+Data Analysis,Distributed Systems,163
+ETL,Hadoop,163
+JSON,Kubernetes,163
+Distributed Systems,Scala,163
+Redis,Terraform,163
+Data Visualization,NLP,163
+Airflow,Hadoop,162
+C++,Kafka,162
+.NET,jQuery,162
+Datadog,Python,162
+C++,R,162
+Looker,Python,162
+Azure,NLP,162
+Data Warehousing,Databricks,161
+Data Analysis,Jenkins,161
+CSS,Confluence,160
+JSON,Microservices,160
+CI/CD,ETL,160
+Spark,Unit Testing,160
+GitHub,GitLab,160
+DynamoDB,PostgreSQL,160
+Jenkins,Prometheus,160
+Linux,TypeScript,160
+PostgreSQL,Snowflake,160
+GraphQL,Java,160
+Data Analysis,Unix,160
+Data Modeling,Kubernetes,160
+C++,TypeScript,159
+Java,PowerShell,159
+Jenkins,Kanban,159
+Bash,JavaScript,159
+Unit Testing,Windows,159
+Agile / Scrum,Pandas,159
+Bash,Ruby,159
+DynamoDB,JavaScript,159
+JSON,TypeScript,159
+Kanban,Machine Learning,158
+Cybersecurity,Kubernetes,158
+Bash,VMware,158
+Jira,XML,158
+GitHub,PostgreSQL,158
+Data Analysis,TypeScript,158
+GCP,Kanban,158
+JSON,NoSQL,157
+Machine Learning,TypeScript,157
+Jenkins,PowerShell,157
+Jira,TypeScript,157
+Big Data,Power BI,157
+JSON,jQuery,157
+REST API,Software Architecture,156
+CSS,Prototyping,156
+Hive,Tableau,156
+C#,MongoDB,156
+Data Modeling,Databricks,155
+React,XML,155
+Azure,Prometheus,155
+Agile / Scrum,CISSP,155
+ETL,Oracle,155
+Confluence,Microservices,155
+SQL,ServiceNow,155
+CI/CD,Cassandra,155
+Airflow,ETL,154
+JavaScript,ServiceNow,154
+Jira,Terraform,154
+Machine Learning,Windows,154
+GCP,Tableau,154
+MySQL,Windows,154
+DevOps,Snowflake,154
+Docker,VMware,154
+JSON,Jira,153
+Oracle,React,153
+CI/CD,Data Warehousing,153
+Redshift,Tableau,153
+Agile / Scrum,Deep Learning,153
+Machine Learning,System Design,153
+PHP,PostgreSQL,153
+MongoDB,Unit Testing,152
+CI/CD,Cybersecurity,152
+Data Modeling,Docker,152
+Jira,Stakeholder Mgmt,152
+Ansible,Firewalls,152
+Excel,Statistical Analysis,152
+Jupyter,Machine Learning,152
+.NET,Microservices,151
+Data Pipeline,Kubernetes,151
+Airflow,CI/CD,151
+C++,Terraform,151
+C++,PostgreSQL,151
+Data Visualization,Git,151
+C,Git,151
+SAP,SQL,151
+NoSQL,Oracle,151
+Docker,Hive,150
+React,Vue,150
+HTML,Spring Boot,150
+GCP,GitLab,150
+JSON,Windows,150
+Data Visualization,Scala,150
+NoSQL,R,150
+Jenkins,XML,150
+C#,Software Architecture,150
+Data Governance,R,149
+GitLab,Splunk,149
+Data Modeling,Excel,149
+Data Modeling,Redshift,149
+DevOps,ETL,149
+AWS,Grafana,149
+Distributed Systems,Spark,149
+Distributed Systems,Node.js,149
+C++,MySQL,148
+Hadoop,PostgreSQL,148
+CSS,GitHub,148
+Deep Learning,Docker,148
+Agile / Scrum,DynamoDB,148
+Ansible,PostgreSQL,147
+Data Pipeline,Power BI,147
+Azure,Pandas,147
+Elasticsearch,NoSQL,147
+Data Analysis,Incident Response,147
+MySQL,Spring,147
+Jira,Power BI,147
+Java,MATLAB,147
+Alteryx,Python,147
+ETL,SSIS,147
+Jira,Spark,146
+Kanban,Linux,146
+Excel,Windows,146
+Kotlin,REST API,146
+Kotlin,Python,146
+Java,Salesforce,146
+Data Analysis,MongoDB,146
+Data Pipeline,Tableau,146
+Databricks,Scala,146
+REST API,Spark,146
+MySQL,TypeScript,145
+Alteryx,Data Analysis,145
+Distributed Systems,Terraform,145
+Data Visualization,Stakeholder Mgmt,145
+Data Governance,NoSQL,145
+Hadoop,Terraform,145
+DevOps,ServiceNow,144
+Ansible,C++,144
+Databricks,DevOps,144
+Scala,TensorFlow,144
+Kotlin,Unit Testing,144
+Big Data,Go,144
+Data Pipeline,Redshift,144
+Oracle,Tableau,143
+Cassandra,Go,143
+Bash,Unix,143
+Cybersecurity,Jira,143
+Data Visualization,Hive,143
+Azure,ServiceNow,143
+GitLab,PostgreSQL,143
+Terraform,TypeScript,143
+AWS,Datadog,143
+Kubernetes,System Design,143
+Cassandra,React,143
+Microservices,Oracle,143
+Data Pipeline,Docker,142
+CISSP,SIEM,142
+Terraform,Unix,142
+GraphQL,SQL,142
+Ansible,Grafana,142
+AWS,LLMs / GenAI,142
+PostgreSQL,Scala,142
+Spark,Terraform,142
+GraphQL,Kubernetes,142
+Data Warehousing,Oracle,142
+C#,GCP,142
+Data Governance,Java,142
+Agile / Scrum,NumPy,141
+Airflow,PostgreSQL,141
+DynamoDB,MongoDB,141
+Prototyping,SQL,141
+JSON,Spring,141
+Kanban,React,141
+Git,Kotlin,141
+Confluence,Unit Testing,141
+JavaScript,Vue,141
+Excel,Jira,141
+Docker,GraphQL,141
+CI/CD,Databricks,141
+Git,Redis,140
+MongoDB,Oracle,140
+Data Visualization,Docker,140
+Databricks,Java,140
+NLP,R,140
+ETL,R,140
+GitHub,Machine Learning,140
+CSS,Kanban,140
+Data Visualization,Kafka,139
+Oracle,jQuery,139
+Machine Learning,Software Architecture,139
+PostgreSQL,Spring,139
+Firewalls,PowerShell,139
+Cassandra,DevOps,139
+Hadoop,Jenkins,139
+Python,dbt,138
+Jira,Salesforce,138
+JavaScript,Scala,138
+PyTorch,Scala,138
+ETL,Kafka,138
+Airflow,Data Warehousing,138
+Jira,MongoDB,138
+Docker,XML,138
+Data Visualization,Jira,137
+MATLAB,R,137
+Jenkins,Scala,137
+Angular,Vue,137
+TypeScript,XML,137
+.NET,C++,137
+C,Windows,137
+HTML,Salesforce,137
+Agile / Scrum,MATLAB,136
+Deep Learning,Kubernetes,136
+Data Visualization,REST API,136
+C#,Kafka,136
+C#,Power BI,136
+AWS,Django,136
+Machine Learning,Unix,136
+Docker,Helm,136
+C++,Data Visualization,136
+Kotlin,SQL,136
+Penetration Testing,Windows,135
+Data Analysis,GitHub,135
+MongoDB,Redis,135
+Linux,MATLAB,135
+C++,Oracle,135
+Hadoop,Unix,135
+Oracle,Spring Boot,135
+GCP,Splunk,135
+Confluence,Node.js,135
+Penetration Testing,Python,134
+Cassandra,Linux,134
+ETL,NoSQL,134
+Datadog,Docker,134
+Angular,Data Analysis,134
+Elasticsearch,MongoDB,134
+Data Analysis,Software Architecture,134
+Data Warehousing,Kubernetes,134
+MLflow,Python,134
+Azure,NumPy,134
+Ansible,Kafka,134
+Data Analysis,Looker,134
+Confluence,PostgreSQL,134
+Distributed Systems,Git,134
+Hadoop,Jira,133
+DevOps,System Design,133
+Cybersecurity,Docker,133
+MongoDB,Scala,133
+Deep Learning,Spark,133
+Informatica,Python,133
+Big Data,Distributed Systems,132
+C#,Confluence,132
+JavaScript,System Design,132
+Jenkins,jQuery,132
+Spring,XML,132
+Data Modeling,Jira,132
+C++,Ruby,132
+Azure,DynamoDB,132
+Deep Learning,Linux,132
+R,Scala,131
+Docker,PHP,131
+Linux,System Design,131
+Firewalls,Risk Management,131
+C++,NLP,131
+Airflow,Data Analysis,131
+Flink,Spark,131
+BigQuery,SQL,131
+MATLAB,SQL,131
+BigQuery,Python,131
+Spring,jQuery,130
+.NET,Kubernetes,130
+Cassandra,Jenkins,130
+Data Governance,DevOps,130
+Kafka,Tableau,130
+Angular,Software Architecture,130
+Jira,Spring,130
+Java,Rust,130
+NumPy,SQL,130
+Flink,Kafka,130
+Scala,Unix,130
+.NET,JSON,130
+CISSP,Splunk,130
+CI/CD,PHP,129
+Active Directory,CISSP,129
+Kafka,Oracle,129
+DevOps,Tableau,129
+MySQL,Unix,129
+Active Directory,ServiceNow,129
+Git,MATLAB,129
+Helm,Python,129
+Linear,Python,129
+A/B Testing,Power BI,129
+Hadoop,Node.js,129
+Hadoop,React,129
+Scala,Tableau,129
+C,MATLAB,129
+Penetration Testing,SIEM,129
+Machine Learning,Terraform,128
+Ansible,MySQL,128
+C#,PHP,128
+Git,GraphQL,128
+Angular,Machine Learning,128
+AWS,Pandas,128
+Kanban,REST API,127
+PostgreSQL,Redshift,127
+JSON,Oracle,127
+Python,SIEM,127
+Figma,TypeScript,127
+NLP,Scala,127
+Active Directory,DevOps,127
+PHP,REST API,127
+Azure,Grafana,127
+.NET,Oracle,127
+MongoDB,Snowflake,127
+GCP,PowerShell,127
+GitLab,Go,127
+Hadoop,Redis,127
+.NET,Docker,127
+MongoDB,PHP,127
+Linux,Rust,127
+MLflow,Machine Learning,126
+Big Data,C++,126
+Data Modeling,Git,126
+C++,Scala,126
+Python,Salesforce,126
+Excel,Machine Learning,126
+Agile / Scrum,LLMs / GenAI,126
+Datadog,Kubernetes,126
+MySQL,Ruby,126
+DynamoDB,Node.js,126
+A/B Testing,Machine Learning,125
+Data Visualization,Kubernetes,125
+Data Analysis,Informatica,125
+Cassandra,Node.js,125
+JavaScript,Tableau,125
+Agile / Scrum,Jupyter,125
+Grafana,Jenkins,125
+C,SQL,125
+GCP,NLP,125
+Azure,PHP,125
+Azure,System Design,124
+Kubernetes,PHP,124
+DynamoDB,Git,124
+Data Warehousing,Excel,124
+Angular,Confluence,124
+Grafana,Java,124
+LLMs / GenAI,PyTorch,124
+Angular,C++,124
+Excel,Risk Management,123
+C++,Kanban,123
+Confluence,Risk Management,123
+Airflow,Redshift,123
+Django,Flask,123
+.NET,XML,123
+NumPy,PyTorch,123
+Data Pipeline,PostgreSQL,123
+MongoDB,Spring,123
+Azure,Salesforce,123
+Distributed Systems,Unit Testing,123
+Data Warehousing,Docker,123
+Airflow,Big Data,123
+Power BI,SAS,123
+Deep Learning,LLMs / GenAI,123
+Software Architecture,TypeScript,123
+DynamoDB,React,122
+PostgreSQL,Windows,122
+DevOps,Incident Response,122
+Big Data,Git,122
+Oracle,Power BI,122
+Grafana,Linux,122
+AWS,jQuery,122
+Node.js,Spring Boot,122
+Kanban,Unit Testing,122
+Linux,ServiceNow,122
+Data Visualization,Redshift,121
+Data Pipeline,Hive,121
+ETL,Informatica,121
+Data Visualization,Linux,121
+.NET,Node.js,121
+R,TensorFlow,121
+Cybersecurity,JavaScript,121
+Hive,MongoDB,121
+Microservices,XML,121
+DynamoDB,NoSQL,121
+Git,Tableau,121
+Big Data,Unit Testing,121
+Cybersecurity,Git,120
+Ansible,Microservices,120
+Azure,Excel,120
+PowerShell,Splunk,120
+Go,Jira,120
+DynamoDB,REST API,120
+Datadog,Terraform,120
+LLMs / GenAI,SQL,120
+Active Directory,Incident Response,120
+GCP,Power BI,119
+Angular,Windows,119
+GCP,Ruby,119
+NoSQL,Software Architecture,119
+Data Analysis,User Research,119
+GraphQL,Unit Testing,119
+Node.js,PHP,119
+Airflow,Azure,119
+Confluence,Spark,119
+Node.js,jQuery,119
+.NET,TypeScript,119
+Data Analysis,Terraform,119
+React,Windows,119
+Data Governance,Kafka,119
+NoSQL,Power BI,118
+Spark,Unix,118
+Git,Power BI,118
+Jira,Software Architecture,118
+Flink,Python,118
+MySQL,jQuery,118
+Bash,Splunk,118
+C++,Risk Management,118
+Cassandra,Unit Testing,118
+C++,Prototyping,118
+Bash,Prometheus,118
+Pandas,PyTorch,118
+CI/CD,Elasticsearch,118
+Elasticsearch,PostgreSQL,118
+LLMs / GenAI,TensorFlow,118
+Elasticsearch,React,117
+Cassandra,JavaScript,117
+Hadoop,TensorFlow,117
+Ansible,NoSQL,117
+Terraform,VMware,117
+DynamoDB,TypeScript,117
+Linear,Machine Learning,117
+Snowflake,Unit Testing,117
+Data Modeling,Statistical Analysis,117
+PostgreSQL,Spring Boot,117
+GCP,R,117
+Data Visualization,Databricks,116
+Big Data,NLP,116
+Kotlin,Kubernetes,116
+Splunk,VMware,116
+Django,React,116
+CI/CD,Power BI,116
+Next.js,React,116
+CISSP,VMware,116
+Confluence,GitLab,116
+C,System Design,116
+C#,SSIS,115
+Azure,Jupyter,115
+Snowflake,dbt,115
+MySQL,Tableau,115
+Git,Prometheus,115
+Kanban,Microservices,115
+Git,R,115
+Git,Ruby,114
+C#,Distributed Systems,114
+Kafka,Unix,114
+Data Warehousing,Unit Testing,114
+Hadoop,NLP,114
+AWS,NumPy,114
+Confluence,Kafka,113
+Linux,Prometheus,113
+SIEM,Windows,113
+HTML,Unix,113
+Risk Management,Splunk,113
+Data Warehousing,Informatica,113
+Kubernetes,NLP,113
+Spring Boot,Unit Testing,113
+CI/CD,Helm,113
+Data Pipeline,PyTorch,113
+Data Modeling,Informatica,113
+Python,jQuery,112
+Bash,Jira,112
+Big Data,JavaScript,112
+Azure,Elasticsearch,112
+Azure,Redis,112
+Agile / Scrum,VMware,112
+Agile / Scrum,Informatica,112
+REST API,Salesforce,112
+C++,XML,112
+DevOps,Redis,112
+Big Data,Databricks,112
+Data Visualization,MySQL,112
+Angular,Spark,112
+JavaScript,Kotlin,112
+CSS,Kafka,112
+Linux,PHP,112
+Data Modeling,Hive,112
+Azure,SIEM,111
+JavaScript,R,111
+GitLab,Prometheus,111
+NoSQL,XML,111
+Firewalls,Penetration Testing,111
+C#,Ruby,111
+Python,ServiceNow,111
+Data Visualization,Node.js,111
+GCP,Prometheus,111
+PHP,Ruby,111
+Firewalls,SIEM,111
+DynamoDB,Microservices,111
+GitLab,Windows,111
+Kubernetes,XML,110
+HTML,Power BI,110
+Power BI,Salesforce,110
+Jenkins,Redis,110
+Incident Response,PowerShell,110
+Elasticsearch,Jenkins,110
+Data Visualization,React,110
+MongoDB,Terraform,110
+Jira,Spring Boot,110
+Jira,Snowflake,110
+Data Modeling,PostgreSQL,110
+Databricks,GCP,110
+Data Visualization,Looker,110
+Airflow,GCP,110
+Go,Grafana,110
+Elasticsearch,Redis,110
+Data Warehousing,Linux,109
+Jupyter,Pandas,109
+Data Governance,GCP,109
+PyTorch,R,109
+Distributed Systems,REST API,109
+Jupyter,TensorFlow,109
+Azure,LLMs / GenAI,109
+System Design,Windows,109
+Prometheus,Splunk,109
+Distributed Systems,HTML,109
+Java,SAS,109
+DynamoDB,MySQL,109
+Docker,NLP,109
+DevOps,Elasticsearch,109
+Kafka,TypeScript,108
+Terraform,Unit Testing,108
+Data Visualization,HTML,108
+ETL,Scala,108
+Databricks,ETL,108
+NLP,NoSQL,108
+Git,Scala,108
+Data Pipeline,TensorFlow,108
+Bash,GitHub,108
+DevOps,Salesforce,108
+Django,PostgreSQL,108
+Data Warehousing,PostgreSQL,108
+Go,Prometheus,108
+Data Analysis,NumPy,108
+Hadoop,Unit Testing,108
+Distributed Systems,Hadoop,108
+DevOps,DynamoDB,107
+Ansible,Cybersecurity,107
+GitHub,Spring,107
+Data Warehousing,MongoDB,107
+Active Directory,Terraform,107
+Node.js,Software Architecture,107
+Airflow,Hive,107
+Hive,Terraform,106
+JSON,MySQL,106
+Alteryx,R,106
+Deep Learning,R,106
+GraphQL,NoSQL,106
+Java,Prototyping,106
+Data Modeling,MySQL,106
+REST API,Redis,106
+Data Governance,Scala,106
+ETL,Kubernetes,106
+Jupyter,NumPy,106
+GitLab,REST API,106
+Data Visualization,Deep Learning,105
+Hive,Redis,105
+Active Directory,Agile / Scrum,105
+Kotlin,React,105
+Azure,Stakeholder Mgmt,105
+Node.js,Windows,105
+GCP,Oracle,105
+Hadoop,Oracle,105
+Django,JavaScript,105
+Deep Learning,NumPy,105
+Data Analysis,SSIS,105
+Hive,R,105
+Jenkins,VMware,104
+Active Directory,Risk Management,104
+Docker,System Design,104
+Jira,Unix,104
+Big Data,MongoDB,104
+Redshift,Unit Testing,104
+Azure,Penetration Testing,104
+Confluence,Terraform,104
+Databricks,Tableau,104
+Firewalls,Terraform,104
+Ansible,Confluence,104
+CI/CD,jQuery,104
+Data Modeling,SSIS,104
+Django,Docker,104
+Excel,SAS,103
+Redis,TypeScript,103
+Bash,PostgreSQL,103
+Data Governance,Databricks,103
+Angular,DynamoDB,103
+CI/CD,Rust,103
+Cassandra,Data Analysis,103
+Power BI,Stakeholder Mgmt,103
+C++,MongoDB,103
+Machine Learning,Prototyping,103
+Risk Management,Tableau,103
+Data Visualization,Oracle,103
+Databricks,TensorFlow,103
+C,Docker,103
+Jira,Kotlin,102
+MLflow,TensorFlow,102
+Incident Response,Kubernetes,102
+ETL,Git,102
+Kanban,Windows,102
+CISSP,PowerShell,102
+Java,LLMs / GenAI,102
+AWS,Rust,102
+CSS,Software Architecture,102
+HTML,User Research,102
+DevOps,GraphQL,102
+Data Visualization,TypeScript,102
+Datadog,DevOps,102
+Flink,Java,102
+Prototyping,React,102
+Big Data,Jenkins,102
+Active Directory,Splunk,101
+Elasticsearch,REST API,101
+PowerShell,REST API,101
+AWS,Salesforce,101
+Elasticsearch,Spark,101
+Hadoop,REST API,101
+Cybersecurity,Unix,101
+Python,SSIS,101
+Data Visualization,TensorFlow,101
+SQL,Swift,101
+DevOps,Penetration Testing,101
+React,System Design,101
+Ruby,Unix,101
+Swift,Unit Testing,101
+GitHub,MongoDB,100
+Hadoop,PyTorch,100
+Oracle,Snowflake,100
+Bash,Hadoop,100
+Machine Learning,Stakeholder Mgmt,100
+PHP,jQuery,100
+Figma,GraphQL,100
+Bash,Cybersecurity,100
+Databricks,Hadoop,100
+C#,Kanban,100
+.NET,Linux,100
+Confluence,MySQL,100
+Jira,PowerShell,100
+Big Data,PostgreSQL,100
+Docker,Kotlin,100
+Angular,Terraform,100
+GCP,Software Architecture,99
+SQL,Vue,99
+Django,SQL,99
+Java,VMware,99
+Spring,TypeScript,99
+Distributed Systems,PostgreSQL,99
+Data Modeling,REST API,99
+Elasticsearch,MySQL,99
+Hive,React,99
+GraphQL,Microservices,99
+CI/CD,Risk Management,99
+C#,ETL,99
+React,Spark,98
+Risk Management,System Design,98
+Angular,Kanban,98
+Distributed Systems,Rust,98
+Distributed Systems,MySQL,98
+Data Warehousing,Git,98
+CI/CD,Datadog,98
+Data Visualization,Microservices,98
+CI/CD,PyTorch,98
+Splunk,Unix,98
+C,Data Analysis,98
+CSS,Spring Boot,98
+MySQL,XML,98
+Deep Learning,Pandas,98
+Figma,Jira,98
+JavaScript,Rust,97
+CSS,Machine Learning,97
+DynamoDB,Terraform,97
+Alteryx,Power BI,97
+Jira,MATLAB,97
+GitLab,React,97
+Angular,Scala,97
+Stakeholder Mgmt,Tableau,97
+Azure,Dynamics 365,97
+GraphQL,PostgreSQL,97
+ETL,GCP,97
+AWS,Informatica,97
+System Design,Unit Testing,97
+ETL,Redshift,97
+Elasticsearch,Git,97
+Software Architecture,System Design,97
+Data Warehousing,SSIS,96
+C,CI/CD,96
+JavaScript,Splunk,96
+Ansible,REST API,96
+Docker,ETL,96
+Node.js,Ruby,96
+C,JavaScript,96
+Excel,Stakeholder Mgmt,96
+Linux,Snowflake,96
+CI/CD,Data Governance,96
+DevOps,Kotlin,96
+Confluence,TypeScript,96
+Cassandra,Unix,96
+Go,Hive,96
+Microservices,Unix,96
+CSS,Salesforce,95
+DevOps,PHP,95
+Power BI,SAP,95
+GCP,Spring,95
+Linux,TensorFlow,95
+Airflow,dbt,95
+CI/CD,TensorFlow,95
+Go,System Design,95
+Kafka,Splunk,95
+GitLab,Microservices,95
+CISSP,Data Analysis,95
+Hadoop,JavaScript,95
+Oracle,Spark,94
+Hive,Node.js,94
+Datadog,Java,94
+C#,Terraform,94
+AWS,SIEM,94
+Ansible,Spring,94
+Docker,Flask,94
+MySQL,Spring Boot,94
+AWS,Flask,94
+Kanban,Node.js,94
+DynamoDB,GCP,94
+Data Visualization,Pandas,94
+Microservices,Windows,94
+Node.js,Oracle,93
+GitHub,Redis,93
+Jira,jQuery,93
+Unix,XML,93
+MongoDB,Redshift,93
+Firewalls,Splunk,93
+Risk Management,VMware,93
+AWS,C,93
+Flask,SQL,93
+PostgreSQL,Software Architecture,93
+Python,SageMaker,93
+Excel,Salesforce,93
+Confluence,Tableau,93
+JSON,Spring Boot,93
+MongoDB,Spring Boot,93
+Data Modeling,HTML,92
+Agile / Scrum,Django,92
+AWS,Swift,92
+Java,Prometheus,92
+Jira,Splunk,92
+Data Modeling,Microservices,92
+GitHub,MySQL,92
+Cassandra,Elasticsearch,92
+Java,ServiceNow,92
+DynamoDB,HTML,92
+Go,PHP,92
+Data Warehousing,Jira,92
+Confluence,JSON,92
+Salesforce,Tableau,92
+Agile / Scrum,Vue,92
+SIEM,Splunk,92
+Cassandra,Spring,92
+HTML,PowerShell,92
+Go,Software Architecture,92
+Elasticsearch,Microservices,92
+.NET,GitHub,92
+HTML,ServiceNow,92
+Elasticsearch,Go,91
+Data Modeling,Unit Testing,91
+Data Analysis,ServiceNow,91
+React,Scala,91
+Docker,jQuery,91
+GitHub,Power BI,91
+Agile / Scrum,SSIS,91
+Data Analysis,Google Analytics,91
+Data Pipeline,MySQL,91
+Data Analysis,PowerShell,91
+JavaScript,User Research,91
+Linux,PyTorch,91
+DevOps,Firewalls,91
+Elasticsearch,Node.js,91
+Data Visualization,JSON,91
+Azure,MLflow,91
+C#,System Design,91
+Elasticsearch,Hadoop,91
+Deep Learning,Git,91
+GCP,Pandas,90
+PostgreSQL,Ruby,90
+GraphQL,JSON,90
+Data Governance,Excel,90
+GCP,Risk Management,90
+Microservices,System Design,90
+C++,PowerShell,90
+Bash,Spark,90
+GitHub,Kanban,90
+Spring Boot,XML,90
+Data Visualization,PyTorch,90
+C,Kubernetes,89
+GitHub,Spark,89
+Hive,PostgreSQL,89
+Data Pipeline,Git,89
+REST API,Scala,89
+DynamoDB,Jenkins,89
+GitLab,NoSQL,89
+Active Directory,JavaScript,89
+Deep Learning,Hadoop,89
+Node.js,Unix,89
+Firewalls,SQL,89
+Informatica,Snowflake,89
+GCP,Spring Boot,89
+GitLab,MySQL,89
+GitHub,JSON,88
+Kubernetes,Rust,88
+CSS,Data Visualization,88
+JavaScript,Snowflake,88
+Data Modeling,Linux,88
+Git,TensorFlow,88
+A/B Testing,Agile / Scrum,88
+Prototyping,Stakeholder Mgmt,87
+Linux,Penetration Testing,87
+CSS,User Research,87
+Grafana,Kafka,87
+Elasticsearch,Linux,87
+Jira,Prototyping,87
+Databricks,Pandas,87
+Bash,MySQL,87
+Databricks,Kafka,87
+Risk Management,SIEM,87
+REST API,Swift,87
+Bash,Data Analysis,87
+Django,Kubernetes,87
+AWS,ServiceNow,87
+CI/CD,Tableau,87
+Flink,SQL,87
+Distributed Systems,System Design,87
+C#,Unix,86
+Jira,R,86
+DevOps,PyTorch,86
+Angular,GraphQL,86
+C,Jira,86
+Data Analysis,Splunk,86
+Cassandra,Git,86
+CISSP,SQL,86
+Data Warehousing,Unix,86
+Airflow,Data Governance,86
+Angular,PHP,86
+Cybersecurity,HTML,86
+GCP,NumPy,86
+.NET,PowerShell,85
+CI/CD,VMware,85
+GraphQL,XML,85
+C,Unit Testing,85
+GitHub,Spring Boot,85
+Confluence,MongoDB,85
+Agile / Scrum,MLflow,85
+Cassandra,Data Pipeline,85
+React,Ruby,85
+JSON,MongoDB,85
+Grafana,SQL,85
+Distributed Systems,Software Architecture,85
+Python,Swift,85
+C,Machine Learning,85
+C,Go,84
+C++,Cassandra,84
+DevOps,NLP,84
+DevOps,Rust,84
+JSON,PostgreSQL,84
+Cassandra,Tableau,84
+Hive,Linux,84
+Git,PyTorch,84
+Azure,Informatica,84
+Elasticsearch,Terraform,84
+DevOps,TensorFlow,84
+Data Pipeline,Terraform,84
+CISSP,DevOps,84
+Linux,SIEM,84
+Confluence,Hadoop,84
+Looker,Power BI,84
+Grafana,Splunk,84
+Pandas,Tableau,84
+Data Governance,Kubernetes,83
+Power BI,REST API,83
+Big Data,Jira,83
+Next.js,TypeScript,83
+GraphQL,Kafka,83
+Cassandra,Spring Boot,83
+Go,MongoDB,83
+GitLab,Ruby,83
+GCP,Incident Response,83
+PostgreSQL,XML,83
+C++,PHP,82
+Big Data,Deep Learning,82
+Linux,R,82
+Confluence,Power BI,82
+CI/CD,Incident Response,82
+GitLab,HTML,82
+Angular,Ansible,82
+GitHub,ServiceNow,82
+Data Modeling,Jenkins,82
+Git,Swift,82
+Data Warehousing,Statistical Analysis,82
+DevOps,SSIS,82
+AWS,Statistical Analysis,82
+Cassandra,Data Visualization,82
+Docker,R,82
+LLMs / GenAI,Spark,82
+Data Analysis,dbt,82
+Agile / Scrum,Grafana,82
+Git,Salesforce,81
+Ansible,Spark,81
+Kubernetes,Risk Management,81
+GitLab,Node.js,81
+Firewalls,Kubernetes,81
+Data Analysis,LLMs / GenAI,81
+Kotlin,Microservices,81
+Ansible,Node.js,81
+Oracle,Terraform,81
+Agile / Scrum,SAP,81
+Software Architecture,Windows,81
+REST API,Unix,81
+Airflow,Tableau,81
+PostgreSQL,Tableau,81
+React,Swift,81
+Data Analysis,Linear,81
+Data Visualization,Prototyping,81
+Kubernetes,ServiceNow,81
+Data Analysis,Figma,81
+Angular,GitLab,81
+Databricks,MLflow,80
+Jira,Scala,80
+C++,Linear,80
+Agile / Scrum,Datadog,80
+Machine Learning,Oracle,80
+NLP,Pandas,80
+Snowflake,Unix,80
+Confluence,Go,80
+REST API,ServiceNow,80
+Excel,SAP,80
+Databricks,NumPy,80
+Prototyping,Unit Testing,80
+Incident Response,SQL,80
+Git,VMware,80
+Active Directory,Kubernetes,80
+AWS Security,CISSP,80
+Microservices,jQuery,80
+GCP,LLMs / GenAI,80
+Excel,Oracle,80
+HTML,Redis,80
+NLP,NumPy,79
+Azure,Datadog,79
+MongoDB,XML,79
+Data Governance,Docker,79
+Data Modeling,dbt,79
+GitHub,Oracle,79
+C,DevOps,79
+.NET,Jenkins,79
+Databricks,NoSQL,79
+Angular,Distributed Systems,79
+Jira,Swift,79
+CI/CD,Swift,79
+AWS,Penetration Testing,79
+Machine Learning,SageMaker,79
+Git,Snowflake,79
+Elasticsearch,Machine Learning,79
+Bash,Grafana,79
+Data Visualization,Risk Management,79
+Data Visualization,PostgreSQL,79
+Datadog,Jenkins,79
+AWS Security,Cybersecurity,79
+Data Pipeline,Distributed Systems,79
+Linux,Redshift,79
+Ansible,Incident Response,78
+Ansible,Data Analysis,78
+Angular,Elasticsearch,78
+CSS,ServiceNow,78
+Confluence,Oracle,78
+Confluence,Stakeholder Mgmt,78
+Windows,jQuery,78
+SAS,Statistical Analysis,78
+Airflow,MongoDB,78
+Alteryx,Machine Learning,78
+DevOps,Stakeholder Mgmt,78
+Spring Boot,TypeScript,78
+MATLAB,System Design,78
+Data Visualization,MongoDB,78
+Databricks,Jupyter,78
+Bash,C#,78
+Jenkins,Software Architecture,78
+Big Data,PyTorch,78
+Cybersecurity,System Design,78
+Cassandra,REST API,78
+Ruby,Windows,78
+Datadog,Splunk,78
+Data Visualization,XML,78
+Ansible,React,77
+C++,Redis,77
+Airflow,Go,77
+Data Visualization,GraphQL,77
+HTML,Ruby,77
+Distributed Systems,Jenkins,77
+Spark,Spring,77
+Elasticsearch,TypeScript,77
+.NET,NoSQL,77
+Jira,VMware,77
+Data Pipeline,R,77
+Angular,Hadoop,77
+Deep Learning,NoSQL,77
+Datadog,Grafana,77
+DevOps,R,77
+Data Analysis,XML,77
+ETL,PostgreSQL,77
+Confluence,Data Visualization,77
+JavaScript,Risk Management,77
+Airflow,DevOps,77
+Big Data,TensorFlow,77
+Figma,Git,77
+Data Analysis,JSON,77
+HTML,Spark,76
+GraphQL,MongoDB,76
+C++,Tableau,76
+Go,Splunk,76
+Azure,Prototyping,76
+Angular,Big Data,76
+Data Visualization,SSIS,76
+GitHub,PowerShell,76
+Big Data,React,76
+Informatica,Oracle,76
+AWS,Flink,76
+Python,SAP,76
+Elasticsearch,HTML,76
+Ansible,Unit Testing,76
+CSS,Power BI,76
+Linux,Redis,76
+Active Directory,Ansible,76
+ETL,Jira,75
+CISSP,Kubernetes,75
+NoSQL,TensorFlow,75
+Big Data,Unix,75
+BigQuery,GCP,75
+R,Risk Management,75
+Java,Vue,75
+Django,Git,75
+Git,Grafana,75
+Cassandra,Oracle,75
+Angular,Redis,75
+Agile / Scrum,Flask,75
+NoSQL,System Design,75
+CI/CD,Redshift,75
+Helm,Terraform,74
+GitLab,Kafka,74
+DynamoDB,Kafka,74
+Google Analytics,SQL,74
+ETL,JavaScript,74
+Linux,Spring Boot,74
+JavaScript,Next.js,74
+GitLab,Oracle,74
+MongoDB,Windows,74
+JSON,Kafka,74
+Go,NLP,74
+Jupyter,MLflow,74
+PHP,Unit Testing,74
+Kubernetes,Tableau,74
+Cassandra,DynamoDB,74
+MLflow,Pandas,74
+C++,JSON,74
+Angular,Snowflake,74
+Confluence,Cybersecurity,74
+Confluence,Software Architecture,74
+Elasticsearch,Jira,74
+Airflow,MySQL,74
+Confluence,Spring,74
+Excel,Java,73
+Docker,Tableau,73
+CI/CD,NLP,73
+AWS,Jupyter,73
+GitHub,Snowflake,73
+Airflow,Cassandra,73
+AWS,Prototyping,73
+Data Warehousing,JavaScript,73
+Alteryx,SAS,73
+CI/CD,Hive,73
+Ansible,Distributed Systems,73
+Bash,NoSQL,73
+GCP,GraphQL,73
+.NET,Power BI,73
+Helm,Kafka,73
+Jira,Redis,73
+CI/CD,Salesforce,73
+C#,Data Modeling,73
+Airflow,Data Visualization,73
+Alteryx,Data Visualization,73
+Ansible,MongoDB,73
+Flask,React,73
+Data Warehousing,Distributed Systems,72
+Docker,Incident Response,72
+R,Snowflake,72
+Jupyter,SQL,72
+Data Modeling,MongoDB,72
+Kanban,TypeScript,72
+Confluence,Snowflake,72
+MongoDB,Unix,72
+Go,GraphQL,72
+C,Software Architecture,72
+ETL,Hive,72
+NLP,Tableau,72
+Data Governance,Jira,72
+PowerShell,Risk Management,72
+Flink,Hadoop,72
+Git,System Design,72
+C#,R,72
+Hive,Unix,72
+Excel,JavaScript,71
+GitLab,PowerShell,71
+Power BI,Windows,71
+Cybersecurity,Jenkins,71
+DevOps,Redshift,71
+Angular,Cassandra,71
+Python,Vue,71
+NoSQL,Ruby,71
+Kubernetes,R,71
+Distributed Systems,Redis,71
+Hive,Unit Testing,71
+MLflow,NumPy,71
+Redshift,Unix,71
+Jenkins,Snowflake,71
+PostgreSQL,Unix,71
+AWS,Vue,71
+Kubernetes,LLMs / GenAI,70
+HTML,Vue,70
+GitLab,Grafana,70
+Git,Pandas,70
+Confluence,MATLAB,70
+Agile / Scrum,Rust,70
+SSIS,Tableau,70
+Confluence,XML,70
+Kafka,Windows,70
+Linux,Tableau,70
+Data Warehousing,GitHub,70
+C++,Data Modeling,70
+Bash,Machine Learning,70
+Kafka,System Design,70
+Kotlin,TypeScript,70
+C#,Cybersecurity,70
+GitHub,Ruby,70
+Elasticsearch,Grafana,70
+CSS,GitLab,70
+GitHub,Hadoop,70
+Agile / Scrum,Firewalls,70
+Docker,Power BI,70
+Flask,JavaScript,70
+Git,Prototyping,69
+GitHub,Grafana,69
+Git,NLP,69
+NoSQL,Splunk,69
+Incident Response,Terraform,69
+Bash,Big Data,69
+Helm,SQL,69
+BigQuery,Data Analysis,69
+REST API,Splunk,69
+Kafka,Power BI,69
+JSON,Unix,69
+Docker,Pandas,69
+Flink,Kubernetes,68
+Agile / Scrum,Looker,68
+HTML,Terraform,68
+GitHub,Kotlin,68
+ETL,Excel,68
+Active Directory,Java,68
+PHP,Windows,68
+ETL,REST API,68
+TypeScript,Windows,68
+Node.js,Spark,68
+Ansible,Hadoop,68
+GCP,VMware,68
+Power BI,Risk Management,68
+Linear,SQL,68
+Flask,Kubernetes,68
+Kanban,Risk Management,68
+Ansible,Elasticsearch,68
+Unix,VMware,68
+NoSQL,PyTorch,68
+Redis,Spark,68
+GitLab,MongoDB,68
+Ansible,Datadog,68
+Big Data,Terraform,68
+Angular,Power BI,68
+Cybersecurity,Terraform,68
+Bash,Microservices,68
+Data Modeling,Terraform,67
+Jenkins,Kotlin,67
+Alteryx,Java,67
+Oracle,Splunk,67
+CI/CD,Django,67
+Looker,R,67
+CSS,Data Modeling,67
+GitLab,Machine Learning,67
+Big Data,Statistical Analysis,67
+Data Visualization,Kanban,67
+Oracle,PowerShell,67
+PowerShell,Ruby,67
+GCP,Grafana,67
+JavaScript,Swift,67
+GitLab,TypeScript,67
+Docker,Vue,67
+GitHub,XML,67
+Go,Snowflake,67
+LLMs / GenAI,Scala,67
+Confluence,Spring Boot,67
+Docker,Firewalls,67
+Databricks,R,67
+CSS,Redis,67
+Cybersecurity,Data Visualization,67
+Bash,HTML,67
+PowerShell,ServiceNow,67
+DevOps,Prototyping,67
+ETL,MongoDB,66
+PostgreSQL,jQuery,66
+Linux,jQuery,66
+Kotlin,NoSQL,66
+Bash,Incident Response,66
+CSS,Unix,66
+ETL,Jenkins,66
+.NET,Software Architecture,66
+Java,Stakeholder Mgmt,66
+Firewalls,GCP,66
+C#,GitLab,66
+Confluence,Data Modeling,66
+C++,VMware,66
+Databricks,Kubernetes,66
+Data Warehousing,NLP,66
+Informatica,Tableau,66
+PostgreSQL,PowerShell,66
+Ansible,Machine Learning,66
+Elasticsearch,GCP,66
+Oracle,SAP,66
+C++,Hive,66
+Cybersecurity,NoSQL,66
+Power BI,Redshift,66
+Ansible,JSON,65
+Pandas,R,65
+Data Warehousing,REST API,65
+Jenkins,Tableau,65
+Data Modeling,Salesforce,65
+Bash,Oracle,65
+MongoDB,Tableau,65
+Azure,Statistical Analysis,65
+Angular,System Design,65
+.NET,GCP,65
+Data Governance,Informatica,65
+Docker,Rust,65
+Data Warehousing,Looker,65
+ArgoCD,Kubernetes,65
+MySQL,PowerShell,65
+CSS,Cybersecurity,65
+Data Visualization,Salesforce,65
+.NET,MySQL,65
+Azure,Kotlin,65
+Spark,Statistical Analysis,65
+Informatica,Java,65
+Kafka,Prometheus,64
+Django,Machine Learning,64
+Google Analytics,Python,64
+DevOps,Helm,64
+Rust,TypeScript,64
+Next.js,Node.js,64
+Azure,Zero Trust,64
+CISSP,Docker,64
+Agile / Scrum,Prometheus,64
+Pandas,Spark,64
+C,Unix,64
+Data Governance,Statistical Analysis,64
+PostgreSQL,Power BI,64
+CSS,Terraform,64
+Active Directory,GCP,64
+Data Visualization,NumPy,64
+Microservices,Splunk,64
+Google Analytics,Tableau,64
+Power BI,Scala,64
+CSS,PowerShell,64
+Data Modeling,Stakeholder Mgmt,64
+Flask,Git,64
+C#,MATLAB,64
+Data Analysis,Elasticsearch,64
+MongoDB,Ruby,64
+HTML,System Design,63
+Data Modeling,SAS,63
+GCP,JSON,63
+Cybersecurity,Oracle,63
+GitLab,Unit Testing,63
+Datadog,Go,63
+REST API,Ruby,63
+PowerShell,Unix,63
+Agile / Scrum,Statistical Analysis,63
+Bash,Scala,63
+Data Pipeline,MongoDB,63
+Kafka,Software Architecture,63
+Confluence,PowerShell,63
+Data Analysis,GitLab,63
+Hive,Power BI,63
+Git,Hive,63
+Databricks,Git,63
+Data Pipeline,Go,63
+DynamoDB,Go,63
+ETL,Linux,63
+Java,Pandas,63
+Kubernetes,Power BI,63
+Data Visualization,Google Analytics,63
+Data Modeling,Looker,63
+.NET,Data Analysis,63
+Bash,Confluence,63
+C#,Data Visualization,63
+Kotlin,Node.js,63
+DevOps,Swift,63
+GCP,Jupyter,62
+C#,Kotlin,62
+REST API,System Design,62
+CI/CD,Prototyping,62
+GCP,Kotlin,62
+GraphQL,Jira,62
+CSS,Vue,62
+Ansible,Risk Management,62
+Spring,Terraform,62
+Kafka,R,62
+Azure,C,62
+TypeScript,Vue,62
+GCP,Redis,62
+Active Directory,Jira,62
+Cybersecurity,Power BI,62
+Jenkins,Power BI,62
+JSON,Terraform,62
+Distributed Systems,Ruby,62
+Unit Testing,Unix,62
+Data Governance,Hive,62
+Airflow,Databricks,62
+REST API,Vue,62
+Looker,Snowflake,62
+Oracle,Salesforce,62
+C++,Kotlin,62
+Redis,Unit Testing,62
+Confluence,Redis,62
+DevOps,Hive,62
+Cassandra,Data Modeling,62
+Databricks,Terraform,62
+JSON,PowerShell,62
+Kubernetes,Redshift,62
+Big Data,Node.js,61
+Informatica,Power BI,61
+Data Pipeline,Microservices,61
+Grafana,PostgreSQL,61
+Spark,Windows,61
+CISSP,Jira,61
+Kafka,XML,61
+GCP,PHP,61
+GitHub,jQuery,61
+Agile / Scrum,Penetration Testing,61
+Elasticsearch,Scala,61
+Cybersecurity,ServiceNow,61
+C#,Redis,61
+ETL,Unit Testing,61
+Cybersecurity,Excel,61
+Microservices,Tableau,61
+System Design,TypeScript,61
+C++,Data Warehousing,60
+BigQuery,Data Warehousing,60
+C,Rust,60
+Node.js,System Design,60
+Data Visualization,Windows,60
+Angular,Figma,60
+PHP,TypeScript,60
+Deep Learning,Scala,60
+Big Data,Elasticsearch,60
+.NET,PostgreSQL,60
+Docker,Risk Management,60
+Salesforce,XML,60
+AWS,MLflow,60
+Docker,NumPy,60
+Data Modeling,GitHub,60
+C,HTML,60
+Data Governance,Oracle,60
+Agile / Scrum,MuleSoft,60
+Big Data,Kanban,60
+Agile / Scrum,Dynamics 365,60
+C#,Scala,60
+Data Warehousing,SAS,60
+Cassandra,Jira,60
+Deep Learning,Linear,59
+Airflow,Jenkins,59
+C#,Data Warehousing,59
+System Design,Terraform,59
+Data Visualization,MATLAB,59
+Confluence,Unix,59
+Data Modeling,Windows,59
+Helm,Jenkins,59
+GraphQL,Jenkins,59
+SAP,Tableau,59
+Ansible,Oracle,59
+SAS,Spark,59
+CI/CD,LLMs / GenAI,59
+Figma,Java,59
+Ansible,HTML,59
+MySQL,VMware,59
+Big Data,GitHub,59
+DevOps,Django,59
+Hadoop,Windows,59
+Confluence,R,59
+Bash,Kafka,59
+Scala,Terraform,59
+R,Stakeholder Mgmt,59
+Docker,Redshift,59
+Active Directory,C#,59
+Active Directory,Penetration Testing,59
+Linux,Prototyping,58
+Cybersecurity,REST API,58
+CI/CD,Firewalls,58
+.NET,PHP,58
+Data Pipeline,REST API,58
+AWS,Stakeholder Mgmt,58
+Hadoop,Informatica,58
+Angular,Redshift,58
+Kafka,Kotlin,58
+Hadoop,SAS,58
+MuleSoft,Salesforce,58
+Airflow,Jira,58
+JavaScript,SSIS,58
+Kafka,Ruby,58
+Power BI,React,58
+HTML,Tableau,58
+C,Cybersecurity,58
+Dynamics 365,SQL,58
+Django,MySQL,58
+Azure,Django,58
+Grafana,JavaScript,58
+Big Data,Software Architecture,58
+Kanban,Spark,58
+Databricks,Docker,58
+Stakeholder Mgmt,User Research,57
+Bash,REST API,57
+ServiceNow,VMware,57
+Data Visualization,SAP,57
+Penetration Testing,Splunk,57
+C++,Data Pipeline,57
+Git,NumPy,57
+NoSQL,PowerShell,57
+Power BI,PowerShell,57
+Confluence,Splunk,57
+Java,Penetration Testing,57
+Kubernetes,jQuery,57
+Ansible,ServiceNow,57
+ETL,MySQL,57
+GraphQL,Machine Learning,57
+C++,LLMs / GenAI,57
+Flask,REST API,57
+AWS,Looker,57
+Ansible,C#,57
+Software Architecture,Spring,57
+TypeScript,jQuery,57
+Helm,Spark,57
+.NET,Kanban,57
+REST API,Snowflake,57
+Data Pipeline,JavaScript,57
+Distributed Systems,MongoDB,57
+Ansible,Cassandra,57
+Looker,Machine Learning,57
+Looker,Spark,57
+Big Data,Oracle,57
+Bash,C,56
+Deep Learning,Jupyter,56
+C#,Tableau,56
+GCP,System Design,56
+Grafana,Microservices,56
+Confluence,Elasticsearch,56
+Data Pipeline,Jenkins,56
+BigQuery,Data Visualization,56
+Hive,Jira,56
+Kafka,Kanban,56
+C#,Salesforce,56
+Data Visualization,Unit Testing,56
+Tableau,Windows,56
+Informatica,Spark,56
+Docker,LLMs / GenAI,56
+Big Data,HTML,56
+Ansible,CISSP,56
+Data Visualization,dbt,56
+Node.js,Snowflake,56
+Bash,Firewalls,56
+Data Governance,Git,56
+Databricks,Redshift,56
+Data Warehousing,Go,56
+Elasticsearch,Prometheus,56
+Oracle,System Design,56
+BigQuery,Machine Learning,56
+Jira,System Design,56
+CISSP,Java,56
+DevOps,Excel,56
+Flink,Machine Learning,56
+C#,Swift,56
+GCP,MLflow,56
+CISSP,Git,56
+Node.js,Vue,55
+Data Modeling,React,55
+C++,Swift,55
+Docker,Prototyping,55
+Data Pipeline,dbt,55
+Cybersecurity,Stakeholder Mgmt,55
+NLP,Power BI,55
+Azure,SAP,55
+Airflow,Git,55
+Data Visualization,System Design,55
+Spring Boot,jQuery,55
+C#,Risk Management,55
+Confluence,Scala,55
+Active Directory,Oracle,55
+ETL,dbt,55
+SSIS,Snowflake,55
+AWS,dbt,55
+C#,Spark,55
+Data Governance,Looker,55
+Big Data,Windows,55
+AWS,Excel,55
+Datadog,JavaScript,55
+C++,Statistical Analysis,55
+Big Data,Confluence,55
+Big Data,C#,55
+Machine Learning,Redis,55
+Cassandra,GitLab,55
+Django,REST API,55
+Data Warehousing,Jenkins,55
+Agile / Scrum,Flink,54
+Spring Boot,Terraform,54
+Angular,Hive,54
+Kotlin,Machine Learning,54
+C++,Pandas,54
+.NET,Machine Learning,54
+Grafana,Jira,54
+Microservices,Prometheus,54
+CSS,Ruby,54
+C,Jenkins,54
+Java,Statistical Analysis,54
+Docker,Flink,54
+Data Warehousing,dbt,54
+Hadoop,JSON,54
+Kanban,PostgreSQL,54
+Redis,Spring,54
+Agile / Scrum,Incident Response,54
+BigQuery,Snowflake,54
+Bash,JSON,54
+Jenkins,PHP,54
+Hadoop,Statistical Analysis,54
+Datadog,Linux,54
+MySQL,Power BI,54
+Cassandra,HTML,53
+C++,Elasticsearch,53
+Java,SAP,53
+Data Governance,Stakeholder Mgmt,53
+C++,NumPy,53
+GitLab,Unix,53
+Cybersecurity,Zero Trust,53
+Airflow,Confluence,53
+Data Analysis,Redis,53
+Machine Learning,Spring,53
+Kanban,Power BI,53
+SQL,SageMaker,53
+GitHub,Swift,53
+Data Pipeline,Looker,53
+JavaScript,SAS,53
+Data Visualization,GitHub,53
+Cybersecurity,Microservices,53
+Oracle,R,53
+NumPy,Tableau,53
+Hive,Jenkins,53
+Prometheus,SQL,53
+Oracle,VMware,53
+Ansible,System Design,53
+Kanban,Oracle,53
+Incident Response,Java,53
+GitHub,Software Architecture,53
+NoSQL,Risk Management,53
+BigQuery,Data Modeling,53
+ETL,Unix,53
+Flask,Machine Learning,53
+Data Visualization,Jenkins,53
+CSS,Spark,53
+Big Data,Risk Management,53
+AWS,SageMaker,52
+Big Data,Flink,52
+Data Visualization,Distributed Systems,52
+Azure,Flink,52
+Active Directory,SIEM,52
+ArgoCD,Python,52
+DynamoDB,GitLab,52
+Go,LLMs / GenAI,52
+Hadoop,Kanban,52
+Confluence,Data Warehousing,52
+C#,Excel,52
+Datadog,GitHub,52
+Linear,TensorFlow,52
+Airflow,Terraform,52
+DevOps,LLMs / GenAI,52
+Go,Kotlin,52
+ETL,JSON,52
+Active Directory,Docker,52
+GitHub,Prometheus,52
+Ansible,PHP,52
+Cybersecurity,GitHub,52
+Java,MuleSoft,52
+Risk Management,Software Architecture,52
+Active Directory,Bash,52
+GraphQL,Terraform,52
+Git,Rust,52
+PowerShell,XML,52
+Oracle,Ruby,52
+GitHub,Splunk,52
+Data Pipeline,Linux,52
+Kubernetes,Prototyping,52
+Kanban,Terraform,52
+MATLAB,Statistical Analysis,52
+MongoDB,Software Architecture,52
+Django,HTML,52
+Risk Management,SAS,52
+Data Analysis,Penetration Testing,52
+Data Pipeline,GitHub,52
+FastAPI,Python,52
+Flink,NoSQL,52
+Active Directory,HTML,51
+Active Directory,Data Analysis,51
+CISSP,JavaScript,51
+BigQuery,Tableau,51
+Jenkins,Risk Management,51
+MongoDB,jQuery,51
+Django,Node.js,51
+Active Directory,Git,51
+Linux,NLP,51
+PowerShell,SIEM,51
+MATLAB,Windows,51
+Kubernetes,Pandas,51
+Microservices,PowerShell,51
+Airflow,Helm,51
+GitHub,Unix,51
+Kotlin,Scala,51
+Distributed Systems,Spring,51
+NumPy,R,51
+MuleSoft,SQL,51
+Helm,Java,51
+Django,MongoDB,51
+Angular,Unix,51
+Jira,Ruby,51
+Datadog,SQL,51
+ArgoCD,Docker,50
+Data Modeling,Node.js,50
+Oracle,TypeScript,50
+Kotlin,Software Architecture,50
+Distributed Systems,PHP,50
+Ruby,TypeScript,50
+Tableau,dbt,50
+AWS,Helm,50
+Data Visualization,Go,50
+Datadog,GCP,50
+Flask,PostgreSQL,50
+Splunk,Spring,50
+Databricks,PyTorch,50
+CSS,Django,50
+Git,Risk Management,50
+Snowflake,Terraform,50
+Data Modeling,NLP,50
+GitLab,Spring,50
+Rust,SQL,50
+Databricks,Jenkins,50
+AWS,Next.js,50
+C,React,50
+Kotlin,PostgreSQL,50
+.NET,Kafka,49
+Angular,Data Visualization,49
+Microservices,PHP,49
+Data Pipeline,Jira,49
+R,Redshift,49
+Helm,Snowflake,49
+CI/CD,Deep Learning,49
+Big Data,LLMs / GenAI,49
+A/B Testing,ETL,49
+Kubernetes,NumPy,49
+Distributed Systems,Snowflake,49
+Active Directory,Unix,49
+Confluence,Kotlin,49
+Distributed Systems,Prometheus,49
+JSON,PHP,49
+.NET,SSIS,49
+Ansible,TypeScript,49
+JavaScript,MuleSoft,49
+Big Data,Cybersecurity,49
+DynamoDB,Oracle,49
+Azure,Figma,49
+Kafka,Looker,49
+DynamoDB,Spring Boot,49
+Kanban,MongoDB,49
+Kanban,Kotlin,49
+CI/CD,Vue,49
+Go,Incident Response,49
+DynamoDB,Redis,49
+.NET,Unix,49
+Bash,XML,49
+Bash,MongoDB,49
+Active Directory,CI/CD,49
+Data Warehousing,Terraform,49
+Data Pipeline,Node.js,49
+Confluence,Figma,48
+Firewalls,Unix,48
+GitHub,Scala,48
+JSON,Power BI,48
+Risk Management,Unix,48
+Figma,SQL,48
+BigQuery,Data Pipeline,48
+Databricks,Deep Learning,48
+Angular,Ruby,48
+DevOps,SIEM,48
+Jupyter,NLP,48
+CISSP,ServiceNow,48
+Ansible,XML,48
+Azure,MATLAB,48
+Data Pipeline,Unit Testing,48
+Ansible,Kanban,48
+MySQL,Software Architecture,48
+Kafka,TensorFlow,48
+Azure,Helm,48
+BigQuery,Redshift,48
+Cybersecurity,Data Modeling,48
+Git,Vue,48
+Data Pipeline,React,48
+PHP,XML,48
+C++,Power BI,48
+DynamoDB,Spring,48
+Angular,Django,48
+Databricks,Jira,48
+Distributed Systems,PyTorch,48
+BigQuery,Java,48
+C#,Snowflake,48
+Hive,NLP,48
+Data Governance,Redshift,48
+DevOps,Dynamics 365,48
+JSON,Salesforce,48
+Hive,Oracle,48
+Airflow,Looker,48
+Azure,SAS,48
+JavaScript,VMware,48
+Bash,Node.js,48
+BigQuery,Spark,48
+.NET,System Design,48
+Risk Management,Unit Testing,48
+Data Modeling,Distributed Systems,48
+Data Warehousing,Kanban,48
+Cassandra,Ruby,47
+.NET,MongoDB,47
+REST API,Tableau,47
+Big Data,JSON,47
+Databricks,GitHub,47
+Elasticsearch,GitHub,47
+Ansible,Redis,47
+Node.js,Splunk,47
+Spark,Spring Boot,47
+Microservices,Risk Management,47
+Power BI,jQuery,47
+Power BI,XML,47
+Data Pipeline,Oracle,47
+JavaScript,NLP,47
+.NET,Terraform,47
+Datadog,MySQL,47
+ETL,HTML,47
+Data Analysis,Jupyter,47
+ETL,Helm,47
+Data Governance,NLP,47
+C#,Vue,47
+Data Modeling,Kanban,47
+Data Modeling,XML,47
+Data Governance,Risk Management,47
+C,Distributed Systems,47
+Scala,Software Architecture,47
+A/B Testing,JavaScript,47
+Azure,Flask,47
+OWASP,Python,47
+MongoDB,Power BI,47
+Machine Learning,Ruby,47
+Ansible,CSS,47
+MySQL,R,47
+Data Visualization,Linear,47
+Google Analytics,Power BI,47
+AWS,Figma,47
+Deep Learning,MLflow,46
+C++,Excel,46
+Node.js,Prototyping,46
+Bash,Unit Testing,46
+Data Modeling,JSON,46
+Data Warehousing,Node.js,46
+ETL,GitHub,46
+HTML,R,46
+ETL,XML,46
+Incident Response,Jenkins,46
+Angular,PowerShell,46
+Flink,Scala,46
+Distributed Systems,Windows,46
+Grafana,PowerShell,46
+Spark,TypeScript,46
+Excel,HTML,46
+Cybersecurity,Tableau,46
+Machine Learning,Splunk,46
+Data Governance,SSIS,46
+Distributed Systems,Jira,46
+GitLab,Spark,46
+Data Visualization,Terraform,46
+Tableau,TensorFlow,46
+Jira,PHP,46
+Ansible,Helm,46
+Spring,Unix,46
+PHP,Terraform,46
+Incident Response,Unix,46
+CI/CD,R,46
+Dynamics 365,JavaScript,46
+CSS,Elasticsearch,46
+Cybersecurity,React,46
+GCP,XML,46
+ArgoCD,Terraform,46
+C#,Prototyping,46
+MLflow,PyTorch,46
+GitHub,Tableau,46
+Dynamics 365,Power BI,46
+JavaScript,Stakeholder Mgmt,46
+NoSQL,PHP,46
+Machine Learning,PHP,46
+Deep Learning,MATLAB,45
+CSS,Distributed Systems,45
+NoSQL,jQuery,45
+HTML,Stakeholder Mgmt,45
+Cassandra,Distributed Systems,45
+Cassandra,GitHub,45
+OWASP,Penetration Testing,45
+CI/CD,ServiceNow,45
+Azure,Looker,45
+Data Governance,MongoDB,45
+MuleSoft,REST API,45
+MongoDB,R,45
+R,Windows,45
+Agile / Scrum,Next.js,45
+Kanban,MySQL,45
+GraphQL,Redis,45
+Azure,Swift,45
+Azure,dbt,45
+Data Governance,SAS,45
+Grafana,MySQL,45
+Deep Learning,DevOps,45
+GitLab,VMware,45
+Angular,Data Warehousing,45
+PHP,Redis,45
+Data Warehousing,Stakeholder Mgmt,45
+C#,Spring,45
+Go,JSON,45
+Confluence,Salesforce,45
+Oracle,Redis,45
+Confluence,Prototyping,45
+Data Modeling,Unix,45
+Bash,PHP,45
+JSON,Kanban,45
+GitLab,JSON,45
+CI/CD,Flask,45
+Flink,GCP,45
+Django,Java,45
+Django,Linux,45
+Oracle,Risk Management,45
+Active Directory,CSS,44
+Risk Management,ServiceNow,44
+HTML,Scala,44
+AWS,SAS,44
+JavaScript,LLMs / GenAI,44
+Salesforce,Unit Testing,44
+SQL,Workday,44
+Distributed Systems,LLMs / GenAI,44
+Data Pipeline,Pandas,44
+Flask,NoSQL,44
+Kotlin,Linux,44
+Pandas,Power BI,44
+React,Rust,44
+Jenkins,ServiceNow,44
+Risk Management,Terraform,44
+Data Modeling,Risk Management,44
+Data Modeling,Go,44
+Bash,Datadog,44
+Figma,Python,44
+Big Data,CSS,44
+MATLAB,Risk Management,44
+Datadog,PostgreSQL,44
+Hadoop,Spring,44
+Swift,TypeScript,44
+Spark,Splunk,44
+AWS,SSIS,44
+DynamoDB,Redshift,44
+Bash,CSS,44
+CI/CD,Informatica,44
+Bash,Cassandra,44
+Data Analysis,SIEM,44
+Grafana,REST API,44
+GitLab,XML,44
+CSS,Cassandra,44
+Machine Learning,PowerShell,44
+Excel,MATLAB,44
+PowerShell,React,44
+Redshift,Terraform,44
+HTML,Kotlin,44
+GraphQL,MySQL,44
+Jira,NLP,44
+Cybersecurity,OWASP,44
+Microservices,Ruby,44
+Prototyping,REST API,43
+Docker,Swift,43
+MATLAB,Software Architecture,43
+Confluence,ServiceNow,43
+ArgoCD,DevOps,43
+GCP,Looker,43
+Incident Response,VMware,43
+Distributed Systems,Grafana,43
+Angular,Salesforce,43
+CI/CD,MATLAB,43
+Linux,Pandas,43
+JSON,Machine Learning,43
+Cassandra,Data Governance,43
+Go,Kanban,43
+Alteryx,Excel,43
+Azure,Vue,43
+Firewalls,ServiceNow,43
+HTML,Risk Management,43
+Data Modeling,Software Architecture,43
+Prototyping,TypeScript,43
+Data Analysis,VMware,43
+Jenkins,Salesforce,43
+Databricks,NLP,43
+Kubernetes,Vue,43
+Data Analysis,Workday,43
+Confluence,Hive,43
+Cassandra,Confluence,43
+Git,Helm,43
+C#,Rust,43
+Incident Response,Prometheus,43
+Linear,PyTorch,43
+SAP,Windows,43
+Software Architecture,XML,43
+Airflow,GitHub,43
+Distributed Systems,TensorFlow,43
+Data Pipeline,Statistical Analysis,42
+Node.js,Rust,42
+Data Warehousing,Windows,42
+Elasticsearch,Hive,42
+Confluence,Excel,42
+Cassandra,Flink,42
+GitLab,Software Architecture,42
+Data Modeling,Spring,42
+Helm,Linux,42
+DevOps,Vue,42
+Data Warehousing,HTML,42
+Jira,Looker,42
+C,GitLab,42
+Firewalls,Jenkins,42
+Machine Learning,XGBoost,42
+Datadog,Git,42
+Oracle,PHP,42
+Alteryx,Data Modeling,42
+Splunk,Spring Boot,42
+Kanban,ServiceNow,42
+DynamoDB,Unit Testing,42
+Flask,MongoDB,42
+Datadog,Prometheus,42
+Django,NoSQL,42
+Cybersecurity,Go,42
+Kubernetes,Swift,42
+React,Unix,42
+Bash,Distributed Systems,42
+NLP,Statistical Analysis,42
+Jupyter,PyTorch,42
+Data Visualization,Informatica,42
+Cybersecurity,Software Architecture,42
+JSON,System Design,42
+Elasticsearch,Unit Testing,42
+A/B Testing,Java,42
+Linux,NumPy,42
+ArgoCD,CI/CD,42
+Hadoop,Splunk,42
+Azure,OWASP,42
+Big Data,PHP,42
+Data Pipeline,LLMs / GenAI,41
+C#,Dynamics 365,41
+ETL,Terraform,41
+Oracle,Redshift,41
+Git,SSIS,41
+JavaScript,SAP,41
+Flask,Node.js,41
+ServiceNow,Splunk,41
+Data Analysis,Ruby,41
+PostgreSQL,System Design,41
+Cassandra,Grafana,41
+Datadog,Node.js,41
+System Design,VMware,41
+PostgreSQL,Splunk,41
+Google Analytics,JavaScript,41
+Cybersecurity,Kanban,41
+Penetration Testing,PowerShell,41
+HTML,VMware,41
+Cybersecurity,Data Governance,41
+JSON,Kotlin,41
+Django,GCP,41
+C,Ruby,41
+Hadoop,LLMs / GenAI,41
+ServiceNow,XML,41
+Kanban,Stakeholder Mgmt,41
+Data Visualization,LLMs / GenAI,41
+Go,Spring,41
+Angular,Data Modeling,41
+Data Pipeline,Deep Learning,41
+Node.js,Swift,41
+Linux,Power BI,41
+Microservices,NLP,41
+SAP,Salesforce,41
+Flask,Jenkins,41
+Jira,User Research,41
+Bash,TypeScript,41
+Firewalls,Java,41
+Kanban,Software Architecture,40
+.NET,Go,40
+Grafana,Node.js,40
+Databricks,Hive,40
+Jenkins,Swift,40
+Data Modeling,System Design,40
+GCP,SIEM,40
+C++,Spring,40
+Active Directory,Jenkins,40
+Active Directory,System Design,40
+CI/CD,CISSP,40
+GitHub,R,40
+Data Analysis,DynamoDB,40
+DevOps,Informatica,40
+JavaScript,TensorFlow,40
+Active Directory,Excel,40
+React,Tableau,40
+Oracle,ServiceNow,40
+Hadoop,Pandas,40
+NumPy,Spark,40
+NLP,React,40
+Azure,MuleSoft,40
+Airflow,Linux,40
+Airflow,BigQuery,40
+Kafka,PyTorch,40
+Azure,BigQuery,40
+Data Visualization,Software Architecture,40
+Deep Learning,Statistical Analysis,40
+A/B Testing,HTML,40
+BigQuery,Looker,40
+Cybersecurity,R,40
+GraphQL,Spring,40
+Splunk,Tableau,40
+PowerShell,Unit Testing,40
+GraphQL,Kotlin,40
+Spring,Windows,40
+Confluence,VMware,39
+A/B Testing,React,39
+Google Analytics,Salesforce,39
+GitHub,PHP,39
+Data Warehousing,React,39
+Data Warehousing,Risk Management,39
+AWS,SAP,39
+PostgreSQL,VMware,39
+Cassandra,Power BI,39
+CSS,System Design,39
+Airflow,REST API,39
+Grafana,NoSQL,39
+Bash,CISSP,39
+Software Architecture,Spark,39
+Looker,dbt,39
+ETL,Windows,39
+C#,VMware,39
+Ruby,Unit Testing,39
+AWS,Linear,39
+C,Confluence,39
+Excel,Snowflake,39
+Databricks,Informatica,39
+PowerShell,jQuery,39
+Datadog,Kafka,39
+A/B Testing,Prototyping,39
+Kafka,Rust,39
+Kotlin,Spring Boot,39
+Confluence,GraphQL,39
+Microservices,Vue,39
+MySQL,Vue,39
+GraphQL,Next.js,39
+Go,Oracle,39
+Agile / Scrum,OWASP,39
+Spring,System Design,39
+NoSQL,Prototyping,39
+Big Data,System Design,39
+DevOps,dbt,39
+Agile / Scrum,SAS,39
+Data Modeling,Helm,39
+Data Analysis,Flink,39
+Angular,Data Pipeline,38
+GraphQL,Ruby,38
+Data Analysis,Firewalls,38
+Kafka,NLP,38
+Grafana,Machine Learning,38
+Grafana,Spark,38
+JavaScript,Redshift,38
+Jenkins,System Design,38
+JSON,Spark,38
+.NET,ETL,38
+Data Visualization,Elasticsearch,38
+Kubernetes,Penetration Testing,38
+Ruby,Spark,38
+Bash,React,38
+React,Salesforce,38
+Cybersecurity,LLMs / GenAI,38
+Kanban,XML,38
+Oracle,Software Architecture,38
+Machine Learning,Spring Boot,38
+NLP,System Design,38
+Data Pipeline,NLP,38
+HTML,Splunk,38
+Big Data,Spring,38
+MATLAB,TensorFlow,38
+C#,Elasticsearch,38
+LangChain,Python,38
+GraphQL,Spring Boot,38
+Active Directory,JSON,38
+MATLAB,SAS,38
+Airflow,C++,38
+Deep Learning,Jira,38
+Data Visualization,Unix,37
+Agile / Scrum,Workday,37
+Machine Learning,Rust,37
+Software Architecture,Terraform,37
+DevOps,Flask,37
+HTML,Swift,37
+Flask,HTML,37
+Jira,Prometheus,37
+React,Snowflake,37
+Scala,System Design,37
+Node.js,PowerShell,37
+Bash,Elasticsearch,37
+Salesforce,jQuery,37
+DynamoDB,Spark,37
+Airflow,Unit Testing,37
+Data Analysis,Grafana,37
+Incident Response,JavaScript,37
+MySQL,Splunk,37
+C,TypeScript,37
+DynamoDB,Jira,37
+Elasticsearch,Spring,37
+Jira,SSIS,37
+DynamoDB,Linux,37
+Ansible,Big Data,37
+Big Data,Looker,37
+GitLab,Incident Response,37
+Jira,SAP,37
+Datadog,Redis,37
+GitHub,GraphQL,37
+SSIS,Unit Testing,37
+Python,scikit-learn,37
+Salesforce,Windows,37
+Informatica,Machine Learning,37
+Kanban,Prototyping,37
+DynamoDB,Elasticsearch,37
+Flink,MongoDB,37
+REST API,Risk Management,37
+DevOps,MATLAB,37
+GitLab,Tableau,37
+Django,TypeScript,37
+Jupyter,Spark,37
+Spring Boot,Unix,37
+PostgreSQL,Vue,37
+Statistical Analysis,TensorFlow,37
+System Design,Unix,37
+C#,GraphQL,37
+.NET,Ruby,37
+C++,Grafana,37
+Ansible,Spring Boot,37
+REST API,Redshift,37
+AWS Security,SIEM,37
+Distributed Systems,GraphQL,36
+LLMs / GenAI,R,36
+Distributed Systems,Unix,36
+Kanban,Salesforce,36
+ETL,Salesforce,36
+Django,Go,36
+Linear,R,36
+LangChain,Machine Learning,36
+GitHub,Salesforce,36
+NLP,Node.js,36
+Django,Jenkins,36
+Cybersecurity,Data Warehousing,36
+Cassandra,Splunk,36
+Deep Learning,Tableau,36
+Prototyping,System Design,36
+MongoDB,dbt,36
+Cassandra,R,36
+Big Data,TypeScript,36
+Angular,Prototyping,36
+Oracle,SSIS,36
+Kubernetes,MLflow,36
+PyTorch,XGBoost,36
+Confluence,ETL,36
+CISSP,Terraform,36
+PowerShell,Tableau,36
+Risk Management,Spark,36
+Firewalls,JavaScript,36
+AWS,ArgoCD,36
+JavaScript,MATLAB,36
+.NET,C,36
+Data Warehousing,SAP,36
+Big Data,SAS,36
+.NET,Vue,36
+LLMs / GenAI,Risk Management,36
+Alteryx,Risk Management,36
+Tableau,Unix,36
+Cybersecurity,MySQL,36
+C,Oracle,36
+CSS,Next.js,36
+Jenkins,Redshift,36
+NoSQL,Statistical Analysis,36
+Risk Management,Statistical Analysis,36
+Data Pipeline,Flink,36
+Data Governance,PostgreSQL,36
+Active Directory,XML,36
+Confluence,Grafana,36
+Airflow,Power BI,36
+Cybersecurity,GitLab,36
+Software Architecture,Spring Boot,36
+JSON,Software Architecture,36
+Airflow,Microservices,36
+Machine Learning,dbt,36
+Distributed Systems,Elasticsearch,35
+Data Modeling,PowerShell,35
+Snowflake,TypeScript,35
+Data Pipeline,Elasticsearch,35
+JavaScript,OWASP,35
+C#,Hadoop,35
+Big Data,Excel,35
+Figma,Stakeholder Mgmt,35
+Scala,Splunk,35
+Hive,TensorFlow,35
+Google Analytics,HTML,35
+GCP,Statistical Analysis,35
+Flask,MySQL,35
+Datadog,GitLab,35
+Distributed Systems,Spring Boot,35
+Kotlin,Spark,35
+MongoDB,PowerShell,35
+Data Analysis,Django,35
+Git,Incident Response,35
+Hadoop,Spring Boot,35
+Ansible,C,35
+Incident Response,Microservices,35
+Docker,Figma,35
+Data Visualization,User Research,35
+Redshift,dbt,35
+Go,PyTorch,35
+HTML,SSIS,35
+Excel,Linux,35
+Cybersecurity,Spark,35
+Docker,Penetration Testing,35
+Data Analysis,PHP,35
+Elasticsearch,Windows,35
+Bash,Risk Management,35
+ServiceNow,Unit Testing,35
+NoSQL,Vue,35
+SSIS,Windows,35
+R,Unix,35
+Data Warehousing,JSON,35
+Tableau,Unit Testing,35
+Angular,Flask,35
+Data Visualization,Figma,35
+Data Analysis,Spring,35
+Data Governance,JavaScript,35
+Node.js,Salesforce,35
+Java,NumPy,35
+ETL,React,35
+Elasticsearch,GraphQL,35
+PyTorch,Tableau,35
+Datadog,React,35
+Machine Learning,Penetration Testing,34
+CSS,Kotlin,34
+Data Governance,Distributed Systems,34
+Databricks,SSIS,34
+C++,Flask,34
+Python,User Research,34
+AWS Security,Incident Response,34
+Databricks,Oracle,34
+CSS,Tableau,34
+CISSP,OWASP,34
+Elasticsearch,JSON,34
+Salesforce,Snowflake,34
+GitHub,System Design,34
+Azure,Linear,34
+.NET,GitLab,34
+CI/CD,MuleSoft,34
+CISSP,Unix,34
+Distributed Systems,Incident Response,34
+Kanban,Spring,34
+Excel,PowerShell,34
+PyTorch,Snowflake,34
+Angular,Cybersecurity,34
+React,User Research,34
+GCP,Salesforce,34
+Deep Learning,Distributed Systems,34
+Cybersecurity,Unit Testing,34
+Prometheus,Windows,34
+Agile / Scrum,Helm,34
+GitLab,Spring Boot,34
+Elasticsearch,GitLab,34
+Kanban,Spring Boot,34
+NoSQL,Swift,34
+Kanban,Tableau,34
+Prototyping,Risk Management,34
+BigQuery,Kafka,34
+Data Warehousing,PyTorch,34
+Data Modeling,TensorFlow,34
+Linear,NLP,34
+Redis,Ruby,34
+PowerShell,System Design,34
+C,XML,34
+Angular,Bash,34
+Machine Learning,XML,34
+MATLAB,Prototyping,34
+AWS,BigQuery,34
+Data Governance,Linux,34
+DynamoDB,GitHub,34
+JavaScript,Penetration Testing,34
+Incident Response,System Design,34
+Kanban,Swift,34
+Firewalls,GitHub,34
+Ruby,Scala,34
+Airflow,C#,34
+CI/CD,Pandas,33
+DynamoDB,Machine Learning,33
+MLflow,Spark,33
+Ruby,VMware,33
+NoSQL,dbt,33
+BigQuery,ETL,33
+Data Warehousing,TensorFlow,33
+PyTorch,Statistical Analysis,33
+Informatica,Unix,33
+Flink,Hive,33
+Airflow,GitLab,33
+PostgreSQL,Prometheus,33
+Rust,Scala,33
+Power BI,TensorFlow,33
+ETL,NLP,33
+C#,Cassandra,33
+Java,SSIS,33
+Data Pipeline,NumPy,33
+.NET,Data Modeling,33
+Kotlin,Spring,33
+Prototyping,Windows,33
+Datadog,REST API,33
+Confluence,Data Governance,33
+Git,Redshift,33
+Deep Learning,Kafka,33
+Cybersecurity,MATLAB,33
+A/B Testing,Big Data,33
+Penetration Testing,SQL,33
+Data Modeling,PyTorch,33
+BigQuery,Hadoop,33
+HTML,Next.js,33
+PostgreSQL,Rust,33
+Hadoop,Risk Management,33
+Angular,ServiceNow,33
+Django,Microservices,33
+Agile / Scrum,dbt,33
+Active Directory,REST API,33
+C++,CISSP,33
+Go,Spring Boot,33
+PyTorch,SageMaker,33
+Data Governance,Kanban,33
+Airflow,Node.js,33
+Jenkins,R,33
+Elasticsearch,Spring Boot,33
+Hadoop,Ruby,33
+Power BI,dbt,33
+Rust,Windows,33
+Flask,Jira,33
+Airflow,Angular,33
+Burp Suite,Penetration Testing,32
+ETL,Statistical Analysis,32
+Power BI,Unit Testing,32
+HTML,Snowflake,32
+Kanban,Unix,32
+DevOps,SAS,32
+Java,OWASP,32
+Kafka,Pandas,32
+MongoDB,SSIS,32
+Data Modeling,SAP,32
+C++,ETL,32
+Agile / Scrum,Google Analytics,32
+Distributed Systems,NLP,32
+Firewalls,Git,32
+GitLab,Snowflake,32
+Kanban,R,32
+CI/CD,NumPy,32
+REST API,VMware,32
+LLMs / GenAI,Tableau,32
+Hadoop,Kotlin,32
+Python,XGBoost,32
+HTML,SAP,32
+C++,Helm,32
+Big Data,Redis,32
+Confluence,System Design,32
+Confluence,Deep Learning,32
+CSS,ETL,32
+Deep Learning,Hive,32
+NoSQL,Prometheus,32
+Data Warehousing,System Design,32
+Risk Management,SAP,32
+PostgreSQL,R,32
+CI/CD,Figma,32
+ServiceNow,Tableau,32
+Prometheus,Rust,32
+Salesforce,Stakeholder Mgmt,32
+A/B Testing,Stakeholder Mgmt,32
+CSS,Scala,32
+CSS,Stakeholder Mgmt,32
+Firewalls,Go,32
+Grafana,Windows,32
+Hive,REST API,32
+Hadoop,NumPy,32
+NoSQL,Pandas,32
+Data Analysis,Flask,32
+Data Governance,Salesforce,32
+.NET,Confluence,32
+Stakeholder Mgmt,Windows,32
+Data Analysis,GraphQL,32
+MLflow,NLP,32
+Grafana,React,32
+JavaScript,Prometheus,32
+Docker,Jupyter,32
+C++,Prometheus,32
+Confluence,Swift,32
+Azure,Rust,32
+Docker,MLflow,32
+DevOps,MuleSoft,32
+GitHub,Redshift,32
+JSON,Splunk,32
+Grafana,Hadoop,32
+Git,Linear,32
+GCP,Swift,32
+Kotlin,Terraform,32
+Go,Helm,31
+Java,SageMaker,31
+DevOps,Pandas,31
+Cybersecurity,Kafka,31
+ETL,Looker,31
+Spark,System Design,31
+Snowflake,Splunk,31
+Git,Jupyter,31
+Deep Learning,Unix,31
+AWS,OWASP,31
+C#,Databricks,31
+Docker,MATLAB,31
+A/B Testing,Excel,31
+MySQL,Prometheus,31
+Airflow,Redis,31
+Data Governance,MySQL,31
+GitLab,Hadoop,31
+Spark,dbt,31
+Hive,JavaScript,31
+Data Governance,SAP,31
+C,GitHub,31
+CISSP,HTML,31
+GraphQL,Linux,31
+.NET,Cybersecurity,31
+LLMs / GenAI,TypeScript,31
+Databricks,PostgreSQL,31
+Airflow,Distributed Systems,31
+CSS,Flask,31
+Figma,Kubernetes,31
+Confluence,NLP,31
+Jira,Redshift,31
+C++,SAS,31
+Distributed Systems,DynamoDB,31
+Oracle,SAS,31
+PowerShell,Prometheus,31
+Data Modeling,Redis,31
+.NET,Dynamics 365,31
+Machine Learning,scikit-learn,31
+Excel,ServiceNow,31
+A/B Testing,CSS,31
+Kubernetes,Salesforce,31
+Datadog,NoSQL,31
+Pulumi,Terraform,31
+Informatica,Jenkins,31
+Windows,Zero Trust,31
+AWS,MATLAB,31
+CI/CD,Flink,31
+Firewalls,Jira,31
+CI/CD,Next.js,31
+Kotlin,MongoDB,31
+HTML,Hadoop,31
+Deep Learning,GitHub,31
+GitHub,VMware,31
+Prototyping,Tableau,31
+Tableau,Terraform,31
+MLflow,SQL,31
+Data Governance,Microservices,31
+HTML,MuleSoft,31
+Flask,Java,30
+Alteryx,JavaScript,30
+C++,Django,30
+A/B Testing,Statistical Analysis,30
+Datadog,Jira,30
+Big Data,Penetration Testing,30
+Kanban,PyTorch,30
+Python,Zero Trust,30
+ETL,Microservices,30
+A/B Testing,Data Modeling,30
+Prometheus,REST API,30
+Software Architecture,Swift,30
+MATLAB,Tableau,30
+GCP,Penetration Testing,30
+GraphQL,Swift,30
+Fivetran,SQL,30
+Figma,REST API,30
+Snowflake,TensorFlow,30
+Data Modeling,TypeScript,30
+Alteryx,Data Governance,30
+Data Warehousing,PowerShell,30
+Data Visualization,Redis,30
+Cassandra,JSON,30
+Data Pipeline,Excel,30
+Informatica,Jira,30
+GCP,Prototyping,30
+Elasticsearch,Ruby,30
+Distributed Systems,Hive,30
+Grafana,TypeScript,30
+Django,Terraform,30
+Kubernetes,MATLAB,30
+Java,Jupyter,30
+Data Pipeline,DynamoDB,30
+Flask,Linux,30
+Git,LLMs / GenAI,30
+Kafka,jQuery,30
+Data Analysis,SageMaker,30
+Oracle,Scala,30
+Terraform,XML,30
+ServiceNow,Terraform,30
+Excel,VMware,30
+Django,Unit Testing,30
+A/B Testing,Google Analytics,30
+Cybersecurity,Hadoop,30
+ETL,SAS,30
+Big Data,DynamoDB,30
+Microservices,Power BI,30
+CISSP,Confluence,30
+Big Data,BigQuery,30
+Cybersecurity,PostgreSQL,30
+CSS,DynamoDB,30
+Data Governance,dbt,29
+TensorFlow,XGBoost,29
+Data Pipeline,Redis,29
+Microservices,Prototyping,29
+C#,Data Pipeline,29
+Flask,GCP,29
+Cassandra,TypeScript,29
+Looker,Redshift,29
+NLP,Software Architecture,29
+Firebase,React,29
+Active Directory,Power BI,29
+Data Visualization,Jupyter,29
+C#,dbt,29
+Kanban,TensorFlow,29
+.NET,Active Directory,29
+Rust,Unit Testing,29
+C++,Data Governance,29
+Prototyping,Software Architecture,29
+Pandas,PostgreSQL,29
+Big Data,C,29
+Angular,ETL,29
+CI/CD,Stakeholder Mgmt,29
+.NET,Salesforce,29
+GitHub,Hive,29
+Excel,Looker,29
+Git,Looker,29
+Jira,TensorFlow,29
+Angular,Tableau,29
+MongoDB,VMware,29
+Data Warehousing,XML,29
+Flask,TypeScript,29
+REST API,SAP,29
+React,Splunk,29
+CISSP,CSS,29
+Snowflake,Stakeholder Mgmt,29
+Alteryx,Data Warehousing,29
+JavaScript,Statistical Analysis,29
+Confluence,Distributed Systems,29
+Figma,Jenkins,29
+Machine Learning,Prometheus,29
+LLMs / GenAI,NoSQL,29
+Risk Management,Salesforce,29
+Linear,Spark,29
+Go,Prototyping,29
+Google Analytics,R,29
+Airflow,PyTorch,29
+Databricks,JavaScript,29
+Elasticsearch,Unix,29
+Next.js,Python,29
+Linux,SAS,29
+SIEM,System Design,29
+Grafana,Redis,29
+Node.js,Prometheus,29
+C++,Penetration Testing,29
+Cybersecurity,Node.js,29
+Distributed Systems,Kotlin,29
+Datadog,Microservices,29
+Data Analysis,Rust,29
+Linear,Linux,29
+Incident Response,Zero Trust,29
+Elasticsearch,Splunk,29
+Fivetran,Python,29
+MATLAB,Spark,29
+REST API,Rust,29
+Deep Learning,Windows,29
+Elasticsearch,Tableau,28
+BigQuery,Kubernetes,28
+Elasticsearch,Oracle,28
+GraphQL,Kanban,28
+Prometheus,TypeScript,28
+GitLab,Helm,28
+SIEM,VMware,28
+C,R,28
+Git,ServiceNow,28
+C++,Salesforce,28
+Cassandra,XML,28
+MATLAB,NLP,28
+Flink,Snowflake,28
+Grafana,MongoDB,28
+Data Warehousing,Pandas,28
+React,Stakeholder Mgmt,28
+Jupyter,Kubernetes,28
+C++,jQuery,28
+Data Governance,GitHub,28
+CI/CD,SSIS,28
+Big Data,Splunk,28
+ArgoCD,Jenkins,28
+GitHub,NLP,28
+Data Pipeline,Kanban,28
+NLP,REST API,28
+Spark,XML,28
+Redis,Scala,28
+DevOps,SAP,28
+Confluence,Databricks,28
+Data Pipeline,Unix,28
+ArgoCD,Azure,28
+SageMaker,Spark,28
+SQL,User Research,28
+Data Pipeline,Informatica,28
+Kanban,Snowflake,28
+Redis,Spring Boot,28
+Flask,Redis,28
+Big Data,Pandas,28
+Django,GitLab,28
+Informatica,Kafka,28
+Databricks,Distributed Systems,28
+Azure,Workday,28
+Datadog,TypeScript,28
+Data Modeling,Elasticsearch,28
+Figma,Unit Testing,28
+CISSP,Jenkins,28
+Agile / Scrum,BigQuery,28
+Deep Learning,Kanban,28
+Data Pipeline,GitLab,28
+Fivetran,Snowflake,28
+React,Redshift,28
+TypeScript,Unix,28
+Snowflake,Statistical Analysis,28
+C++,Snowflake,28
+DynamoDB,Ruby,28
+JSON,MuleSoft,27
+LLMs / GenAI,LangChain,27
+C++,Stakeholder Mgmt,27
+MySQL,System Design,27
+C#,DynamoDB,27
+Excel,Hadoop,27
+Big Data,Informatica,27
+Hadoop,MATLAB,27
+Java,Linear,27
+Hive,LLMs / GenAI,27
+BigQuery,NoSQL,27
+Data Pipeline,PowerShell,27
+.NET,Kotlin,27
+Jira,Pandas,27
+Python,Workday,27
+Scala,TypeScript,27
+Git,dbt,27
+Data Modeling,Prototyping,27
+Kanban,NLP,27
+DevOps,OWASP,27
+CSS,Data Warehousing,27
+MATLAB,Unit Testing,27
+Bash,Redis,27
+CISSP,Excel,27
+Spring Boot,System Design,27
+Software Architecture,Unix,27
+DynamoDB,Snowflake,27
+Elasticsearch,Flink,27
+Hive,SAS,27
+PowerShell,Spark,27
+Cassandra,ETL,27
+Git,Informatica,27
+Hadoop,XML,27
+Hadoop,Looker,27
+Angular,Splunk,27
+Bash,Helm,27
+GitLab,Kanban,27
+Databricks,MongoDB,27
+Active Directory,MySQL,27
+Databricks,Linux,27
+Power BI,Terraform,27
+Agile / Scrum,Linear,27
+DevOps,Figma,27
+Kotlin,Rust,27
+Grafana,Rust,27
+GitHub,LLMs / GenAI,27
+MySQL,Salesforce,27
+A/B Testing,User Research,27
+Airflow,TensorFlow,27
+C#,SAP,27
+AWS Security,Windows,27
+Figma,Kanban,27
+Excel,XML,27
+Agile / Scrum,SageMaker,27
+C++,Flink,27
+Hive,JSON,27
+NumPy,Power BI,27
+DynamoDB,Scala,27
+Data Modeling,ServiceNow,27
+REST API,TensorFlow,27
+CI/CD,dbt,27
+NoSQL,NumPy,27
+Hadoop,Jupyter,27
+GCP,Vue,27
+Datadog,PowerShell,27
+.NET,Data Warehousing,27
+C,REST API,27
+Jira,PyTorch,27
+Informatica,Salesforce,27
+SIEM,Unix,27
+Hadoop,System Design,27
+Django,Jira,27
+OWASP,SQL,26
+Excel,MySQL,26
+MATLAB,PyTorch,26
+Pulumi,Python,26
+Kubernetes,Pulumi,26
+Figma,Node.js,26
+Scala,Spring,26
+Excel,Spark,26
+GCP,Helm,26
+Data Modeling,Flink,26
+Data Pipeline,System Design,26
+React,Risk Management,26
+Hive,Looker,26
+Bash,Data Modeling,26
+C,NoSQL,26
+Data Modeling,Spring Boot,26
+LLMs / GenAI,React,26
+C++,Spring Boot,26
+Angular,Risk Management,26
+ETL,Pandas,26
+JavaScript,Pandas,26
+Flink,PostgreSQL,26
+NoSQL,SAS,26
+Informatica,NoSQL,26
+Excel,REST API,26
+Microservices,Rust,26
+C,Terraform,26
+Figma,Machine Learning,26
+C,PHP,26
+ETL,Kanban,26
+Kubernetes,SageMaker,26
+ETL,Risk Management,26
+NoSQL,SSIS,26
+Go,Vue,26
+PHP,Unix,26
+Salesforce,ServiceNow,26
+Unit Testing,Vue,26
+Data Visualization,PowerShell,26
+Confluence,TensorFlow,26
+Data Visualization,Splunk,26
+C++,Splunk,26
+C#,Data Governance,26
+CISSP,NoSQL,26
+Power BI,ServiceNow,26
+Go,TensorFlow,26
+Databricks,LLMs / GenAI,26
+C#,Spring Boot,26
+Jupyter,R,26
+GitHub,PyTorch,26
+MongoDB,NLP,26
+Distributed Systems,Oracle,26
+Data Governance,Jenkins,26
+HTML,Redshift,26
+GCP,ServiceNow,26
+Kafka,Prototyping,26
+Prometheus,Redis,26
+CSS,Swift,26
+Salesforce,Workday,26
+Flink,Microservices,26
+Pandas,REST API,26
+Jenkins,MATLAB,26
+Deep Learning,Power BI,26
+Kotlin,XML,26
+Scala,Spring Boot,26
+AWS,Zero Trust,26
+JSON,Redis,26
+Airflow,Oracle,26
+Rust,Terraform,26
+NLP,SAS,26
+Django,Pandas,26
+Firewalls,Oracle,26
+Flink,Git,26
+Redis,Snowflake,26
+Data Warehousing,Flink,26
+Risk Management,Scala,26
+Bash,DynamoDB,26
+R,REST API,26
+Flask,Microservices,26
+Burp Suite,Python,26
+BigQuery,CI/CD,26
+Excel,Git,26
+Django,Redis,25
+Data Governance,Terraform,25
+Databricks,MySQL,25
+LLMs / GenAI,Snowflake,25
+Penetration Testing,VMware,25
+Alteryx,Snowflake,25
+Docker,Salesforce,25
+BigQuery,PostgreSQL,25
+BigQuery,R,25
+GraphQL,Software Architecture,25
+ArgoCD,GitHub,25
+Active Directory,Confluence,25
+Unix,jQuery,25
+Distributed Systems,Flink,25
+C,Spark,25
+CI/CD,SAP,25
+Kafka,NumPy,25
+Datadog,Unit Testing,25
+Redis,Windows,25
+Java,Looker,25
+Django,GitHub,25
+Flink,Go,25
+Angular,SSIS,25
+Data Analysis,Dynamics 365,25
+Angular,Kotlin,25
+Data Governance,Flink,25
+GraphQL,Spark,25
+MongoDB,Splunk,25
+A/B Testing,Data Warehousing,25
+Excel,Prototyping,25
+GCP,Linear,25
+Firebase,Node.js,25
+SSIS,XML,25
+Ansible,ArgoCD,25
+Informatica,R,25
+Big Data,Kotlin,25
+System Design,XML,25
+MATLAB,NoSQL,25
+Helm,REST API,25
+Kanban,Scala,25
+C,GCP,25
+Spring Boot,Windows,25
+FastAPI,Flask,25
+PowerShell,SSIS,25
+BigQuery,DevOps,25
+Data Governance,Go,25
+GCP,Rust,25
+Hive,Splunk,25
+DynamoDB,GraphQL,25
+C,Deep Learning,25
+Confluence,Data Pipeline,25
+CSS,SSIS,25
+LLMs / GenAI,Node.js,25
+GitHub,Prototyping,25
+MuleSoft,React,25
+ETL,PowerShell,25
+Databricks,REST API,25
+Looker,NoSQL,25
+C++,GraphQL,25
+Git,Next.js,25
+JSON,Swift,25
+GitLab,Redis,25
+Confluence,Prometheus,25
+A/B Testing,Azure,25
+Ruby,XML,25
+PostgreSQL,TensorFlow,25
+Ansible,Data Modeling,25
+Go,Swift,25
+Dynamics 365,HTML,24
+Java,User Research,24
+CI/CD,Firebase,24
+C,PostgreSQL,24
+Alteryx,Azure,24
+CSS,Redshift,24
+SIEM,SQL,24
+TensorFlow,scikit-learn,24
+Bash,ETL,24
+Big Data,GitLab,24
+Jupyter,Kafka,24
+Data Pipeline,Software Architecture,24
+Kafka,PowerShell,24
+C,Prototyping,24
+MuleSoft,XML,24
+Elasticsearch,XML,24
+C,Kafka,24
+Jenkins,MuleSoft,24
+Confluence,DynamoDB,24
+CSS,R,24
+Next.js,REST API,24
+GitHub,Informatica,24
+Data Modeling,DynamoDB,24
+MySQL,Pandas,24
+.NET,Data Visualization,24
+Kafka,LLMs / GenAI,24
+Docker,SageMaker,24
+ETL,GitLab,24
+C,TensorFlow,24
+BigQuery,dbt,24
+MuleSoft,Snowflake,24
+Data Governance,Windows,24
+CSS,Hadoop,24
+Kanban,System Design,24
+BigQuery,Docker,24
+GCP,SAP,24
+BigQuery,JavaScript,24
+JSON,VMware,24
+Airflow,Flink,24
+Docker,OWASP,24
+Informatica,REST API,24
+Google Analytics,Looker,24
+Incident Response,Kafka,24
+ArgoCD,Bash,24
+Jenkins,NLP,24
+Kotlin,TensorFlow,24
+Software Architecture,jQuery,24
+Machine Learning,Salesforce,24
+Python,Segment,24
+NoSQL,Salesforce,24
+Data Warehousing,Elasticsearch,24
+Big Data,PowerShell,24
+Data Visualization,Flink,24
+Kubernetes,Next.js,24
+MATLAB,Power BI,24
+AWS Security,Agile / Scrum,24
+Jira,Rust,24
+Data Pipeline,Django,24
+CISSP,Microservices,24
+Distributed Systems,JSON,24
+Git,SageMaker,24
+LLMs / GenAI,Microservices,24
+Confluence,PyTorch,24
+Data Warehousing,Salesforce,24
+Flink,JavaScript,24
+Distributed Systems,Redshift,24
+Deep Learning,Software Architecture,24
+CSS,Excel,24
+Bash,Penetration Testing,24
+JSON,Snowflake,24
+Kanban,Splunk,24
+Figma,GCP,24
+Prototyping,R,24
+MATLAB,Pandas,24
+Airflow,SSIS,23
+JSON,Ruby,23
+LLMs / GenAI,NumPy,23
+Databricks,Looker,23
+Machine Learning,jQuery,23
+Excel,Firewalls,23
+PyTorch,Windows,23
+Excel,Kanban,23
+Data Governance,PowerShell,23
+CSS,VMware,23
+Docker,FastAPI,23
+Prometheus,Spark,23
+Elasticsearch,Snowflake,23
+R,React,23
+Data Pipeline,Splunk,23
+Confluence,Ruby,23
+Big Data,XML,23
+DevOps,Flink,23
+ArgoCD,Grafana,23
+.NET,Excel,23
+A/B Testing,Figma,23
+Hive,PyTorch,23
+Grafana,Helm,23
+TensorFlow,Windows,23
+LangChain,NLP,23
+LangChain,PyTorch,23
+MongoDB,Prometheus,23
+CI/CD,Penetration Testing,23
+Bash,Data Pipeline,23
+Stakeholder Mgmt,System Design,23
+R,Salesforce,23
+Cybersecurity,Ruby,23
+Cassandra,Windows,23
+ClickHouse,Python,23
+Firewalls,GitLab,23
+CSS,Risk Management,23
+Fivetran,dbt,23
+Microservices,Swift,23
+Data Analysis,Datadog,23
+Data Warehousing,Redis,23
+C++,Incident Response,23
+SSIS,dbt,23
+BigQuery,Data Governance,23
+Microservices,Stakeholder Mgmt,23
+Data Modeling,Pandas,23
+Data Governance,Node.js,23
+Airflow,Dagster,23
+C#,Stakeholder Mgmt,23
+Git,User Research,23
+Tableau,XML,23
+Grafana,Scala,23
+NLP,Risk Management,23
+Dagster,Python,23
+Elasticsearch,Kotlin,23
+Penetration Testing,Unix,23
+PowerShell,Snowflake,23
+DynamoDB,Unix,23
+Informatica,Redshift,23
+Datadog,DynamoDB,23
+Excel,SSIS,23
+ETL,System Design,23
+Cybersecurity,TypeScript,23
+Linux,Swift,23
+.NET,Spring,23
+Excel,Google Analytics,23
+Distributed Systems,Kanban,23
+.NET,Distributed Systems,23
+React,ServiceNow,23
+CI/CD,OWASP,23
+Hive,Pandas,22
+Data Warehousing,NumPy,22
+JavaScript,Svelte,22
+Data Governance,XML,22
+CSS,MuleSoft,22
+C,Scala,22
+Microservices,Salesforce,22
+React,Svelte,22
+.NET,Tableau,22
+Docker,ServiceNow,22
+Jira,SAS,22
+Firewalls,Microservices,22
+Active Directory,Salesforce,22
+Incident Response,ServiceNow,22
+Django,Ruby,22
+Linear,Statistical Analysis,22
+Ansible,Zero Trust,22
+Elasticsearch,Rust,22
+Kubernetes,OWASP,22
+Big Data,GraphQL,22
+ArgoCD,Go,22
+Agile / Scrum,Firebase,22
+Data Pipeline,Risk Management,22
+DevOps,NumPy,22
+Java,MLflow,22
+ArgoCD,Git,22
+Kanban,User Research,22
+Flink,Jira,22
+Active Directory,PostgreSQL,22
+Splunk,TypeScript,22
+A/B Testing,Data Pipeline,22
+Deep Learning,JavaScript,22
+Ansible,Software Architecture,22
+NoSQL,Rust,22
+Grafana,Ruby,22
+Jenkins,Pandas,22
+Penetration Testing,System Design,22
+Datadog,MongoDB,22
+DevOps,Statistical Analysis,22
+Prompt Engineering,Python,22
+Redis,System Design,22
+JavaScript,PyTorch,22
+Power BI,PyTorch,22
+AWS,MuleSoft,22
+Airflow,TypeScript,22
+Next.js,SQL,22
+CISSP,Stakeholder Mgmt,22
+A/B Testing,Angular,22
+Machine Learning,User Research,22
+Cybersecurity,ETL,22
+Jenkins,Prototyping,22
+NetSuite,SQL,22
+ServiceNow,jQuery,22
+Data Modeling,Splunk,22
+DynamoDB,JSON,22
+PostgreSQL,Salesforce,22
+Airflow,DynamoDB,22
+SageMaker,TensorFlow,22
+Microservices,MuleSoft,22
+Git,OWASP,22
+Helm,Prometheus,22
+Active Directory,Microservices,22
+C,Hadoop,22
+AWS,Pulumi,22
+C++,Firewalls,22
+Distributed Systems,ETL,22
+Machine Learning,Prompt Engineering,22
+Databricks,PowerShell,22
+Excel,System Design,22
+Ansible,Django,22
+Linux,SAP,22
+Distributed Systems,Splunk,22
+Big Data,Linear,22
+.NET,Prototyping,22
+ClickHouse,Kubernetes,22
+GitLab,R,22
+GitHub,Incident Response,22
+GCP,SAS,22
+Bash,Spring,22
+Bash,Data Visualization,22
+LLMs / GenAI,Prompt Engineering,22
+Docker,dbt,22
+Informatica,SSIS,22
+GitHub,Helm,22
+C++,Vue,22
+Scala,Statistical Analysis,22
+Segment,System Design,21
+Hadoop,Linear,21
+JSON,R,21
+Jenkins,SSIS,21
+Docker,Linear,21
+Active Directory,C++,21
+Data Modeling,Jupyter,21
+Kanban,jQuery,21
+Airflow,JavaScript,21
+DynamoDB,ETL,21
+Confluence,jQuery,21
+Redis,XML,21
+LLMs / GenAI,Terraform,21
+C,Microservices,21
+Flink,Jenkins,21
+GCP,MATLAB,21
+C#,Redshift,21
+Docker,Next.js,21
+JavaScript,Looker,21
+CISSP,Machine Learning,21
+Airflow,NLP,21
+Deep Learning,Jenkins,21
+Cybersecurity,XML,21
+Elasticsearch,Kanban,21
+Data Governance,Elasticsearch,21
+BigQuery,Scala,21
+C#,Splunk,21
+Flask,GitHub,21
+Bash,System Design,21
+Linear,MATLAB,21
+Excel,Workday,21
+LLMs / GenAI,Vector Databases,21
+GitHub,MATLAB,21
+Databricks,Microservices,21
+Machine Learning,VMware,21
+Data Analysis,Swift,21
+Big Data,Stakeholder Mgmt,21
+GitLab,Power BI,21
+JSON,ServiceNow,21
+Hive,Kanban,21
+Risk Management,Zero Trust,21
+FastAPI,SQL,21
+Datadog,Distributed Systems,21
+Cassandra,System Design,21
+C,Node.js,21
+A/B Testing,AWS,21
+Airflow,Deep Learning,21
+Swift,XML,21
+R,SageMaker,21
+Python,Vector Databases,21
+DynamoDB,Hadoop,21
+Splunk,XML,21
+BigQuery,Git,21
+REST API,SSIS,21
+Alteryx,Statistical Analysis,21
+Data Analysis,Kotlin,21
+VMware,XML,21
+AWS,Workday,21
+Snowflake,System Design,21
+ClickHouse,Docker,21
+Data Analysis,jQuery,21
+ETL,Elasticsearch,21
+CISSP,GitHub,21
+SSIS,jQuery,21
+.NET,Redis,21
+.NET,Ansible,21
+Scala,Windows,21
+.NET,Big Data,21
+HTML,Rust,21
+Flask,Pandas,21
+Cybersecurity,Salesforce,21
+Datadog,Kotlin,21
+A/B Testing,Kubernetes,21
+GraphQL,Rust,21
+Active Directory,Angular,21
+Jira,Vue,21
+Cassandra,Prometheus,21
+Data Modeling,Deep Learning,21
+NLP,Snowflake,21
+Cassandra,Kanban,21
+Machine Learning,Swift,21
+Risk Management,TensorFlow,21
+AWS,XGBoost,21
+JavaScript,NetSuite,21
+PHP,PowerShell,21
+Figma,GitHub,21
+A/B Testing,CI/CD,21
+Node.js,Power BI,21
+Bash,ServiceNow,21
+MySQL,TensorFlow,21
+Flask,TensorFlow,21
+Confluence,User Research,21
+Microservices,R,21
+CI/CD,MLflow,21
+DevOps,MLflow,21
+Hive,Informatica,21
+Google Analytics,Machine Learning,21
+Big Data,NumPy,21
+Firebase,JavaScript,21
+Flink,Terraform,21
+REST API,Stakeholder Mgmt,21
+Datadog,Spark,20
+MongoDB,TensorFlow,20
+Prometheus,Ruby,20
+CI/CD,Dynamics 365,20
+Cassandra,Software Architecture,20
+CI/CD,Looker,20
+Hive,Statistical Analysis,20
+Django,Software Architecture,20
+Azure,SageMaker,20
+Cybersecurity,MongoDB,20
+MongoDB,System Design,20
+Airflow,MLflow,20
+Git,Stakeholder Mgmt,20
+DevOps,Workday,20
+Grafana,JSON,20
+Airflow,Pandas,20
+Power BI,System Design,20
+Bash,Kanban,20
+LLMs / GenAI,REST API,20
+Big Data,SSIS,20
+Linux,OWASP,20
+Incident Response,Jira,20
+AWS,FastAPI,20
+System Design,Tableau,20
+Airflow,Django,20
+Django,PHP,20
+SAS,Unix,20
+Django,Kafka,20
+BigQuery,Power BI,20
+Confluence,Firewalls,20
+Helm,Microservices,20
+MongoDB,Pandas,20
+C++,Redshift,20
+Ansible,Data Pipeline,20
+GitLab,PHP,20
+Airflow,Grafana,20
+Data Analysis,XGBoost,20
+Datadog,GraphQL,20
+Big Data,Grafana,20
+Git,SAS,20
+JSON,Tableau,20
+C#,NLP,20
+Kanban,Redis,20
+Firewalls,Zero Trust,20
+Hadoop,MLflow,20
+Unit Testing,dbt,20
+NoSQL,VMware,20
+Excel,GCP,20
+Machine Learning,Vector Databases,20
+CI/CD,SageMaker,20
+Databricks,JSON,20
+Angular,R,20
+Elasticsearch,R,20
+C#,OWASP,20
+GitHub,TensorFlow,20
+Databricks,React,20
+JSON,Scala,20
+.NET,Spark,20
+Data Governance,REST API,20
+Kafka,dbt,20
+Cybersecurity,Prototyping,20
+MongoDB,Vue,20
+Data Pipeline,Windows,20
+Flink,Redshift,20
+Git,MuleSoft,20
+DynamoDB,Software Architecture,20
+LLMs / GenAI,Pandas,20
+Data Warehousing,Jupyter,20
+GitLab,MATLAB,20
+SAP,Unit Testing,20
+Hadoop,Software Architecture,20
+PowerShell,TypeScript,20
+MuleSoft,Python,20
+MCP,Windows,20
+PyTorch,scikit-learn,20
+Linux,Statistical Analysis,20
+Confluence,SSIS,20
+Big Data,Spring Boot,20
+Cybersecurity,SAP,20
+FastAPI,React,20
+Machine Learning,SAP,20
+Risk Management,Spring,20
+.NET,SAP,20
+Kotlin,System Design,20
+Go,Risk Management,20
+FastAPI,Machine Learning,20
+Data Warehousing,Software Architecture,20
+GCP,Stakeholder Mgmt,20
+CSS,Google Analytics,20
+C++,SAP,20
+Active Directory,NoSQL,20
+Jenkins,Penetration Testing,19
+Microservices,VMware,19
+MATLAB,Oracle,19
+Splunk,System Design,19
+Datadog,Ruby,19
+Firebase,GCP,19
+MySQL,NLP,19
+Cybersecurity,NLP,19
+Kafka,Risk Management,19
+Airflow,Datadog,19
+PyTorch,Risk Management,19
+Confluence,Datadog,19
+GCP,dbt,19
+MLflow,Scala,19
+Data Analysis,Spring Boot,19
+Bash,Software Architecture,19
+Cybersecurity,SOC 2,19
+A/B Testing,NLP,19
+DevOps,Zero Trust,19
+Excel,Hive,19
+Grafana,Unit Testing,19
+Data Pipeline,TypeScript,19
+Data Pipeline,Ruby,19
+Data Warehousing,TypeScript,19
+CSS,Snowflake,19
+Grafana,Incident Response,19
+Informatica,MuleSoft,19
+HTML,OWASP,19
+SAS,TensorFlow,19
+Bash,Hive,19
+SQL,scikit-learn,19
+Distributed Systems,Risk Management,19
+AWS Security,Python,19
+Informatica,Windows,19
+C++,SageMaker,19
+.NET,Swift,19
+Big Data,MATLAB,19
+Microservices,TensorFlow,19
+Airflow,R,19
+Kanban,PHP,19
+Databricks,SageMaker,19
+Salesforce,Terraform,19
+Figma,jQuery,19
+CISSP,Kafka,19
+PostgreSQL,Swift,19
+OWASP,REST API,19
+Spark,Stakeholder Mgmt,19
+A/B Testing,Looker,19
+AWS Security,Splunk,19
+C#,ServiceNow,19
+Data Modeling,jQuery,19
+C#,Flask,19
+JavaScript,NumPy,19
+SAS,Windows,19
+BigQuery,MySQL,19
+Grafana,Spring,19
+Informatica,JavaScript,19
+PowerShell,R,19
+Kubernetes,SIEM,19
+NLP,Prototyping,19
+Jupyter,Tableau,19
+Data Modeling,GraphQL,19
+Ansible,DynamoDB,19
+JavaScript,Jupyter,19
+TensorFlow,Unix,19
+CISSP,System Design,19
+Flink,Unit Testing,19
+C#,PyTorch,19
+ClickHouse,Kafka,19
+Distributed Systems,GitLab,19
+AWS,Google Analytics,19
+MongoDB,PyTorch,19
+Rust,Software Architecture,19
+FastAPI,PostgreSQL,19
+Deep Learning,MongoDB,19
+Flask,Unit Testing,19
+Jenkins,SAS,19
+Helm,Node.js,19
+AWS,User Research,19
+ClickHouse,Rust,19
+C,MySQL,19
+ArgoCD,Linux,19
+Firebase,GitHub,19
+Jira,NumPy,19
+Splunk,Unit Testing,19
+Snowflake,XML,19
+Data Warehousing,Deep Learning,19
+Redis,Software Architecture,19
+Pandas,React,19
+Fine-tuning,Machine Learning,19
+C#,TensorFlow,19
+GitLab,GraphQL,19
+Cybersecurity,jQuery,19
+GitHub,Rust,19
+Power BI,Unix,19
+Git,Statistical Analysis,19
+Hadoop,Prometheus,19
+Snowflake,Spring,19
+Kubernetes,Zero Trust,19
+Flink,Linux,18
+Ansible,Hive,18
+Kotlin,Redis,18
+Active Directory,Machine Learning,18
+Incident Response,Ruby,18
+DynamoDB,Grafana,18
+C,CSS,18
+Power BI,TypeScript,18
+NLP,XGBoost,18
+Ansible,Snowflake,18
+Power BI,Workday,18
+Linux,Segment,18
+DevOps,Jupyter,18
+C#,SAS,18
+Data Pipeline,Stakeholder Mgmt,18
+Machine Learning,SSIS,18
+Jira,MuleSoft,18
+Ansible,Scala,18
+R,Terraform,18
+Datadog,ServiceNow,18
+Cassandra,GraphQL,18
+Firebase,Java,18
+SAP,XML,18
+Terraform,Zero Trust,18
+.NET,Spring Boot,18
+Active Directory,jQuery,18
+MySQL,Risk Management,18
+LLMs / GenAI,Linux,18
+Ruby,System Design,18
+VMware,Zero Trust,18
+Flink,MySQL,18
+Airflow,Elasticsearch,18
+Active Directory,GitHub,18
+Jupyter,NoSQL,18
+.NET,R,18
+Jenkins,Vue,18
+NoSQL,Stakeholder Mgmt,18
+Bash,Data Warehousing,18
+CSS,Splunk,18
+Flask,PyTorch,18
+CISSP,Zero Trust,18
+Databricks,dbt,18
+Hive,NumPy,18
+Next.js,PostgreSQL,18
+Azure,Google Analytics,18
+NumPy,PostgreSQL,18
+Datadog,PHP,18
+Angular,C,18
+JSON,Risk Management,18
+Incident Response,Machine Learning,18
+ETL,jQuery,18
+Grafana,HTML,18
+Confluence,Flink,18
+Flink,Power BI,18
+Data Pipeline,GraphQL,18
+Go,Stakeholder Mgmt,18
+Data Modeling,GitLab,18
+C,PyTorch,18
+Jira,LLMs / GenAI,18
+Kotlin,MySQL,18
+Kotlin,Prometheus,18
+Git,SAP,18
+Grafana,Kotlin,18
+HTML,Informatica,18
+Firebase,Swift,18
+Jupyter,Power BI,18
+PyTorch,Unix,18
+Big Data,Ruby,18
+Oracle,Stakeholder Mgmt,18
+Salesforce,Statistical Analysis,18
+Data Modeling,Fivetran,18
+.NET,Scala,18
+A/B Testing,Scala,18
+Salesforce,System Design,18
+Ansible,SIEM,18
+JSON,Prototyping,18
+Elasticsearch,Redshift,18
+Distributed Systems,Prototyping,18
+Ansible,jQuery,18
+Django,jQuery,18
+Power BI,Splunk,18
+Go,R,18
+Excel,Unix,18
+GitLab,Scala,18
+Redshift,SageMaker,18
+Informatica,Linux,18
+.NET,Hadoop,18
+.NET,Splunk,18
+Data Visualization,Grafana,18
+Excel,Pandas,18
+C,Data Visualization,18
+FastAPI,Kubernetes,18
+LangChain,SQL,18
+C#,Datadog,18
+Bash,Tableau,18
+Git,Penetration Testing,17
+Informatica,PostgreSQL,17
+Distributed Systems,Tableau,17
+Redis,Unix,17
+Data Governance,Helm,17
+C#,Django,17
+GitHub,Risk Management,17
+R,Software Architecture,17
+Azure,LangChain,17
+LangChain,TensorFlow,17
+Kotlin,PyTorch,17
+A/B Testing,Node.js,17
+Linux,Salesforce,17
+Confluence,Looker,17
+Bash,TensorFlow,17
+DevOps,Looker,17
+Airflow,Splunk,17
+Google Analytics,Java,17
+Deep Learning,Go,17
+Airflow,Bash,17
+OWASP,Risk Management,17
+Penetration Testing,REST API,17
+Kanban,PowerShell,17
+Scala,Stakeholder Mgmt,17
+R,scikit-learn,17
+Cybersecurity,Deep Learning,17
+Data Analysis,NetSuite,17
+Jenkins,Rust,17
+BigQuery,Jenkins,17
+C++,DynamoDB,17
+C,Risk Management,17
+C++,Figma,17
+Informatica,Scala,17
+Grafana,Unix,17
+Stakeholder Mgmt,Unit Testing,17
+Confluence,Django,17
+OWASP,Windows,17
+Databricks,Go,17
+R,dbt,17
+GCP,Informatica,17
+Oracle,Workday,17
+.NET,Elasticsearch,17
+LLMs / GenAI,Power BI,17
+R,Splunk,17
+Databricks,Windows,17
+Jupyter,PostgreSQL,17
+ClickHouse,Go,17
+MuleSoft,Unit Testing,17
+Confluence,SAP,17
+Airflow,Ansible,17
+Ansible,ETL,17
+CISSP,Data Governance,17
+ETL,Go,17
+Flink,Redis,17
+Kotlin,Splunk,17
+Data Pipeline,MLflow,17
+Data Analysis,MLflow,17
+Dagster,SQL,17
+Docker,Statistical Analysis,17
+Dagster,Machine Learning,17
+ServiceNow,Unix,17
+ETL,SAP,17
+HTML,SAS,17
+Rust,System Design,17
+Agile / Scrum,ArgoCD,17
+Flask,Tableau,17
+Risk Management,SOC 2,17
+NLP,PostgreSQL,17
+R,SAP,17
+.NET,OWASP,17
+Snowflake,Spring Boot,17
+Jira,Penetration Testing,17
+Ansible,Power BI,17
+GraphQL,PHP,17
+Hive,System Design,17
+Oracle,Prototyping,17
+Looker,Scala,17
+GCP,SageMaker,17
+Agile / Scrum,Alteryx,17
+Informatica,Risk Management,17
+Docker,MuleSoft,17
+Informatica,Terraform,17
+MATLAB,Unix,17
+Airflow,SageMaker,17
+NLP,Terraform,17
+Figma,NoSQL,17
+Oracle,Statistical Analysis,17
+Firewalls,MySQL,17
+Data Governance,System Design,17
+Data Visualization,GitLab,17
+Kotlin,Windows,17
+NLP,Unit Testing,17
+Firewalls,REST API,17
+Data Warehousing,DynamoDB,17
+CSS,SAP,17
+Prometheus,React,17
+Go,Pandas,17
+Next.js,Unit Testing,17
+Active Directory,PHP,17
+Angular,Grafana,17
+Prometheus,Unit Testing,17
+Google Analytics,MySQL,17
+Angular,Svelte,17
+Incident Response,OWASP,17
+Firewalls,Ruby,17
+Databricks,DynamoDB,17
+Kubernetes,dbt,17
+Spring,Vue,17
+ETL,Stakeholder Mgmt,17
+Docker,Stakeholder Mgmt,17
+ArgoCD,Helm,17
+Cybersecurity,Dynamics 365,17
+SAS,Snowflake,17
+Agile / Scrum,SIEM,17
+AWS Security,Linux,16
+Confluence,Redshift,16
+Excel,NoSQL,16
+Elasticsearch,Power BI,16
+Azure,Microsoft Fabric,16
+Azure,User Research,16
+Databricks,Statistical Analysis,16
+Flink,REST API,16
+Databricks,Excel,16
+PowerShell,Rust,16
+MySQL,ServiceNow,16
+Kubernetes,Linear,16
+Data Pipeline,Flask,16
+Bash,Data Governance,16
+NLP,scikit-learn,16
+ETL,Node.js,16
+Docker,SIEM,16
+Datadog,Elasticsearch,16
+Stakeholder Mgmt,Statistical Analysis,16
+SAP,Snowflake,16
+Prometheus,Scala,16
+AWS,AWS Security,16
+Microsoft Fabric,SQL,16
+C#,Deep Learning,16
+Django,TensorFlow,16
+ServiceNow,Stakeholder Mgmt,16
+Redshift,Software Architecture,16
+MuleSoft,Power BI,16
+ETL,Spring,16
+CI/CD,SAS,16
+GraphQL,Windows,16
+Splunk,Swift,16
+SSIS,Spark,16
+Pandas,Snowflake,16
+Flask,Power BI,16
+Active Directory,Unit Testing,16
+Ruby,Rust,16
+Datadog,Swift,16
+Flink,Tableau,16
+Burp Suite,Cybersecurity,16
+Python,SOC 2,16
+Dagster,Snowflake,16
+Databricks,SAP,16
+OWASP,PowerShell,16
+Python,Superset,16
+LLMs / GenAI,SageMaker,16
+Informatica,JSON,16
+Firebase,SQL,16
+GraphQL,Scala,16
+Firebase,Kotlin,16
+Django,PowerShell,16
+Docker,Informatica,16
+Data Warehousing,GraphQL,16
+Spark,scikit-learn,16
+NetSuite,Salesforce,16
+Pandas,SAS,16
+NumPy,Unix,16
+Dynamics 365,Jira,16
+SageMaker,Scala,16
+Flink,R,16
+Pandas,Scala,16
+Cassandra,NLP,16
+Pandas,Statistical Analysis,16
+MySQL,Statistical Analysis,16
+Microservices,Penetration Testing,16
+Databricks,Unix,16
+Ansible,Data Visualization,16
+Excel,Informatica,16
+SQL,XGBoost,16
+Data Analysis,Fivetran,16
+DevOps,User Research,16
+HTML,MATLAB,16
+Power BI,Prototyping,16
+Linux,Zero Trust,16
+DynamoDB,System Design,16
+Flask,jQuery,16
+Data Pipeline,Grafana,16
+Informatica,MongoDB,16
+Swift,Windows,16
+ClickHouse,Distributed Systems,16
+Cybersecurity,Distributed Systems,16
+Data Pipeline,SSIS,16
+Kanban,Ruby,16
+Cassandra,Datadog,16
+Grafana,Oracle,16
+Software Architecture,Stakeholder Mgmt,16
+Google Analytics,Jira,16
+.NET,Bash,16
+BigQuery,GitHub,16
+NLP,SageMaker,16
+Django,Spark,16
+Linear,Scala,16
+Kanban,VMware,16
+Incident Response,Oracle,16
+Data Modeling,NumPy,16
+Elasticsearch,PowerShell,16
+MySQL,Prototyping,16
+REST API,Workday,16
+ArgoCD,GitLab,16
+Bash,SIEM,16
+Jenkins,OWASP,16
+PyTorch,REST API,16
+SAS,Scala,16
+NumPy,Statistical Analysis,16
+PostgreSQL,Risk Management,16
+PHP,Software Architecture,16
+Kubernetes,SAP,16
+Kubernetes,Looker,16
+Linux,Stakeholder Mgmt,16
+Jupyter,Linux,16
+Ansible,Data Warehousing,16
+Docker,SAP,16
+NLP,Windows,16
+Deep Learning,LangChain,16
+BigQuery,React,16
+Snowflake,Windows,16
+SAS,ServiceNow,15
+A/B Testing,Data Governance,15
+Dynamics 365,Python,15
+GraphQL,Prometheus,15
+Stakeholder Mgmt,XML,15
+Looker,Statistical Analysis,15
+Redis,Splunk,15
+Ansible,Tableau,15
+Ruby,Software Architecture,15
+MATLAB,NumPy,15
+Flink,Node.js,15
+Jenkins,TensorFlow,15
+Jenkins,PyTorch,15
+Prefect,Python,15
+Data Governance,TensorFlow,15
+Looker,Pandas,15
+A/B Testing,Go,15
+Informatica,XML,15
+Flask,NumPy,15
+Helm,JavaScript,15
+C#,CISSP,15
+Bash,MATLAB,15
+Firebase,Unit Testing,15
+Informatica,Kubernetes,15
+SAP,Stakeholder Mgmt,15
+Hive,Spring,15
+Distributed Systems,VMware,15
+Flask,Go,15
+Excel,JSON,15
+Excel,Splunk,15
+Google Analytics,Statistical Analysis,15
+Dynamics 365,REST API,15
+R,SSIS,15
+DevOps,Pulumi,15
+NLP,TypeScript,15
+Hadoop,dbt,15
+Java,dbt,15
+Hadoop,VMware,15
+Burp Suite,OWASP,15
+HTML,Pandas,15
+Angular,MuleSoft,15
+Datadog,Windows,15
+C#,Incident Response,15
+Bash,Rust,15
+A/B Testing,Jira,15
+R,XML,15
+C,Data Modeling,15
+C#,Penetration Testing,15
+Jupyter,Scala,15
+Docker,SAS,15
+MATLAB,PostgreSQL,15
+Azure,Next.js,15
+Prototyping,Salesforce,15
+A/B Testing,Salesforce,15
+NLP,Unix,15
+Hive,Jupyter,15
+Helm,Jira,15
+GitLab,System Design,15
+Jupyter,Snowflake,15
+Excel,PostgreSQL,15
+Confluence,Pandas,15
+CSS,Grafana,15
+Pandas,Unit Testing,15
+Azure,FastAPI,15
+GCP,XGBoost,15
+AWS,SOC 2,15
+Data Analysis,LangChain,15
+PostgreSQL,PyTorch,15
+Data Visualization,Workday,15
+TensorFlow,Terraform,15
+PyTorch,Terraform,15
+Excel,Redshift,15
+Elasticsearch,NLP,15
+Flask,Terraform,15
+Data Visualization,DynamoDB,15
+Angular,Rust,15
+C#,Grafana,15
+ArgoCD,Datadog,15
+Cassandra,TensorFlow,15
+Dagster,dbt,15
+GitLab,jQuery,15
+Cassandra,Databricks,15
+Dagster,Kubernetes,15
+PostgreSQL,Prototyping,15
+Grafana,Spring Boot,15
+Grafana,Hive,15
+AWS,LangChain,15
+Airflow,Informatica,15
+Oracle,Penetration Testing,15
+C,Penetration Testing,15
+C,JSON,15
+A/B Testing,Spark,15
+Angular,Swift,15
+Deep Learning,Prototyping,15
+Redis,Rust,15
+DynamoDB,Splunk,15
+Airflow,LLMs / GenAI,15
+Grafana,Tableau,15
+Cybersecurity,PHP,15
+MATLAB,Ruby,15
+Data Governance,Prototyping,15
+SSIS,TypeScript,15
+GitLab,Kotlin,15
+Confluence,MuleSoft,15
+CI/CD,Jupyter,15
+C,VMware,15
+Figma,PHP,15
+GraphQL,Vue,15
+Kotlin,Ruby,15
+Ruby,jQuery,15
+Ruby,Vue,15
+CISSP,Kanban,15
+Cassandra,Deep Learning,15
+Hugging Face,Machine Learning,15
+Looker,Stakeholder Mgmt,15
+Data Governance,Deep Learning,15
+Redis,jQuery,15
+Active Directory,React,15
+Elasticsearch,jQuery,15
+Data Governance,HTML,15
+Agile / Scrum,FastAPI,15
+Kubernetes,Stakeholder Mgmt,15
+Figma,Next.js,15
+Linear,Tableau,15
+Kafka,VMware,15
+Angular,Datadog,15
+Penetration Testing,Terraform,15
+React,SSIS,15
+.NET,ServiceNow,15
+Hive,Spring Boot,15
+Flink,React,15
+Jenkins,SAP,15
+Angular,Helm,15
+Excel,Unit Testing,14
+Spring Boot,Vue,14
+Deep Learning,Unit Testing,14
+Active Directory,Kanban,14
+Statistical Analysis,Windows,14
+ArgoCD,PowerShell,14
+NoSQL,SageMaker,14
+DevOps,FastAPI,14
+Informatica,Unit Testing,14
+LLMs / GenAI,Prototyping,14
+BigQuery,Terraform,14
+Informatica,System Design,14
+R,System Design,14
+System Design,TensorFlow,14
+Django,Kanban,14
+NLP,Vector Databases,14
+Cybersecurity,TensorFlow,14
+Data Pipeline,Kotlin,14
+Elasticsearch,System Design,14
+Prototyping,TensorFlow,14
+Ansible,Penetration Testing,14
+R,Unit Testing,14
+Grafana,Power BI,14
+Kanban,SSIS,14
+Datadog,HTML,14
+Datadog,JSON,14
+GCP,Next.js,14
+Data Governance,Unit Testing,14
+C#,Flink,14
+GCP,Workday,14
+Cybersecurity,Scala,14
+Cassandra,PyTorch,14
+Deep Learning,PostgreSQL,14
+Go,Redshift,14
+Microservices,OWASP,14
+Firebase,REST API,14
+Active Directory,Tableau,14
+Hadoop,TypeScript,14
+Node.js,Redshift,14
+BigQuery,Hive,14
+Data Pipeline,SageMaker,14
+HTML,Looker,14
+Cybersecurity,JSON,14
+JavaScript,SIEM,14
+Hugging Face,PyTorch,14
+Hugging Face,Python,14
+LangChain,Vector Databases,14
+Angular,Databricks,14
+Django,NumPy,14
+Risk Management,XML,14
+Data Visualization,SageMaker,14
+Django,GraphQL,14
+CISSP,GitLab,14
+A/B Testing,NoSQL,14
+Data Governance,Pandas,14
+Prototyping,jQuery,14
+Ansible,Rust,14
+Pandas,Unix,14
+Data Governance,Redis,14
+Data Visualization,ServiceNow,14
+C,Kanban,14
+AWS Security,Risk Management,14
+Rust,Unix,14
+Grafana,VMware,14
+Git,Google Analytics,14
+HTML,Penetration Testing,14
+Airflow,Windows,14
+Ansible,SAS,14
+Oracle,Vue,14
+Prometheus,Spring Boot,14
+Big Data,Incident Response,14
+PHP,System Design,14
+Data Visualization,Django,14
+Distributed Systems,Django,14
+Alteryx,C#,14
+Prototyping,Rust,14
+Prototyping,Spark,14
+Django,Tableau,14
+Data Governance,Software Architecture,14
+Grafana,Kanban,14
+Node.js,VMware,14
+Jira,dbt,14
+Salesforce,TypeScript,14
+ETL,Flink,14
+Software Architecture,TensorFlow,14
+GitHub,Next.js,14
+AWS Security,Azure,14
+Penetration Testing,Zero Trust,14
+DynamoDB,Kanban,14
+Ruby,Swift,14
+NumPy,Snowflake,14
+Kanban,SAP,14
+Data Analysis,Prometheus,14
+Datadog,Unix,14
+JSON,SSIS,14
+Microservices,Pandas,14
+Data Governance,PyTorch,14
+Redis,Tableau,14
+Datadog,Firewalls,14
+Deep Learning,Fine-tuning,14
+BigQuery,Databricks,14
+ArgoCD,Microservices,14
+ArgoCD,GCP,14
+Flink,Kanban,14
+MySQL,SSIS,14
+Databricks,Unit Testing,14
+Firewalls,Grafana,14
+Deep Learning,SageMaker,14
+MuleSoft,ServiceNow,14
+PHP,Vue,14
+Prototyping,Snowflake,14
+GitHub,Looker,14
+Hadoop,SageMaker,14
+Cassandra,Kotlin,14
+Go,Pulumi,14
+CI/CD,Linear,14
+Salesforce,Spark,14
+Angular,User Research,14
+Flask,GitLab,14
+Data Governance,JSON,14
+CISSP,Go,14
+Pandas,Terraform,14
+Deep Learning,System Design,14
+ETL,Splunk,14
+Azure,SOC 2,14
+GraphQL,Hadoop,14
+.NET,GraphQL,14
+Git,Pulumi,14
+Angular,VMware,14
+Flask,Kafka,14
+Helm,Machine Learning,14
+Airflow,Flask,14
+SQL,Superset,14
+Microservices,PyTorch,13
+Ansible,Excel,13
+Linux,Vue,13
+Active Directory,MCP,13
+Bash,OWASP,13
+Firewalls,PostgreSQL,13
+GitLab,Prototyping,13
+Data Modeling,Linear,13
+GraphQL,Oracle,13
+Pandas,TypeScript,13
+CSS,Penetration Testing,13
+Ansible,Flask,13
+Kotlin,NLP,13
+SIEM,Terraform,13
+Data Governance,React,13
+Cybersecurity,PyTorch,13
+Redshift,Splunk,13
+Distributed Systems,R,13
+A/B Testing,TypeScript,13
+A/B Testing,GraphQL,13
+C#,Linear,13
+MongoDB,Prototyping,13
+Airflow,Software Architecture,13
+MATLAB,MySQL,13
+Data Warehousing,Prototyping,13
+Microsoft Fabric,Python,13
+Alteryx,C++,13
+Flask,GraphQL,13
+Node.js,User Research,13
+Node.js,TensorFlow,13
+Java,Next.js,13
+Node.js,Risk Management,13
+Node.js,Penetration Testing,13
+Metabase,SQL,13
+Deep Learning,REST API,13
+DynamoDB,Hive,13
+Linear,NoSQL,13
+Data Modeling,LLMs / GenAI,13
+Kubernetes,XGBoost,13
+Data Analysis,MuleSoft,13
+Elasticsearch,Vue,13
+Django,Oracle,13
+Ruby,Spring,13
+Big Data,VMware,13
+Risk Management,Snowflake,13
+PHP,Spring,13
+FastAPI,REST API,13
+Jenkins,Stakeholder Mgmt,13
+Angular,Stakeholder Mgmt,13
+Databricks,Flink,13
+Kubernetes,Workday,13
+SAS,XML,13
+GitHub,SageMaker,13
+Microsoft Fabric,Spark,13
+Databricks,Microsoft Fabric,13
+C++,MLflow,13
+Data Warehousing,Helm,13
+Data Pipeline,Fivetran,13
+Go,XML,13
+Cybersecurity,Snowflake,13
+MySQL,NumPy,13
+Django,Power BI,13
+Django,FastAPI,13
+Big Data,Rust,13
+Ansible,Data Governance,13
+PostgreSQL,dbt,13
+ArgoCD,Java,13
+.NET,MuleSoft,13
+Firewalls,System Design,13
+Airflow,React,13
+Active Directory,TypeScript,13
+Distributed Systems,XML,13
+Confluence,PHP,13
+Data Modeling,PHP,13
+DevOps,SOC 2,13
+AWS Security,Jira,13
+Google Analytics,React,13
+CISSP,Data Visualization,13
+PyTorch,Unit Testing,13
+Jira,Statistical Analysis,13
+Kotlin,LLMs / GenAI,13
+.NET,Rust,13
+PHP,Salesforce,13
+Active Directory,Ruby,13
+Looker,PostgreSQL,13
+Cybersecurity,Data Pipeline,13
+Angular,CISSP,13
+.NET,MATLAB,13
+Flink,GitHub,13
+PyTorch,Software Architecture,13
+Kafka,Statistical Analysis,13
+Hadoop,Prototyping,13
+Confluence,Flask,13
+Bash,Snowflake,13
+HTML,LLMs / GenAI,13
+ETL,TensorFlow,13
+ETL,PyTorch,13
+ServiceNow,Workday,13
+Tableau,jQuery,13
+GitLab,Risk Management,13
+Data Modeling,MuleSoft,13
+Metabase,Python,13
+FastAPI,TypeScript,13
+Deep Learning,React,13
+MLflow,SageMaker,13
+Data Warehousing,LLMs / GenAI,13
+Big Data,CISSP,13
+.NET,Flask,13
+Apache Iceberg,SQL,13
+Incident Response,PostgreSQL,13
+Prometheus,Unix,13
+Flink,PyTorch,13
+LLMs / GenAI,PostgreSQL,13
+Django,Windows,13
+Hadoop,PowerShell,13
+Bash,Spring Boot,13
+Databricks,Elasticsearch,13
+Big Data,Prototyping,13
+MATLAB,SAP,13
+Pandas,Windows,13
+Jenkins,NumPy,13
+HTML,NumPy,13
+SageMaker,Snowflake,13
+CI/CD,FastAPI,13
+Snowflake,Vue,13
+Flask,Kanban,13
+Firewalls,Kanban,13
+CI/CD,Pulumi,13
+Data Warehousing,GitLab,13
+Cybersecurity,Statistical Analysis,13
+Flask,Spark,13
+MySQL,Swift,13
+MongoDB,Swift,13
+Angular,Next.js,13
+Looker,Risk Management,13
+CI/CD,Excel,13
+GitHub,Vue,13
+A/B Testing,DevOps,13
+Elasticsearch,Software Architecture,13
+Prototyping,PyTorch,13
+Alteryx,SAP,13
+Cassandra,Pandas,13
+ClickHouse,Flink,13
+Data Pipeline,Jupyter,12
+GitLab,Hive,12
+PostgreSQL,ServiceNow,12
+GitHub,OWASP,12
+Burp Suite,Incident Response,12
+Hadoop,SAP,12
+Alteryx,Databricks,12
+Bash,Power BI,12
+Fivetran,Informatica,12
+ClickHouse,SQL,12
+Incident Response,Redis,12
+Azure,Segment,12
+C,Cassandra,12
+Ansible,Flink,12
+Cassandra,Looker,12
+Excel,Kubernetes,12
+Pandas,Redis,12
+C++,User Research,12
+Ruby,Spring Boot,12
+Kubernetes,SAS,12
+Confluence,NumPy,12
+BigQuery,Jira,12
+CISSP,PostgreSQL,12
+CISSP,React,12
+Linear,Power BI,12
+Software Architecture,Statistical Analysis,12
+Confluence,SAS,12
+Pandas,Prototyping,12
+Workday,XML,12
+Figma,Spring,12
+Data Modeling,Ruby,12
+LLMs / GenAI,Looker,12
+NLP,Stakeholder Mgmt,12
+System Design,jQuery,12
+Stakeholder Mgmt,Unix,12
+C#,Informatica,12
+GitHub,SAP,12
+Prototyping,Spring,12
+CI/CD,Statistical Analysis,12
+GitHub,Pandas,12
+Linear,NumPy,12
+Linear,Pandas,12
+MLflow,NoSQL,12
+Java,SIEM,12
+Data Governance,GitLab,12
+Tableau,Workday,12
+Redshift,SSIS,12
+Kubernetes,Statistical Analysis,12
+Software Architecture,Tableau,12
+OWASP,SIEM,12
+Kafka,Stakeholder Mgmt,12
+FastAPI,Jenkins,12
+NumPy,Windows,12
+Data Governance,Workday,12
+C++,Jupyter,12
+Snowflake,Software Architecture,12
+Java,Pulumi,12
+Data Modeling,SageMaker,12
+Windows,dbt,12
+Distributed Systems,jQuery,12
+Jenkins,LLMs / GenAI,12
+Bash,PyTorch,12
+Cybersecurity,Rust,12
+C,Tableau,12
+Kanban,Prometheus,12
+C,PowerShell,12
+Big Data,Jupyter,12
+Dagster,Data Analysis,12
+Microsoft Fabric,Power BI,12
+MuleSoft,jQuery,12
+Amplitude,Data Analysis,12
+Amplitude,SQL,12
+Ansible,Salesforce,12
+CSS,Pandas,12
+MuleSoft,Node.js,12
+Kanban,MATLAB,12
+OWASP,TypeScript,12
+Big Data,dbt,12
+Prometheus,VMware,12
+Informatica,MySQL,12
+PowerShell,Stakeholder Mgmt,12
+GCP,jQuery,12
+REST API,dbt,12
+Linear,SAS,12
+Jupyter,Windows,12
+Cybersecurity,Segment,12
+Prefect,SQL,12
+HTML,Statistical Analysis,12
+Data Modeling,Prefect,12
+Oracle,TensorFlow,12
+MuleSoft,Oracle,12
+NoSQL,User Research,12
+Data Governance,Unix,12
+HTML,TensorFlow,12
+Data Governance,DynamoDB,12
+Deep Learning,XGBoost,12
+DevOps,SageMaker,12
+A/B Testing,Hive,12
+Helm,TypeScript,12
+Grafana,GraphQL,12
+Google Analytics,REST API,12
+Django,JSON,12
+A/B Testing,Docker,12
+Penetration Testing,React,12
+Microservices,Next.js,12
+Looker,Unit Testing,12
+Firebase,HTML,12
+ETL,Ruby,12
+Firebase,Git,12
+Flask,NLP,12
+Helm,Windows,12
+Airflow,Prometheus,12
+NumPy,REST API,12
+Machine Learning,Next.js,12
+MySQL,PyTorch,12
+SQL,Segment,12
+C#,Hive,12
+HTML,NLP,12
+Hive,XML,12
+Azure,Fivetran,12
+LLMs / GenAI,System Design,12
+Kanban,Vue,12
+GitHub,SSIS,12
+Distributed Systems,Power BI,12
+Firewalls,NoSQL,12
+Firebase,Jira,12
+Bash,Deep Learning,12
+Hugging Face,NLP,12
+Incident Response,NoSQL,12
+Firebase,TypeScript,12
+Bash,Databricks,12
+Bash,Django,12
+Flink,TensorFlow,12
+Alteryx,Big Data,12
+PyTorch,SAS,12
+Spark,XGBoost,12
+GitLab,Informatica,12
+Confluence,Rust,12
+SAP,Spark,12
+Angular,OWASP,12
+Node.js,Tableau,12
+Pandas,Risk Management,12
+FastAPI,Terraform,12
+Ruby,Splunk,12
+Figma,Google Analytics,12
+Google Analytics,User Research,12
+Datadog,Scala,12
+React,VMware,12
+Excel,jQuery,12
+Dynamics 365,SSIS,12
+Dynamics 365,TypeScript,12
+ETL,TypeScript,12
+Ruby,Salesforce,12
+Azure,Pulumi,12
+Hadoop,SSIS,12
+Agile / Scrum,NetSuite,12
+AWS,Fivetran,12
+Big Data,MLflow,12
+MLflow,R,12
+REST API,SAS,12
+Terraform,dbt,12
+Active Directory,Prometheus,12
+Helm,PowerShell,12
+Helm,React,12
+Helm,Spring Boot,12
+.NET,Penetration Testing,12
+Go,Penetration Testing,11
+BigQuery,REST API,11
+Data Pipeline,HTML,11
+Agile / Scrum,Svelte,11
+ClickHouse,Spark,11
+AWS,Alteryx,11
+Docker,Looker,11
+LLMs / GenAI,Statistical Analysis,11
+Cassandra,VMware,11
+Data Modeling,Django,11
+Pandas,scikit-learn,11
+NetSuite,Python,11
+GraphQL,Snowflake,11
+Docker,Pulumi,11
+Kafka,SSIS,11
+AWS,Svelte,11
+CSS,Svelte,11
+ClickHouse,Prometheus,11
+Data Modeling,Flask,11
+Excel,React,11
+Flask,PowerShell,11
+Informatica,Kanban,11
+Apache Iceberg,Python,11
+Jenkins,SIEM,11
+Jira,SageMaker,11
+MySQL,SAS,11
+Airflow,Prefect,11
+Fivetran,Tableau,11
+CSS,Data Governance,11
+Hive,dbt,11
+Databricks,Salesforce,11
+Firewalls,Segment,11
+Data Warehousing,Google Analytics,11
+BigQuery,Oracle,11
+Data Warehousing,Ruby,11
+DevOps,Firebase,11
+Active Directory,Go,11
+NLP,Oracle,11
+Flink,System Design,11
+Kanban,Pandas,11
+Kanban,NumPy,11
+HTML,Hive,11
+CISSP,Oracle,11
+MongoDB,Salesforce,11
+Oracle,Prometheus,11
+Pandas,dbt,11
+C++,Databricks,11
+Elasticsearch,Pandas,11
+Data Governance,NumPy,11
+Ansible,Prototyping,11
+GCP,SSIS,11
+.NET,Stakeholder Mgmt,11
+Elasticsearch,TensorFlow,11
+Confluence,Incident Response,11
+Google Analytics,NoSQL,11
+Jira,Jupyter,11
+.NET,Cassandra,11
+A/B Testing,GCP,11
+MongoDB,Rust,11
+PyTorch,System Design,11
+BigQuery,Redis,11
+Data Warehousing,Workday,11
+C#,MuleSoft,11
+Firewalls,Stakeholder Mgmt,11
+Linux,SSIS,11
+Pandas,XGBoost,11
+Go,SIEM,11
+Prefect,dbt,11
+Java,Workday,11
+CSS,Dynamics 365,11
+.NET,Risk Management,11
+PHP,Spring Boot,11
+Elasticsearch,PHP,11
+ETL,GraphQL,11
+Machine Learning,Vue,11
+Cassandra,PowerShell,11
+Deep Learning,Terraform,11
+Deep Learning,GitLab,11
+Datadog,Spring Boot,11
+Prototyping,XML,11
+Jira,SIEM,11
+Unit Testing,VMware,11
+Dagster,Data Pipeline,11
+.NET,Data Governance,11
+NoSQL,SAP,11
+Django,Spring Boot,11
+Jenkins,Looker,11
+Data Analysis,Microsoft Fabric,11
+Bash,R,11
+JSON,Pandas,11
+OWASP,React,11
+Node.js,OWASP,11
+ArgoCD,JavaScript,11
+Data Modeling,Google Analytics,11
+Agile / Scrum,Zero Trust,11
+Databricks,Stakeholder Mgmt,11
+ArgoCD,Jira,11
+GitLab,Redshift,11
+TensorFlow,Unit Testing,11
+SAP,Statistical Analysis,11
+Databricks,Django,11
+GitHub,MuleSoft,11
+Redis,Vue,11
+ETL,NumPy,11
+MySQL,SageMaker,11
+Kafka,SageMaker,11
+GitHub,Stakeholder Mgmt,11
+Looker,SAS,11
+Deep Learning,Snowflake,11
+Databricks,System Design,11
+Amplitude,Tableau,11
+Node.js,R,11
+Helm,Software Architecture,11
+Deep Learning,Hugging Face,11
+Scala,scikit-learn,11
+Statistical Analysis,System Design,11
+ClickHouse,PostgreSQL,11
+Data Visualization,Spring Boot,11
+Ansible,Databricks,11
+Redshift,Statistical Analysis,11
+PostgreSQL,Statistical Analysis,11
+Big Data,Prometheus,11
+CISSP,SOC 2,11
+Data Pipeline,JSON,11
+Airflow,Ruby,11
+Salesforce,Software Architecture,11
+C,Swift,11
+Distributed Systems,Stakeholder Mgmt,11
+C++,Datadog,11
+NumPy,Unit Testing,11
+GitLab,OWASP,11
+DevOps,Linear,11
+BigQuery,TypeScript,11
+C,Splunk,11
+C++,ServiceNow,11
+CSS,Rust,11
+C,Incident Response,11
+Deep Learning,ETL,11
+A/B Testing,REST API,11
+Kafka,Salesforce,11
+Google Analytics,Stakeholder Mgmt,11
+Stakeholder Mgmt,Terraform,11
+Jenkins,Pulumi,11
+Airflow,Excel,11
+Bash,jQuery,11
+Figma,Tableau,11
+Rust,Swift,11
+Docker,Excel,11
+Ansible,GraphQL,11
+Redshift,Ruby,11
+Incident Response,Power BI,11
+Helm,MySQL,11
+NumPy,Risk Management,11
+SSIS,Salesforce,11
+Datadog,Machine Learning,11
+Datadog,Kanban,11
+DynamoDB,XML,11
+C#,Prometheus,11
+Excel,dbt,11
+Django,Elasticsearch,11
+Databricks,Kanban,11
+CSS,OWASP,11
+DevOps,Next.js,11
+Alteryx,Spark,11
+Software Architecture,Splunk,11
+C,Redis,11
+Django,Vue,11
+C,Excel,11
+Ansible,R,11
+AWS Security,Penetration Testing,11
+Burp Suite,Windows,10
+A/B Testing,Git,10
+AWS Security,Unix,10
+C#,LLMs / GenAI,10
+C,CISSP,10
+Data Analysis,Segment,10
+Bash,Redshift,10
+Prototyping,Swift,10
+MongoDB,SAS,10
+Dynamics 365,Git,10
+CSS,Data Pipeline,10
+Datadog,Incident Response,10
+Linear,React,10
+Apache Iceberg,Spark,10
+Deep Learning,Microservices,10
+NLP,Prompt Engineering,10
+Angular,Excel,10
+FastAPI,Microservices,10
+Distributed Systems,Flask,10
+ClickHouse,Machine Learning,10
+Go,Jupyter,10
+C#,Helm,10
+Helm,PostgreSQL,10
+Excel,MongoDB,10
+Looker,MySQL,10
+CISSP,Tableau,10
+Kafka,Swift,10
+Power BI,Redis,10
+Scala,dbt,10
+Prototyping,Terraform,10
+Figma,Linux,10
+GitHub,Linear,10
+Excel,Jenkins,10
+Firebase,Python,10
+BigQuery,Cassandra,10
+Kubernetes,LangChain,10
+GitLab,Rust,10
+GitHub,dbt,10
+Data Analysis,Superset,10
+CSS,Workday,10
+HTML,Workday,10
+Excel,NumPy,10
+.NET,Datadog,10
+R,Ruby,10
+Hive,Kotlin,10
+Risk Management,TypeScript,10
+Data Visualization,Datadog,10
+Flink,Looker,10
+Cassandra,Informatica,10
+A/B Testing,Hadoop,10
+Firebase,NoSQL,10
+Datadog,Salesforce,10
+BigQuery,Excel,10
+Firewalls,Machine Learning,10
+Confluence,dbt,10
+Python,Workflow Automation,10
+Figma,Kotlin,10
+BigQuery,Go,10
+Data Analysis,Firebase,10
+AWS,Firebase,10
+Cassandra,PHP,10
+Figma,MySQL,10
+Elasticsearch,VMware,10
+Firewalls,HTML,10
+Excel,GitHub,10
+Airflow,Unix,10
+Big Data,Helm,10
+FastAPI,Pandas,10
+SAP,Unix,10
+FastAPI,GCP,10
+Data Visualization,Incident Response,10
+Excel,Incident Response,10
+Excel,NLP,10
+Datadog,System Design,10
+Firebase,Go,10
+Incident Response,Spark,10
+Datadog,Flask,10
+Prompt Engineering,React,10
+Kotlin,PHP,10
+PHP,Swift,10
+Alteryx,DevOps,10
+Hadoop,Swift,10
+Firewalls,OWASP,10
+Django,Spring,10
+NLP,Redshift,10
+Flink,NLP,10
+Deep Learning,Redshift,10
+Hugging Face,LLMs / GenAI,10
+Hugging Face,TensorFlow,10
+Databricks,SAS,10
+Bash,SAP,10
+Spring,Swift,10
+Firebase,Jenkins,10
+Deep Learning,scikit-learn,10
+Angular,Prometheus,10
+DynamoDB,Tableau,10
+Kotlin,Prototyping,10
+Firebase,GraphQL,10
+Angular,Google Analytics,10
+Looker,React,10
+Data Warehousing,Splunk,10
+Django,VMware,10
+Excel,GitLab,10
+CSS,NLP,10
+CSS,Informatica,10
+OWASP,Unit Testing,10
+GraphQL,System Design,10
+Deep Learning,Node.js,10
+OWASP,Terraform,10
+Firewalls,Prometheus,10
+Databricks,Flask,10
+Grafana,XML,10
+Kanban,MuleSoft,10
+GitLab,ServiceNow,10
+Airflow,Statistical Analysis,10
+Flask,Spring,10
+Hadoop,Salesforce,10
+C,Pandas,10
+Data Analysis,Metabase,10
+Next.js,Terraform,10
+.NET,Informatica,10
+User Research,Windows,10
+Deep Learning,Flask,10
+Metabase,Tableau,10
+Prefect,Snowflake,10
+MongoDB,NumPy,10
+Django,NLP,10
+Jenkins,Jupyter,10
+MATLAB,Scala,10
+ClickHouse,Java,10
+Prototyping,Statistical Analysis,10
+Grafana,PyTorch,10
+Svelte,TypeScript,10
+GitLab,PyTorch,10
+Jupyter,Kanban,10
+Dynamics 365,JSON,10
+Dynamics 365,React,10
+.NET,Grafana,10
+Spark,Superset,10
+GCP,Zero Trust,10
+CISSP,Ruby,10
+Jenkins,SageMaker,10
+Power BI,Software Architecture,10
+VMware,jQuery,10
+Django,ETL,10
+Firewalls,Salesforce,10
+GCP,Pulumi,10
+CSS,LLMs / GenAI,10
+.NET,VMware,10
+Kafka,ServiceNow,10
+Databricks,HTML,10
+CSS,TensorFlow,10
+Data Governance,ServiceNow,10
+FastAPI,Kafka,10
+Flask,Ruby,10
+Rust,Spark,10
+GitLab,Salesforce,10
+Distributed Systems,Helm,10
+PostgreSQL,SageMaker,10
+Confluence,LLMs / GenAI,10
+A/B Testing,Pandas,10
+Scala,XML,10
+ServiceNow,System Design,10
+ETL,Jupyter,10
+DynamoDB,SageMaker,10
+ETL,ServiceNow,10
+MATLAB,REST API,10
+MongoDB,SageMaker,10
+Dagster,Docker,10
+JavaScript,SageMaker,10
+Data Pipeline,Salesforce,10
+Burp Suite,Java,10
+PowerShell,Redshift,10
+Firebase,Kubernetes,10
+A/B Testing,C++,10
+Node.js,Pandas,10
+Flink,HTML,10
+Burp Suite,PowerShell,9
+Hive,Linear,9
+.NET,NLP,9
+AWS,Segment,9
+Redshift,SAS,9
+Informatica,Splunk,9
+Data Pipeline,Spring Boot,9
+FastAPI,JavaScript,9
+R,VMware,9
+AWS Security,Java,9
+Data Visualization,Spring,9
+Figma,Windows,9
+Apache Iceberg,PostgreSQL,9
+Google Analytics,jQuery,9
+Node.js,ServiceNow,9
+HTML,NetSuite,9
+Data Visualization,Flask,9
+Salesforce,User Research,9
+BigQuery,Node.js,9
+Looker,MongoDB,9
+Jira,OWASP,9
+Figma,Microservices,9
+CSS,NumPy,9
+NumPy,React,9
+CISSP,Spark,9
+Prometheus,Spring,9
+Azure,Vector Databases,9
+Deep Learning,MySQL,9
+NoSQL,ServiceNow,9
+Flink,Spring,9
+Microservices,NumPy,9
+Alteryx,Data Pipeline,9
+PHP,Rust,9
+FastAPI,PyTorch,9
+Firebase,MySQL,9
+Excel,NetSuite,9
+Data Visualization,MLflow,9
+Elasticsearch,Swift,9
+Data Pipeline,Prototyping,9
+Cybersecurity,Spring,9
+NumPy,Prototyping,9
+NumPy,XGBoost,9
+Kafka,Vue,9
+Airflow,NumPy,9
+Amplitude,Python,9
+Azure,XGBoost,9
+Firewalls,Hadoop,9
+CSS,Datadog,9
+CISSP,Power BI,9
+Data Analysis,Vue,9
+Figma,JSON,9
+Active Directory,Spark,9
+PostgreSQL,SAS,9
+A/B Testing,Databricks,9
+SAS,Salesforce,9
+FastAPI,Linux,9
+Confluence,Jupyter,9
+Agile / Scrum,Fivetran,9
+ETL,Prototyping,9
+Hadoop,jQuery,9
+Amplitude,Data Visualization,9
+BigQuery,HTML,9
+Active Directory,Data Modeling,9
+NetSuite,REST API,9
+Spark,jQuery,9
+Ruby,ServiceNow,9
+MuleSoft,PostgreSQL,9
+Kafka,SAS,9
+BigQuery,Distributed Systems,9
+Linear,Software Architecture,9
+Pandas,Stakeholder Mgmt,9
+Cassandra,SSIS,9
+Distributed Systems,MATLAB,9
+Helm,MATLAB,9
+PyTorch,Redshift,9
+Pandas,Redshift,9
+R,Swift,9
+Data Analysis,Next.js,9
+React,TensorFlow,9
+Agile / Scrum,Segment,9
+SQL,Workflow Automation,9
+Data Governance,Incident Response,9
+Data Analysis,Workflow Automation,9
+Big Data,Salesforce,9
+Flask,PHP,9
+FastAPI,GitHub,9
+HTML,Incident Response,9
+ArgoCD,Splunk,9
+A/B Testing,Jenkins,9
+A/B Testing,Kafka,9
+Firewalls,PHP,9
+PHP,VMware,9
+Hadoop,Stakeholder Mgmt,9
+Angular,Flink,9
+Datadog,Spring,9
+C#,Jupyter,9
+Data Warehousing,Fivetran,9
+Elasticsearch,Incident Response,9
+Incident Response,MySQL,9
+Big Data,Firewalls,9
+Figma,Swift,9
+PostgreSQL,Stakeholder Mgmt,9
+LLMs / GenAI,MongoDB,9
+Cassandra,Helm,9
+JavaScript,dbt,9
+Snowflake,jQuery,9
+PowerShell,Spring,9
+GCP,User Research,9
+Kotlin,MLflow,9
+Docker,Prompt Engineering,9
+Jupyter,MATLAB,9
+Incident Response,Tableau,9
+.NET,Prometheus,9
+A/B Testing,C#,9
+JSON,SAP,9
+LLMs / GenAI,Unix,9
+Linux,Workday,9
+Alteryx,ETL,9
+PostgreSQL,SSIS,9
+Cassandra,Swift,9
+Cassandra,Jupyter,9
+Jupyter,MongoDB,9
+Agile / Scrum,Pulumi,9
+Data Modeling,Grafana,9
+Data Pipeline,Linear,9
+Data Visualization,Fivetran,9
+Deep Learning,Flink,9
+Firewalls,Node.js,9
+Go,Next.js,9
+Informatica,dbt,9
+Flask,LLMs / GenAI,9
+Segment,Windows,9
+Redis,Redshift,9
+Kanban,Redshift,9
+Databricks,Splunk,9
+Active Directory,SAP,9
+Incident Response,REST API,9
+Penetration Testing,ServiceNow,9
+NumPy,Terraform,9
+Active Directory,Data Visualization,9
+Datadog,Snowflake,9
+R,TypeScript,9
+PowerShell,SAP,9
+ETL,Redis,9
+Bash,Salesforce,9
+GitHub,NumPy,9
+GCP,OWASP,9
+Go,Salesforce,9
+MuleSoft,NoSQL,9
+Oracle,Pandas,9
+.NET,Databricks,9
+HTML,Prometheus,9
+JSON,Prometheus,9
+Deep Learning,SAS,9
+PostgreSQL,SAP,9
+Cassandra,Prototyping,9
+CSS,Firebase,9
+Pandas,SageMaker,9
+Dynamics 365,XML,9
+GCP,Google Analytics,9
+GCP,SOC 2,9
+Google Analytics,PHP,9
+BigQuery,Statistical Analysis,9
+Looker,Oracle,9
+Docker,Firebase,9
+Redshift,TypeScript,9
+C,LLMs / GenAI,9
+MongoDB,Risk Management,9
+Big Data,jQuery,9
+SageMaker,XGBoost,9
+Grafana,R,9
+Grafana,TensorFlow,9
+GitLab,NumPy,9
+GitLab,TensorFlow,9
+Databricks,Linear,9
+Big Data,Django,9
+Helm,PHP,9
+Helm,Splunk,9
+Flask,Oracle,9
+Penetration Testing,SOC 2,9
+Firewalls,MongoDB,9
+FastAPI,NumPy,9
+CSS,Flink,9
+Flink,Oracle,9
+Big Data,Flask,9
+Django,PyTorch,9
+FastAPI,Git,9
+Flink,Grafana,9
+Flink,Prometheus,9
+Superset,Tableau,9
+GraphQL,Unix,9
+Ansible,OWASP,9
+Go,OWASP,9
+SageMaker,Tableau,9
+GitHub,Jupyter,9
+Dynamics 365,Unit Testing,9
+Active Directory,Zero Trust,9
+Airflow,Fivetran,9
+Data Governance,Google Analytics,9
+Spark,VMware,9
+Data Pipeline,Prometheus,9
+.NET,Hive,9
+Flask,Vue,9
+Active Directory,Burp Suite,9
+CISSP,TypeScript,9
+Jira,Next.js,9
+TensorFlow,TypeScript,9
+Cassandra,Django,9
+Deep Learning,Django,9
+.NET,LLMs / GenAI,9
+Airflow,System Design,9
+Elasticsearch,Flask,9
+Cybersecurity,Databricks,9
+Node.js,PyTorch,9
+Looker,NumPy,9
+Deep Learning,Risk Management,9
+Flink,Splunk,9
+Salesforce,Splunk,9
+SageMaker,Statistical Analysis,9
+Data Pipeline,Microsoft Fabric,9
+JavaScript,Linear,9
+TypeScript,Zero Trust,9
+Ansible,Workday,9
+Cassandra,SAS,9
+Kanban,SAS,8
+Go,SageMaker,8
+C#,Figma,8
+Linear,TypeScript,8
+Data Visualization,Prometheus,8
+C++,Informatica,8
+Helm,Redis,8
+Flask,Software Architecture,8
+Dynamics 365,Kanban,8
+PHP,Snowflake,8
+Terraform,Workday,8
+DynamoDB,Flask,8
+Jupyter,Rust,8
+FastAPI,LLMs / GenAI,8
+Go,MATLAB,8
+Kafka,MATLAB,8
+CSS,NetSuite,8
+OWASP,Spring,8
+MLflow,Snowflake,8
+MLflow,MongoDB,8
+.NET,Snowflake,8
+Django,Hadoop,8
+MySQL,Next.js,8
+GitLab,SageMaker,8
+LLMs / GenAI,Software Architecture,8
+C#,Pandas,8
+Data Pipeline,Spring,8
+Risk Management,jQuery,8
+BigQuery,Microservices,8
+Redshift,Windows,8
+MySQL,Stakeholder Mgmt,8
+Cybersecurity,Hive,8
+MATLAB,PHP,8
+CISSP,Data Warehousing,8
+Redis,Swift,8
+DevOps,LangChain,8
+Prototyping,Ruby,8
+Datadog,VMware,8
+OWASP,jQuery,8
+Helm,JSON,8
+MongoDB,Statistical Analysis,8
+Looker,REST API,8
+Azure,NetSuite,8
+Active Directory,Data Pipeline,8
+Google Analytics,Spark,8
+Airflow,Spring,8
+Incident Response,PHP,8
+Flask,Spring Boot,8
+Node.js,Svelte,8
+SAP,System Design,8
+Redshift,Stakeholder Mgmt,8
+PHP,ServiceNow,8
+Prototyping,Scala,8
+Informatica,SAS,8
+Apache Iceberg,DevOps,8
+R,Redis,8
+Data Governance,SageMaker,8
+Dagster,NoSQL,8
+Data Pipeline,Rust,8
+Jenkins,User Research,8
+Prototyping,Redis,8
+Hive,Windows,8
+Data Warehousing,Linear,8
+C#,Statistical Analysis,8
+Kafka,PHP,8
+Datadog,Rust,8
+Confluence,SageMaker,8
+Elasticsearch,PyTorch,8
+Fine-tuning,Python,8
+SIEM,Stakeholder Mgmt,8
+Incident Response,Stakeholder Mgmt,8
+GCP,LangChain,8
+Docker,LangChain,8
+BigQuery,MongoDB,8
+Active Directory,OWASP,8
+FastAPI,MongoDB,8
+Jupyter,Redshift,8
+Data Visualization,Superset,8
+Data Pipeline,Superset,8
+Dagster,Kafka,8
+Dagster,GCP,8
+Looker,Metabase,8
+Fivetran,Looker,8
+Databricks,Risk Management,8
+Ansible,Vue,8
+Confluence,Helm,8
+Stakeholder Mgmt,Workday,8
+Bash,GraphQL,8
+Hive,Prometheus,8
+Agile / Scrum,Workflow Automation,8
+A/B Testing,Confluence,8
+PHP,Prometheus,8
+Ansible,Pandas,8
+Metabase,dbt,8
+.NET,A/B Testing,8
+A/B Testing,Microservices,8
+Data Pipeline,Google Analytics,8
+SAP,Terraform,8
+JSON,SageMaker,8
+CISSP,XML,8
+Informatica,PowerShell,8
+Azure,Prompt Engineering,8
+Data Governance,Jupyter,8
+Data Governance,Dynamics 365,8
+Active Directory,Dynamics 365,8
+Data Visualization,jQuery,8
+Git,MLflow,8
+Hive,Ruby,8
+Kubernetes,MuleSoft,8
+Flask,Hadoop,8
+.NET,Firewalls,8
+NoSQL,Penetration Testing,8
+Cybersecurity,SSIS,8
+Cassandra,Cybersecurity,8
+Data Warehousing,Flask,8
+Cassandra,jQuery,8
+.NET,Data Pipeline,8
+Vue,XML,8
+CISSP,JSON,8
+Jupyter,SageMaker,8
+Excel,Linear,8
+Confluence,Next.js,8
+Machine Learning,ServiceNow,8
+Dagster,Data Governance,8
+.NET,Helm,8
+A/B Testing,Snowflake,8
+ClickHouse,Grafana,8
+Java,Trino,8
+Active Directory,ETL,8
+BigQuery,Pandas,8
+BigQuery,NumPy,8
+Angular,Data Governance,8
+FastAPI,NoSQL,8
+Firebase,Google Analytics,8
+Ruby,TensorFlow,8
+Amplitude,Google Analytics,8
+Agile / Scrum,SOC 2,8
+Linear,Windows,8
+Firebase,PostgreSQL,8
+SOC 2,Windows,8
+C,Hive,8
+Linear,Snowflake,8
+Kafka,Linear,8
+Active Directory,SSIS,8
+GitHub,Penetration Testing,8
+C,Firewalls,8
+Hadoop,Rust,8
+Flask,JSON,8
+Data Visualization,Ruby,8
+Data Analysis,FastAPI,8
+GraphQL,Redshift,8
+LangChain,R,8
+Angular,LLMs / GenAI,8
+Kafka,Superset,8
+Spring Boot,Tableau,8
+NumPy,Oracle,8
+Linux,SOC 2,8
+Java,scikit-learn,8
+Go,SAP,8
+Flask,VMware,8
+Prototyping,Spring Boot,8
+Data Pipeline,ServiceNow,8
+ServiceNow,Snowflake,8
+Bash,Swift,8
+Databricks,GitLab,8
+Distributed Systems,Linear,8
+Firewalls,Spring,8
+Splunk,Zero Trust,8
+Docker,XGBoost,8
+DynamoDB,Prometheus,8
+Linux,SageMaker,8
+Power BI,VMware,8
+Linux,User Research,8
+Statistical Analysis,XML,8
+Java,Zero Trust,8
+Fivetran,Redshift,8
+Fivetran,Power BI,8
+PHP,Splunk,8
+Kubernetes,SSIS,8
+Databricks,Datadog,8
+LLMs / GenAI,MySQL,8
+Ansible,Redshift,8
+Firewalls,React,8
+CSS,Firewalls,8
+Looker,Redis,8
+Cassandra,Risk Management,8
+BigQuery,GraphQL,8
+Redis,VMware,8
+Alteryx,Redshift,8
+A/B Testing,Kotlin,8
+Google Analytics,Prototyping,8
+Firewalls,Kafka,8
+Deep Learning,Elasticsearch,8
+Data Modeling,Incident Response,8
+Data Modeling,Prometheus,8
+Excel,Figma,8
+CI/CD,User Research,8
+JSON,PyTorch,8
+Informatica,NLP,8
+MuleSoft,Tableau,8
+Dagster,PyTorch,8
+Ruby,SIEM,8
+Alteryx,GCP,8
+MySQL,Rust,8
+Risk Management,Workday,8
+GitLab,Swift,8
+Dynamics 365,PowerShell,8
+Data Modeling,Datadog,8
+GitHub,SAS,8
+Apache Iceberg,Kafka,7
+Swift,Unix,7
+Data Warehousing,MLflow,7
+Distributed Systems,Pulumi,7
+AWS Security,Bash,7
+Django,Next.js,7
+Grafana,Risk Management,7
+Firebase,Microservices,7
+Jupyter,PowerShell,7
+AWS,Dagster,7
+Data Visualization,Kotlin,7
+CISSP,PHP,7
+Dynamics 365,Windows,7
+Dynamics 365,Java,7
+ClickHouse,JavaScript,7
+Salesforce,Spring,7
+LLMs / GenAI,MLflow,7
+BigQuery,Kotlin,7
+Cassandra,LLMs / GenAI,7
+Hadoop,Penetration Testing,7
+TypeScript,Workday,7
+Hadoop,Incident Response,7
+Airflow,PowerShell,7
+Active Directory,Grafana,7
+AWS Security,DevOps,7
+Excel,Jupyter,7
+Penetration Testing,Tableau,7
+AWS,Hugging Face,7
+Data Pipeline,SAS,7
+Dynamics 365,ETL,7
+Data Pipeline,XGBoost,7
+Data Pipeline,Datadog,7
+Agile / Scrum,XGBoost,7
+Ansible,Pulumi,7
+Terraform,jQuery,7
+ArgoCD,Kafka,7
+JSON,NLP,7
+Datadog,Oracle,7
+Vue,jQuery,7
+Java,Svelte,7
+Elasticsearch,Jupyter,7
+ArgoCD,Distributed Systems,7
+SQL,Vector Databases,7
+Kubernetes,Prompt Engineering,7
+BigQuery,Elasticsearch,7
+FastAPI,Redis,7
+Fivetran,Machine Learning,7
+Data Pipeline,SAP,7
+Airflow,Superset,7
+AWS Security,GCP,7
+CISSP,Salesforce,7
+Spring Boot,Swift,7
+Node.js,SageMaker,7
+Elasticsearch,Next.js,7
+Statistical Analysis,User Research,7
+DynamoDB,PowerShell,7
+DynamoDB,Windows,7
+DevOps,Fivetran,7
+Active Directory,Kafka,7
+Kotlin,Oracle,7
+CISSP,Snowflake,7
+CISSP,Looker,7
+ArgoCD,Prometheus,7
+Ansible,Informatica,7
+Spring,Stakeholder Mgmt,7
+Datadog,Redshift,7
+Datadog,Figma,7
+AWS Security,Firewalls,7
+JSON,Redshift,7
+Java,NetSuite,7
+Confluence,Vue,7
+DynamoDB,Flink,7
+Elasticsearch,Risk Management,7
+Elasticsearch,Penetration Testing,7
+Datadog,dbt,7
+ClickHouse,Terraform,7
+C++,ClickHouse,7
+AWS Security,Go,7
+Excel,Software Architecture,7
+GitLab,Vue,7
+LLMs / GenAI,XGBoost,7
+SQL,Zero Trust,7
+GraphQL,Tableau,7
+Data Analysis,Helm,7
+Docker,SSIS,7
+Data Modeling,VMware,7
+Data Analysis,scikit-learn,7
+C++,scikit-learn,7
+Distributed Systems,Firewalls,7
+Active Directory,GitLab,7
+MySQL,OWASP,7
+Microservices,SAS,7
+Data Warehousing,MuleSoft,7
+Excel,Microservices,7
+Jenkins,Next.js,7
+BigQuery,Confluence,7
+A/B Testing,Software Architecture,7
+Swift,Terraform,7
+Firewalls,Redis,7
+Spark,Swift,7
+Scala,Swift,7
+MATLAB,Rust,7
+Flask,Snowflake,7
+MySQL,SAP,7
+C#,Firewalls,7
+Angular,Penetration Testing,7
+C,Linear,7
+Figma,PostgreSQL,7
+Active Directory,MongoDB,7
+A/B Testing,Kanban,7
+Bash,LLMs / GenAI,7
+Google Analytics,Hadoop,7
+MongoDB,Penetration Testing,7
+Informatica,Spring Boot,7
+NumPy,Redshift,7
+Cassandra,Stakeholder Mgmt,7
+C++,SIEM,7
+PHP,Power BI,7
+LLMs / GenAI,User Research,7
+CI/CD,Zero Trust,7
+Cassandra,SageMaker,7
+Cybersecurity,Kotlin,7
+Confluence,Dynamics 365,7
+Kanban,LLMs / GenAI,7
+Excel,Scala,7
+A/B Testing,jQuery,7
+C,SAS,7
+CSS,Prometheus,7
+BigQuery,Grafana,7
+Flink,Spring Boot,7
+Big Data,SAP,7
+Figma,NLP,7
+Distributed Systems,Salesforce,7
+Flask,R,7
+Angular,TensorFlow,7
+SAP,Workday,7
+System Design,Workday,7
+Excel,Kafka,7
+Data Analysis,OWASP,7
+Databricks,Node.js,7
+Hive,Risk Management,7
+GitHub,User Research,7
+Cybersecurity,Django,7
+R,Rust,7
+LangChain,Pandas,7
+LangChain,NumPy,7
+SOC 2,SQL,7
+NumPy,scikit-learn,7
+Flink,Windows,7
+Pulumi,TypeScript,7
+Data Pipeline,Prefect,7
+Jupyter,Node.js,7
+Deep Learning,Grafana,7
+Grafana,NumPy,7
+Data Modeling,Rust,7
+Django,Scala,7
+Helm,MongoDB,7
+GraphQL,Prototyping,7
+AWS,Apache Iceberg,7
+MLflow,Tableau,7
+C,Spring,7
+JSON,Vue,7
+MLflow,Microservices,7
+Firewalls,XML,7
+CISSP,Node.js,7
+Go,Looker,7
+Django,XML,7
+Confluence,Google Analytics,7
+Prometheus,XML,7
+Flink,Ruby,7
+DevOps,Prompt Engineering,7
+Data Observability,Python,7
+Data Observability,Data Warehousing,7
+PHP,Risk Management,7
+LLMs / GenAI,Linear,7
+Figma,Go,7
+Go,jQuery,7
+Alteryx,Jira,7
+ArgoCD,SQL,7
+Active Directory,Hadoop,7
+NumPy,Scala,7
+FastAPI,TensorFlow,7
+Penetration Testing,Unit Testing,7
+Data Governance,Grafana,7
+MuleSoft,Spring Boot,7
+MuleSoft,Spring,7
+Deep Learning,HTML,7
+PHP,Tableau,7
+Data Warehousing,PHP,7
+Azure,Workflow Automation,7
+Data Analysis,Fine-tuning,7
+Angular,Deep Learning,7
+Flink,Rust,7
+Dagster,Pandas,7
+Data Modeling,Superset,7
+C++,Segment,7
+Alteryx,SSIS,7
+DynamoDB,Vue,7
+Apache Iceberg,Data Warehousing,7
+Apache Iceberg,Data Pipeline,7
+C++,OWASP,7
+Active Directory,Distributed Systems,7
+ETL,SageMaker,7
+Data Analysis,Vector Databases,7
+Confluence,Informatica,7
+Dagster,MLflow,7
+Dynamics 365,Stakeholder Mgmt,7
+ETL,Flask,7
+Alteryx,CI/CD,7
+Active Directory,Datadog,7
+Azure,Dagster,7
+AWS,Prefect,7
+Prometheus,Risk Management,7
+Alteryx,Stakeholder Mgmt,7
+Jira,Workday,7
+Jira,NetSuite,7
+ETL,MuleSoft,7
+Datadog,Helm,7
+JSON,Stakeholder Mgmt,7
+BigQuery,Datadog,7
+Data Modeling,MLflow,7
+BigQuery,PyTorch,7
+Active Directory,Data Governance,7
+Angular,Statistical Analysis,7
+Pandas,Superset,7
+Machine Learning,Superset,7
+Data Warehousing,jQuery,7
+Airflow,Apache Iceberg,7
+Flink,XML,7
+Flink,JSON,7
+Data Warehousing,SageMaker,7
+NoSQL,OWASP,7
+Ansible,SAP,7
+OWASP,Oracle,7
+MATLAB,Swift,7
+Data Modeling,Workday,7
+CSS,Hive,7
+GraphQL,Power BI,7
+NetSuite,Oracle,7
+Docker,Vector Databases,7
+Figma,Salesforce,7
+AWS,Vector Databases,7
+PHP,R,7
+PyTorch,Ruby,7
+Elasticsearch,Svelte,7
+Airflow,Spring Boot,7
+Hugging Face,LangChain,7
+Active Directory,Big Data,7
+Confluence,Penetration Testing,7
+DynamoDB,Informatica,7
+ClickHouse,Jupyter,7
+Flink,SageMaker,7
+Prototyping,VMware,7
+GitLab,Pandas,7
+Microservices,SageMaker,7
+C,MongoDB,7
+C#,NumPy,7
+BigQuery,CSS,7
+GitHub,Pulumi,7
+Distributed Systems,SageMaker,7
+NumPy,TypeScript,7
+NumPy,Redis,7
+Airflow,JSON,7
+Airflow,Cybersecurity,7
+AWS Security,PowerShell,7
+Angular,FastAPI,7
+Kafka,Penetration Testing,7
+AWS Security,OWASP,7
+JavaScript,Workday,7
+Prompt Engineering,PyTorch,7
+DynamoDB,Power BI,7
+AWS Security,Terraform,7
+Flink,GitLab,7
+Kotlin,Unix,7
+FastAPI,Node.js,7
+Bash,NLP,7
+Data Pipeline,XML,7
+Risk Management,Ruby,7
+Looker,Terraform,7
+CSS,Helm,7
+Elasticsearch,NumPy,7
+Incident Response,Node.js,7
+Jira,Segment,7
+GitHub,SIEM,7
+Airflow,Prototyping,7
+ArgoCD,JSON,7
+SSIS,Unix,7
+Redshift,TensorFlow,7
+Apache Iceberg,Machine Learning,7
+C++,Looker,7
+Prompt Engineering,TensorFlow,7
+Elasticsearch,Looker,7
+CI/CD,Workday,7
+MLflow,Statistical Analysis,7
+BigQuery,Google Analytics,7
+Google Analytics,PostgreSQL,7
+Burp Suite,Data Analysis,6
+Salesforce,Zero Trust,6
+Incident Response,Rust,6
+Linux,Pulumi,6
+Data Governance,Flask,6
+CI/CD,Segment,6
+DevOps,Segment,6
+Alteryx,Salesforce,6
+ArgoCD,REST API,6
+Grafana,jQuery,6
+Oracle,PyTorch,6
+Deep Learning,Prompt Engineering,6
+Ruby,XGBoost,6
+Scala,XGBoost,6
+Helm,Unit Testing,6
+Jenkins,SOC 2,6
+Software Architecture,Vue,6
+BigQuery,Flink,6
+Big Data,ClickHouse,6
+ClickHouse,Hadoop,6
+Svelte,Vue,6
+LLMs / GenAI,Stakeholder Mgmt,6
+Flink,Unix,6
+PowerShell,Redis,6
+REST API,Svelte,6
+BigQuery,GitLab,6
+GCP,Segment,6
+Data Governance,Microsoft Fabric,6
+Fine-tuning,Java,6
+Flask,Windows,6
+Penetration Testing,Ruby,6
+Deep Learning,Excel,6
+GitLab,dbt,6
+Django,SSIS,6
+SOC 2,Terraform,6
+BigQuery,C#,6
+Figma,Statistical Analysis,6
+Data Warehousing,Kotlin,6
+C++,dbt,6
+Data Governance,GraphQL,6
+C#,Workday,6
+Git,Workday,6
+A/B Testing,Distributed Systems,6
+PowerShell,Zero Trust,6
+Splunk,jQuery,6
+CI/CD,Fivetran,6
+JavaScript,Workflow Automation,6
+Jupyter,Looker,6
+Docker,Trino,6
+Flink,GraphQL,6
+GraphQL,Risk Management,6
+Kanban,Statistical Analysis,6
+NLP,Ruby,6
+Cassandra,Excel,6
+Apache Iceberg,Snowflake,6
+Linear,Unit Testing,6
+Bash,Flask,6
+ETL,Google Analytics,6
+Cassandra,Flask,6
+Python,Trino,6
+Scala,Trino,6
+Active Directory,Stakeholder Mgmt,6
+React,SageMaker,6
+A/B Testing,Ruby,6
+NumPy,SAS,6
+Django,LLMs / GenAI,6
+Distributed Systems,ServiceNow,6
+CI/CD,SIEM,6
+Data Warehousing,Superset,6
+CISSP,REST API,6
+HTML,SIEM,6
+Data Modeling,Microsoft Fabric,6
+CI/CD,Prompt Engineering,6
+Linux,Looker,6
+Tableau,VMware,6
+Apache Iceberg,Hadoop,6
+Figma,Risk Management,6
+Bash,Pandas,6
+Hive,TypeScript,6
+Big Data,Datadog,6
+Databricks,Incident Response,6
+ArgoCD,Data Analysis,6
+PostgreSQL,Pulumi,6
+Hadoop,Helm,6
+ArgoCD,TypeScript,6
+Pandas,XML,6
+MLflow,Power BI,6
+Unit Testing,Workday,6
+PyTorch,React,6
+Linux,MuleSoft,6
+Tableau,scikit-learn,6
+Cybersecurity,Workday,6
+Helm,VMware,6
+Angular,Dynamics 365,6
+NLP,Spring Boot,6
+CSS,Databricks,6
+Incident Response,Kanban,6
+Java,Superset,6
+PostgreSQL,Superset,6
+MATLAB,React,6
+Stakeholder Mgmt,dbt,6
+C,Statistical Analysis,6
+C#,Looker,6
+Firewalls,JSON,6
+Data Pipeline,FastAPI,6
+Data Governance,Fivetran,6
+ServiceNow,Software Architecture,6
+Incident Response,Salesforce,6
+NumPy,SageMaker,6
+Angular,Linear,6
+Confluence,Segment,6
+PostgreSQL,Svelte,6
+Databricks,Redis,6
+Databricks,TypeScript,6
+Ansible,Swift,6
+Data Visualization,Dynamics 365,6
+Data Governance,Splunk,6
+Data Warehousing,ServiceNow,6
+Software Architecture,VMware,6
+MLflow,MySQL,6
+Dagster,Java,6
+Go,Linear,6
+NLP,User Research,6
+Pandas,Software Architecture,6
+Distributed Systems,Vue,6
+R,jQuery,6
+Data Analysis,Mixpanel,6
+C,Data Warehousing,6
+Databricks,Fivetran,6
+Node.js,Stakeholder Mgmt,6
+Active Directory,Elasticsearch,6
+Distributed Systems,PowerShell,6
+CSS,Looker,6
+ETL,Workday,6
+Next.js,NoSQL,6
+Cassandra,Statistical Analysis,6
+Datadog,XML,6
+ETL,Fivetran,6
+BigQuery,SAS,6
+Microservices,ServiceNow,6
+Linear,System Design,6
+JSON,SAS,6
+Agile / Scrum,Mixpanel,6
+Dynamics 365,GitHub,6
+GraphQL,Salesforce,6
+Elasticsearch,MATLAB,6
+MATLAB,MongoDB,6
+Jupyter,REST API,6
+NetSuite,Power BI,6
+Pandas,System Design,6
+React,SAP,6
+Google Analytics,Mixpanel,6
+CSS,Statistical Analysis,6
+Google Analytics,Swift,6
+Redshift,Salesforce,6
+PyTorch,Vector Databases,6
+Dagster,Scala,6
+Big Data,SageMaker,6
+MATLAB,Stakeholder Mgmt,6
+GraphQL,NLP,6
+Jupyter,LLMs / GenAI,6
+OWASP,PHP,6
+Cybersecurity,Pandas,6
+Data Visualization,Penetration Testing,6
+Excel,Penetration Testing,6
+NumPy,System Design,6
+PowerShell,Salesforce,6
+Windows,Workday,6
+Grafana,Jupyter,6
+Jupyter,React,6
+Confluence,Workday,6
+Alteryx,Oracle,6
+Spring,Tableau,6
+Microservices,SAP,6
+MySQL,NetSuite,6
+Cassandra,MLflow,6
+GitLab,NLP,6
+Agile / Scrum,Prefect,6
+Hadoop,PHP,6
+Oracle,Swift,6
+Bash,Statistical Analysis,6
+SAP,ServiceNow,6
+Data Visualization,Vue,6
+Prompt Engineering,Vector Databases,6
+CSS,MATLAB,6
+Elasticsearch,dbt,6
+Figma,Vue,6
+A/B Testing,Deep Learning,6
+A/B Testing,PyTorch,6
+Jupyter,SAS,6
+Penetration Testing,Power BI,6
+Flink,Kotlin,6
+PHP,Spark,6
+BigQuery,Informatica,6
+GitLab,Penetration Testing,6
+Power BI,SageMaker,6
+ETL,LLMs / GenAI,6
+GraphQL,Pandas,6
+DynamoDB,dbt,6
+LLMs / GenAI,Rust,6
+Hive,SageMaker,6
+CI/CD,SOC 2,6
+Data Modeling,Dynamics 365,6
+Git,SOC 2,6
+Google Analytics,Kanban,6
+GitLab,SSIS,6
+Alteryx,Hadoop,6
+Data Warehousing,MATLAB,6
+Tableau,User Research,6
+Bash,SOC 2,6
+Azure,Svelte,6
+DevOps,Svelte,6
+Confluence,Linear,6
+C,Kotlin,6
+Microservices,Pulumi,6
+SQL,Svelte,6
+FastAPI,NLP,6
+Docker,Zero Trust,6
+Databricks,Software Architecture,6
+A/B Testing,SAS,6
+Kanban,Linear,6
+Kanban,Penetration Testing,6
+PHP,Penetration Testing,6
+Statistical Analysis,scikit-learn,6
+Dynamics 365,Oracle,6
+Dynamics 365,SAP,6
+Java,Segment,6
+Incident Response,SOC 2,6
+Flink,NumPy,6
+Flink,Pandas,6
+Power BI,Swift,6
+SIEM,ServiceNow,6
+Oracle,Rust,6
+Rust,Spring,6
+Google Analytics,Node.js,6
+Java,SOC 2,6
+Angular,Firebase,6
+ETL,Spring Boot,6
+NLP,Splunk,6
+Prometheus,Snowflake,6
+Oracle,SIEM,6
+Prefect,Spark,6
+PowerShell,Scala,6
+Linear,Prototyping,6
+Fivetran,JavaScript,6
+Docker,User Research,6
+TypeScript,User Research,6
+Dynamics 365,Salesforce,6
+FastAPI,Spark,6
+JavaScript,Pulumi,6
+Ansible,Stakeholder Mgmt,6
+Metabase,Snowflake,6
+Incident Response,React,6
+Dynamics 365,jQuery,6
+Kafka,MuleSoft,6
+Fivetran,Prefect,6
+A/B Testing,Rust,6
+Polars,Spark,6
+C,NLP,6
+PowerShell,Software Architecture,6
+CI/CD,Prefect,6
+Jupyter,MySQL,6
+REST API,Statistical Analysis,6
+AWS,Data Observability,6
+Data Governance,Linear,6
+Data Observability,DevOps,6
+Data Observability,SQL,6
+Angular,Pandas,6
+OWASP,Ruby,6
+SageMaker,Terraform,6
+Data Visualization,Swift,6
+Data Visualization,Next.js,6
+Confluence,SIEM,6
+HTML,Svelte,6
+Active Directory,C,6
+Bash,Kotlin,6
+Redshift,Spring,6
+Metabase,R,6
+Workday,Zero Trust,6
+GitLab,LLMs / GenAI,6
+Flink,SAS,6
+Kafka,MLflow,6
+Data Governance,LLMs / GenAI,6
+Dagster,Terraform,6
+Machine Learning,Pulumi,6
+Big Data,SIEM,6
+A/B Testing,Unit Testing,6
+Burp Suite,JavaScript,6
+Data Warehousing,Grafana,6
+Hive,Stakeholder Mgmt,5
+Grafana,Software Architecture,5
+Incident Response,Segment,5
+ArgoCD,PyTorch,5
+ArgoCD,SageMaker,5
+C#,SIEM,5
+CISSP,MySQL,5
+Big Data,Swift,5
+Agile / Scrum,Amplitude,5
+.NET,CISSP,5
+Next.js,Vue,5
+Google Analytics,XML,5
+BigQuery,Jupyter,5
+ETL,MATLAB,5
+Confluence,Firebase,5
+Elasticsearch,Helm,5
+Firewalls,Unit Testing,5
+Penetration Testing,Spark,5
+Cybersecurity,Elasticsearch,5
+ClickHouse,Data Analysis,5
+CI/CD,Svelte,5
+Incident Response,Kotlin,5
+Figma,GitLab,5
+Spring,VMware,5
+DynamoDB,FastAPI,5
+.NET,Redshift,5
+Google Analytics,Hive,5
+Flask,XML,5
+Databricks,Prefect,5
+Rust,Vue,5
+Jupyter,Oracle,5
+A/B Testing,Airflow,5
+A/B Testing,dbt,5
+BigQuery,TensorFlow,5
+Cassandra,SAP,5
+Go,ServiceNow,5
+C#,Next.js,5
+Data Analysis,Data Observability,5
+Data Governance,Data Observability,5
+TensorFlow,VMware,5
+Hive,SAP,5
+Informatica,React,5
+CSS,PyTorch,5
+Angular,Pulumi,5
+Metabase,Spark,5
+MongoDB,Next.js,5
+Grafana,Statistical Analysis,5
+BigQuery,Unix,5
+Linux,Next.js,5
+Figma,MongoDB,5
+Azure,MCP,5
+JavaScript,Prefect,5
+Looker,Prefect,5
+Azure,Prefect,5
+Dagster,Data Modeling,5
+Dagster,Spark,5
+Polars,Python,5
+Polars,SQL,5
+Swift,System Design,5
+Ansible,NumPy,5
+Grafana,Pandas,5
+Data Pipeline,MATLAB,5
+Statistical Analysis,Workday,5
+SAP,jQuery,5
+CISSP,Statistical Analysis,5
+Kubernetes,User Research,5
+Hadoop,ServiceNow,5
+NetSuite,Tableau,5
+Docker,Svelte,5
+Angular,NLP,5
+NLP,Spring,5
+LangChain,Spark,5
+REST API,SOC 2,5
+Data Analysis,Hugging Face,5
+MongoDB,SOC 2,5
+Node.js,SOC 2,5
+Penetration Testing,PostgreSQL,5
+Next.js,Swift,5
+Data Warehousing,Prometheus,5
+Databricks,FastAPI,5
+FastAPI,Power BI,5
+Flask,SSIS,5
+Google Analytics,MongoDB,5
+JavaScript,SOC 2,5
+Data Observability,Snowflake,5
+Angular,Informatica,5
+BigQuery,C++,5
+REST API,SIEM,5
+Linear,SageMaker,5
+Prometheus,Redshift,5
+Docker,scikit-learn,5
+NLP,XML,5
+Cybersecurity,User Research,5
+Risk Management,User Research,5
+Elasticsearch,Firebase,5
+Airflow,Kanban,5
+Deep Learning,DynamoDB,5
+DynamoDB,Next.js,5
+FastAPI,GraphQL,5
+OWASP,Spring Boot,5
+Power BI,Workflow Automation,5
+Java,XGBoost,5
+AWS,scikit-learn,5
+Jira,Linear,5
+C++,FastAPI,5
+FastAPI,Java,5
+Data Governance,TypeScript,5
+Helm,NoSQL,5
+MongoDB,Stakeholder Mgmt,5
+ArgoCD,MySQL,5
+Prompt Engineering,SQL,5
+C,NumPy,5
+React,Segment,5
+.NET,Flink,5
+NLP,Redis,5
+A/B Testing,TensorFlow,5
+Jupyter,Statistical Analysis,5
+Data Governance,Penetration Testing,5
+MySQL,Workday,5
+ETL,Grafana,5
+Grafana,Snowflake,5
+Azure,scikit-learn,5
+Dagster,MongoDB,5
+Dagster,MySQL,5
+Flink,Jupyter,5
+Agile / Scrum,Dagster,5
+Google Analytics,TypeScript,5
+Distributed Systems,Jupyter,5
+C,Helm,5
+GraphQL,jQuery,5
+Data Warehousing,Incident Response,5
+Incident Response,Jupyter,5
+DevOps,NetSuite,5
+Kanban,Workday,5
+Go,User Research,5
+C++,Dagster,5
+Cassandra,Dagster,5
+Dagster,Data Visualization,5
+Docker,Workday,5
+MuleSoft,Windows,5
+Firebase,Redis,5
+Penetration Testing,Stakeholder Mgmt,5
+Fine-tuning,R,5
+A/B Testing,Linux,5
+R,XGBoost,5
+Cybersecurity,Jupyter,5
+Cybersecurity,SAS,5
+Informatica,SageMaker,5
+Hugging Face,SQL,5
+A/B Testing,Amplitude,5
+Firebase,Ruby,5
+React,Statistical Analysis,5
+TensorFlow,Vector Databases,5
+C#,SageMaker,5
+Dagster,DynamoDB,5
+Active Directory,Redshift,5
+Active Directory,Snowflake,5
+Linux,dbt,5
+Linear,Unix,5
+Prototyping,Redshift,5
+Data Visualization,scikit-learn,5
+Angular,Jupyter,5
+ArgoCD,Confluence,5
+Cybersecurity,Figma,5
+Power BI,Spring,5
+LLMs / GenAI,Windows,5
+Pandas,Ruby,5
+FastAPI,GitLab,5
+Databricks,XML,5
+Data Analysis,Prefect,5
+CISSP,Software Architecture,5
+Looker,Ruby,5
+Linear,PostgreSQL,5
+Snowflake,Superset,5
+Grafana,Pulumi,5
+MongoDB,SAP,5
+Next.js,PHP,5
+Stakeholder Mgmt,TypeScript,5
+AWS,Microsoft Fabric,5
+Elasticsearch,FastAPI,5
+Kubernetes,Svelte,5
+Dynamics 365,Machine Learning,5
+Ruby,SAP,5
+Flink,MLflow,5
+Figma,XML,5
+Bash,Zero Trust,5
+Linear,Node.js,5
+NetSuite,SAP,5
+NetSuite,XML,5
+Microservices,SSIS,5
+Datadog,Power BI,5
+Datadog,Tableau,5
+Penetration Testing,SAP,5
+Hive,MLflow,5
+Penetration Testing,Spring,5
+Rust,Spring Boot,5
+Firebase,Tableau,5
+MuleSoft,System Design,5
+MATLAB,Node.js,5
+ETL,PHP,5
+LangChain,Prompt Engineering,5
+Active Directory,Software Architecture,5
+Big Data,XGBoost,5
+Risk Management,XGBoost,5
+Informatica,jQuery,5
+FastAPI,Snowflake,5
+Angular,Workday,5
+A/B Testing,GitHub,5
+LLMs / GenAI,scikit-learn,5
+Machine Learning,MuleSoft,5
+ArgoCD,Node.js,5
+ArgoCD,CSS,5
+MLflow,Terraform,5
+Active Directory,Data Warehousing,5
+Data Modeling,Data Observability,5
+Cybersecurity,Spring Boot,5
+Node.js,SAP,5
+MuleSoft,TypeScript,5
+AWS Security,Kubernetes,5
+Hadoop,Microsoft Fabric,5
+Flask,Redshift,5
+NumPy,dbt,5
+Pandas,PowerShell,5
+Prototyping,ServiceNow,5
+Redshift,System Design,5
+Kotlin,Power BI,5
+Kotlin,R,5
+Ansible,PyTorch,5
+Ansible,TensorFlow,5
+Power BI,Superset,5
+Big Data,ServiceNow,5
+Elasticsearch,Statistical Analysis,5
+Data Governance,Datadog,5
+Amplitude,R,5
+Agile / Scrum,Vector Databases,5
+DevOps,Google Analytics,5
+AWS,Superset,5
+Bash,Excel,5
+Deep Learning,Vector Databases,5
+Apache Iceberg,Data Analysis,5
+Apache Iceberg,Data Visualization,5
+Machine Learning,Trino,5
+Microservices,dbt,5
+Kanban,Looker,5
+Django,Flink,5
+Spark,Trino,5
+DynamoDB,ServiceNow,5
+Cybersecurity,SageMaker,5
+Distributed Systems,NumPy,5
+Cassandra,NumPy,5
+Angular,SAP,5
+Kafka,SOC 2,5
+Grafana,System Design,5
+Django,Unix,5
+Jenkins,dbt,5
+Jupyter,dbt,5
+Google Analytics,Kotlin,5
+ClickHouse,React,5
+Django,Salesforce,5
+Salesforce,Spring Boot,5
+Deep Learning,FastAPI,5
+Deep Learning,TypeScript,5
+Confluence,OWASP,5
+Incident Response,Unit Testing,5
+Mixpanel,SQL,5
+Agile / Scrum,LangChain,5
+HTML,Helm,5
+R,Workday,5
+NLP,Rust,5
+SSIS,Stakeholder Mgmt,5
+Airflow,Jupyter,5
+Jira,Zero Trust,5
+Kubernetes,SOC 2,5
+Data Modeling,Kotlin,5
+Hive,SSIS,5
+Airflow,HTML,5
+GraphQL,R,5
+JSON,Workday,5
+TypeScript,VMware,5
+FastAPI,Jira,5
+FastAPI,Kanban,5
+Datadog,Flink,5
+GitLab,SAP,5
+Helm,Spring,5
+PowerShell,Spring Boot,5
+LangChain,Microservices,5
+Microservices,Svelte,5
+MATLAB,TypeScript,5
+OWASP,XML,5
+Excel,Spring,5
+Airflow,SAS,5
+Azure,Firebase,5
+CISSP,Elasticsearch,5
+.NET,Figma,5
+Fine-tuning,SQL,5
+ETL,Software Architecture,5
+MySQL,dbt,5
+Cassandra,dbt,5
+Machine Learning,SIEM,5
+ClickHouse,Scala,5
+Bash,Burp Suite,5
+Cybersecurity,Swift,5
+JSON,LLMs / GenAI,5
+Scala,Vue,5
+Django,System Design,5
+Data Warehousing,Dynamics 365,5
+MCP,VMware,5
+Go,Zero Trust,5
+Penetration Testing,Rust,5
+Google Analytics,Linux,5
+ClickHouse,Snowflake,5
+Databricks,Grafana,5
+CI/CD,ClickHouse,5
+User Research,jQuery,5
+GCP,MuleSoft,5
+GraphQL,Hive,5
+Figma,Terraform,5
+NetSuite,PHP,5
+Ruby,Snowflake,5
+MuleSoft,Risk Management,5
+Incident Response,XML,5
+Segment,Tableau,5
+Google Analytics,Oracle,5
+Dagster,TensorFlow,5
+Pandas,Splunk,5
+Penetration Testing,TensorFlow,5
+Ansible,Jupyter,5
+A/B Testing,XML,5
+BigQuery,Unit Testing,5
+PHP,SAP,5

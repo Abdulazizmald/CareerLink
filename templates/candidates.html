@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Candidates{% endblock %}
+
+{% block content %}
+<h1>Candidates</h1>
+<p class="lede">Pick a role, or describe what you need. Only technical resumes are
+in this pool, because every job in the data is technical and a non-technical
+resume can never be a real match.</p>
+
+<form class="filters" method="get" action="/candidates">
+  <label>Job role
+    <select name="role">
+      <option value="">any</option>
+      {% for r in role_options %}
+      <option value="{{ r.role }}" {% if r.role == role %}selected{% endif %}>{{ r.label }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label style="flex:1 1 18rem">Or describe what you need
+    <input type="search" name="q" value="{{ q }}"
+      placeholder="aws terraform, has run production infrastructure">
+  </label>
+  <label>Show
+    <select name="top">
+      {% for n in [5, 10, 25] %}
+      <option value="{{ n }}" {% if n == top %}selected{% endif %}>top {{ n }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Synthetic profiles
+    <select name="synthetic">
+      <option value="">excluded</option>
+      <option value="1" {% if synthetic %}selected{% endif %}>included</option>
+    </select>
+  </label>
+  <button type="submit">Search</button>
+</form>
+<p class="aside">{{ help }} Picking a role turns that role's own most-asked-for
+skills into the query, so the two boxes are one search rather than two.</p>
+<p class="aside"><b>Synthetic profiles are excluded by default.</b> They average
+seven named skills to a real resume's three, because a language model wrote them as
+a skill list, so on any text ranking they take every top slot. Including them is
+your choice, not the default.</p>
+
+{% if rows|length == 0 %}
+<p class="empty">{% if scored %}No candidate matched. The pool is {{ pool }} resumes,
+and most describe work in prose without naming tools, so a query of tool names can
+miss people who have done the work.{% else %}The pool is empty.{% endif %}</p>
+{% else %}
+<p class="count">{% if scored %}Top {{ rows|length }} of {{ pool }} in the pool
+{% else %}{{ rows|length }} of {{ pool }}, by skills found. Search above to rank them.{% endif %}</p>
+
+<div class="cards">
+{% for r in rows.itertuples() %}
+<article class="card">
+  <header>
+    <a href="/candidates/{{ r.candidate_id }}"><code>{{ r.candidate_id }}</code></a>
+    <span class="tag {{ 'tag-synth' if r.source == 'llm_generated' else '' }}">{{ "real resume" if r.source == "resume_dataset" else "LLM written" }}</span>
+    {% if scored %}<span class="score">{{ '%.3f'|format(r.relevance) }}</span>{% endif %}
+  </header>
+  <p class="who">{{ summary(r._asdict()) }}</p>
+  <dl class="mini">
+    <div><dt>Role</dt><dd>{% if r.inferred_role %}{{ r.inferred_role }}{% else %}{{ absent("no title on the resume") }}{% endif %}</dd></div>
+    <div><dt>Education</dt><dd>{% if r.degree %}{{ r.degree }}{% if r.major %} in {{ r.major }}{% endif %}{% else %}{{ absent("not stated") }}{% endif %}</dd></div>
+    <div><dt>Years</dt><dd>{% if r.years_experience %}{{ r.years_experience }}{% else %}{{ absent("not stated") }}{% endif %}</dd></div>
+    <div><dt>GPA</dt><dd>{% if r.gpa %}{{ r.gpa }}{% else %}{{ absent("not stated") }}{% endif %}</dd></div>
+  </dl>
+  {% if r.skills %}<p class="skillrow">{% for s in r.skills.split(", ")[:12] %}<a href="/skills/{{ s }}">{{ s }}</a>{% endfor %}</p>{% endif %}
+</article>
+{% endfor %}
+</div>
+
+<p class="aside"><b>What is missing and why.</b> Names do not exist in this data:
+the source stripped them along with employer names, so candidates are identified by
+id. Education is recoverable from about half of technical resumes, years of
+experience from a fifth, and GPA from an eighth. A dashed rule means the resume did
+not say, not that the candidate lacks it.</p>
+{% endif %}
+{% endblock %}

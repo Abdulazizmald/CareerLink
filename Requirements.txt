@@ -1,0 +1,26 @@
+# Install with:
+#     python -m pip install -r requirements.txt
+#
+# torch is not listed. It arrives as a dependency of sentence-transformers, and on
+# an AMD integrated GPU the CPU build is the right choice: the whole GPU workload
+# in this project is one run of build_embeddings.py. Measure the CPU time before
+# going near ROCm. See README-install.md.
+
+# --- the website, needed now ---------------------------------------------
+fastapi
+uvicorn[standard]
+jinja2
+pandas
+numpy
+httpx                 # smoke.py uses FastAPI's TestClient, which needs httpx
+
+# --- rebuilding the data files -------------------------------------------
+sentence-transformers  # build_embeddings.py, build_skill_meaning.py, search.py
+requests               # learn.py, the YouTube and Google Books calls
+
+# --- the trained seniority model, phase 3 --------------------------------
+scikit-learn           # TF-IDF and logistic regression
+
+# --- optional ------------------------------------------------------------
+# streamlit            # only to run the old app.py prototype
+# playwright           # only to screenshot your own pages in a headless browser

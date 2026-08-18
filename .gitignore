@@ -1,0 +1,19 @@
+api_keys.py
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.idea/
+.claude/
+
+# Raw source files. Only the build_*.py scripts read these, to produce the
+# small output files the live site actually loads (see README-deploy.md).
+# None of this is needed to run or deploy the site, and job_summary.csv alone
+# is 5GB+, so none of it belongs in the repo.
+job_summary.csv
+linkedin_job_postings.csv
+job_skills.csv
+tech_jobs.csv
+Resume.csv
+job_vectors.npy

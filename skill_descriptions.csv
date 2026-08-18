@@ -1,0 +1,177 @@
+skill_name,description
+.NET,.NET is a software development framework from Microsoft for building applications in C# and other languages.
+A/B Testing,A/B Testing is an experimentation practice that compares two variants of a product to measure which performs better.
+AI Agents,AI Agents are autonomous software systems that use language models to plan and carry out multi-step tasks with tools.
+AI Coding Tools,AI Coding Tools are assistants that generate and review source code using large language models.
+AWS,AWS is a cloud computing platform from Amazon providing servers storage and managed services.
+AWS Security,AWS Security is the practice of securing cloud infrastructure on Amazon Web Services using identity policies and monitoring.
+Active Directory,Active Directory is a Microsoft directory service for managing users computers and permissions on a network.
+Agile / Scrum,Agile and Scrum are iterative project management practices for organising software delivery in short cycles.
+Airbyte,Airbyte is a data integration tool that moves data from source systems into warehouses.
+Airflow,Airflow is a workflow orchestration tool for scheduling and monitoring data pipelines as directed graphs.
+Alteryx,Alteryx is a visual analytics platform for preparing blending and analysing data without code.
+Amplitude,Amplitude is a product analytics platform for measuring how users behave inside digital products.
+Angular,Angular is a front end web framework from Google for building single page applications in TypeScript.
+Ansible,Ansible is a configuration management tool that automates server setup and software deployment.
+Apache Iceberg,Apache Iceberg is an open table format for very large analytic datasets in data lakes.
+ArgoCD,ArgoCD is a continuous delivery tool that deploys applications to Kubernetes from Git repositories.
+Azure,Azure is a cloud computing platform from Microsoft providing servers storage and managed services.
+Bash,Bash is a command line shell and scripting language used to automate tasks on Unix systems.
+Big Data,Big Data is the practice of storing and processing datasets too large for a single machine.
+BigQuery,BigQuery is a cloud data warehouse from Google for running analytical SQL queries at scale.
+Burp Suite,Burp Suite is a security testing tool for finding vulnerabilities in web applications.
+C,C is a low level compiled programming language used for systems and embedded software.
+C#,C# is an object oriented programming language from Microsoft used with the .NET framework.
+C++,C++ is a compiled programming language used for performance critical systems and applications.
+CI/CD,CI/CD is the practice of automatically building testing and deploying software on every change.
+CISSP,CISSP is a professional certification in information security management.
+CSS,CSS is a stylesheet language that controls the visual presentation of web pages.
+Cassandra,Cassandra is a distributed NoSQL database designed for high write throughput across many nodes.
+ClickHouse,ClickHouse is a column oriented database for fast analytical queries over large datasets.
+Confluence,Confluence is a team documentation and knowledge sharing tool from Atlassian.
+Cybersecurity,Cybersecurity is the practice of protecting systems networks and data from attack and unauthorised access.
+Dagster,Dagster is a data orchestration tool for building and monitoring data pipelines.
+Data Analysis,Data Analysis is the practice of examining datasets to find patterns and answer questions.
+Data Governance,Data Governance is the practice of managing data quality ownership and compliance across an organisation.
+Data Modeling,Data Modeling is the practice of designing how data is structured and related in a database or warehouse.
+Data Observability,Data Observability is the practice of monitoring data pipelines for freshness quality and failures.
+Data Pipeline,A Data Pipeline is an automated process that moves and transforms data between systems.
+Data Visualization,Data Visualization is the practice of presenting data graphically through charts and dashboards.
+Data Warehousing,Data Warehousing is the practice of storing integrated historical data for analysis and reporting.
+Databricks,Databricks is a cloud data platform for large scale processing and machine learning built on Spark.
+Datadog,Datadog is a monitoring and observability platform for tracking infrastructure and application health.
+Deep Learning,Deep Learning is a machine learning approach that trains multi layer neural networks on large datasets.
+DevOps,DevOps is a practice combining software development and operations to deliver and run systems continuously.
+Distributed Systems,Distributed Systems is the practice of designing software that runs coordinated across many machines.
+Django,Django is a Python web framework for building server side web applications.
+Docker,Docker is a containerisation tool that packages an application and its dependencies into a portable image.
+Dynamics 365,Dynamics 365 is a Microsoft suite of business applications for sales service and operations.
+DynamoDB,DynamoDB is a managed NoSQL key value database from Amazon Web Services.
+ETL,ETL is the practice of extracting data from sources transforming it and loading it into a target system.
+Elasticsearch,Elasticsearch is a distributed search and analytics engine for querying text and log data.
+Excel,Excel is a spreadsheet application from Microsoft used for calculation analysis and reporting.
+FastAPI,FastAPI is a Python web framework for building fast HTTP APIs.
+Figma,Figma is a collaborative design tool for creating user interfaces and prototypes.
+Fine-tuning,Fine-tuning is the practice of further training a pretrained machine learning model on task specific data.
+Firebase,Firebase is a Google platform providing hosting databases and authentication for mobile and web apps.
+Firewalls,Firewalls are network security devices that filter traffic between networks according to rules.
+Fivetran,Fivetran is a managed data integration service that replicates data from sources into warehouses.
+Flask,Flask is a lightweight Python web framework for building web applications and APIs.
+Flink,Flink is a distributed engine for processing continuous streams of data in real time.
+GCP,GCP is a cloud computing platform from Google providing servers storage and managed services.
+Git,Git is a version control system that tracks changes to source code over time.
+GitHub,GitHub is a hosting platform for Git repositories with code review and collaboration features.
+GitLab,GitLab is a hosting platform for Git repositories with built in continuous integration pipelines.
+Go,Go is a compiled programming language from Google used for backend services and infrastructure tools.
+Google Analytics,Google Analytics is a web analytics service for measuring website traffic and user behaviour.
+Grafana,Grafana is a dashboarding tool for visualising metrics and monitoring data over time.
+GraphQL,GraphQL is a query language and runtime for APIs that lets clients request exactly the fields they need.
+HTML,HTML is the markup language that defines the structure and content of web pages.
+Hadoop,Hadoop is a framework for distributed storage and batch processing of very large datasets.
+Helm,Helm is a package manager for deploying and versioning applications on Kubernetes.
+Hive,Hive is a SQL query engine for reading large datasets stored in Hadoop.
+Hugging Face,Hugging Face is a platform and library ecosystem for sharing and running machine learning models.
+Incident Response,Incident Response is the practice of detecting investigating and recovering from security breaches.
+Informatica,Informatica is an enterprise data integration platform for building ETL workflows.
+JSON,JSON is a lightweight text format for representing structured data exchanged between systems.
+Java,Java is an object oriented programming language widely used for enterprise backend applications.
+JavaScript,JavaScript is a programming language that runs in web browsers and on servers to add behaviour to applications.
+Jenkins,Jenkins is an automation server for running continuous integration and deployment pipelines.
+Jira,Jira is an issue tracking and project management tool from Atlassian.
+Jupyter,Jupyter is an interactive notebook environment for writing and running code alongside results and notes.
+Kafka,Kafka is a distributed event streaming platform for publishing and consuming real time data feeds.
+Kanban,Kanban is a workflow management practice that visualises work in progress on a board to limit bottlenecks.
+Kotlin,Kotlin is a programming language from JetBrains used mainly for Android and backend development.
+Kubernetes,Kubernetes is a container orchestration system that automates deploying scaling and managing workloads across clusters.
+LLM APIs,LLM APIs are hosted interfaces for sending prompts to large language models and receiving generated text.
+LLMs / GenAI,LLMs and generative AI are machine learning models that produce text images or code from prompts.
+LangChain,LangChain is a framework for building applications that chain language model calls with tools and data.
+Linear,Linear is an issue tracking and project planning tool for software teams.
+Linux,Linux is an open source operating system widely used to run servers and infrastructure.
+Looker,Looker is a business intelligence platform for building governed dashboards and metrics.
+MATLAB,MATLAB is a numerical computing environment and language used for engineering and scientific analysis.
+MCP,MCP is a protocol that lets language model applications connect to external tools and data sources.
+MLflow,MLflow is a platform for tracking machine learning experiments and managing model versions.
+Machine Learning,Machine Learning is the practice of building models that learn patterns from data to make predictions.
+Metabase,Metabase is an open source business intelligence tool for querying data and building dashboards.
+Microservices,Microservices is an architectural style that splits an application into small independently deployed services.
+Microsoft Fabric,Microsoft Fabric is a unified cloud analytics platform combining data engineering warehousing and business intelligence.
+Mixpanel,Mixpanel is a product analytics platform for tracking user events and funnels in applications.
+MongoDB,MongoDB is a NoSQL document database that stores flexible JSON like records.
+MuleSoft,MuleSoft is an integration platform for connecting enterprise applications and APIs.
+MySQL,MySQL is an open source relational database queried with SQL.
+NLP,NLP is the field of machine learning concerned with understanding and generating human language.
+NetSuite,NetSuite is a cloud enterprise resource planning system for finance and operations.
+Next.js,Next.js is a React based web framework for building server rendered and static web applications.
+NoSQL,NoSQL refers to database systems that store data without a fixed relational schema.
+Node.js,Node.js is a runtime for executing JavaScript on servers outside the browser.
+NumPy,NumPy is a Python library for numerical computing with arrays and matrices.
+OWASP,OWASP is an organisation and set of standards describing the most common web application security risks.
+Oracle,Oracle is a commercial relational database system used in large enterprises.
+PHP,PHP is a server side programming language used to build web applications.
+Pandas,Pandas is a Python library for manipulating and analysing tabular data.
+Penetration Testing,Penetration Testing is the practice of attacking systems deliberately to find exploitable security weaknesses.
+Polars,Polars is a fast dataframe library for manipulating tabular data in Rust and Python.
+PostgreSQL,PostgreSQL is an open source relational database queried with SQL.
+Power BI,Power BI is a business intelligence tool from Microsoft for building reports and dashboards.
+PowerShell,PowerShell is a command line shell and scripting language for automating Windows administration.
+Prefect,Prefect is a workflow orchestration tool for scheduling and monitoring data pipelines.
+Prometheus,Prometheus is a monitoring system that collects and stores time series metrics from services.
+Prompt Engineering,Prompt Engineering is the practice of designing inputs that make language models produce useful outputs.
+Prototyping,Prototyping is the design practice of building early mockups to test ideas before development.
+Pulumi,Pulumi is an infrastructure as code tool that defines cloud resources using general purpose programming languages.
+PyTorch,PyTorch is an open source deep learning framework for building and training neural networks.
+Python,Python is a general purpose programming language widely used for data work automation and backend services.
+R,R is a programming language and environment for statistical computing and graphics.
+RAG,RAG is a technique that retrieves relevant documents and passes them to a language model to ground its answers.
+REST API,REST API is an architectural style for web interfaces that exposes resources over HTTP.
+React,React is a JavaScript library from Meta for building user interfaces from components.
+Redis,Redis is an in memory data store used for caching queues and fast key value lookups.
+Redshift,Redshift is a cloud data warehouse from Amazon for running analytical SQL queries.
+Risk Management,Risk Management is the practice of identifying assessing and reducing threats to an organisation.
+Ruby,Ruby is a dynamic programming language often used with the Rails framework for web applications.
+Rust,Rust is a compiled programming language focused on memory safety and performance for systems software.
+SAP,SAP is an enterprise resource planning system used to run finance logistics and manufacturing processes.
+SAS,SAS is a commercial statistical analysis software suite used in regulated industries.
+SIEM,SIEM is a category of security tool that aggregates logs and alerts on suspicious activity.
+SOC 2,SOC 2 is an auditing standard for how service organisations handle customer data securely.
+SQL,SQL is a query language for retrieving and manipulating data held in relational databases.
+SSIS,SSIS is a Microsoft tool for building extract transform and load workflows for SQL Server.
+SageMaker,SageMaker is an Amazon Web Services platform for training deploying and hosting machine learning models.
+Salesforce,Salesforce is a cloud customer relationship management platform for sales and service teams.
+Scala,Scala is a programming language running on the Java virtual machine often used for data processing.
+Segment,Segment is a customer data platform that collects and routes user event data to other tools.
+ServiceNow,ServiceNow is a platform for IT service management ticketing and workflow automation.
+Snowflake,Snowflake is a cloud data warehouse for storing and querying analytical data with SQL.
+Software Architecture,Software Architecture is the practice of designing the overall structure and components of a software system.
+Spark,Spark is a distributed engine for large scale data processing and analytics across clusters.
+Splunk,Splunk is a platform for searching and analysing machine generated log data especially for security.
+Spring,Spring is a Java application framework providing dependency injection and enterprise features.
+Spring Boot,Spring Boot is a Java framework for building standalone production ready backend services quickly.
+Stakeholder Mgmt,Stakeholder management is the practice of aligning expectations and communication across the people affected by a project.
+Statistical Analysis,Statistical Analysis is the practice of using mathematical methods to draw conclusions from data.
+Superset,Superset is an open source business intelligence tool for exploring data and building dashboards.
+Svelte,Svelte is a JavaScript framework that compiles components into efficient browser code.
+Swift,Swift is a programming language from Apple used to build iOS and macOS applications.
+System Design,System Design is the practice of planning how large software systems are structured and scaled.
+Tableau,Tableau is a business intelligence tool for building interactive visualisations and dashboards.
+TensorFlow,TensorFlow is an open source deep learning framework for building and training neural networks.
+Terraform,Terraform is an infrastructure as code tool that provisions cloud resources from declarative configuration files.
+Trino,Trino is a distributed SQL query engine for running analytical queries across multiple data sources.
+TypeScript,TypeScript is a programming language that adds static typing to JavaScript.
+Unit Testing,Unit Testing is the practice of writing automated tests that verify individual pieces of code.
+Unix,Unix is a family of operating systems whose tools and conventions underpin Linux and macOS.
+User Research,User Research is the design practice of studying users to understand their needs and behaviour.
+VMware,VMware is a virtualisation platform for running multiple virtual machines on physical servers.
+Vector Databases,Vector Databases are systems that store embeddings and retrieve items by similarity of meaning.
+Vue,Vue is a JavaScript framework for building user interfaces from components.
+Windows,Windows is a Microsoft operating system used on desktops and servers.
+Workday,Workday is a cloud platform for human resources and financial management.
+Workflow Automation,Workflow Automation is the practice of connecting tools so routine business processes run without manual steps.
+XGBoost,XGBoost is a machine learning library implementing gradient boosted decision trees for tabular prediction.
+XML,XML is a markup language for representing structured data exchanged between systems.
+Zero Trust,Zero Trust is a security model that verifies every request rather than trusting anything inside the network.
+dbt,dbt is a tool for transforming data inside a warehouse using version controlled SQL models.
+jQuery,jQuery is a JavaScript library that simplifies manipulating web page elements.
+scikit-learn,scikit-learn is a Python library providing classical machine learning algorithms for prediction and clustering.
+vLLM,vLLM is a library for serving large language models efficiently at high throughput.

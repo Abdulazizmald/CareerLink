@@ -1,0 +1,298 @@
+/* Skill & Job — visual system.
+
+   Brief pinned two things: a light background and dark blue text. Everything
+   else is a choice, and the choice moves away from what this was: hairline
+   rules, zero radius and mono captions read as a research paper, not as a site
+   someone job-hunting would use.
+
+   Palette      page #F5F7FC · surface #FFF · ink #0E1F3D · ink-2 #51607E
+                line #DCE3F0 · blue #1B4FD8 · amber #E08A1E
+   Type         Bricolage Grotesque display · Public Sans body · DM Mono figures
+                Public Sans because it was drawn for public-sector interfaces,
+                and this is public job-posting data.
+   Signature    Skill chips carry a state everywhere they appear: have it,
+                learn next, already covered. One vocabulary, no legend needed.
+   Risk         The hero is a sentence you finish. The search field is set inline
+                inside the headline, so the product's core question is the
+                largest object on the page.
+*/
+
+:root {
+  --page: #f5f7fc;
+  --surface: #ffffff;
+  --ink: #0e1f3d;
+  --ink-2: #51607e;
+  --line: #dce3f0;
+  --blue: #1b4fd8;
+  --blue-soft: #eaf0ff;
+  --amber: #e08a1e;
+  --amber-soft: #fdf3e3;
+
+  --display: "Bricolage Grotesque", Georgia, sans-serif;
+  --body: "Public Sans", system-ui, -apple-system, sans-serif;
+  --mono: "DM Mono", ui-monospace, monospace;
+
+  --r: 12px;
+  --r-sm: 8px;
+  --shadow: 0 1px 2px rgba(14, 31, 61, .05), 0 6px 20px rgba(14, 31, 61, .05);
+  --wide: 1100px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font: 400 16.5px/1.65 var(--body);
+  -webkit-font-smoothing: antialiased;
+}
+
+main { max-width: var(--wide); margin: 0 auto; padding: 2.5rem 1.5rem 5rem; }
+
+a { color: var(--blue); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: var(--ink); }
+:focus-visible { outline: 2.5px solid var(--blue); outline-offset: 3px; border-radius: 4px; }
+
+/* ------------------------------------------------------------------ header */
+.rail { background: var(--surface); border-bottom: 1px solid var(--line);
+        position: sticky; top: 0; z-index: 10; }
+.rail { display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap;
+        max-width: var(--wide); margin: 0 auto; padding: .9rem 1.5rem; }
+
+.mark { font: 700 1.15rem/1 var(--display); letter-spacing: -.02em;
+        text-decoration: none; color: var(--ink); }
+.mark span { display: block; font: 400 .72rem/1.5 var(--body); color: var(--ink-2);
+             letter-spacing: 0; margin-top: .15rem; }
+
+.rail nav { display: flex; gap: .35rem; align-items: center; flex-wrap: wrap;
+            margin-left: auto; }
+.rail nav a { font: 500 .93rem var(--body); text-decoration: none;
+              padding: .4rem .7rem; border-radius: var(--r-sm); color: var(--ink); }
+.rail nav a:hover { background: var(--blue-soft); color: var(--blue); }
+.side { font: 600 .68rem var(--body); text-transform: uppercase; letter-spacing: .1em;
+        color: var(--ink-2); padding: 0 .45rem 0 .8rem; border-left: 1px solid var(--line); }
+
+/* -------------------------------------------------------------------- type */
+h1 { font: 700 2.6rem/1.08 var(--display); letter-spacing: -.03em; margin: 0 0 .6rem; }
+h2 { font: 600 1.45rem/1.25 var(--display); letter-spacing: -.02em; margin: 3rem 0 .5rem; }
+h3 { font: 600 1.05rem/1.3 var(--display); letter-spacing: -.01em; margin: 1.75rem 0 .35rem; }
+
+.lede { font-size: 1.08rem; color: var(--ink-2); max-width: 62ch; margin: 0 0 1.75rem; }
+.aside { font-size: .92rem; color: var(--ink-2); max-width: 70ch; margin: .6rem 0 0; }
+.crumb { font-size: .88rem; color: var(--ink-2); margin: 0 0 .6rem; }
+.count { font-size: .88rem; color: var(--ink-2); margin: 1.5rem 0 .6rem; }
+.dim { color: var(--ink-2); }
+.eyebrow { font: 600 .72rem var(--body); text-transform: uppercase;
+           letter-spacing: .13em; color: var(--blue); margin: 0 0 .8rem; }
+.page-head { margin-bottom: 1rem; }
+
+/* ------------------------------------------------------- THE HERO SENTENCE */
+/* The search field sits inside the headline, so finishing the sentence and
+   using the product are the same gesture. */
+.opener { padding: 3rem 0 1rem; }
+.sentence { font: 700 clamp(2rem, 5.2vw, 3.6rem)/1.15 var(--display);
+            letter-spacing: -.035em; margin: 0; max-width: 20ch; }
+.sentence .fill { display: inline-flex; align-items: baseline; }
+.sentence input {
+  font: inherit; color: var(--blue); background: transparent;
+  border: 0; border-bottom: 3px solid var(--blue); padding: 0 .2em .05em;
+  width: min(11ch, 46vw); min-width: 6ch;
+}
+.sentence input::placeholder { color: #a8b6d4; }
+.sentence input:focus { outline: 0; background: var(--blue-soft); border-radius: 6px 6px 0 0; }
+
+.opener form { display: flex; flex-direction: column; gap: 1.5rem; align-items: flex-start; }
+.opener .hint { font-size: 1rem; color: var(--ink-2); margin: 0; max-width: 46ch; }
+
+/* -------------------------------------------------------------- buttons */
+.btn, .go, .filters button {
+  font: 600 .95rem var(--body); border-radius: 999px; cursor: pointer;
+  padding: .68rem 1.35rem; border: 1.5px solid var(--blue);
+  background: var(--blue); color: #fff; text-decoration: none;
+  display: inline-block; transition: background .15s, color .15s;
+}
+.btn:hover, .go:hover, .filters button:hover { background: #1341b4; border-color: #1341b4; color: #fff; }
+.btn-quiet, .go { background: transparent; color: var(--blue); }
+.btn-quiet:hover, .go:hover { background: var(--blue); color: #fff; }
+.btn-lg { padding: .85rem 1.8rem; font-size: 1.02rem; }
+.links { display: flex; gap: .7rem; flex-wrap: wrap; margin: 1rem 0 0; }
+.clear { align-self: center; font-size: .9rem; }
+
+/* --------------------------------------------------------------- surfaces */
+.panel, .chart, table, .card, .filters, .posting, .empty, .finding {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--r);
+}
+
+.grid { display: grid; gap: 1rem; margin-top: 1.25rem; }
+.grid-3 { grid-template-columns: repeat(3, 1fr); }
+.grid-2 { grid-template-columns: repeat(2, 1fr); }
+
+.panel { padding: 1.4rem 1.5rem; box-shadow: var(--shadow); }
+.panel h3 { margin-top: 0; }
+.panel p { color: var(--ink-2); font-size: .95rem; }
+a.panel { display: block; text-decoration: none; color: inherit;
+          transition: transform .15s, box-shadow .15s, border-color .15s; }
+a.panel:hover { transform: translateY(-2px); border-color: var(--blue);
+                box-shadow: 0 4px 8px rgba(14,31,61,.06), 0 14px 34px rgba(14,31,61,.09); }
+a.panel .more { color: var(--blue); font-weight: 600; font-size: .93rem; }
+
+/* --------------------------------------------------------------- figures */
+.ledger { display: grid; grid-template-columns: repeat(auto-fit, minmax(165px, 1fr));
+          gap: 1rem; margin: 1.5rem 0 0; padding: 0; }
+.ledger > div { background: var(--surface); border: 1px solid var(--line);
+                border-radius: var(--r); padding: 1.1rem 1.2rem; }
+.ledger dt { font: 600 .72rem var(--body); text-transform: uppercase;
+             letter-spacing: .09em; color: var(--ink-2); }
+.ledger dd { margin: .45rem 0 0; }
+.ledger dd .fig { align-items: flex-start; font-size: 1.7rem; }
+.kpi .gate { margin: .6rem 0 0; font-size: .84rem; color: var(--ink-2);
+             border-top: 1px solid var(--line); padding-top: .55rem; }
+
+.fig { display: inline-flex; flex-direction: column; align-items: flex-end;
+       font: 500 1rem/1.3 var(--mono); font-variant-numeric: tabular-nums; }
+.fig .basis { font: 400 .72rem/1.45 var(--body); color: var(--ink-2); letter-spacing: 0; }
+.fig-absent { color: #93a1bd; }
+.fig-absent .dash { display: block; width: 2rem; border-bottom: 2px dotted #b8c3da;
+                    height: .65em; }
+.up { color: #0e8a5f; } .down { color: #c0492f; }
+
+/* -------------------------------------------------------- SIGNATURE chips */
+/* One vocabulary for what to do about a skill, used on every page. */
+.chip { display: inline-flex; align-items: baseline; gap: .4rem;
+        font: 500 .86rem var(--body); text-decoration: none; border-radius: 999px;
+        padding: .3rem .8rem; border: 1.5px solid transparent; white-space: nowrap; }
+.chip-have { background: var(--blue); color: #fff; }
+.chip-next { background: var(--blue-soft); color: var(--blue); border-color: #c3d4ff; }
+.chip-covered { background: var(--amber-soft); color: #9a5c05; border-color: #f0dcba; }
+.chip-plain { background: var(--page); color: var(--ink); border-color: var(--line); }
+.chip:hover { border-color: currentColor; }
+.chip small { font: 400 .74rem var(--mono); opacity: .75; }
+.chips, .skillrow { list-style: none; display: flex; flex-wrap: wrap; gap: .45rem;
+                    padding: 0; margin: .9rem 0 0; }
+.chips a { display: inline-flex; align-items: baseline; gap: .45rem;
+           font: 500 .88rem var(--body); text-decoration: none; border-radius: 999px;
+           padding: .32rem .85rem; background: var(--page); color: var(--ink);
+           border: 1px solid var(--line); }
+.chips a:hover { border-color: var(--blue); color: var(--blue); }
+.chips a span { font: 400 .75rem var(--mono); color: var(--ink-2); }
+.skillrow { border-top: 1px solid var(--line); padding-top: .8rem; }
+.skillrow a { font: 500 .8rem var(--body); text-decoration: none; border-radius: 999px;
+              padding: .22rem .65rem; background: var(--blue-soft); color: var(--blue); }
+
+.tag { font: 600 .68rem var(--body); text-transform: uppercase; letter-spacing: .07em;
+       border-radius: 999px; padding: .2rem .6rem; background: var(--blue-soft);
+       color: var(--blue); white-space: nowrap; }
+.tag-synth { background: var(--amber-soft); color: #9a5c05; }
+
+/* ---------------------------------------------------------------- forms */
+.filters { display: flex; gap: 1.1rem; align-items: flex-end; flex-wrap: wrap;
+           padding: 1.2rem 1.3rem; box-shadow: var(--shadow); }
+.filters label { display: flex; flex-direction: column; gap: .35rem;
+                 font: 600 .72rem var(--body); text-transform: uppercase;
+                 letter-spacing: .08em; color: var(--ink-2); }
+.filters select, .filters input {
+  font: 400 .96rem var(--body); padding: .58rem .7rem; color: var(--ink);
+  border: 1.5px solid var(--line); border-radius: var(--r-sm);
+  background: var(--surface); min-width: 155px;
+}
+.filters select:focus, .filters input:focus { border-color: var(--blue); outline: 0; }
+
+/* --------------------------------------------------------------- tables */
+table { width: 100%; border-collapse: separate; border-spacing: 0; overflow: hidden;
+        font-size: .95rem; box-shadow: var(--shadow); }
+th { text-align: left; font: 600 .72rem var(--body); text-transform: uppercase;
+     letter-spacing: .08em; color: var(--ink-2); padding: .85rem 1rem;
+     border-bottom: 1px solid var(--line); background: #fbfcfe; vertical-align: bottom; }
+td { padding: .85rem 1rem; border-bottom: 1px solid var(--line); vertical-align: middle; }
+tr:last-child td { border-bottom: 0; }
+tbody tr:hover { background: #fafbff; }
+th.n, td.n { text-align: right; }
+td.n { font-variant-numeric: tabular-nums; }
+.trunc { max-width: 20rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+         font-size: .88rem; }
+table.skills td:first-child { width: 12rem; }
+.tiny { font: 500 .78rem var(--body); margin-left: .55rem; white-space: nowrap; }
+
+/* -------------------------------------------------------------- charts */
+.chart { padding: 1.25rem 1.4rem; margin-top: .9rem; box-shadow: var(--shadow); }
+.chart .row { display: grid; grid-template-columns: 11rem 1fr 5.5rem; align-items: center;
+              gap: 1rem; padding: .35rem 0; }
+.chart .key { font-size: .9rem; text-align: right; }
+.chart .val { font: 500 .9rem var(--mono); font-variant-numeric: tabular-nums;
+              text-align: right; }
+.chart .basis { grid-column: 2 / 4; font-size: .74rem; color: var(--ink-2);
+                margin-top: -.3rem; }
+.chart .plot { position: relative; height: 16px; }
+.chart .plot i { position: absolute; left: 0; top: 4px; height: 9px; width: var(--w);
+                 background: var(--blue); border-radius: 999px; }
+.chart-dot .plot::after { content: ""; position: absolute; left: 0; right: 0; top: 8px;
+                          border-top: 1px solid var(--line); }
+.chart-dot .plot b { position: absolute; left: var(--x); top: 3px; width: 11px; height: 11px;
+                     margin-left: -5px; border-radius: 50%; background: var(--blue);
+                     box-shadow: 0 0 0 3px var(--surface); }
+.chart-dot .row { padding: .5rem 0 .8rem; }
+.nodata { position: absolute; left: .5rem; top: 0; font-size: .76rem; color: #93a1bd;
+          font-style: normal; }
+.chart-compare .plot i.hi { background: var(--blue); }
+.chart-compare .plot i.lo { background: #b7c3dc; }
+.track { display: flex; align-items: center; gap: .8rem; }
+.bar { flex: 1; min-width: 60px; max-width: 200px; height: 9px; background: #e7ecf7;
+       border-radius: 999px; }
+.bar i { display: block; height: 100%; width: var(--w); background: var(--blue);
+         border-radius: 999px; }
+
+/* ---------------------------------------------------------- long content */
+.posting { padding: 1.4rem 1.6rem; margin-top: 1rem; white-space: pre-line;
+           font-size: .94rem; max-height: 30rem; overflow-y: auto; color: var(--ink-2); }
+.empty { padding: 1.4rem 1.5rem; color: var(--ink-2); margin: .6rem 0 0;
+         border-style: dashed; }
+.finding { padding: 1.1rem 1.4rem; margin: 1rem 0 0; font-size: .95rem;
+           color: var(--ink-2); max-width: 78ch; border-left: 4px solid var(--amber); }
+.finding b { color: var(--ink); }
+.note { margin-top: 3rem; border-left: 4px solid var(--amber); padding-left: 1.3rem; }
+.note li { margin-bottom: .5rem; color: var(--ink-2); }
+.how { margin-top: 1.5rem; }
+.how summary { font-weight: 600; cursor: pointer; color: var(--blue); }
+.how p { font-size: .93rem; color: var(--ink-2); max-width: 72ch; }
+code { font: 400 .88em var(--mono); background: var(--page); border: 1px solid var(--line);
+       border-radius: 5px; padding: .08rem .35rem; }
+
+/* ------------------------------------------------------------- cards */
+.cards { display: grid; gap: 1rem; margin-top: 1rem; }
+.card { padding: 1.2rem 1.35rem; box-shadow: var(--shadow); }
+.card header { display: flex; align-items: center; gap: .8rem; margin-bottom: .6rem;
+               flex-wrap: wrap; }
+.card .score { margin-left: auto; font: 500 .85rem var(--mono); color: var(--blue); }
+.who { margin: 0 0 .9rem; font-size: .98rem; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: .9rem; margin: 0 0 .9rem; }
+.mini dt { font: 600 .66rem var(--body); text-transform: uppercase; letter-spacing: .09em;
+           color: var(--ink-2); }
+.mini dd { margin: .25rem 0 0; font-size: .92rem; }
+.step { margin-top: 1.4rem; }
+.step h3 { margin-top: 0; }
+
+/* -------------------------------------------------------------- footer */
+footer { border-top: 1px solid var(--line); background: var(--surface); margin-top: 5rem; }
+footer .inner { max-width: var(--wide); margin: 0 auto; padding: 2rem 1.5rem;
+                display: flex; gap: 2rem; flex-wrap: wrap; justify-content: space-between; }
+footer p { margin: 0; font-size: .88rem; color: var(--ink-2); max-width: 46ch; }
+footer a { font-weight: 500; }
+
+/* -------------------------------------------------------------- small */
+@media (max-width: 860px) {
+  .grid-3, .grid-2 { grid-template-columns: 1fr; }
+  h1 { font-size: 2rem; }
+  .rail nav { margin-left: 0; }
+  .filters { flex-direction: column; align-items: stretch; }
+  .filters select, .filters input { min-width: 0; width: 100%; }
+  .chart .row { grid-template-columns: 6.5rem 1fr 4rem; gap: .6rem; }
+  .chart .key { font-size: .8rem; }
+  table { display: block; overflow-x: auto; }
+  .sentence input { width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Jobs{% endblock %}
+
+{% block content %}
+<h1>Jobs</h1>
+<p class="lede">58,954 technical postings from January 2024. Describe the work you
+want, filter, then apply on LinkedIn. One advert per job by default: 30% of these
+postings are the same job posted again.</p>
+
+<form class="filters" method="get" action="/jobs">
+  <label style="flex:1 1 20rem">Describe the work
+    <input type="search" name="q" value="{{ q }}"
+      placeholder="remote platform work with kubernetes and python">
+  </label>
+  <label>Job family
+    <select name="family">
+      <option value="">any</option>
+      {% for f in families %}
+      <option value="{{ f }}" {% if f == family %}selected{% endif %}>{{ family_label(f) }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Worksite
+    <select name="worksite">
+      <option value="">any</option>
+      {% for w in ["remote", "hybrid", "onsite"] %}
+      <option value="{{ w }}" {% if w == worksite %}selected{% endif %}>{{ w }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Level
+    <select name="seniority">
+      <option value="">any</option>
+      {% for s in ["junior", "mid", "senior", "lead", "principal", "unspecified"] %}
+      <option value="{{ s }}" {% if s == seniority %}selected{% endif %}>{{ s }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Repeat postings
+    <select name="dupes">
+      <option value="">one per job</option>
+      <option value="1" {% if dupes %}selected{% endif %}>show all</option>
+    </select>
+  </label>
+  <button type="submit">Search</button>
+  {% if q %}<a class="clear" href="/jobs">Clear</a>{% endif %}
+</form>
+<p class="aside">{{ help }} A posting has no description in this file, so the
+matching runs on its <i>role</i> and every posting for a matching role is returned.
+That finds jobs whose title never used your words.</p>
+
+{% if rows|length == 0 %}
+<p class="empty">{% if scored %}Nothing matched "{{ q }}" with those filters. The
+search matches words, so try naming tools. Or clear the description and use the
+filters alone.{% else %}Nothing matched those filters. Loosen one, most likely the
+worksite, since only a third of postings state it.{% endif %}</p>
+{% else %}
+<p class="count">Showing {{ rows|length }} of {{ total|count }} matching postings</p>
+<table>
+  <thead><tr>
+    <th>Title</th><th>Company</th><th>Where</th><th class="n">Pay</th>
+    <th class="n">Worksite</th><th class="n">Level</th>
+    {% if scored %}<th class="n">Match</th>{% endif %}
+  </tr></thead>
+  <tbody>
+  {% for r in rows.itertuples() %}
+  <tr>
+    <td><a href="{{ r.job_link }}" rel="noopener" target="_blank">{{ r.job_title }}</a>
+      <a class="tiny" href="{{ r.job_link }}" rel="noopener" target="_blank">apply on LinkedIn &rarr;</a></td>
+    <td class="dim">{{ r.company }}</td>
+    <td class="dim">{{ r.job_location }}</td>
+    <td class="n">{% if r.salary_label != "Undisclosed" %}{{ r.salary_label }}{% else %}{{ absent("the posting did not say") }}{% endif %}</td>
+    <td class="n">{% if r.worksite_stated %}{{ r.worksite }}{% else %}{{ absent("not stated, defaulted to onsite") }}{% endif %}</td>
+    <td class="n">{% if r.seniority != "unspecified" %}{{ r.seniority }}{% else %}{{ absent("the title did not say") }}{% endif %}</td>
+    {% if scored %}<td class="n">{{ '%.3f'|format(r.relevance) }}</td>{% endif %}
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="aside">{{ (100 * stated)|round(0)|int }}% of these postings actually
+stated a worksite. The rest are shown as not stated rather than counted as onsite,
+so nothing here is inferred silently.</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Skill and Job Recommender{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>What a job asks for,<br>and what it is willing to pay.</h1>
+  <p class="lede">Built from {{ stats.postings|count }} real job postings and a
+  separate index of {{ stats.skills }} skills. Every figure on this site shows
+  the sample it rests on, and a figure with too small a sample is left blank
+  rather than dressed up.</p>
+
+  <dl class="ledger">
+    <div><dt>Postings read</dt><dd>{{ figure(stats.postings|count, stats.families ~ " job families") }}</dd></div>
+    <div><dt>Distinct roles</dt><dd>{{ figure(stats.roles, "10+ postings each") }}</dd></div>
+    <div><dt>Pay stated</dt><dd>{{ figure(stats.salary_coverage ~ "%", "of all postings") }}</dd></div>
+    <div><dt>Worksite stated</dt><dd>{{ figure(stats.worksite_coverage ~ "%", "the rest default to onsite") }}</dd></div>
+    <div><dt>Candidates</dt><dd>{{ figure(stats.candidates|count, "two sources, labelled") }}</dd></div>
+    <div><dt>Substitute skill pairs</dt><dd>{{ figure(stats.substitute_pairs, "of 7,705 pairs") }}</dd></div>
+  </dl>
+</section>
+
+<section class="split">
+  <article>
+    <h2>Find work</h2>
+    <p>Browse postings by family, worksite and level. Look up a skill to see
+    where it is asked for, what it pays, and which skills go with it. The
+    skill pages separate what is worth learning next from what only duplicates
+    something you already have.</p>
+    <p class="links"><a class="go" href="/jobs">Browse jobs</a>
+      <a class="go" href="/skills">Look up a skill</a></p>
+  </article>
+  <article>
+    <h2>Hire</h2>
+    <p>Pick a role to see how many employers are hiring for it, what they pay
+    where enough of them said, which skills the postings ask for, and how senior
+    the market is. Then browse the candidate pool.</p>
+    <p class="links"><a class="go" href="/roles">Browse roles</a>
+      <a class="go" href="/candidates">Browse candidates</a></p>
+  </article>
+</section>
+
+<section class="note">
+  <h2>What is missing, and why</h2>
+  <ul>
+    <li><b>Pay is blank for {{ stats.roles_pay_suppressed }} of
+      {{ stats.roles }} roles.</b> A median built on fewer than five employers is
+      not a median. {{ stats.roles_with_pay }} roles clear that bar and show a
+      figure.</li>
+    <li><b>Onsite is a default, not a measurement.</b> Only
+      {{ stats.worksite_coverage }}% of postings say anything about where you
+      sit, so treat the onsite count as an upper bound.</li>
+    <li><b>There is no search by description yet.</b> Ranking postings and roles
+      by meaning needs the embedding files, which are not wired in. Filters
+      work; relevance order does not exist.</li>
+  </ul>
+</section>
+{% endblock %}

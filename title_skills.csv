@@ -1,0 +1,3206 @@
+clean_title,skill_name,jobs,share_pct
+/ software engineer,Java,4,16.7
+/ software engineer,Microservices,4,16.7
+/ software engineer,C++,3,12.5
+/ software engineer,Angular,3,12.5
+/ software engineer,SQL,3,12.5
+/ software engineer,Spring,2,8.3
+/ software engineer,AWS,2,8.3
+/ software engineer,Python,2,8.3
+/ software engineer,Spring Boot,2,8.3
+/ software engineer,Big Data,2,8.3
+/ software engineer,GCP,2,8.3
+/ software engineer,Unit Testing,2,8.3
+/ software engineer,Kafka,2,8.3
+/ software engineer,JavaScript,2,8.3
+/ software engineer,Distributed Systems,2,8.3
+/ systems engineer,MATLAB,2,10.5
+account executive,Cybersecurity,2,22.2
+account executive,Machine Learning,1,11.1
+account executive,SAP,1,11.1
+account executive,Risk Management,1,11.1
+account executive,Excel,1,11.1
+aem developer,Java,11,64.7
+aem developer,JavaScript,10,58.8
+aem developer,HTML,9,52.9
+aem developer,CSS,8,47.1
+aem developer,XML,5,29.4
+aem developer,React,5,29.4
+aem developer,DevOps,4,23.5
+aem developer,Spring,3,17.6
+aem developer,Angular,3,17.6
+aem developer,JSON,3,17.6
+aem developer,jQuery,3,17.6
+aem developer,AWS,2,11.8
+aem developer,REST API,2,11.8
+aem developer,Unit Testing,2,11.8
+aem developer,Microservices,2,11.8
+ai engineer,Machine Learning,11,61.1
+ai engineer,Deep Learning,6,33.3
+ai engineer,C++,3,16.7
+ai engineer,Python,3,16.7
+ai engineer,TensorFlow,3,16.7
+ai engineer,Azure,2,11.1
+ai engineer,AWS,2,11.1
+ai engineer,PyTorch,2,11.1
+ai engineer,NLP,2,11.1
+ai engineer,Prototyping,1,5.6
+ai engineer,SageMaker,1,5.6
+ai engineer,Hugging Face,1,5.6
+ai engineer,NoSQL,1,5.6
+ai engineer,SQL,1,5.6
+ai engineer,.NET,1,5.6
+analytics engineer,SQL,5,22.7
+analytics engineer,Machine Learning,4,18.2
+analytics engineer,Data Pipeline,3,13.6
+analytics engineer,Azure,3,13.6
+analytics engineer,Python,3,13.6
+analytics engineer,Microsoft Fabric,3,13.6
+analytics engineer,Dynamics 365,3,13.6
+analytics engineer,Google Analytics,2,9.1
+analytics engineer,ETL,2,9.1
+analytics engineer,Snowflake,2,9.1
+analytics engineer,dbt,2,9.1
+analytics engineer,Tableau,2,9.1
+analytics engineer,Data Modeling,2,9.1
+analytics engineer,Unit Testing,1,4.5
+analytics engineer,Excel,1,4.5
+android developer,Kotlin,54,81.8
+android developer,Java,38,57.6
+android developer,Git,25,37.9
+android developer,JSON,9,13.6
+android developer,Jira,7,10.6
+android developer,Unit Testing,7,10.6
+android developer,Agile / Scrum,6,9.1
+android developer,Jenkins,5,7.6
+android developer,CI/CD,4,6.1
+android developer,Confluence,4,6.1
+android developer,SQL,4,6.1
+android developer,C++,4,6.1
+android developer,Python,4,6.1
+android developer,JavaScript,4,6.1
+android developer,DevOps,3,4.5
+angular developer,Angular,35,100.0
+angular developer,TypeScript,19,54.3
+angular developer,CSS,17,48.6
+angular developer,JavaScript,17,48.6
+angular developer,HTML,14,40.0
+angular developer,Git,12,34.3
+angular developer,SQL,12,34.3
+angular developer,Java,11,31.4
+angular developer,React,6,17.1
+angular developer,Node.js,6,17.1
+angular developer,JSON,6,17.1
+angular developer,AWS,5,14.3
+angular developer,DevOps,5,14.3
+angular developer,Oracle,5,14.3
+angular developer,XML,4,11.4
+appian developer,Java,8,38.1
+appian developer,SQL,6,28.6
+appian developer,JavaScript,4,19.0
+appian developer,Spring,3,14.3
+appian developer,DevOps,3,14.3
+appian developer,Data Modeling,3,14.3
+appian developer,AWS,2,9.5
+appian developer,React,2,9.5
+appian developer,Angular,2,9.5
+appian developer,Oracle,2,9.5
+appian developer,Jira,1,4.8
+appian developer,Unit Testing,1,4.8
+appian developer,Microservices,1,4.8
+appian developer,Hadoop,1,4.8
+appian developer,.NET,1,4.8
+application developer,SQL,52,41.6
+application developer,.NET,40,32.0
+application developer,JavaScript,24,19.2
+application developer,Java,23,18.4
+application developer,Angular,18,14.4
+application developer,HTML,18,14.4
+application developer,CSS,17,13.6
+application developer,Azure,16,12.8
+application developer,DevOps,16,12.8
+application developer,AWS,14,11.2
+application developer,React,14,11.2
+application developer,XML,11,8.8
+application developer,jQuery,11,8.8
+application developer,Git,11,8.8
+application developer,Oracle,11,8.8
+application engineer,Java,2,6.9
+application engineer,Kubernetes,2,6.9
+application engineer,JavaScript,2,6.9
+application engineer,React,2,6.9
+application engineer,System Design,2,6.9
+application engineer,Agile / Scrum,2,6.9
+application engineer,TypeScript,2,6.9
+application engineer,Angular,2,6.9
+application engineer,CI/CD,1,3.4
+application engineer,Swift,1,3.4
+application engineer,Git,1,3.4
+application engineer,CSS,1,3.4
+application engineer,HTML,1,3.4
+application engineer,Kanban,1,3.4
+application engineer,MongoDB,1,3.4
+applications developer,SQL,20,50.0
+applications developer,.NET,13,32.5
+applications developer,JavaScript,10,25.0
+applications developer,Azure,9,22.5
+applications developer,Java,9,22.5
+applications developer,Angular,8,20.0
+applications developer,DevOps,8,20.0
+applications developer,HTML,5,12.5
+applications developer,React,5,12.5
+applications developer,Vue,5,12.5
+applications developer,CSS,4,10.0
+applications developer,TypeScript,4,10.0
+applications developer,Git,4,10.0
+applications developer,AWS,4,10.0
+applications developer,Linux,4,10.0
+automation engineer,SQL,23,8.9
+automation engineer,Java,16,6.2
+automation engineer,Python,14,5.4
+automation engineer,System Design,13,5.0
+automation engineer,CI/CD,12,4.6
+automation engineer,Excel,10,3.9
+automation engineer,Windows,10,3.9
+automation engineer,Linux,9,3.5
+automation engineer,Jenkins,9,3.5
+automation engineer,Git,8,3.1
+automation engineer,.NET,8,3.1
+automation engineer,PowerShell,7,2.7
+automation engineer,Azure,7,2.7
+automation engineer,JavaScript,7,2.7
+automation engineer,C++,7,2.7
+automation tester,Java,29,49.2
+automation tester,Jenkins,11,18.6
+automation tester,Jira,10,16.9
+automation tester,Python,10,16.9
+automation tester,SQL,7,11.9
+automation tester,DevOps,6,10.2
+automation tester,CI/CD,6,10.2
+automation tester,Agile / Scrum,5,8.5
+automation tester,JavaScript,5,8.5
+automation tester,Git,4,6.8
+automation tester,GitHub,4,6.8
+automation tester,Confluence,4,6.8
+automation tester,Spring,4,6.8
+automation tester,Spring Boot,4,6.8
+automation tester,Windows,3,5.1
+azure cloud engineer,Azure,20,100.0
+azure cloud engineer,PowerShell,6,30.0
+azure cloud engineer,Terraform,5,25.0
+azure cloud engineer,Windows,5,25.0
+azure cloud engineer,DevOps,5,25.0
+azure cloud engineer,Active Directory,4,20.0
+azure cloud engineer,VMware,3,15.0
+azure cloud engineer,Kubernetes,3,15.0
+azure cloud engineer,AWS,2,10.0
+azure cloud engineer,.NET,2,10.0
+azure cloud engineer,Big Data,2,10.0
+azure cloud engineer,Python,2,10.0
+azure cloud engineer,Bash,2,10.0
+azure cloud engineer,Java,2,10.0
+azure cloud engineer,Jenkins,2,10.0
+azure data engineer,Azure,20,100.0
+azure data engineer,SQL,13,65.0
+azure data engineer,Databricks,11,55.0
+azure data engineer,ETL,6,30.0
+azure data engineer,Power BI,6,30.0
+azure data engineer,DevOps,6,30.0
+azure data engineer,Python,5,25.0
+azure data engineer,Spark,4,20.0
+azure data engineer,CI/CD,4,20.0
+azure data engineer,Data Modeling,3,15.0
+azure data engineer,PowerShell,3,15.0
+azure data engineer,Data Warehousing,3,15.0
+azure data engineer,Kafka,3,15.0
+azure data engineer,Data Pipeline,3,15.0
+azure data engineer,SSIS,2,10.0
+backend developer,Java,20,43.5
+backend developer,AWS,16,34.8
+backend developer,Git,12,26.1
+backend developer,Microservices,11,23.9
+backend developer,Python,11,23.9
+backend developer,CI/CD,10,21.7
+backend developer,SQL,8,17.4
+backend developer,Spring,8,17.4
+backend developer,Node.js,8,17.4
+backend developer,TypeScript,7,15.2
+backend developer,Spring Boot,7,15.2
+backend developer,Docker,7,15.2
+backend developer,JavaScript,7,15.2
+backend developer,DevOps,6,13.0
+backend developer,PostgreSQL,5,10.9
+backend engineer,AWS,23,33.8
+backend engineer,Python,22,32.4
+backend engineer,Microservices,14,20.6
+backend engineer,Java,10,14.7
+backend engineer,MySQL,10,14.7
+backend engineer,Redis,9,13.2
+backend engineer,Node.js,9,13.2
+backend engineer,React,9,13.2
+backend engineer,SQL,9,13.2
+backend engineer,TypeScript,8,11.8
+backend engineer,Kubernetes,8,11.8
+backend engineer,Docker,8,11.8
+backend engineer,JavaScript,7,10.3
+backend engineer,NoSQL,7,10.3
+backend engineer,GCP,7,10.3
+backend software engineer,Python,14,45.2
+backend software engineer,AWS,11,35.5
+backend software engineer,Java,11,35.5
+backend software engineer,Node.js,6,19.4
+backend software engineer,TypeScript,5,16.1
+backend software engineer,SQL,5,16.1
+backend software engineer,Kubernetes,4,12.9
+backend software engineer,C++,4,12.9
+backend software engineer,Machine Learning,4,12.9
+backend software engineer,NoSQL,4,12.9
+backend software engineer,Ruby,4,12.9
+backend software engineer,Kafka,3,9.7
+backend software engineer,Spring,3,9.7
+backend software engineer,Data Analysis,3,9.7
+backend software engineer,MongoDB,3,9.7
+bi analyst,SQL,16,43.2
+bi analyst,Data Analysis,11,29.7
+bi analyst,Power BI,9,24.3
+bi analyst,Excel,8,21.6
+bi analyst,Python,6,16.2
+bi analyst,Tableau,5,13.5
+bi analyst,Data Visualization,5,13.5
+bi analyst,Statistical Analysis,4,10.8
+bi analyst,Snowflake,4,10.8
+bi analyst,SAS,4,10.8
+bi analyst,Looker,4,10.8
+bi analyst,SAP,3,8.1
+bi analyst,AWS,2,5.4
+bi analyst,ETL,2,5.4
+bi analyst,Alteryx,1,2.7
+bi developer,SQL,42,64.6
+bi developer,ETL,30,46.2
+bi developer,Power BI,26,40.0
+bi developer,Azure,16,24.6
+bi developer,Tableau,12,18.5
+bi developer,Python,11,16.9
+bi developer,SSIS,9,13.8
+bi developer,Oracle,9,13.8
+bi developer,Data Warehousing,8,12.3
+bi developer,Data Analysis,8,12.3
+bi developer,AWS,8,12.3
+bi developer,Data Visualization,7,10.8
+bi developer,Spark,7,10.8
+bi developer,Data Modeling,6,9.2
+bi developer,Snowflake,5,7.7
+business analyst,Excel,259,13.2
+business analyst,SQL,232,11.9
+business analyst,Data Analysis,202,10.3
+business analyst,Jira,139,7.1
+business analyst,Power BI,71,3.6
+business analyst,SAP,63,3.2
+business analyst,DevOps,57,2.9
+business analyst,Tableau,51,2.6
+business analyst,Azure,48,2.5
+business analyst,System Design,45,2.3
+business analyst,Agile / Scrum,45,2.3
+business analyst,Oracle,43,2.2
+business analyst,Confluence,41,2.1
+business analyst,Risk Management,40,2.0
+business analyst,Salesforce,31,1.6
+business data analyst,SQL,26,37.1
+business data analyst,Excel,22,31.4
+business data analyst,Data Analysis,21,30.0
+business data analyst,Tableau,11,15.7
+business data analyst,Data Visualization,10,14.3
+business data analyst,Python,8,11.4
+business data analyst,Power BI,7,10.0
+business data analyst,Statistical Analysis,5,7.1
+business data analyst,Machine Learning,5,7.1
+business data analyst,SAP,4,5.7
+business data analyst,Data Governance,4,5.7
+business data analyst,Alteryx,3,4.3
+business data analyst,Oracle,3,4.3
+business data analyst,A/B Testing,3,4.3
+business data analyst,Big Data,3,4.3
+business developer,Excel,3,7.5
+business developer,Salesforce,1,2.5
+business developer,Segment,1,2.5
+business developer,AWS,1,2.5
+business developer,Distributed Systems,1,2.5
+business intelligence analyst,SQL,68,38.2
+business intelligence analyst,Tableau,38,21.3
+business intelligence analyst,Data Analysis,38,21.3
+business intelligence analyst,Power BI,37,20.8
+business intelligence analyst,Excel,32,18.0
+business intelligence analyst,Data Visualization,31,17.4
+business intelligence analyst,ETL,20,11.2
+business intelligence analyst,Python,19,10.7
+business intelligence analyst,Data Modeling,14,7.9
+business intelligence analyst,SAP,9,5.1
+business intelligence analyst,Data Governance,8,4.5
+business intelligence analyst,Machine Learning,7,3.9
+business intelligence analyst,Data Warehousing,6,3.4
+business intelligence analyst,Azure,6,3.4
+business intelligence analyst,Salesforce,5,2.8
+business intelligence developer,SQL,55,52.4
+business intelligence developer,Power BI,35,33.3
+business intelligence developer,ETL,32,30.5
+business intelligence developer,Tableau,27,25.7
+business intelligence developer,Data Analysis,23,21.9
+business intelligence developer,Data Warehousing,17,16.2
+business intelligence developer,SSIS,16,15.2
+business intelligence developer,Excel,14,13.3
+business intelligence developer,Data Visualization,14,13.3
+business intelligence developer,Data Modeling,13,12.4
+business intelligence developer,Python,13,12.4
+business intelligence developer,Azure,9,8.6
+business intelligence developer,Snowflake,7,6.7
+business intelligence developer,Data Governance,5,4.8
+business intelligence developer,Oracle,5,4.8
+business intelligence engineer,SQL,10,40.0
+business intelligence engineer,Tableau,9,36.0
+business intelligence engineer,Data Modeling,7,28.0
+business intelligence engineer,ETL,7,28.0
+business intelligence engineer,Data Warehousing,6,24.0
+business intelligence engineer,Python,6,24.0
+business intelligence engineer,Data Analysis,6,24.0
+business intelligence engineer,Snowflake,4,16.0
+business intelligence engineer,Power BI,3,12.0
+business intelligence engineer,Redshift,3,12.0
+business intelligence engineer,AWS,3,12.0
+business intelligence engineer,Azure,2,8.0
+business intelligence engineer,Data Visualization,2,8.0
+business intelligence engineer,SAS,2,8.0
+business intelligence engineer,Excel,1,4.0
+business intelligence manager,Power BI,7,31.8
+business intelligence manager,Data Analysis,5,22.7
+business intelligence manager,Tableau,5,22.7
+business intelligence manager,Machine Learning,4,18.2
+business intelligence manager,SQL,4,18.2
+business intelligence manager,Azure,3,13.6
+business intelligence manager,Data Visualization,3,13.6
+business intelligence manager,Big Data,3,13.6
+business intelligence manager,Data Governance,2,9.1
+business intelligence manager,Data Warehousing,2,9.1
+business intelligence manager,ETL,2,9.1
+business intelligence manager,Salesforce,2,9.1
+business intelligence manager,Excel,1,4.5
+business intelligence manager,Data Pipeline,1,4.5
+business intelligence manager,MuleSoft,1,4.5
+c#/ net developer,SQL,6,85.7
+c#/ net developer,.NET,6,85.7
+c#/ net developer,JSON,3,42.9
+c#/ net developer,XML,3,42.9
+c#/ net developer,JavaScript,3,42.9
+c#/ net developer,AWS,2,28.6
+c#/ net developer,Jira,2,28.6
+c#/ net developer,DevOps,2,28.6
+c#/ net developer,Git,2,28.6
+c#/ net developer,REST API,2,28.6
+c#/ net developer,Azure,2,28.6
+c#/ net developer,jQuery,2,28.6
+c#/ net developer,CSS,2,28.6
+c#/ net developer,Spring,1,14.3
+c#/ net developer,Oracle,1,14.3
+c++ developer,C++,28,93.3
+c++ developer,Linux,14,46.7
+c++ developer,Python,10,33.3
+c++ developer,Java,6,20.0
+c++ developer,Windows,5,16.7
+c++ developer,SQL,4,13.3
+c++ developer,Git,4,13.3
+c++ developer,Unix,3,10.0
+c++ developer,Risk Management,3,10.0
+c++ developer,Bash,2,6.7
+c++ developer,Fine-tuning,2,6.7
+c++ developer,Big Data,2,6.7
+c++ developer,CI/CD,2,6.7
+c++ developer,ServiceNow,1,3.3
+c++ developer,VMware,1,3.3
+c++ software engineer,C++,30,93.8
+c++ software engineer,Linux,13,40.6
+c++ software engineer,Python,12,37.5
+c++ software engineer,Windows,7,21.9
+c++ software engineer,Git,6,18.8
+c++ software engineer,Java,5,15.6
+c++ software engineer,Unix,4,12.5
+c++ software engineer,System Design,3,9.4
+c++ software engineer,Jenkins,3,9.4
+c++ software engineer,JavaScript,3,9.4
+c++ software engineer,Prototyping,2,6.2
+c++ software engineer,SQL,2,6.2
+c++ software engineer,Bash,2,6.2
+c++ software engineer,CI/CD,2,6.2
+c++ software engineer,Jira,2,6.2
+cloud architect,Azure,29,40.3
+cloud architect,AWS,29,40.3
+cloud architect,GCP,13,18.1
+cloud architect,DevOps,12,16.7
+cloud architect,Kubernetes,9,12.5
+cloud architect,CI/CD,7,9.7
+cloud architect,Software Architecture,4,5.6
+cloud architect,Oracle,4,5.6
+cloud architect,Java,4,5.6
+cloud architect,System Design,4,5.6
+cloud architect,Data Pipeline,3,4.2
+cloud architect,PowerShell,3,4.2
+cloud architect,Dynamics 365,3,4.2
+cloud architect,Big Data,3,4.2
+cloud architect,Terraform,3,4.2
+cloud engineer,Azure,57,51.8
+cloud engineer,AWS,53,48.2
+cloud engineer,Terraform,26,23.6
+cloud engineer,DevOps,26,23.6
+cloud engineer,Python,25,22.7
+cloud engineer,Kubernetes,22,20.0
+cloud engineer,CI/CD,19,17.3
+cloud engineer,Docker,18,16.4
+cloud engineer,PowerShell,17,15.5
+cloud engineer,Jenkins,16,14.5
+cloud engineer,Linux,14,12.7
+cloud engineer,GCP,13,11.8
+cloud engineer,Windows,12,10.9
+cloud engineer,VMware,11,10.0
+cloud engineer,Ansible,11,10.0
+cloud platform engineer,Azure,6,46.2
+cloud platform engineer,DevOps,6,46.2
+cloud platform engineer,AWS,5,38.5
+cloud platform engineer,Terraform,5,38.5
+cloud platform engineer,Kubernetes,5,38.5
+cloud platform engineer,CI/CD,5,38.5
+cloud platform engineer,Python,5,38.5
+cloud platform engineer,Linux,4,30.8
+cloud platform engineer,Jenkins,4,30.8
+cloud platform engineer,Docker,4,30.8
+cloud platform engineer,Agile / Scrum,3,23.1
+cloud platform engineer,GitLab,3,23.1
+cloud platform engineer,GCP,2,15.4
+cloud platform engineer,Git,2,15.4
+cloud platform engineer,Redis,2,15.4
+cloud security analyst,AWS,2,66.7
+cloud security analyst,Risk Management,1,33.3
+cloud security analyst,Unix,1,33.3
+cloud security analyst,Linux,1,33.3
+cloud security analyst,Windows,1,33.3
+cloud security analyst,AWS Security,1,33.3
+cloud security analyst,Incident Response,1,33.3
+cloud security architect,AWS,10,55.6
+cloud security architect,Azure,8,44.4
+cloud security architect,GCP,6,33.3
+cloud security architect,Cybersecurity,5,27.8
+cloud security architect,CISSP,4,22.2
+cloud security architect,SIEM,2,11.1
+cloud security architect,Risk Management,2,11.1
+cloud security architect,AWS Security,2,11.1
+cloud security architect,Python,2,11.1
+cloud security architect,DevOps,2,11.1
+cloud security architect,SOC 2,1,5.6
+cloud security architect,Zero Trust,1,5.6
+cloud security architect,Splunk,1,5.6
+cloud security architect,Terraform,1,5.6
+cloud security architect,Kubernetes,1,5.6
+cnc programmer,Windows,3,4.3
+cnc programmer,Linear,3,4.3
+cnc programmer,Angular,3,4.3
+cnc programmer,Prototyping,2,2.9
+cnc programmer,Fine-tuning,1,1.4
+cnc programmer,Rust,1,1.4
+computer vision engineer,Python,14,77.8
+computer vision engineer,C++,11,61.1
+computer vision engineer,Deep Learning,9,50.0
+computer vision engineer,Machine Learning,7,38.9
+computer vision engineer,PyTorch,5,27.8
+computer vision engineer,TensorFlow,4,22.2
+computer vision engineer,AWS,2,11.1
+computer vision engineer,Azure,2,11.1
+computer vision engineer,Linux,2,11.1
+computer vision engineer,GCP,1,5.6
+computer vision engineer,DevOps,1,5.6
+computer vision engineer,Big Data,1,5.6
+computer vision engineer,Linear,1,5.6
+computer vision engineer,Rust,1,5.6
+computer vision engineer,Data Analysis,1,5.6
+consultant,AWS,4,19.0
+consultant,Azure,4,19.0
+consultant,.NET,3,14.3
+consultant,Microservices,2,9.5
+consultant,Java,2,9.5
+consultant,Docker,2,9.5
+consultant,SQL,2,9.5
+consultant,Flask,1,4.8
+consultant,Python,1,4.8
+consultant,FastAPI,1,4.8
+consultant,Django,1,4.8
+consultant,Datadog,1,4.8
+consultant,Excel,1,4.8
+consultant,Databricks,1,4.8
+consultant,Linux,1,4.8
+control systems engineer,System Design,22,19.3
+control systems engineer,MATLAB,6,5.3
+control systems engineer,VMware,6,5.3
+control systems engineer,Cybersecurity,6,5.3
+control systems engineer,C++,5,4.4
+control systems engineer,Data Analysis,4,3.5
+control systems engineer,SQL,2,1.8
+control systems engineer,Python,2,1.8
+control systems engineer,Git,2,1.8
+control systems engineer,Linux,2,1.8
+control systems engineer,Fine-tuning,1,0.9
+control systems engineer,Windows,1,0.9
+control systems engineer,Prototyping,1,0.9
+control systems engineer,PHP,1,0.9
+controls systems engineer,MATLAB,2,15.4
+controls systems engineer,C++,2,15.4
+controls systems engineer,Excel,2,15.4
+controls systems engineer,Linux,1,7.7
+controls systems engineer,System Design,1,7.7
+controls systems engineer,.NET,1,7.7
+controls systems engineer,Java,1,7.7
+controls systems engineer,Python,1,7.7
+customer service representative/data analyst/data clerk,Power BI,26,100.0
+customer service representative/data analyst/data clerk,A/B Testing,26,100.0
+customer service representative/data analyst/data clerk,Data Visualization,26,100.0
+customer service representative/data analyst/data clerk,Data Analysis,26,100.0
+customer service representative/data analyst/data clerk,Python,26,100.0
+customer service representative/data analyst/data clerk,SQL,26,100.0
+customer service representative/data analyst/data clerk,Tableau,26,100.0
+customer service representative/data analyst/data clerk,ETL,26,100.0
+cyber defense analyst,Cybersecurity,10,47.6
+cyber defense analyst,Incident Response,10,47.6
+cyber defense analyst,Excel,5,23.8
+cyber defense analyst,Linux,5,23.8
+cyber defense analyst,Risk Management,5,23.8
+cyber defense analyst,Unix,4,19.0
+cyber defense analyst,Splunk,3,14.3
+cyber defense analyst,Machine Learning,1,4.8
+cyber defense analyst,Big Data,1,4.8
+cyber defense analyst,Penetration Testing,1,4.8
+cyber defense analyst,DevOps,1,4.8
+cyber defense analyst,Windows,1,4.8
+cyber defense analyst,AWS,1,4.8
+cyber defense analyst,Azure,1,4.8
+cyber defense analyst,SIEM,1,4.8
+cyber engineer,Cybersecurity,10,40.0
+cyber engineer,Windows,6,24.0
+cyber engineer,Linux,5,20.0
+cyber engineer,System Design,4,16.0
+cyber engineer,Python,4,16.0
+cyber engineer,SIEM,4,16.0
+cyber engineer,Risk Management,3,12.0
+cyber engineer,CISSP,3,12.0
+cyber engineer,Incident Response,3,12.0
+cyber engineer,C++,3,12.0
+cyber engineer,Unix,3,12.0
+cyber engineer,Firewalls,3,12.0
+cyber engineer,CI/CD,2,8.0
+cyber engineer,Kafka,2,8.0
+cyber engineer,Penetration Testing,2,8.0
+cyber security analyst,Cybersecurity,31,43.1
+cyber security analyst,Incident Response,23,31.9
+cyber security analyst,Windows,20,27.8
+cyber security analyst,Linux,13,18.1
+cyber security analyst,Risk Management,10,13.9
+cyber security analyst,SIEM,8,11.1
+cyber security analyst,Firewalls,7,9.7
+cyber security analyst,CISSP,4,5.6
+cyber security analyst,Azure,4,5.6
+cyber security analyst,Penetration Testing,3,4.2
+cyber security analyst,Splunk,3,4.2
+cyber security analyst,Unix,2,2.8
+cyber security analyst,Microservices,2,2.8
+cyber security analyst,Oracle,2,2.8
+cyber security analyst,SQL,2,2.8
+cyber security architect,Firewalls,8,32.0
+cyber security architect,DevOps,6,24.0
+cyber security architect,Cybersecurity,6,24.0
+cyber security architect,Incident Response,3,12.0
+cyber security architect,System Design,2,8.0
+cyber security architect,Risk Management,2,8.0
+cyber security architect,Azure,2,8.0
+cyber security architect,CISSP,1,4.0
+cyber security architect,Windows,1,4.0
+cyber security architect,Penetration Testing,1,4.0
+cyber security architect,AWS,1,4.0
+cyber security architect,SIEM,1,4.0
+cyber security engineer,Cybersecurity,25,52.1
+cyber security engineer,Incident Response,9,18.8
+cyber security engineer,Risk Management,9,18.8
+cyber security engineer,CISSP,6,12.5
+cyber security engineer,Linux,6,12.5
+cyber security engineer,Windows,5,10.4
+cyber security engineer,AWS,4,8.3
+cyber security engineer,Splunk,3,6.2
+cyber security engineer,Firewalls,3,6.2
+cyber security engineer,Azure,3,6.2
+cyber security engineer,Penetration Testing,3,6.2
+cyber security engineer,Python,3,6.2
+cyber security engineer,SIEM,2,4.2
+cyber security engineer,AWS Security,2,4.2
+cyber security engineer,Bash,2,4.2
+cyber security operations center,Cybersecurity,17,100.0
+cyber security operations center,Incident Response,14,82.4
+cyber security operations center,SIEM,13,76.5
+cyber security operations center,CISSP,4,23.5
+cyber security operations center,AWS,4,23.5
+cyber security operations center,Linux,4,23.5
+cyber security operations center,AWS Security,4,23.5
+cyber security specialist,Cybersecurity,10,41.7
+cyber security specialist,Risk Management,5,20.8
+cyber security specialist,Firewalls,4,16.7
+cyber security specialist,Azure,2,8.3
+cyber security specialist,Incident Response,2,8.3
+cyber security specialist,Windows,2,8.3
+cyber security specialist,CISSP,2,8.3
+cyber security specialist,GCP,1,4.2
+cyber security specialist,SIEM,1,4.2
+cyber security specialist,SQL,1,4.2
+cyber security specialist,System Design,1,4.2
+cyber systems engineer,Cybersecurity,6,35.3
+cyber systems engineer,Risk Management,4,23.5
+cyber systems engineer,AWS,2,11.8
+cyber systems engineer,Elasticsearch,2,11.8
+cyber systems engineer,Linux,2,11.8
+cyber systems engineer,Jenkins,2,11.8
+cyber systems engineer,CI/CD,2,11.8
+cyber systems engineer,Microservices,2,11.8
+cyber systems engineer,DevOps,2,11.8
+cyber systems engineer,Active Directory,1,5.9
+cybersecurity analyst,Cybersecurity,26,83.9
+cybersecurity analyst,Incident Response,10,32.3
+cybersecurity analyst,Risk Management,8,25.8
+cybersecurity analyst,Firewalls,4,12.9
+cybersecurity analyst,SIEM,4,12.9
+cybersecurity analyst,Data Analysis,3,9.7
+cybersecurity analyst,Splunk,2,6.5
+cybersecurity analyst,CISSP,2,6.5
+cybersecurity analyst,Segment,1,3.2
+cybersecurity analyst,Excel,1,3.2
+cybersecurity analyst,Statistical Analysis,1,3.2
+cybersecurity analyst,Linux,1,3.2
+cybersecurity analyst,Windows,1,3.2
+cybersecurity analyst,OWASP,1,3.2
+cybersecurity analyst,Azure,1,3.2
+cybersecurity engineer,Cybersecurity,48,98.0
+cybersecurity engineer,Risk Management,12,24.5
+cybersecurity engineer,Firewalls,11,22.4
+cybersecurity engineer,SIEM,8,16.3
+cybersecurity engineer,Incident Response,6,12.2
+cybersecurity engineer,Windows,5,10.2
+cybersecurity engineer,Linux,4,8.2
+cybersecurity engineer,Zero Trust,3,6.1
+cybersecurity engineer,System Design,3,6.1
+cybersecurity engineer,Penetration Testing,3,6.1
+cybersecurity engineer,Splunk,3,6.1
+cybersecurity engineer,SAP,2,4.1
+cybersecurity engineer,CISSP,2,4.1
+cybersecurity engineer,HTML,2,4.1
+cybersecurity engineer,Active Directory,1,2.0
+cybersecurity operations manager,Cybersecurity,3,100.0
+cybersecurity operations manager,Incident Response,2,66.7
+cybersecurity operations manager,CISSP,1,33.3
+cybersecurity operations manager,Linux,1,33.3
+cybersecurity operations manager,Windows,1,33.3
+cybersecurity operations manager,Oracle,1,33.3
+cybersecurity operations manager,Splunk,1,33.3
+cybersecurity operations manager,VMware,1,33.3
+cybersecurity specialist,Cybersecurity,24,92.3
+cybersecurity specialist,Risk Management,6,23.1
+cybersecurity specialist,Splunk,3,11.5
+cybersecurity specialist,Python,3,11.5
+cybersecurity specialist,Azure,1,3.8
+cybersecurity specialist,CISSP,1,3.8
+cybersecurity specialist,Windows,1,3.8
+cybersecurity specialist,Firewalls,1,3.8
+cybersecurity specialist,Active Directory,1,3.8
+cybersecurity specialist,DevOps,1,3.8
+data analyst,SQL,233,38.1
+data analyst,Data Analysis,205,33.5
+data analyst,Excel,124,20.3
+data analyst,Python,115,18.8
+data analyst,Tableau,108,17.6
+data analyst,Data Visualization,86,14.1
+data analyst,Power BI,85,13.9
+data analyst,ETL,43,7.0
+data analyst,Machine Learning,37,6.0
+data analyst,Data Governance,37,6.0
+data analyst,Statistical Analysis,37,6.0
+data analyst,Big Data,35,5.7
+data analyst,AWS,30,4.9
+data analyst,Spark,26,4.2
+data analyst,Data Modeling,26,4.2
+data architect,SQL,55,30.2
+data architect,ETL,43,23.6
+data architect,Data Modeling,40,22.0
+data architect,Data Governance,36,19.8
+data architect,AWS,35,19.2
+data architect,Azure,28,15.4
+data architect,Big Data,26,14.3
+data architect,Python,26,14.3
+data architect,Snowflake,23,12.6
+data architect,Data Warehousing,20,11.0
+data architect,NoSQL,16,8.8
+data architect,Spark,15,8.2
+data architect,Data Analysis,13,7.1
+data architect,Hadoop,13,7.1
+data architect,Redshift,13,7.1
+data engineer,Python,380,48.3
+data engineer,SQL,358,45.5
+data engineer,ETL,264,33.6
+data engineer,AWS,236,30.0
+data engineer,Azure,183,23.3
+data engineer,Java,180,22.9
+data engineer,Big Data,174,22.1
+data engineer,Scala,163,20.7
+data engineer,Machine Learning,161,20.5
+data engineer,Spark,160,20.4
+data engineer,Data Warehousing,145,18.4
+data engineer,Snowflake,142,18.1
+data engineer,NoSQL,122,15.5
+data engineer,Redshift,101,12.8
+data engineer,Microservices,96,12.2
+data engineer manager,Data Warehousing,5,27.8
+data engineer manager,AWS,4,22.2
+data engineer manager,Big Data,4,22.2
+data engineer manager,Machine Learning,4,22.2
+data engineer manager,ETL,3,16.7
+data engineer manager,Azure,2,11.1
+data engineer manager,Data Governance,2,11.1
+data engineer manager,Spark,2,11.1
+data engineer manager,Python,2,11.1
+data engineer manager,Helm,2,11.1
+data engineer manager,Data Pipeline,2,11.1
+data engineer manager,SQL,1,5.6
+data engineer manager,Snowflake,1,5.6
+data engineer manager,Informatica,1,5.6
+data engineer manager,Cybersecurity,1,5.6
+data scientist,Machine Learning,280,61.9
+data scientist,Python,199,44.0
+data scientist,SQL,121,26.8
+data scientist,Data Analysis,84,18.6
+data scientist,Statistical Analysis,62,13.7
+data scientist,Deep Learning,60,13.3
+data scientist,Data Visualization,59,13.1
+data scientist,Big Data,55,12.2
+data scientist,AWS,53,11.7
+data scientist,Tableau,49,10.8
+data scientist,NLP,48,10.6
+data scientist,Spark,44,9.7
+data scientist,PyTorch,34,7.5
+data scientist,TensorFlow,33,7.3
+data scientist,Java,33,7.3
+database administrator,SQL,99,59.3
+database administrator,Oracle,57,34.1
+database administrator,Linux,26,15.6
+database administrator,AWS,24,14.4
+database administrator,PostgreSQL,20,12.0
+database administrator,Windows,20,12.0
+database administrator,Azure,18,10.8
+database administrator,Data Modeling,16,9.6
+database administrator,ETL,15,9.0
+database administrator,Unix,14,8.4
+database administrator,NoSQL,13,7.8
+database administrator,MySQL,13,7.8
+database administrator,Python,11,6.6
+database administrator,DevOps,10,6.0
+database administrator,CI/CD,7,4.2
+database developer,SQL,27,71.1
+database developer,ETL,9,23.7
+database developer,Python,7,18.4
+database developer,Java,7,18.4
+database developer,Oracle,6,15.8
+database developer,Data Modeling,6,15.8
+database developer,MySQL,5,13.2
+database developer,SSIS,5,13.2
+database developer,AWS,5,13.2
+database developer,Azure,4,10.5
+database developer,PostgreSQL,4,10.5
+database developer,JavaScript,4,10.5
+database developer,Jira,4,10.5
+database developer,Data Warehousing,3,7.9
+database developer,Snowflake,3,7.9
+database engineer,SQL,24,48.0
+database engineer,Oracle,8,16.0
+database engineer,AWS,7,14.0
+database engineer,ETL,6,12.0
+database engineer,Linux,6,12.0
+database engineer,Python,6,12.0
+database engineer,Azure,5,10.0
+database engineer,DevOps,4,8.0
+database engineer,MySQL,4,8.0
+database engineer,Big Data,4,8.0
+database engineer,MongoDB,4,8.0
+database engineer,Data Analysis,4,8.0
+database engineer,PostgreSQL,3,6.0
+database engineer,Excel,3,6.0
+database engineer,Data Warehousing,3,6.0
+design release engineer,Data Analysis,1,5.9
+design release engineer,System Design,1,5.9
+desktop support,Windows,19,54.3
+desktop support,Active Directory,12,34.3
+desktop support,ServiceNow,7,20.0
+desktop support,Excel,4,11.4
+desktop support,Azure,2,5.7
+desktop support,Cybersecurity,2,5.7
+desktop support,SAP,1,2.9
+desktop support,SQL,1,2.9
+desktop support,PowerShell,1,2.9
+desktop support analyst,Windows,12,48.0
+desktop support analyst,Active Directory,7,28.0
+desktop support analyst,Excel,3,12.0
+desktop support analyst,ServiceNow,2,8.0
+desktop support analyst,Firewalls,2,8.0
+desktop support analyst,PowerShell,2,8.0
+desktop support analyst,VMware,1,4.0
+desktop support analyst,Linux,1,4.0
+desktop support analyst,SQL,1,4.0
+desktop support specialist,Windows,36,48.0
+desktop support specialist,Active Directory,28,37.3
+desktop support specialist,ServiceNow,11,14.7
+desktop support specialist,Excel,6,8.0
+desktop support specialist,Jira,3,4.0
+desktop support specialist,Firewalls,3,4.0
+desktop support specialist,Cybersecurity,2,2.7
+desktop support specialist,Swift,1,1.3
+desktop support specialist,Salesforce,1,1.3
+desktop support specialist,Unix,1,1.3
+desktop support specialist,PowerShell,1,1.3
+desktop support specialist,Linux,1,1.3
+desktop support specialist,SAP,1,1.3
+desktop support technician,Windows,42,42.4
+desktop support technician,Active Directory,25,25.3
+desktop support technician,ServiceNow,5,5.1
+desktop support technician,Excel,4,4.0
+desktop support technician,Cybersecurity,4,4.0
+desktop support technician,Linux,3,3.0
+desktop support technician,Azure,3,3.0
+desktop support technician,MCP,2,2.0
+desktop support technician,Unix,2,2.0
+desktop support technician,Jira,2,2.0
+desktop support technician,Python,2,2.0
+desktop support technician,Incident Response,1,1.0
+desktop support technician,Swift,1,1.0
+desktop support technician,Oracle,1,1.0
+desktop support technician,VMware,1,1.0
+developer,SQL,68,29.1
+developer,.NET,51,21.8
+developer,Java,50,21.4
+developer,JavaScript,40,17.1
+developer,AWS,28,12.0
+developer,React,26,11.1
+developer,Python,24,10.3
+developer,Azure,23,9.8
+developer,Angular,22,9.4
+developer,Oracle,22,9.4
+developer,CSS,20,8.5
+developer,HTML,20,8.5
+developer,Git,19,8.1
+developer,CI/CD,18,7.7
+developer,TypeScript,17,7.3
+devops engineer,DevOps,224,92.6
+devops engineer,CI/CD,107,44.2
+devops engineer,AWS,99,40.9
+devops engineer,Python,92,38.0
+devops engineer,Terraform,88,36.4
+devops engineer,Kubernetes,85,35.1
+devops engineer,Docker,69,28.5
+devops engineer,Jenkins,67,27.7
+devops engineer,Linux,59,24.4
+devops engineer,Ansible,58,24.0
+devops engineer,Azure,51,21.1
+devops engineer,Bash,44,18.2
+devops engineer,Java,36,14.9
+devops engineer,Git,35,14.5
+devops engineer,GitHub,30,12.4
+digital product manager,User Research,3,21.4
+digital product manager,Segment,1,7.1
+digital product manager,A/B Testing,1,7.1
+dotnet developer,.NET,47,92.2
+dotnet developer,SQL,38,74.5
+dotnet developer,JavaScript,20,39.2
+dotnet developer,Azure,18,35.3
+dotnet developer,HTML,15,29.4
+dotnet developer,CSS,14,27.5
+dotnet developer,jQuery,12,23.5
+dotnet developer,Angular,10,19.6
+dotnet developer,Git,8,15.7
+dotnet developer,Windows,7,13.7
+dotnet developer,Unit Testing,7,13.7
+dotnet developer,MySQL,5,9.8
+dotnet developer,Microservices,5,9.8
+dotnet developer,React,5,9.8
+dotnet developer,REST API,4,7.8
+electrical systems engineer,System Design,4,12.9
+electrical systems engineer,Windows,2,6.5
+electrical systems engineer,C++,2,6.5
+electrical systems engineer,Confluence,1,3.2
+electrical systems engineer,HTML,1,3.2
+electrical systems engineer,Data Analysis,1,3.2
+electrical systems engineer,Prototyping,1,3.2
+electrical systems engineer,Linux,1,3.2
+electrical systems engineer,Python,1,3.2
+electrical systems engineer,MATLAB,1,3.2
+electrical systems engineer,Spring,1,3.2
+electrical test engineer,Python,5,25.0
+electrical test engineer,Data Analysis,3,15.0
+electrical test engineer,System Design,3,15.0
+electrical test engineer,Prototyping,2,10.0
+electrical test engineer,Windows,1,5.0
+electrical test engineer,C++,1,5.0
+electrical test engineer,Machine Learning,1,5.0
+embedded engineer,C++,25,61.0
+embedded engineer,Linux,12,29.3
+embedded engineer,Python,7,17.1
+embedded engineer,Unit Testing,5,12.2
+embedded engineer,Bash,5,12.2
+embedded engineer,Software Architecture,4,9.8
+embedded engineer,CI/CD,4,9.8
+embedded engineer,Windows,3,7.3
+embedded engineer,Prototyping,3,7.3
+embedded engineer,MATLAB,3,7.3
+embedded engineer,Deep Learning,3,7.3
+embedded engineer,Agile / Scrum,3,7.3
+embedded engineer,Jira,2,4.9
+embedded engineer,Cybersecurity,2,4.9
+embedded engineer,GitLab,2,4.9
+embedded software engineer,C++,146,49.8
+embedded software engineer,Linux,67,22.9
+embedded software engineer,Python,53,18.1
+embedded software engineer,Git,29,9.9
+embedded software engineer,MATLAB,26,8.9
+embedded software engineer,Prototyping,16,5.5
+embedded software engineer,Software Architecture,15,5.1
+embedded software engineer,Jira,13,4.4
+embedded software engineer,Windows,12,4.1
+embedded software engineer,Unit Testing,11,3.8
+embedded software engineer,System Design,9,3.1
+embedded software engineer,Excel,9,3.1
+embedded software engineer,Java,8,2.7
+embedded software engineer,GitHub,8,2.7
+embedded software engineer,Cybersecurity,7,2.4
+embedded systems engineer,C++,16,38.1
+embedded systems engineer,Linux,11,26.2
+embedded systems engineer,Python,7,16.7
+embedded systems engineer,Cybersecurity,6,14.3
+embedded systems engineer,Jira,5,11.9
+embedded systems engineer,Workday,4,9.5
+embedded systems engineer,Machine Learning,3,7.1
+embedded systems engineer,CI/CD,3,7.1
+embedded systems engineer,Git,3,7.1
+embedded systems engineer,System Design,3,7.1
+embedded systems engineer,XML,3,7.1
+embedded systems engineer,Windows,2,4.8
+embedded systems engineer,GitLab,2,4.8
+embedded systems engineer,Prototyping,2,4.8
+embedded systems engineer,Azure,1,2.4
+engineer,Java,9,16.7
+engineer,Python,9,16.7
+engineer,Distributed Systems,8,14.8
+engineer,Azure,7,13.0
+engineer,C++,7,13.0
+engineer,Cybersecurity,5,9.3
+engineer,AWS,4,7.4
+engineer,Kubernetes,4,7.4
+engineer,Machine Learning,4,7.4
+engineer,Kafka,3,5.6
+engineer,TypeScript,3,5.6
+engineer,JavaScript,3,5.6
+engineer,Docker,3,5.6
+engineer,NoSQL,2,3.7
+engineer,SQL,2,3.7
+engineer generative ai engineer,Machine Learning,27,100.0
+engineer generative ai engineer,Fine-tuning,20,74.1
+engineer generative ai engineer,Scala,3,11.1
+engineer generative ai engineer,Python,3,11.1
+engineer generative ai engineer,Java,2,7.4
+erp business analyst,Oracle,6,18.2
+erp business analyst,SAP,5,15.2
+erp business analyst,Data Analysis,4,12.1
+erp business analyst,SQL,3,9.1
+erp business analyst,Power BI,2,6.1
+erp business analyst,Segment,1,3.0
+erp business analyst,Salesforce,1,3.0
+erp business analyst,ServiceNow,1,3.0
+etl developer,ETL,29,93.5
+etl developer,SQL,21,67.7
+etl developer,Oracle,12,38.7
+etl developer,Informatica,10,32.3
+etl developer,Data Modeling,9,29.0
+etl developer,Snowflake,7,22.6
+etl developer,Data Warehousing,6,19.4
+etl developer,Python,6,19.4
+etl developer,SSIS,6,19.4
+etl developer,Azure,4,12.9
+etl developer,AWS,3,9.7
+etl developer,Big Data,2,6.5
+etl developer,Data Analysis,2,6.5
+etl developer,Tableau,2,6.5
+etl developer,Java,2,6.5
+financial business analyst,Data Analysis,4,19.0
+financial business analyst,Excel,4,19.0
+financial business analyst,SQL,3,14.3
+financial business analyst,Oracle,2,9.5
+financial business analyst,ETL,2,9.5
+financial business analyst,SAP,2,9.5
+financial business analyst,Power BI,1,4.8
+financial business analyst,Tableau,1,4.8
+financial business analyst,NetSuite,1,4.8
+financial business analyst,Unix,1,4.8
+financial business analyst,Java,1,4.8
+financial business analyst,Windows,1,4.8
+financial business analyst,XML,1,4.8
+financial business analyst,Risk Management,1,4.8
+financial business analyst,Data Modeling,1,4.8
+financial data analyst,Excel,14,48.3
+financial data analyst,Power BI,12,41.4
+financial data analyst,SQL,12,41.4
+financial data analyst,Data Analysis,11,37.9
+financial data analyst,Tableau,6,20.7
+financial data analyst,Python,4,13.8
+financial data analyst,Statistical Analysis,4,13.8
+financial data analyst,Data Visualization,3,10.3
+financial data analyst,Segment,1,3.4
+financial data analyst,SAP,1,3.4
+financial data analyst,AWS,1,3.4
+financial data analyst,Redshift,1,3.4
+financial data analyst,MATLAB,1,3.4
+financial data analyst,Data Warehousing,1,3.4
+financial data analyst,Google Analytics,1,3.4
+firmware design engineer,C++,3,30.0
+firmware design engineer,System Design,2,20.0
+firmware design engineer,Bash,1,10.0
+firmware design engineer,Python,1,10.0
+firmware engineer,C++,64,43.0
+firmware engineer,Linux,29,19.5
+firmware engineer,Python,24,16.1
+firmware engineer,MATLAB,14,9.4
+firmware engineer,System Design,13,8.7
+firmware engineer,Windows,13,8.7
+firmware engineer,Unit Testing,13,8.7
+firmware engineer,Git,7,4.7
+firmware engineer,Machine Learning,6,4.0
+firmware engineer,Prototyping,6,4.0
+firmware engineer,Jira,4,2.7
+firmware engineer,Agile / Scrum,3,2.0
+firmware engineer,JavaScript,3,2.0
+firmware engineer,DevOps,3,2.0
+firmware engineer,Linear,3,2.0
+flight test engineer,Data Analysis,9,23.1
+flight test engineer,System Design,2,5.1
+flight test engineer,MATLAB,2,5.1
+flight test engineer,Risk Management,1,2.6
+flight test engineer,Prototyping,1,2.6
+flight test engineer,C++,1,2.6
+flight test engineer,SAP,1,2.6
+flight test engineer,Python,1,2.6
+front end developer,CSS,11,47.8
+front end developer,JavaScript,10,43.5
+front end developer,React,9,39.1
+front end developer,HTML,8,34.8
+front end developer,AWS,6,26.1
+front end developer,Git,5,21.7
+front end developer,Angular,5,21.7
+front end developer,JSON,4,17.4
+front end developer,CI/CD,4,17.4
+front end developer,TypeScript,4,17.4
+front end developer,Software Architecture,3,13.0
+front end developer,Unit Testing,3,13.0
+front end developer,jQuery,2,8.7
+front end developer,Azure,2,8.7
+front end developer,DevOps,2,8.7
+frontend,CSS,2,14.3
+frontend,Angular,2,14.3
+frontend,TypeScript,1,7.1
+frontend,Jenkins,1,7.1
+frontend,Git,1,7.1
+frontend,React,1,7.1
+frontend,Vue,1,7.1
+frontend,HTML,1,7.1
+frontend,JavaScript,1,7.1
+frontend,Kanban,1,7.1
+frontend developer,JavaScript,69,63.9
+frontend developer,React,64,59.3
+frontend developer,CSS,54,50.0
+frontend developer,HTML,46,42.6
+frontend developer,Angular,39,36.1
+frontend developer,TypeScript,39,36.1
+frontend developer,Vue,14,13.0
+frontend developer,AWS,13,12.0
+frontend developer,Git,13,12.0
+frontend developer,PHP,11,10.2
+frontend developer,Node.js,10,9.3
+frontend developer,Java,10,9.3
+frontend developer,Azure,9,8.3
+frontend developer,jQuery,9,8.3
+frontend developer,SQL,9,8.3
+frontend engineer,React,54,78.3
+frontend engineer,JavaScript,37,53.6
+frontend engineer,TypeScript,30,43.5
+frontend engineer,CSS,24,34.8
+frontend engineer,HTML,15,21.7
+frontend engineer,Vue,10,14.5
+frontend engineer,Angular,10,14.5
+frontend engineer,Node.js,9,13.0
+frontend engineer,AWS,7,10.1
+frontend engineer,Git,7,10.1
+frontend engineer,CI/CD,6,8.7
+frontend engineer,GraphQL,5,7.2
+frontend engineer,Python,5,7.2
+frontend engineer,DevOps,4,5.8
+frontend engineer,Machine Learning,4,5.8
+frontend manager,Excel,1,5.9
+frontend software engineer,React,10,41.7
+frontend software engineer,Machine Learning,7,29.2
+frontend software engineer,JavaScript,6,25.0
+frontend software engineer,Java,4,16.7
+frontend software engineer,TypeScript,4,16.7
+frontend software engineer,AWS,3,12.5
+frontend software engineer,CSS,3,12.5
+frontend software engineer,Angular,3,12.5
+frontend software engineer,Snowflake,3,12.5
+frontend software engineer,Python,2,8.3
+frontend software engineer,HTML,2,8.3
+frontend software engineer,Databricks,2,8.3
+frontend software engineer,SageMaker,2,8.3
+frontend software engineer,CI/CD,2,8.3
+frontend software engineer,Splunk,2,8.3
+full stack developer,React,14,56.0
+full stack developer,SQL,9,36.0
+full stack developer,HTML,7,28.0
+full stack developer,JavaScript,7,28.0
+full stack developer,CSS,6,24.0
+full stack developer,Angular,6,24.0
+full stack developer,AWS,6,24.0
+full stack developer,.NET,5,20.0
+full stack developer,TypeScript,5,20.0
+full stack developer,Node.js,5,20.0
+full stack developer,Azure,4,16.0
+full stack developer,Docker,4,16.0
+full stack developer,CI/CD,3,12.0
+full stack developer,DevOps,3,12.0
+full stack developer,Java,3,12.0
+full stack engineer,React,11,40.7
+full stack engineer,TypeScript,7,25.9
+full stack engineer,JavaScript,7,25.9
+full stack engineer,Node.js,7,25.9
+full stack engineer,AWS,5,18.5
+full stack engineer,SQL,5,18.5
+full stack engineer,Angular,4,14.8
+full stack engineer,Docker,4,14.8
+full stack engineer,Java,3,11.1
+full stack engineer,GitHub,2,7.4
+full stack engineer,Django,2,7.4
+full stack engineer,.NET,2,7.4
+full stack engineer,MySQL,2,7.4
+full stack engineer,NoSQL,2,7.4
+full stack engineer,MongoDB,2,7.4
+full stack software engineer,React,8,47.1
+full stack software engineer,Java,4,23.5
+full stack software engineer,JavaScript,4,23.5
+full stack software engineer,.NET,3,17.6
+full stack software engineer,GraphQL,3,17.6
+full stack software engineer,TypeScript,3,17.6
+full stack software engineer,Python,3,17.6
+full stack software engineer,NoSQL,3,17.6
+full stack software engineer,Machine Learning,2,11.8
+full stack software engineer,AWS,2,11.8
+full stack software engineer,PostgreSQL,2,11.8
+full stack software engineer,Node.js,2,11.8
+full stack software engineer,Azure,2,11.8
+full stack software engineer,Angular,2,11.8
+full stack software engineer,SQL,2,11.8
+fullstack developer,JavaScript,82,37.4
+fullstack developer,Java,79,36.1
+fullstack developer,React,74,33.8
+fullstack developer,SQL,70,32.0
+fullstack developer,Angular,60,27.4
+fullstack developer,AWS,51,23.3
+fullstack developer,Python,46,21.0
+fullstack developer,CSS,43,19.6
+fullstack developer,Spring,41,18.7
+fullstack developer,HTML,39,17.8
+fullstack developer,.NET,36,16.4
+fullstack developer,TypeScript,35,16.0
+fullstack developer,Azure,33,15.1
+fullstack developer,DevOps,33,15.1
+fullstack developer,Git,29,13.2
+fullstack engineer,React,61,39.6
+fullstack engineer,JavaScript,58,37.7
+fullstack engineer,AWS,50,32.5
+fullstack engineer,TypeScript,44,28.6
+fullstack engineer,SQL,40,26.0
+fullstack engineer,CSS,37,24.0
+fullstack engineer,Java,36,23.4
+fullstack engineer,Python,34,22.1
+fullstack engineer,Angular,34,22.1
+fullstack engineer,HTML,30,19.5
+fullstack engineer,Node.js,28,18.2
+fullstack engineer,Azure,27,17.5
+fullstack engineer,DevOps,24,15.6
+fullstack engineer,CI/CD,24,15.6
+fullstack engineer,Kubernetes,22,14.3
+fullstack java developer,Java,27,96.4
+fullstack java developer,Spring,18,64.3
+fullstack java developer,Microservices,14,50.0
+fullstack java developer,Angular,13,46.4
+fullstack java developer,SQL,12,42.9
+fullstack java developer,Spring Boot,10,35.7
+fullstack java developer,CI/CD,8,28.6
+fullstack java developer,Git,7,25.0
+fullstack java developer,JavaScript,7,25.0
+fullstack java developer,Jenkins,6,21.4
+fullstack java developer,AWS,6,21.4
+fullstack java developer,React,5,17.9
+fullstack java developer,Azure,5,17.9
+fullstack java developer,Oracle,4,14.3
+fullstack java developer,Kubernetes,4,14.3
+fullstack software engineer,React,30,44.8
+fullstack software engineer,JavaScript,23,34.3
+fullstack software engineer,AWS,17,25.4
+fullstack software engineer,Angular,17,25.4
+fullstack software engineer,TypeScript,15,22.4
+fullstack software engineer,Java,14,20.9
+fullstack software engineer,CI/CD,11,16.4
+fullstack software engineer,CSS,11,16.4
+fullstack software engineer,Azure,11,16.4
+fullstack software engineer,HTML,10,14.9
+fullstack software engineer,Kubernetes,10,14.9
+fullstack software engineer,Python,9,13.4
+fullstack software engineer,Machine Learning,7,10.4
+fullstack software engineer,Docker,6,9.0
+fullstack software engineer,SQL,6,9.0
+gameplay programmer,C++,13,61.9
+gameplay programmer,Prototyping,6,28.6
+gameplay programmer,GitHub,2,9.5
+golang developer,AWS,10,50.0
+golang developer,Java,9,45.0
+golang developer,SQL,9,45.0
+golang developer,Python,6,30.0
+golang developer,CI/CD,5,25.0
+golang developer,NoSQL,5,25.0
+golang developer,Kubernetes,5,25.0
+golang developer,Docker,4,20.0
+golang developer,Linux,3,15.0
+golang developer,Unit Testing,3,15.0
+golang developer,Git,3,15.0
+golang developer,DynamoDB,3,15.0
+golang developer,GitHub,3,15.0
+golang developer,DevOps,3,15.0
+golang developer,Agile / Scrum,3,15.0
+guidewire business analyst,SQL,2,40.0
+guidewire business analyst,Unit Testing,1,20.0
+guidewire business analyst,ETL,1,20.0
+healthcare data analyst,SQL,9,42.9
+healthcare data analyst,Data Analysis,5,23.8
+healthcare data analyst,Python,5,23.8
+healthcare data analyst,Excel,3,14.3
+healthcare data analyst,SAS,3,14.3
+healthcare data analyst,Power BI,2,9.5
+healthcare data analyst,Data Modeling,2,9.5
+healthcare data analyst,Data Visualization,2,9.5
+healthcare data analyst,Risk Management,2,9.5
+healthcare data analyst,Spark,2,9.5
+healthcare data analyst,Big Data,2,9.5
+healthcare data analyst,Hadoop,2,9.5
+healthcare data analyst,Machine Learning,2,9.5
+healthcare data analyst,Data Warehousing,2,9.5
+healthcare data analyst,Tableau,2,9.5
+help desk analyst,Windows,14,35.0
+help desk analyst,Active Directory,12,30.0
+help desk analyst,ServiceNow,6,15.0
+help desk analyst,Excel,4,10.0
+help desk analyst,VMware,4,10.0
+help desk analyst,SQL,2,5.0
+help desk analyst,Linux,2,5.0
+help desk analyst,Firewalls,1,2.5
+help desk manager,Windows,5,26.3
+help desk manager,MCP,5,26.3
+help desk manager,Incident Response,4,21.1
+help desk manager,Azure,2,10.5
+help desk manager,Active Directory,2,10.5
+help desk manager,Excel,1,5.3
+help desk manager,Firewalls,1,5.3
+help desk manager,VMware,1,5.3
+help desk specialist,Windows,14,50.0
+help desk specialist,Active Directory,13,46.4
+help desk specialist,Excel,2,7.1
+help desk specialist,ServiceNow,2,7.1
+help desk specialist,Incident Response,2,7.1
+help desk specialist,Workday,1,3.6
+help desk specialist,Unix,1,3.6
+help desk specialist,Azure,1,3.6
+help desk specialist,Linux,1,3.6
+help desk specialist,SQL,1,3.6
+help desk specialist,Firewalls,1,3.6
+help desk technician,Windows,21,38.9
+help desk technician,Active Directory,10,18.5
+help desk technician,Excel,7,13.0
+help desk technician,Azure,4,7.4
+help desk technician,AWS,4,7.4
+help desk technician,Linux,4,7.4
+help desk technician,Firewalls,2,3.7
+help desk technician,Cybersecurity,2,3.7
+help desk technician,MCP,2,3.7
+help desk technician,Jira,2,3.7
+help desk technician,Risk Management,2,3.7
+help desk technician,SIEM,2,3.7
+help desk technician,Unix,1,1.9
+help desk technician,VMware,1,1.9
+help desk technician,Fine-tuning,1,1.9
+industrial security analyst,SAP,6,28.6
+industrial security analyst,CSS,2,9.5
+industrial security analyst,Big Data,1,4.8
+information security analyst,Cybersecurity,52,28.9
+information security analyst,Incident Response,41,22.8
+information security analyst,Risk Management,34,18.9
+information security analyst,SIEM,26,14.4
+information security analyst,Azure,16,8.9
+information security analyst,CISSP,15,8.3
+information security analyst,Firewalls,14,7.8
+information security analyst,Windows,11,6.1
+information security analyst,Linux,9,5.0
+information security analyst,Splunk,8,4.4
+information security analyst,AWS,8,4.4
+information security analyst,Kubernetes,4,2.2
+information security analyst,VMware,4,2.2
+information security analyst,Data Governance,3,1.7
+information security analyst,Active Directory,3,1.7
+information security engineer,Cybersecurity,8,38.1
+information security engineer,Incident Response,6,28.6
+information security engineer,Firewalls,2,9.5
+information security engineer,Risk Management,2,9.5
+information security engineer,Software Architecture,1,4.8
+information security engineer,Linux,1,4.8
+information security engineer,Windows,1,4.8
+information security engineer,System Design,1,4.8
+information security engineer,SIEM,1,4.8
+information security engineer,Azure,1,4.8
+information technology,CSS,1,33.3
+information technology,Cybersecurity,1,33.3
+infrastructure engineer,Windows,46,33.3
+infrastructure engineer,VMware,40,29.0
+infrastructure engineer,Linux,34,24.6
+infrastructure engineer,Azure,31,22.5
+infrastructure engineer,Active Directory,26,18.8
+infrastructure engineer,Firewalls,17,12.3
+infrastructure engineer,DevOps,15,10.9
+infrastructure engineer,PowerShell,14,10.1
+infrastructure engineer,Kubernetes,13,9.4
+infrastructure engineer,AWS,11,8.0
+infrastructure engineer,Docker,10,7.2
+infrastructure engineer,SQL,9,6.5
+infrastructure engineer,Python,9,6.5
+infrastructure engineer,Bash,8,5.8
+infrastructure engineer,Ansible,7,5.1
+infrastructure security engineer,Firewalls,2,33.3
+integration developer,SAP,8,23.5
+integration developer,Azure,8,23.5
+integration developer,SQL,8,23.5
+integration developer,Java,5,14.7
+integration developer,XML,4,11.8
+integration developer,JavaScript,3,8.8
+integration developer,Python,3,8.8
+integration developer,JSON,3,8.8
+integration developer,DevOps,3,8.8
+integration developer,Windows,2,5.9
+integration developer,.NET,2,5.9
+integration developer,ETL,2,5.9
+integration developer,Workday,2,5.9
+integration developer,System Design,1,2.9
+integration developer,Linux,1,2.9
+ios developer,Swift,26,96.3
+ios developer,Git,5,18.5
+ios developer,GitHub,4,14.8
+ios developer,JSON,4,14.8
+ios developer,CI/CD,3,11.1
+ios developer,XML,2,7.4
+ios developer,Jira,2,7.4
+ios developer,REST API,2,7.4
+ios developer,Jenkins,2,7.4
+ios developer,Unix,1,3.7
+ios developer,React,1,3.7
+ios developer,Linux,1,3.7
+ios developer,Firebase,1,3.7
+ios developer,GitLab,1,3.7
+ios developer,GraphQL,1,3.7
+it analyst,Data Analysis,5,15.6
+it analyst,SQL,4,12.5
+it analyst,Windows,4,12.5
+it analyst,Active Directory,2,6.2
+it analyst,JavaScript,2,6.2
+it analyst,C++,1,3.1
+it analyst,Firewalls,1,3.1
+it analyst,Azure,1,3.1
+it analyst,Swift,1,3.1
+it analyst,React,1,3.1
+it analyst,Linear,1,3.1
+it analyst,XML,1,3.1
+it analyst,Salesforce,1,3.1
+it analyst,Segment,1,3.1
+it analyst,Jira,1,3.1
+it business analyst,SQL,12,8.9
+it business analyst,Excel,10,7.4
+it business analyst,Jira,9,6.7
+it business analyst,Data Analysis,7,5.2
+it business analyst,Oracle,6,4.4
+it business analyst,Salesforce,6,4.4
+it business analyst,Agile / Scrum,5,3.7
+it business analyst,Power BI,5,3.7
+it business analyst,Tableau,5,3.7
+it business analyst,Azure,4,3.0
+it business analyst,AWS,4,3.0
+it business analyst,Workday,4,3.0
+it business analyst,SAP,3,2.2
+it business analyst,Confluence,3,2.2
+it business analyst,ServiceNow,3,2.2
+it developer,SQL,10,47.6
+it developer,Azure,6,28.6
+it developer,JavaScript,4,19.0
+it developer,HTML,4,19.0
+it developer,CSS,4,19.0
+it developer,.NET,4,19.0
+it developer,AWS,3,14.3
+it developer,Linux,3,14.3
+it developer,Java,3,14.3
+it developer,DevOps,3,14.3
+it developer,jQuery,3,14.3
+it developer,Power BI,2,9.5
+it developer,SSIS,2,9.5
+it developer,Excel,2,9.5
+it developer,System Design,2,9.5
+it infrastructure engineer,Windows,12,46.2
+it infrastructure engineer,Active Directory,10,38.5
+it infrastructure engineer,VMware,8,30.8
+it infrastructure engineer,Azure,6,23.1
+it infrastructure engineer,AWS,4,15.4
+it infrastructure engineer,Firewalls,3,11.5
+it infrastructure engineer,Cybersecurity,3,11.5
+it infrastructure engineer,PowerShell,2,7.7
+it infrastructure engineer,Linux,2,7.7
+it infrastructure engineer,Terraform,2,7.7
+it infrastructure engineer,Zero Trust,1,3.8
+it infrastructure engineer,Grafana,1,3.8
+it infrastructure engineer,Kubernetes,1,3.8
+it infrastructure engineer,Splunk,1,3.8
+it infrastructure engineer,Ansible,1,3.8
+it security analyst,Incident Response,14,31.1
+it security analyst,Cybersecurity,10,22.2
+it security analyst,SIEM,9,20.0
+it security analyst,Firewalls,7,15.6
+it security analyst,Penetration Testing,6,13.3
+it security analyst,Risk Management,5,11.1
+it security analyst,Azure,4,8.9
+it security analyst,CISSP,3,6.7
+it security analyst,Splunk,3,6.7
+it security analyst,Windows,3,6.7
+it security analyst,Excel,2,4.4
+it security analyst,Active Directory,2,4.4
+it security analyst,Data Governance,2,4.4
+it security analyst,Oracle,2,4.4
+it security analyst,AWS,1,2.2
+it specialist,Windows,46,22.4
+it specialist,Active Directory,34,16.6
+it specialist,Cybersecurity,19,9.3
+it specialist,VMware,11,5.4
+it specialist,Azure,10,4.9
+it specialist,Excel,10,4.9
+it specialist,Linux,8,3.9
+it specialist,Incident Response,8,3.9
+it specialist,SQL,8,3.9
+it specialist,SAP,4,2.0
+it specialist,ServiceNow,4,2.0
+it specialist,PHP,4,2.0
+it specialist,Oracle,4,2.0
+it specialist,Firewalls,3,1.5
+it specialist,Machine Learning,3,1.5
+it support analyst,Windows,18,50.0
+it support analyst,Active Directory,13,36.1
+it support analyst,Excel,5,13.9
+it support analyst,Azure,3,8.3
+it support analyst,Linux,3,8.3
+it support analyst,SQL,2,5.6
+it support analyst,Firewalls,2,5.6
+it support analyst,ServiceNow,1,2.8
+it support analyst,Incident Response,1,2.8
+it support engineer,Windows,12,48.0
+it support engineer,Azure,8,32.0
+it support engineer,Active Directory,6,24.0
+it support engineer,Firewalls,4,16.0
+it support engineer,Linux,3,12.0
+it support engineer,AWS,2,8.0
+it support engineer,Cybersecurity,1,4.0
+it support engineer,Power BI,1,4.0
+it support engineer,SAP,1,4.0
+it support engineer,Segment,1,4.0
+it support engineer,VMware,1,4.0
+it support specialist,Windows,20,31.7
+it support specialist,Active Directory,11,17.5
+it support specialist,Azure,6,9.5
+it support specialist,ServiceNow,5,7.9
+it support specialist,Firewalls,3,4.8
+it support specialist,Cybersecurity,3,4.8
+it support specialist,Jira,2,3.2
+it support specialist,VMware,2,3.2
+it support specialist,MCP,1,1.6
+it support specialist,Machine Learning,1,1.6
+it support specialist,Incident Response,1,1.6
+it support specialist,System Design,1,1.6
+it support specialist,User Research,1,1.6
+it support specialist,SAP,1,1.6
+it support specialist,Risk Management,1,1.6
+it support technician,Windows,20,51.3
+it support technician,Active Directory,6,15.4
+it support technician,Azure,4,10.3
+it support technician,Firewalls,4,10.3
+it support technician,Excel,3,7.7
+it support technician,System Design,3,7.7
+it support technician,Jira,3,7.7
+it support technician,ServiceNow,3,7.7
+it support technician,Unix,2,5.1
+it support technician,AWS,2,5.1
+it support technician,VMware,2,5.1
+it support technician,SQL,2,5.1
+it support technician,Salesforce,1,2.6
+it support technician,Linux,1,2.6
+it support technician,MCP,1,2.6
+it systems administrator,Windows,10,40.0
+it systems administrator,Azure,9,36.0
+it systems administrator,VMware,8,32.0
+it systems administrator,Firewalls,5,20.0
+it systems administrator,Linux,5,20.0
+it systems administrator,PowerShell,3,12.0
+it systems administrator,SQL,3,12.0
+it systems administrator,AWS,2,8.0
+it systems administrator,Active Directory,2,8.0
+it systems administrator,Cybersecurity,2,8.0
+it systems administrator,DevOps,1,4.0
+it systems administrator,Oracle,1,4.0
+it systems administrator,SIEM,1,4.0
+it systems administrator,Risk Management,1,4.0
+it systems engineer,Windows,17,36.2
+it systems engineer,Linux,10,21.3
+it systems engineer,Active Directory,8,17.0
+it systems engineer,PowerShell,7,14.9
+it systems engineer,VMware,6,12.8
+it systems engineer,Azure,5,10.6
+it systems engineer,Firewalls,4,8.5
+it systems engineer,Python,3,6.4
+it systems engineer,Excel,3,6.4
+it systems engineer,Ansible,2,4.3
+it systems engineer,AWS,2,4.3
+it systems engineer,DevOps,2,4.3
+it systems engineer,Oracle,2,4.3
+it systems engineer,Terraform,1,2.1
+it systems engineer,Spring,1,2.1
+it technician,Windows,39,48.1
+it technician,Active Directory,19,23.5
+it technician,VMware,8,9.9
+it technician,Azure,8,9.9
+it technician,Linux,6,7.4
+it technician,SQL,6,7.4
+it technician,MCP,4,4.9
+it technician,Cybersecurity,4,4.9
+it technician,Firewalls,3,3.7
+it technician,Excel,3,3.7
+it technician,Unix,1,1.2
+it technician,System Design,1,1.2
+it technician,AWS,1,1.2
+it technician,Bash,1,1.2
+it technician,Power BI,1,1.2
+java developer,Java,279,94.6
+java developer,Spring,188,63.7
+java developer,Spring Boot,116,39.3
+java developer,SQL,94,31.9
+java developer,AWS,77,26.1
+java developer,Microservices,68,23.1
+java developer,Git,64,21.7
+java developer,Oracle,61,20.7
+java developer,Angular,51,17.3
+java developer,JavaScript,49,16.6
+java developer,Jenkins,41,13.9
+java developer,Docker,40,13.6
+java developer,Kubernetes,39,13.2
+java developer,Kafka,39,13.2
+java developer,DevOps,36,12.2
+java fullstack developer,Java,55,96.5
+java fullstack developer,Spring,44,77.2
+java fullstack developer,Angular,27,47.4
+java fullstack developer,JavaScript,27,47.4
+java fullstack developer,Microservices,26,45.6
+java fullstack developer,SQL,24,42.1
+java fullstack developer,Spring Boot,23,40.4
+java fullstack developer,AWS,19,33.3
+java fullstack developer,Oracle,18,31.6
+java fullstack developer,CSS,17,29.8
+java fullstack developer,React,16,28.1
+java fullstack developer,HTML,15,26.3
+java fullstack developer,Jenkins,13,22.8
+java fullstack developer,CI/CD,13,22.8
+java fullstack developer,DevOps,13,22.8
+java software engineer,Java,70,95.9
+java software engineer,DevOps,33,45.2
+java software engineer,Linux,24,32.9
+java software engineer,Spring,21,28.8
+java software engineer,AWS,16,21.9
+java software engineer,Spring Boot,15,20.5
+java software engineer,SQL,11,15.1
+java software engineer,Microservices,11,15.1
+java software engineer,JavaScript,10,13.7
+java software engineer,Angular,9,12.3
+java software engineer,Kubernetes,8,11.0
+java software engineer,Azure,7,9.6
+java software engineer,React,7,9.6
+java software engineer,MySQL,6,8.2
+java software engineer,Git,6,8.2
+jd edwards business analyst,SQL,1,33.3
+linux systems administrator,Linux,30,96.8
+linux systems administrator,Python,11,35.5
+linux systems administrator,Ansible,9,29.0
+linux systems administrator,Bash,8,25.8
+linux systems administrator,Terraform,5,16.1
+linux systems administrator,VMware,5,16.1
+linux systems administrator,Cybersecurity,5,16.1
+linux systems administrator,Unix,4,12.9
+linux systems administrator,Jira,3,9.7
+linux systems administrator,Git,3,9.7
+linux systems administrator,AWS,3,9.7
+linux systems administrator,Agile / Scrum,2,6.5
+linux systems administrator,SAP,2,6.5
+linux systems administrator,Risk Management,2,6.5
+linux systems administrator,Windows,2,6.5
+linux systems engineer,Linux,27,93.1
+linux systems engineer,Python,9,31.0
+linux systems engineer,Unix,7,24.1
+linux systems engineer,VMware,7,24.1
+linux systems engineer,Bash,7,24.1
+linux systems engineer,Ansible,7,24.1
+linux systems engineer,Git,6,20.7
+linux systems engineer,CI/CD,5,17.2
+linux systems engineer,GitLab,4,13.8
+linux systems engineer,Firewalls,4,13.8
+linux systems engineer,JSON,3,10.3
+linux systems engineer,PHP,3,10.3
+linux systems engineer,Kubernetes,3,10.3
+linux systems engineer,Azure,3,10.3
+linux systems engineer,Docker,2,6.9
+machine learning engineer,Machine Learning,136,93.2
+machine learning engineer,Python,54,37.0
+machine learning engineer,Deep Learning,35,24.0
+machine learning engineer,PyTorch,28,19.2
+machine learning engineer,Big Data,26,17.8
+machine learning engineer,TensorFlow,25,17.1
+machine learning engineer,Java,23,15.8
+machine learning engineer,AWS,20,13.7
+machine learning engineer,NLP,18,12.3
+machine learning engineer,Scala,13,8.9
+machine learning engineer,C++,11,7.5
+machine learning engineer,Spark,10,6.8
+machine learning engineer,DevOps,10,6.8
+machine learning engineer,ETL,10,6.8
+machine learning engineer,SQL,9,6.2
+machine learning scientist,Machine Learning,17,94.4
+machine learning scientist,Deep Learning,8,44.4
+machine learning scientist,NLP,4,22.2
+machine learning scientist,Spark,2,11.1
+machine learning scientist,Big Data,2,11.1
+machine learning scientist,Prototyping,2,11.1
+machine learning scientist,Data Analysis,2,11.1
+machine learning scientist,TensorFlow,2,11.1
+machine learning scientist,PyTorch,2,11.1
+machine learning scientist,Scala,1,5.6
+machine learning scientist,SQL,1,5.6
+machine learning scientist,NumPy,1,5.6
+machine learning scientist,Pandas,1,5.6
+machine learning scientist,Python,1,5.6
+machine learning scientist,XGBoost,1,5.6
+mainframe developer,SQL,16,20.0
+mainframe developer,SAS,8,10.0
+mainframe developer,Unix,7,8.8
+mainframe developer,DevOps,6,7.5
+mainframe developer,Java,5,6.2
+mainframe developer,Excel,5,6.2
+mainframe developer,Unit Testing,4,5.0
+mainframe developer,Linux,3,3.8
+mainframe developer,Data Analysis,3,3.8
+mainframe developer,Oracle,3,3.8
+mainframe developer,CI/CD,3,3.8
+mainframe developer,PostgreSQL,3,3.8
+mainframe developer,Windows,2,2.5
+mainframe developer,ServiceNow,2,2.5
+mainframe developer,Jenkins,2,2.5
+manager,Cybersecurity,7,18.9
+manager,Data Governance,4,10.8
+manager,Incident Response,4,10.8
+manager,Azure,4,10.8
+manager,Data Analysis,4,10.8
+manager,Spring,3,8.1
+manager,AWS,3,8.1
+manager,Java,3,8.1
+manager,Big Data,2,5.4
+manager,Risk Management,2,5.4
+manager,Penetration Testing,2,5.4
+manager,Oracle,2,5.4
+manager,Salesforce,1,2.7
+manager,Machine Learning,1,2.7
+manager,DevOps,1,2.7
+manager of software engineer,CI/CD,4,30.8
+manager of software engineer,Java,4,30.8
+manager of software engineer,AWS,4,30.8
+manager of software engineer,ServiceNow,2,15.4
+manager of software engineer,JavaScript,2,15.4
+manager of software engineer,Angular,2,15.4
+manager of software engineer,Cassandra,1,7.7
+manager of software engineer,Data Modeling,1,7.7
+manager of software engineer,C++,1,7.7
+manager of software engineer,Redis,1,7.7
+manager of software engineer,Python,1,7.7
+manager of software engineer,Machine Learning,1,7.7
+manager of software engineer,System Design,1,7.7
+manager of software engineer,SQL,1,7.7
+manager software engineer,DevOps,2,10.5
+manager software engineer,Workday,2,10.5
+manager software engineer,CI/CD,1,5.3
+manager software engineer,Distributed Systems,1,5.3
+manager software engineer,Java,1,5.3
+manager software engineer,AWS,1,5.3
+manager software engineer,C++,1,5.3
+manager software engineer,Unit Testing,1,5.3
+manager software engineer,Excel,1,5.3
+"manager, cyber product owner",Cybersecurity,6,100.0
+"manager, cyber risk & analysis",Machine Learning,14,100.0
+"manager, cyber risk & analysis",Risk Management,14,100.0
+"manager, cyber risk & analysis",Cybersecurity,3,21.4
+"manager, cyber technical",Azure,2,18.2
+"manager, cyber technical",AWS,2,18.2
+"manager, data engineer",Python,37,75.5
+"manager, data engineer",Snowflake,32,65.3
+"manager, data engineer",Scala,25,51.0
+"manager, data engineer",AWS,24,49.0
+"manager, data engineer",Java,23,46.9
+"manager, data engineer",NoSQL,23,46.9
+"manager, data engineer",Airflow,20,40.8
+"manager, data engineer",Data Pipeline,18,36.7
+"manager, data engineer",Azure,18,36.7
+"manager, data engineer",Big Data,18,36.7
+"manager, data engineer",Machine Learning,14,28.6
+"manager, data engineer",Spark,14,28.6
+"manager, data engineer",Angular,14,28.6
+"manager, data engineer",Redshift,12,24.5
+"manager, data engineer",Hadoop,11,22.4
+"manager, devops",DevOps,62,100.0
+"manager, devops",Jira,60,96.8
+"manager, devops",GitHub,60,96.8
+"manager, devops",Kubernetes,60,96.8
+"manager, devops",AWS,2,3.2
+"manager, devops",Azure,1,1.6
+"manager, devops",SQL,1,1.6
+"manager, devops",Snowflake,1,1.6
+"manager, devops",Dynamics 365,1,1.6
+"manager, devops",CI/CD,1,1.6
+"manager, devops",Terraform,1,1.6
+"manager, devops",Agile / Scrum,1,1.6
+"manager, information security office consultant",Risk Management,3,10.0
+"manager, machine learning engineer",Machine Learning,4,80.0
+"manager, machine learning engineer",Cybersecurity,4,80.0
+"manager, machine learning engineer",Data Pipeline,3,60.0
+"manager, platform engineer",AWS,32,88.9
+"manager, platform engineer",DevOps,24,66.7
+"manager, software engineer",Java,3,8.6
+"manager, software engineer",AWS,3,8.6
+"manager, software engineer",Python,2,5.7
+"manager, software engineer",GCP,2,5.7
+"manager, software engineer",Risk Management,2,5.7
+"manager, software engineer",Software Architecture,2,5.7
+"manager, software engineer",Azure,1,2.9
+"manager, software engineer",MySQL,1,2.9
+"manager, software engineer",Redis,1,2.9
+"manager, software engineer",Kafka,1,2.9
+"manager, software engineer",Microservices,1,2.9
+"manager, software engineer",Excel,1,2.9
+"manager, software engineer",Salesforce,1,2.9
+"manager, software engineer",Linear,1,2.9
+"manager, software engineer",Segment,1,2.9
+"manager, software engineer, backend",Java,24,92.3
+"manager, software engineer, backend",SQL,24,92.3
+"manager, software engineer, backend",Scala,23,88.5
+"manager, software engineer, backend",Python,23,88.5
+"manager, software engineer, backend",Microservices,23,88.5
+"manager, software engineer, backend",AWS,22,84.6
+"manager, software engineer, backend",Azure,19,73.1
+"manager, software engineer, backend",Kubernetes,15,57.7
+"manager, software engineer, backend",Docker,15,57.7
+"manager, software engineer, backend",NoSQL,13,50.0
+"manager, software engineer, backend",GCP,11,42.3
+"manager, software engineer, backend",Node.js,7,26.9
+"manager, software engineer, backend",Spark,3,11.5
+"manager, software engineer, backend",Flink,3,11.5
+"manager, software engineer, backend",Kafka,3,11.5
+"manager, software engineer, fullstack",Microservices,31,88.6
+"manager, software engineer, fullstack",Java,27,77.1
+"manager, software engineer, fullstack",Python,27,77.1
+"manager, software engineer, fullstack",JavaScript,27,77.1
+"manager, software engineer, fullstack",TypeScript,25,71.4
+"manager, software engineer, fullstack",SQL,25,71.4
+"manager, software engineer, fullstack",CSS,24,68.6
+"manager, software engineer, fullstack",HTML,24,68.6
+"manager, software engineer, fullstack",Kubernetes,20,57.1
+"manager, software engineer, fullstack",AWS,19,54.3
+"manager, software engineer, fullstack",Docker,16,45.7
+"manager, software engineer, fullstack",Azure,14,40.0
+"manager, software engineer, fullstack",NoSQL,14,40.0
+"manager, software engineer, fullstack",Angular,5,14.3
+"manager, software engineer, fullstack",GCP,3,8.6
+"manager, systems engineer",Cybersecurity,3,16.7
+"manager, systems engineer",System Design,1,5.6
+"manager, technical program manager",Machine Learning,9,42.9
+"manager, threat model assessor",Cybersecurity,11,42.3
+"manager, threat model assessor",AWS,5,19.2
+"manager, threat model assessor",CISSP,3,11.5
+"manager, threat model assessor",Risk Management,3,11.5
+manufacturing test engineer,C++,1,4.8
+manufacturing test engineer,SAP,1,4.8
+manufacturing test engineer,Python,1,4.8
+manufacturing test engineer,Machine Learning,1,4.8
+manufacturing test engineer,Linux,1,4.8
+marketing data analyst,SQL,8,40.0
+marketing data analyst,Tableau,8,40.0
+marketing data analyst,Google Analytics,6,30.0
+marketing data analyst,Data Analysis,5,25.0
+marketing data analyst,Data Visualization,3,15.0
+marketing data analyst,Python,3,15.0
+marketing data analyst,Excel,3,15.0
+marketing data analyst,Power BI,2,10.0
+marketing data analyst,BigQuery,2,10.0
+marketing data analyst,Salesforce,2,10.0
+marketing data analyst,Looker,2,10.0
+marketing data analyst,Segment,2,10.0
+marketing data analyst,Mixpanel,1,5.0
+marketing data analyst,Data Modeling,1,5.0
+marketing data analyst,Firebase,1,5.0
+mobile application developer,JavaScript,4,30.8
+mobile application developer,React,3,23.1
+mobile application developer,Java,3,23.1
+mobile application developer,Angular,3,23.1
+mobile application developer,TypeScript,2,15.4
+mobile application developer,Kotlin,2,15.4
+mobile application developer,Spring,2,15.4
+mobile application developer,AWS,2,15.4
+mobile application developer,Azure,2,15.4
+mobile application developer,.NET,2,15.4
+mobile application developer,DevOps,2,15.4
+mobile application developer,CI/CD,2,15.4
+mobile application developer,Firebase,1,7.7
+mobile application developer,Node.js,1,7.7
+mobile application developer,GitHub,1,7.7
+mobile developer,Kotlin,11,36.7
+mobile developer,Swift,11,36.7
+mobile developer,Java,10,33.3
+mobile developer,SQL,7,23.3
+mobile developer,React,7,23.3
+mobile developer,Git,6,20.0
+mobile developer,Azure,5,16.7
+mobile developer,.NET,5,16.7
+mobile developer,JavaScript,5,16.7
+mobile developer,DevOps,4,13.3
+mobile developer,TypeScript,4,13.3
+mobile developer,Jira,3,10.0
+mobile developer,GraphQL,3,10.0
+mobile developer,CI/CD,3,10.0
+mobile developer,Angular,2,6.7
+mobile engineer,Swift,8,42.1
+mobile engineer,Java,6,31.6
+mobile engineer,Kotlin,6,31.6
+mobile engineer,React,6,31.6
+mobile engineer,TypeScript,3,15.8
+mobile engineer,CI/CD,2,10.5
+mobile engineer,GitHub,2,10.5
+mobile engineer,Excel,2,10.5
+mobile engineer,DevOps,2,10.5
+mobile engineer,GraphQL,2,10.5
+mobile engineer,Python,1,5.3
+mobile engineer,Firebase,1,5.3
+mobile engineer,MySQL,1,5.3
+mobile engineer,System Design,1,5.3
+mobile engineer,JSON,1,5.3
+model based systems engineer,System Design,4,22.2
+model based systems engineer,Data Modeling,3,16.7
+model based systems engineer,Jira,2,11.1
+model based systems engineer,Workday,1,5.6
+model based systems engineer,Linux,1,5.6
+model based systems engineer,Windows,1,5.6
+model based systems engineer,C++,1,5.6
+model based systems engineer,Oracle,1,5.6
+model based systems engineer,SQL,1,5.6
+model based systems engineer,Excel,1,5.6
+model based systems engineer,SAP,1,5.6
+model based systems engineer,Big Data,1,5.6
+model based systems engineer,Python,1,5.6
+model based systems engineer,Confluence,1,5.6
+model based systems engineer,Segment,1,5.6
+net developer,.NET,198,91.7
+net developer,SQL,149,69.0
+net developer,JavaScript,80,37.0
+net developer,Azure,73,33.8
+net developer,Angular,60,27.8
+net developer,HTML,42,19.4
+net developer,CSS,41,19.0
+net developer,jQuery,36,16.7
+net developer,DevOps,32,14.8
+net developer,Oracle,29,13.4
+net developer,Git,28,13.0
+net developer,React,28,13.0
+net developer,Windows,27,12.5
+net developer,XML,26,12.0
+net developer,AWS,25,11.6
+network administrator,Firewalls,43,47.3
+network administrator,Windows,19,20.9
+network administrator,Cybersecurity,15,16.5
+network administrator,Active Directory,10,11.0
+network administrator,VMware,10,11.0
+network administrator,Linux,8,8.8
+network administrator,DevOps,6,6.6
+network administrator,Agile / Scrum,5,5.5
+network administrator,Azure,5,5.5
+network administrator,PowerShell,4,4.4
+network administrator,AWS,3,3.3
+network administrator,Excel,2,2.2
+network administrator,Oracle,2,2.2
+network administrator,Incident Response,1,1.1
+network administrator,Big Data,1,1.1
+network architect,Firewalls,34,23.6
+network architect,Azure,12,8.3
+network architect,AWS,11,7.6
+network architect,Ansible,9,6.2
+network architect,Python,9,6.2
+network architect,VMware,8,5.6
+network architect,Terraform,7,4.9
+network architect,GCP,4,2.8
+network architect,Cybersecurity,4,2.8
+network architect,Windows,3,2.1
+network architect,Grafana,3,2.1
+network architect,ServiceNow,3,2.1
+network architect,Zero Trust,3,2.1
+network architect,Linux,3,2.1
+network architect,System Design,3,2.1
+network automation engineer,Python,4,80.0
+network automation engineer,Ansible,4,80.0
+network automation engineer,DevOps,3,60.0
+network automation engineer,Firewalls,3,60.0
+network automation engineer,Terraform,2,40.0
+network automation engineer,CI/CD,2,40.0
+network automation engineer,AWS,1,20.0
+network automation engineer,GCP,1,20.0
+network automation engineer,Looker,1,20.0
+network automation engineer,JSON,1,20.0
+network automation engineer,BigQuery,1,20.0
+network automation engineer,Jenkins,1,20.0
+network automation engineer,PowerShell,1,20.0
+network automation engineer,GitHub,1,20.0
+network automation engineer,Git,1,20.0
+network engineer,Firewalls,280,30.8
+network engineer,Azure,63,6.9
+network engineer,VMware,60,6.6
+network engineer,Windows,55,6.1
+network engineer,AWS,52,5.7
+network engineer,Cybersecurity,51,5.6
+network engineer,Linux,48,5.3
+network engineer,Python,32,3.5
+network engineer,Active Directory,26,2.9
+network engineer,CISSP,24,2.6
+network engineer,Excel,20,2.2
+network engineer,Ansible,17,1.9
+network engineer,Splunk,15,1.7
+network engineer,Risk Management,12,1.3
+network engineer,Incident Response,11,1.2
+network security engineer,Firewalls,12,44.4
+network security engineer,Cybersecurity,5,18.5
+network security engineer,Azure,5,18.5
+network security engineer,Linux,3,11.1
+network security engineer,Windows,3,11.1
+network security engineer,AWS,2,7.4
+network security engineer,Penetration Testing,1,3.7
+network security engineer,Big Data,1,3.7
+network security engineer,CISSP,1,3.7
+network security engineer,Python,1,3.7
+network security engineer,Ruby,1,3.7
+network security engineer,ServiceNow,1,3.7
+network security engineer,Incident Response,1,3.7
+network security engineer,Zero Trust,1,3.7
+network security engineer,SIEM,1,3.7
+oracle database administrator,Oracle,22,100.0
+oracle database administrator,SQL,15,68.2
+oracle database administrator,Python,5,22.7
+oracle database administrator,Linux,5,22.7
+oracle database administrator,MongoDB,4,18.2
+oracle database administrator,AWS,3,13.6
+oracle database administrator,Unix,2,9.1
+oracle database administrator,Bash,2,9.1
+oracle database administrator,PowerShell,2,9.1
+oracle database administrator,Azure,2,9.1
+oracle database administrator,MySQL,2,9.1
+oracle database administrator,DevOps,2,9.1
+oracle database administrator,Segment,1,4.5
+oracle database administrator,Windows,1,4.5
+oracle database administrator,PostgreSQL,1,4.5
+oracle dba,Oracle,29,96.7
+oracle dba,SQL,14,46.7
+oracle dba,Linux,10,33.3
+oracle dba,AWS,4,13.3
+oracle dba,Terraform,4,13.3
+oracle dba,Ansible,4,13.3
+oracle dba,Python,3,10.0
+oracle dba,Windows,2,6.7
+oracle dba,Unix,2,6.7
+oracle dba,Jira,2,6.7
+oracle dba,Kubernetes,2,6.7
+oracle dba,Confluence,2,6.7
+oracle dba,MySQL,2,6.7
+oracle dba,Azure,2,6.7
+oracle dba,ETL,1,3.3
+pega developer,Java,4,25.0
+pega developer,Unit Testing,4,25.0
+pega developer,SQL,3,18.8
+pega developer,XML,2,12.5
+pega developer,JavaScript,2,12.5
+pega developer,CSS,1,6.2
+pega developer,.NET,1,6.2
+pega developer,Snowflake,1,6.2
+pega developer,Tableau,1,6.2
+pega developer,Unix,1,6.2
+pega developer,Linux,1,6.2
+pega developer,JSON,1,6.2
+pega developer,Oracle,1,6.2
+pega developer,HTML,1,6.2
+pega developer,Agile / Scrum,1,6.2
+penetration tester,Penetration Testing,20,83.3
+penetration tester,Cybersecurity,8,33.3
+penetration tester,Python,7,29.2
+penetration tester,Burp Suite,4,16.7
+penetration tester,Java,4,16.7
+penetration tester,CISSP,4,16.7
+penetration tester,PowerShell,3,12.5
+penetration tester,Incident Response,3,12.5
+penetration tester,AWS,3,12.5
+penetration tester,OWASP,3,12.5
+penetration tester,Linux,3,12.5
+penetration tester,Risk Management,3,12.5
+penetration tester,JavaScript,2,8.3
+penetration tester,Azure,2,8.3
+penetration tester,Firewalls,2,8.3
+php developer,PHP,46,97.9
+php developer,JavaScript,36,76.6
+php developer,MySQL,22,46.8
+php developer,AWS,18,38.3
+php developer,HTML,14,29.8
+php developer,CSS,13,27.7
+php developer,Git,12,25.5
+php developer,SQL,10,21.3
+php developer,React,9,19.1
+php developer,Vue,8,17.0
+php developer,Docker,7,14.9
+php developer,Microservices,6,12.8
+php developer,jQuery,6,12.8
+php developer,Angular,5,10.6
+php developer,Kubernetes,4,8.5
+platform engineer,AWS,44,48.9
+platform engineer,DevOps,40,44.4
+platform engineer,Python,27,30.0
+platform engineer,Terraform,21,23.3
+platform engineer,Docker,18,20.0
+platform engineer,Kubernetes,17,18.9
+platform engineer,SQL,16,17.8
+platform engineer,Jenkins,15,16.7
+platform engineer,Ruby,14,15.6
+platform engineer,GitHub,14,15.6
+platform engineer,Azure,13,14.4
+platform engineer,Ansible,13,14.4
+platform engineer,CI/CD,12,13.3
+platform engineer,Linux,11,12.2
+platform engineer,Java,11,12.2
+power bi consultant,Power BI,12,100.0
+power bi consultant,SQL,6,50.0
+power bi consultant,ETL,3,25.0
+power bi consultant,SSIS,2,16.7
+power bi consultant,Salesforce,2,16.7
+power bi consultant,Data Warehousing,2,16.7
+power bi consultant,Azure,1,8.3
+power bi consultant,Data Modeling,1,8.3
+power bi consultant,Data Visualization,1,8.3
+power bi consultant,SAP,1,8.3
+power bi consultant,Databricks,1,8.3
+power bi consultant,Excel,1,8.3
+power bi developer,Power BI,61,95.3
+power bi developer,SQL,30,46.9
+power bi developer,Data Modeling,17,26.6
+power bi developer,Data Analysis,15,23.4
+power bi developer,Data Visualization,13,20.3
+power bi developer,Azure,12,18.8
+power bi developer,ETL,12,18.8
+power bi developer,Excel,5,7.8
+power bi developer,Python,5,7.8
+power bi developer,Snowflake,5,7.8
+power bi developer,Tableau,5,7.8
+power bi developer,Data Warehousing,5,7.8
+power bi developer,Data Governance,4,6.2
+power bi developer,SSIS,4,6.2
+power bi developer,Databricks,3,4.7
+power platform developer,Azure,11,50.0
+power platform developer,SQL,10,45.5
+power platform developer,.NET,9,40.9
+power platform developer,Power BI,9,40.9
+power platform developer,JavaScript,9,40.9
+power platform developer,Dynamics 365,7,31.8
+power platform developer,HTML,5,22.7
+power platform developer,CSS,4,18.2
+power platform developer,DevOps,4,18.2
+power platform developer,Machine Learning,2,9.1
+power platform developer,Python,2,9.1
+power platform developer,jQuery,2,9.1
+power platform developer,Agile / Scrum,2,9.1
+power platform developer,SAP,1,4.5
+power platform developer,JSON,1,4.5
+power systems engineer,System Design,6,20.0
+power systems engineer,Risk Management,2,6.7
+power systems engineer,MATLAB,2,6.7
+power systems engineer,SQL,1,3.3
+power systems engineer,Python,1,3.3
+power systems engineer,Data Analysis,1,3.3
+power systems engineer,Machine Learning,1,3.3
+product analyst,SQL,4,10.5
+product analyst,Data Analysis,4,10.5
+product analyst,Jira,4,10.5
+product analyst,Tableau,3,7.9
+product analyst,Salesforce,3,7.9
+product analyst,Data Visualization,2,5.3
+product analyst,Excel,2,5.3
+product analyst,Power BI,2,5.3
+product analyst,Confluence,2,5.3
+product analyst,Spark,1,2.6
+product analyst,Google Analytics,1,2.6
+product analyst,Azure,1,2.6
+product analyst,Kubernetes,1,2.6
+product analyst,SAS,1,2.6
+product analyst,A/B Testing,1,2.6
+product designer,Figma,39,20.1
+product designer,Prototyping,35,18.0
+product designer,User Research,33,17.0
+product designer,CSS,5,2.6
+product designer,HTML,5,2.6
+product designer,Datadog,4,2.1
+product designer,Data Visualization,4,2.1
+product designer,Excel,3,1.5
+product designer,React,2,1.0
+product designer,Tableau,1,0.5
+product designer,Jira,1,0.5
+product designer,Segment,1,0.5
+product designer,Snowflake,1,0.5
+product designer,Salesforce,1,0.5
+product designer,JavaScript,1,0.5
+product developer,Data Analysis,4,12.5
+product developer,Prototyping,3,9.4
+product developer,Excel,2,6.2
+product developer,SAP,1,3.1
+product developer,User Research,1,3.1
+product manager,Segment,24,5.5
+product manager,Machine Learning,16,3.7
+product manager,User Research,11,2.5
+product manager,Excel,10,2.3
+product manager,Data Analysis,10,2.3
+product manager,Jira,7,1.6
+product manager,Big Data,7,1.6
+product manager,AWS,6,1.4
+product manager,Agile / Scrum,6,1.4
+product manager,Cybersecurity,5,1.2
+product manager,Oracle,4,0.9
+product manager,Prototyping,4,0.9
+product manager,Confluence,4,0.9
+product manager,Azure,3,0.7
+product manager,NLP,3,0.7
+product owner,Jira,6,25.0
+product owner,Confluence,3,12.5
+product owner,Figma,1,4.2
+product owner,Azure,1,4.2
+product owner,DevOps,1,4.2
+product owner,Kanban,1,4.2
+product owner,Risk Management,1,4.2
+product owner,Data Governance,1,4.2
+product owner,Windows,1,4.2
+product owner,SQL,1,4.2
+product owner,.NET,1,4.2
+product owner,XML,1,4.2
+programmer,C++,16,32.0
+programmer,SQL,9,18.0
+programmer,JavaScript,7,14.0
+programmer,Java,6,12.0
+programmer,Git,5,10.0
+programmer,.NET,5,10.0
+programmer,CSS,5,10.0
+programmer,HTML,4,8.0
+programmer,SSIS,3,6.0
+programmer,Linux,2,4.0
+programmer,Python,2,4.0
+programmer,System Design,2,4.0
+programmer,MySQL,2,4.0
+programmer,PHP,2,4.0
+programmer,JSON,2,4.0
+programmer analyst,SQL,33,38.4
+programmer analyst,Oracle,17,19.8
+programmer analyst,.NET,16,18.6
+programmer analyst,Java,11,12.8
+programmer analyst,JavaScript,9,10.5
+programmer analyst,C++,7,8.1
+programmer analyst,SAP,6,7.0
+programmer analyst,Excel,6,7.0
+programmer analyst,Unix,4,4.7
+programmer analyst,HTML,4,4.7
+programmer analyst,Data Modeling,4,4.7
+programmer analyst,Azure,4,4.7
+programmer analyst,jQuery,4,4.7
+programmer analyst,CSS,4,4.7
+programmer analyst,Windows,4,4.7
+python developer,Python,95,99.0
+python developer,SQL,35,36.5
+python developer,Django,23,24.0
+python developer,AWS,23,24.0
+python developer,Flask,22,22.9
+python developer,Docker,17,17.7
+python developer,Git,17,17.7
+python developer,Linux,14,14.6
+python developer,ETL,13,13.5
+python developer,Pandas,12,12.5
+python developer,Kubernetes,12,12.5
+python developer,CI/CD,12,12.5
+python developer,JavaScript,12,12.5
+python developer,Machine Learning,11,11.5
+python developer,HTML,11,11.5
+quality assurance analyst,SQL,22,23.2
+quality assurance analyst,Jira,16,16.8
+quality assurance analyst,Java,12,12.6
+quality assurance analyst,Agile / Scrum,8,8.4
+quality assurance analyst,Excel,7,7.4
+quality assurance analyst,Azure,6,6.3
+quality assurance analyst,DevOps,5,5.3
+quality assurance analyst,Oracle,4,4.2
+quality assurance analyst,CI/CD,4,4.2
+quality assurance analyst,Data Analysis,3,3.2
+quality assurance analyst,XML,3,3.2
+quality assurance analyst,Windows,3,3.2
+quality assurance analyst,Unix,3,3.2
+quality assurance analyst,Jenkins,3,3.2
+quality assurance analyst,Salesforce,2,2.1
+quality assurance automation,Java,13,56.5
+quality assurance automation,SQL,5,21.7
+quality assurance automation,Jira,3,13.0
+quality assurance automation,Git,3,13.0
+quality assurance automation,Data Analysis,2,8.7
+quality assurance automation,AWS,2,8.7
+quality assurance automation,Jenkins,2,8.7
+quality assurance automation,Azure,2,8.7
+quality assurance automation,.NET,2,8.7
+quality assurance automation,JavaScript,2,8.7
+quality assurance automation,CI/CD,2,8.7
+quality assurance automation,React,1,4.3
+quality assurance automation,Bash,1,4.3
+quality assurance automation,Confluence,1,4.3
+quality assurance automation,GitHub,1,4.3
+quality assurance automation engineer,Java,14,25.0
+quality assurance automation engineer,JavaScript,14,25.0
+quality assurance automation engineer,SQL,9,16.1
+quality assurance automation engineer,Azure,8,14.3
+quality assurance automation engineer,Jira,7,12.5
+quality assurance automation engineer,Git,7,12.5
+quality assurance automation engineer,CI/CD,7,12.5
+quality assurance automation engineer,Python,7,12.5
+quality assurance automation engineer,.NET,6,10.7
+quality assurance automation engineer,Linux,5,8.9
+quality assurance automation engineer,DevOps,5,8.9
+quality assurance automation engineer,Jenkins,5,8.9
+quality assurance automation engineer,AWS,4,7.1
+quality assurance automation engineer,Windows,4,7.1
+quality assurance automation engineer,Docker,3,5.4
+quality assurance engineer,SQL,22,11.3
+quality assurance engineer,DevOps,22,11.3
+quality assurance engineer,Azure,17,8.8
+quality assurance engineer,Java,15,7.7
+quality assurance engineer,Jira,14,7.2
+quality assurance engineer,Python,12,6.2
+quality assurance engineer,Risk Management,10,5.2
+quality assurance engineer,CI/CD,10,5.2
+quality assurance engineer,Data Analysis,8,4.1
+quality assurance engineer,Git,7,3.6
+quality assurance engineer,JavaScript,7,3.6
+quality assurance engineer,.NET,6,3.1
+quality assurance engineer,AWS,5,2.6
+quality assurance engineer,Unit Testing,5,2.6
+quality assurance engineer,ETL,5,2.6
+react developer,React,31,91.2
+react developer,JavaScript,20,58.8
+react developer,CSS,16,47.1
+react developer,HTML,13,38.2
+react developer,Git,5,14.7
+react developer,TypeScript,5,14.7
+react developer,JSON,5,14.7
+react developer,Node.js,4,11.8
+react developer,Java,4,11.8
+react developer,DevOps,4,11.8
+react developer,AWS,3,8.8
+react developer,CI/CD,3,8.8
+react developer,GraphQL,3,8.8
+react developer,Python,3,8.8
+react developer,Jenkins,3,8.8
+research data analyst,Data Analysis,16,44.4
+research data analyst,Python,5,13.9
+research data analyst,SAS,5,13.9
+research data analyst,Statistical Analysis,5,13.9
+research data analyst,Big Data,4,11.1
+research data analyst,Machine Learning,4,11.1
+research data analyst,Excel,3,8.3
+research data analyst,Data Visualization,3,8.3
+research data analyst,C++,3,8.3
+research data analyst,Deep Learning,3,8.3
+research data analyst,SQL,2,5.6
+research data analyst,Linear,2,5.6
+research data analyst,Workday,2,5.6
+research data analyst,Power BI,1,2.8
+research data analyst,Tableau,1,2.8
+research scientist,Machine Learning,45,12.5
+research scientist,Data Analysis,38,10.6
+research scientist,Python,33,9.2
+research scientist,C++,19,5.3
+research scientist,Deep Learning,18,5.0
+research scientist,Workday,12,3.3
+research scientist,Statistical Analysis,9,2.5
+research scientist,MATLAB,7,1.9
+research scientist,Linux,7,1.9
+research scientist,PyTorch,6,1.7
+research scientist,SQL,6,1.7
+research scientist,TensorFlow,6,1.7
+research scientist,SAS,6,1.7
+research scientist,Linear,5,1.4
+research scientist,Excel,5,1.4
+research scientist/engineer,Machine Learning,2,10.0
+research scientist/engineer,Deep Learning,1,5.0
+research scientist/engineer,HTML,1,5.0
+research scientist/engineer,Excel,1,5.0
+research scientist/engineer,Cybersecurity,1,5.0
+retail frontend supervisor,Spring,15,3.3
+robotics software engineer,C++,7,35.0
+robotics software engineer,Python,5,25.0
+robotics software engineer,Data Analysis,2,10.0
+robotics software engineer,JavaScript,2,10.0
+robotics software engineer,Machine Learning,2,10.0
+robotics software engineer,Linux,1,5.0
+robotics software engineer,Prototyping,1,5.0
+robotics software engineer,Docker,1,5.0
+robotics software engineer,CI/CD,1,5.0
+robotics software engineer,Git,1,5.0
+salesforce business analyst,Salesforce,31,93.9
+salesforce business analyst,Jira,4,12.1
+salesforce business analyst,Power BI,3,9.1
+salesforce business analyst,Agile / Scrum,1,3.0
+salesforce business analyst,Segment,1,3.0
+salesforce business analyst,Data Governance,1,3.0
+salesforce business analyst,MuleSoft,1,3.0
+salesforce developer,Salesforce,144,98.6
+salesforce developer,JavaScript,35,24.0
+salesforce developer,CSS,19,13.0
+salesforce developer,Java,19,13.0
+salesforce developer,HTML,16,11.0
+salesforce developer,Jira,14,9.6
+salesforce developer,SQL,13,8.9
+salesforce developer,Unit Testing,13,8.9
+salesforce developer,DevOps,12,8.2
+salesforce developer,Git,11,7.5
+salesforce developer,CI/CD,9,6.2
+salesforce developer,Jenkins,8,5.5
+salesforce developer,jQuery,7,4.8
+salesforce developer,MuleSoft,7,4.8
+salesforce developer,ETL,6,4.1
+sap abap developer,SAP,20,100.0
+sap abap developer,Unit Testing,2,10.0
+sap abap developer,Java,2,10.0
+sap abap developer,Jenkins,1,5.0
+sap abap developer,CI/CD,1,5.0
+sap abap developer,HTML,1,5.0
+sap abap developer,SQL,1,5.0
+sap business analyst,SAP,25,100.0
+sap business analyst,React,6,24.0
+sap business analyst,Unit Testing,3,12.0
+sap business analyst,System Design,2,8.0
+sap business analyst,Python,1,4.0
+sap business analyst,SQL,1,4.0
+sap business analyst,SSIS,1,4.0
+sap business analyst,ETL,1,4.0
+sap business analyst,Dynamics 365,1,4.0
+sap business analyst,Agile / Scrum,1,4.0
+scrum master,Jira,16,25.8
+scrum master,Kanban,10,16.1
+scrum master,Agile / Scrum,9,14.5
+scrum master,Confluence,8,12.9
+scrum master,DevOps,4,6.5
+scrum master,ServiceNow,3,4.8
+scrum master,Azure,3,4.8
+scrum master,Cybersecurity,2,3.2
+scrum master,Risk Management,2,3.2
+scrum master,Excel,2,3.2
+scrum master,User Research,1,1.6
+scrum master,Spring,1,1.6
+scrum master,Microservices,1,1.6
+scrum master,Java,1,1.6
+scrum master,GitHub,1,1.6
+sdet,Java,18,45.0
+sdet,SQL,11,27.5
+sdet,Jenkins,10,25.0
+sdet,Python,7,17.5
+sdet,CI/CD,7,17.5
+sdet,DevOps,6,15.0
+sdet,Azure,6,15.0
+sdet,Agile / Scrum,5,12.5
+sdet,Jira,5,12.5
+sdet,AWS,5,12.5
+sdet,ETL,4,10.0
+sdet,Git,4,10.0
+sdet,GitHub,4,10.0
+sdet,Microservices,4,10.0
+sdet,React,3,7.5
+security analyst,Incident Response,37,25.2
+security analyst,Cybersecurity,35,23.8
+security analyst,SIEM,25,17.0
+security analyst,Risk Management,24,16.3
+security analyst,Firewalls,20,13.6
+security analyst,Penetration Testing,12,8.2
+security analyst,Azure,11,7.5
+security analyst,Splunk,11,7.5
+security analyst,Active Directory,10,6.8
+security analyst,Windows,8,5.4
+security analyst,Python,7,4.8
+security analyst,Linux,5,3.4
+security analyst,PowerShell,5,3.4
+security analyst,Data Analysis,5,3.4
+security analyst,CISSP,5,3.4
+security architect,Cybersecurity,19,33.9
+security architect,Risk Management,10,17.9
+security architect,Firewalls,8,14.3
+security architect,Linux,6,10.7
+security architect,Windows,5,8.9
+security architect,Zero Trust,5,8.9
+security architect,AWS,5,8.9
+security architect,SIEM,5,8.9
+security architect,Penetration Testing,4,7.1
+security architect,DevOps,4,7.1
+security architect,Azure,4,7.1
+security architect,Incident Response,4,7.1
+security architect,Unix,3,5.4
+security architect,Splunk,2,3.6
+security architect,VMware,2,3.6
+security engineer,Cybersecurity,26,20.2
+security engineer,Incident Response,24,18.6
+security engineer,Firewalls,19,14.7
+security engineer,SIEM,14,10.9
+security engineer,Risk Management,13,10.1
+security engineer,Penetration Testing,12,9.3
+security engineer,AWS,11,8.5
+security engineer,Linux,10,7.8
+security engineer,Azure,10,7.8
+security engineer,CISSP,10,7.8
+security engineer,Windows,7,5.4
+security engineer,Python,7,5.4
+security engineer,SQL,6,4.7
+security engineer,DevOps,6,4.7
+security engineer,Bash,5,3.9
+security operations analyst,ServiceNow,66,83.5
+security operations analyst,Incident Response,6,7.6
+security operations analyst,Cybersecurity,4,5.1
+security operations analyst,Windows,3,3.8
+security operations analyst,Linux,2,2.5
+security operations analyst,SIEM,2,2.5
+security operations analyst,Penetration Testing,1,1.3
+security operations analyst,BigQuery,1,1.3
+security operations analyst,Python,1,1.3
+security operations analyst,SQL,1,1.3
+security operations analyst,PowerShell,1,1.3
+security operations analyst,Firewalls,1,1.3
+security operations manager,Incident Response,7,23.3
+security operations manager,SIEM,3,10.0
+security operations manager,Cybersecurity,2,6.7
+security operations manager,CISSP,1,3.3
+security operations manager,Splunk,1,3.3
+security operations manager,Excel,1,3.3
+security operations manager,Segment,1,3.3
+service desk analyst,Windows,19,41.3
+service desk analyst,Active Directory,16,34.8
+service desk analyst,Azure,5,10.9
+service desk analyst,ServiceNow,5,10.9
+service desk analyst,Excel,3,6.5
+service desk analyst,Firewalls,3,6.5
+service desk analyst,Workday,1,2.2
+service desk analyst,Salesforce,1,2.2
+service desk analyst,Unix,1,2.2
+service desk analyst,Linux,1,2.2
+service desk analyst,Oracle,1,2.2
+service desk manager,Azure,3,9.1
+service desk manager,Windows,3,9.1
+service desk manager,VMware,2,6.1
+service desk manager,System Design,2,6.1
+service desk manager,AWS,1,3.0
+service desk manager,Linux,1,3.0
+service desk manager,Terraform,1,3.0
+service desk manager,Ansible,1,3.0
+service desk manager,ServiceNow,1,3.0
+service desk manager,Incident Response,1,3.0
+servicenow business analyst,ServiceNow,19,100.0
+servicenow business analyst,DevOps,4,21.1
+servicenow business analyst,System Design,2,10.5
+servicenow business analyst,Jira,1,5.3
+servicenow business analyst,Agile / Scrum,1,5.3
+servicenow developer,ServiceNow,65,95.6
+servicenow developer,JavaScript,11,16.2
+servicenow developer,CSS,6,8.8
+servicenow developer,HTML,6,8.8
+servicenow developer,Unit Testing,5,7.4
+servicenow developer,PowerShell,5,7.4
+servicenow developer,GCP,4,5.9
+servicenow developer,Agile / Scrum,3,4.4
+servicenow developer,React,3,4.4
+servicenow developer,Java,3,4.4
+servicenow developer,Oracle,3,4.4
+servicenow developer,XML,3,4.4
+servicenow developer,System Design,2,2.9
+servicenow developer,REST API,2,2.9
+servicenow developer,SQL,2,2.9
+sharepoint developer,Azure,8,29.6
+sharepoint developer,JavaScript,6,22.2
+sharepoint developer,DevOps,5,18.5
+sharepoint developer,jQuery,5,18.5
+sharepoint developer,CSS,5,18.5
+sharepoint developer,HTML,5,18.5
+sharepoint developer,.NET,4,14.8
+sharepoint developer,Power BI,4,14.8
+sharepoint developer,PowerShell,3,11.1
+sharepoint developer,React,3,11.1
+sharepoint developer,Active Directory,2,7.4
+sharepoint developer,Excel,2,7.4
+sharepoint developer,SQL,2,7.4
+sharepoint developer,XML,2,7.4
+sharepoint developer,CI/CD,1,3.7
+site reliability engineer,AWS,76,37.8
+site reliability engineer,Kubernetes,67,33.3
+site reliability engineer,Python,63,31.3
+site reliability engineer,Linux,58,28.9
+site reliability engineer,DevOps,57,28.4
+site reliability engineer,Terraform,49,24.4
+site reliability engineer,CI/CD,45,22.4
+site reliability engineer,Java,37,18.4
+site reliability engineer,Azure,33,16.4
+site reliability engineer,Docker,30,14.9
+site reliability engineer,Ansible,30,14.9
+site reliability engineer,Jenkins,28,13.9
+site reliability engineer,Unix,26,12.9
+site reliability engineer,SQL,22,10.9
+site reliability engineer,GCP,21,10.4
+snowflake developer,Snowflake,20,100.0
+snowflake developer,Azure,13,65.0
+snowflake developer,Python,13,65.0
+snowflake developer,SQL,10,50.0
+snowflake developer,Databricks,8,40.0
+snowflake developer,Data Warehousing,8,40.0
+snowflake developer,Data Pipeline,8,40.0
+snowflake developer,Data Modeling,7,35.0
+snowflake developer,Unix,6,30.0
+snowflake developer,ETL,6,30.0
+snowflake developer,dbt,5,25.0
+snowflake developer,AWS,3,15.0
+snowflake developer,Oracle,2,10.0
+snowflake developer,Spark,2,10.0
+snowflake developer,Java,2,10.0
+soc analyst,SIEM,20,64.5
+soc analyst,Incident Response,18,58.1
+soc analyst,Cybersecurity,14,45.2
+soc analyst,Splunk,13,41.9
+soc analyst,Linux,3,9.7
+soc analyst,Windows,3,9.7
+soc analyst,Active Directory,3,9.7
+soc analyst,AWS,3,9.7
+soc analyst,Azure,3,9.7
+soc analyst,Data Visualization,2,6.5
+soc analyst,Big Data,2,6.5
+soc analyst,Penetration Testing,2,6.5
+soc analyst,CISSP,2,6.5
+soc analyst,Firewalls,2,6.5
+soc analyst,Python,2,6.5
+software architect,Software Architecture,38,32.2
+software architect,Java,17,14.4
+software architect,.NET,15,12.7
+software architect,SQL,15,12.7
+software architect,C++,11,9.3
+software architect,Azure,10,8.5
+software architect,JavaScript,9,7.6
+software architect,Oracle,8,6.8
+software architect,Angular,7,5.9
+software architect,Python,7,5.9
+software architect,CI/CD,7,5.9
+software architect,DevOps,7,5.9
+software architect,Linux,7,5.9
+software architect,AWS,6,5.1
+software architect,React,6,5.1
+software developer,SQL,142,27.1
+software developer,Java,124,23.7
+software developer,.NET,116,22.1
+software developer,JavaScript,110,21.0
+software developer,Python,104,19.8
+software developer,C++,82,15.6
+software developer,DevOps,73,13.9
+software developer,AWS,68,13.0
+software developer,Angular,59,11.3
+software developer,CSS,56,10.7
+software developer,HTML,56,10.7
+software developer,Linux,55,10.5
+software developer,Azure,55,10.5
+software developer,Git,48,9.2
+software developer,Oracle,41,7.8
+software engineer,Java,691,21.5
+software engineer,Python,616,19.1
+software engineer,C++,527,16.4
+software engineer,JavaScript,500,15.5
+software engineer,SQL,460,14.3
+software engineer,AWS,427,13.3
+software engineer,React,346,10.7
+software engineer,Linux,333,10.3
+software engineer,.NET,265,8.2
+software engineer,DevOps,254,7.9
+software engineer,Azure,253,7.9
+software engineer,TypeScript,231,7.2
+software engineer,Angular,218,6.8
+software engineer,Docker,209,6.5
+software engineer,Git,207,6.4
+software engineer in test,Java,6,26.1
+software engineer in test,Python,6,26.1
+software engineer in test,CI/CD,5,21.7
+software engineer in test,AWS,4,17.4
+software engineer in test,Jira,4,17.4
+software engineer in test,SQL,4,17.4
+software engineer in test,Linux,3,13.0
+software engineer in test,Jenkins,3,13.0
+software engineer in test,Cybersecurity,3,13.0
+software engineer in test,JavaScript,2,8.7
+software engineer in test,DevOps,2,8.7
+software engineer in test,Data Analysis,1,4.3
+software engineer in test,Docker,1,4.3
+software engineer in test,Spring,1,4.3
+software engineer in test,TypeScript,1,4.3
+software engineer manager,DevOps,10,13.0
+software engineer manager,AWS,8,10.4
+software engineer manager,SQL,6,7.8
+software engineer manager,C++,6,7.8
+software engineer manager,.NET,5,6.5
+software engineer manager,JavaScript,5,6.5
+software engineer manager,Azure,3,3.9
+software engineer manager,Windows,3,3.9
+software engineer manager,Unit Testing,3,3.9
+software engineer manager,Software Architecture,3,3.9
+software engineer manager,Python,3,3.9
+software engineer manager,Linux,3,3.9
+software engineer manager,Java,3,3.9
+software engineer manager,Segment,2,2.6
+software engineer manager,Big Data,2,2.6
+"software engineer, android",Kotlin,15,33.3
+"software engineer, android",Swift,10,22.2
+"software engineer, android",Java,3,6.7
+"software engineer, android",Salesforce,1,2.2
+"software engineer, android",Machine Learning,1,2.2
+"software engineer, android",Workday,1,2.2
+"software engineer, android",System Design,1,2.2
+"software engineer, android",GraphQL,1,2.2
+"software engineer, backend",Python,177,83.5
+"software engineer, backend",Java,164,77.4
+"software engineer, backend",AWS,161,75.9
+"software engineer, backend",Scala,155,73.1
+"software engineer, backend",SQL,149,70.3
+"software engineer, backend",Docker,79,37.3
+"software engineer, backend",NoSQL,78,36.8
+"software engineer, backend",Kubernetes,74,34.9
+"software engineer, backend",Azure,74,34.9
+"software engineer, backend",Node.js,65,30.7
+"software engineer, backend",GCP,60,28.3
+"software engineer, backend",Microservices,49,23.1
+"software engineer, backend",Machine Learning,21,9.9
+"software engineer, backend",Spark,20,9.4
+"software engineer, backend",Splunk,9,4.2
+"software engineer, devops",DevOps,22,100.0
+"software engineer, devops",SQL,19,86.4
+"software engineer, devops",AWS,17,77.3
+"software engineer, devops",Terraform,17,77.3
+"software engineer, devops",Java,16,72.7
+"software engineer, devops",Python,15,68.2
+"software engineer, devops",Ruby,15,68.2
+"software engineer, devops",Docker,14,63.6
+"software engineer, devops",Kubernetes,13,59.1
+"software engineer, devops",Ansible,13,59.1
+"software engineer, devops",Unix,8,36.4
+"software engineer, devops",Azure,8,36.4
+"software engineer, devops",Linux,8,36.4
+"software engineer, devops",Jenkins,4,18.2
+"software engineer, devops",PowerShell,4,18.2
+"software engineer, frontend",Microservices,28,77.8
+"software engineer, frontend",React,25,69.4
+"software engineer, frontend",TypeScript,23,63.9
+"software engineer, frontend",JavaScript,23,63.9
+"software engineer, frontend",Angular,20,55.6
+"software engineer, frontend",Java,19,52.8
+"software engineer, frontend",CSS,19,52.8
+"software engineer, frontend",HTML,19,52.8
+"software engineer, frontend",AWS,17,47.2
+"software engineer, frontend",Azure,15,41.7
+"software engineer, frontend",Machine Learning,7,19.4
+"software engineer, frontend",GCP,4,11.1
+"software engineer, frontend",Salesforce,2,5.6
+"software engineer, frontend",GraphQL,2,5.6
+"software engineer, frontend",Firebase,1,2.8
+"software engineer, fullstack",Java,192,80.3
+"software engineer, fullstack",SQL,179,74.9
+"software engineer, fullstack",JavaScript,178,74.5
+"software engineer, fullstack",Python,175,73.2
+"software engineer, fullstack",AWS,170,71.1
+"software engineer, fullstack",TypeScript,168,70.3
+"software engineer, fullstack",CSS,161,67.4
+"software engineer, fullstack",HTML,161,67.4
+"software engineer, fullstack",Microservices,101,42.3
+"software engineer, fullstack",Azure,95,39.7
+"software engineer, fullstack",NoSQL,76,31.8
+"software engineer, fullstack",Docker,73,30.5
+"software engineer, fullstack",Kubernetes,68,28.5
+"software engineer, fullstack",GCP,56,23.4
+"software engineer, fullstack",Angular,55,23.0
+software quality assurance engineer,Python,4,19.0
+software quality assurance engineer,Java,4,19.0
+software quality assurance engineer,SQL,4,19.0
+software quality assurance engineer,JavaScript,3,14.3
+software quality assurance engineer,Microservices,1,4.8
+software quality assurance engineer,Oracle,1,4.8
+software quality assurance engineer,PowerShell,1,4.8
+software quality assurance engineer,CI/CD,1,4.8
+software quality assurance engineer,Rust,1,4.8
+software quality assurance engineer,.NET,1,4.8
+software quality assurance engineer,Windows,1,4.8
+software systems engineer,C++,6,28.6
+software systems engineer,Python,4,19.0
+software systems engineer,System Design,4,19.0
+software systems engineer,SQL,3,14.3
+software systems engineer,Git,3,14.3
+software systems engineer,Unix,3,14.3
+software systems engineer,Linux,3,14.3
+software systems engineer,Java,2,9.5
+software systems engineer,JavaScript,2,9.5
+software systems engineer,Windows,2,9.5
+software systems engineer,Big Data,2,9.5
+software systems engineer,XML,2,9.5
+software systems engineer,HTML,2,9.5
+software systems engineer,NoSQL,1,4.8
+software systems engineer,CI/CD,1,4.8
+software test engineer,Python,18,22.0
+software test engineer,C++,12,14.6
+software test engineer,Jira,9,11.0
+software test engineer,Linux,8,9.8
+software test engineer,Confluence,6,7.3
+software test engineer,Cybersecurity,6,7.3
+software test engineer,Java,5,6.1
+software test engineer,SQL,4,4.9
+software test engineer,DevOps,4,4.9
+software test engineer,Jenkins,4,4.9
+software test engineer,GitLab,3,3.7
+software test engineer,ETL,2,2.4
+software test engineer,Excel,2,2.4
+software test engineer,XML,2,2.4
+software test engineer,Git,2,2.4
+solutions architect,Azure,39,18.1
+solutions architect,AWS,22,10.2
+solutions architect,Java,20,9.3
+solutions architect,SQL,20,9.3
+solutions architect,JavaScript,11,5.1
+solutions architect,React,11,5.1
+solutions architect,CI/CD,11,5.1
+solutions architect,.NET,11,5.1
+solutions architect,DevOps,10,4.6
+solutions architect,Microservices,10,4.6
+solutions architect,VMware,9,4.2
+solutions architect,Kafka,8,3.7
+solutions architect,Python,8,3.7
+solutions architect,HTML,8,3.7
+solutions architect,XML,8,3.7
+sql database administrator,SQL,24,100.0
+sql database administrator,SSIS,11,45.8
+sql database administrator,Windows,10,41.7
+sql database administrator,Data Modeling,7,29.2
+sql database administrator,Azure,7,29.2
+sql database administrator,ETL,4,16.7
+sql database administrator,Oracle,4,16.7
+sql database administrator,VMware,3,12.5
+sql database administrator,Power BI,2,8.3
+sql database administrator,Jira,2,8.3
+sql database administrator,Dynamics 365,1,4.2
+sql database administrator,Linux,1,4.2
+sql database administrator,MySQL,1,4.2
+sql database administrator,Excel,1,4.2
+sql database administrator,Active Directory,1,4.2
+sql developer,SQL,26,100.0
+sql developer,SSIS,12,46.2
+sql developer,ETL,8,30.8
+sql developer,Azure,5,19.2
+sql developer,Oracle,5,19.2
+sql developer,Data Modeling,5,19.2
+sql developer,Excel,4,15.4
+sql developer,Data Warehousing,3,11.5
+sql developer,Power BI,2,7.7
+sql developer,HTML,2,7.7
+sql developer,JavaScript,2,7.7
+sql developer,.NET,2,7.7
+sql developer,Snowflake,2,7.7
+sql developer,Windows,2,7.7
+sql developer,Java,2,7.7
+systems administrator,Windows,305,47.7
+systems administrator,Active Directory,164,25.6
+systems administrator,VMware,155,24.2
+systems administrator,Linux,140,21.9
+systems administrator,Azure,96,15.0
+systems administrator,Firewalls,75,11.7
+systems administrator,SQL,53,8.3
+systems administrator,Unix,52,8.1
+systems administrator,Cybersecurity,50,7.8
+systems administrator,PowerShell,40,6.2
+systems administrator,AWS,31,4.8
+systems administrator,Distributed Systems,17,2.7
+systems administrator,Risk Management,16,2.5
+systems administrator,Oracle,15,2.3
+systems administrator,Python,13,2.0
+systems engineer,System Design,157,11.0
+systems engineer,Windows,127,8.9
+systems engineer,VMware,97,6.8
+systems engineer,Linux,95,6.7
+systems engineer,Risk Management,81,5.7
+systems engineer,Active Directory,76,5.3
+systems engineer,Cybersecurity,76,5.3
+systems engineer,Azure,62,4.4
+systems engineer,Python,49,3.4
+systems engineer,MATLAB,42,3.0
+systems engineer,Excel,41,2.9
+systems engineer,Firewalls,41,2.9
+systems engineer,AWS,36,2.5
+systems engineer,Data Analysis,34,2.4
+systems engineer,SQL,33,2.3
+systems engineer manager,System Design,2,6.9
+systems engineer manager,Risk Management,2,6.9
+systems engineer manager,Segment,2,6.9
+systems engineer manager,Software Architecture,1,3.4
+systems engineer manager,Cybersecurity,1,3.4
+systems engineer manager,Excel,1,3.4
+systems engineer manager,MATLAB,1,3.4
+systems engineer manager,Azure,1,3.4
+systems engineer manager,Active Directory,1,3.4
+systems engineer manager,VMware,1,3.4
+systems engineer manager,PowerShell,1,3.4
+systems software engineer,Linux,10,32.3
+systems software engineer,C++,8,25.8
+systems software engineer,Python,5,16.1
+systems software engineer,Software Architecture,5,16.1
+systems software engineer,CI/CD,4,12.9
+systems software engineer,Windows,4,12.9
+systems software engineer,Rust,3,9.7
+systems software engineer,Unix,2,6.5
+systems software engineer,System Design,2,6.5
+systems software engineer,Deep Learning,2,6.5
+systems software engineer,Prototyping,2,6.5
+systems software engineer,Docker,2,6.5
+systems software engineer,Distributed Systems,2,6.5
+systems software engineer,Java,2,6.5
+systems software engineer,JavaScript,2,6.5
+systems test engineer,Python,8,15.1
+systems test engineer,Linux,5,9.4
+systems test engineer,Data Analysis,5,9.4
+systems test engineer,Jira,3,5.7
+systems test engineer,C++,3,5.7
+systems test engineer,SAP,2,3.8
+systems test engineer,Cybersecurity,2,3.8
+systems test engineer,Excel,1,1.9
+systems test engineer,Confluence,1,1.9
+systems test engineer,Prototyping,1,1.9
+systems test engineer,JavaScript,1,1.9
+systems test engineer,System Design,1,1.9
+systems test engineer,Azure,1,1.9
+systems test engineer,Machine Learning,1,1.9
+systems test engineer,Distributed Systems,1,1.9
+tableau developer,Tableau,19,95.0
+tableau developer,SQL,13,65.0
+tableau developer,Data Visualization,5,25.0
+tableau developer,Data Analysis,5,25.0
+tableau developer,ETL,4,20.0
+tableau developer,AWS,3,15.0
+tableau developer,Python,3,15.0
+tableau developer,Data Modeling,2,10.0
+tableau developer,Alteryx,1,5.0
+tableau developer,Linux,1,5.0
+tableau developer,Windows,1,5.0
+tableau developer,PostgreSQL,1,5.0
+tableau developer,Ansible,1,5.0
+tableau developer,Java,1,5.0
+tableau developer,Unit Testing,1,5.0
+technical business analyst,SQL,15,16.9
+technical business analyst,Jira,10,11.2
+technical business analyst,Data Analysis,9,10.1
+technical business analyst,Azure,6,6.7
+technical business analyst,DevOps,6,6.7
+technical business analyst,.NET,6,6.7
+technical business analyst,Agile / Scrum,6,6.7
+technical business analyst,Excel,5,5.6
+technical business analyst,AWS,5,5.6
+technical business analyst,Java,5,5.6
+technical business analyst,Python,4,4.5
+technical business analyst,ETL,3,3.4
+technical business analyst,Confluence,3,3.4
+technical business analyst,Linux,3,3.4
+technical business analyst,Kafka,3,3.4
+technical product manager,AWS,3,6.2
+technical product manager,Microservices,3,6.2
+technical product manager,Azure,2,4.2
+technical product manager,React,2,4.2
+technical product manager,Java,2,4.2
+technical product manager,Python,2,4.2
+technical product manager,Machine Learning,2,4.2
+technical product manager,SAP,2,4.2
+technical product manager,Cybersecurity,2,4.2
+technical product manager,NLP,1,2.1
+technical product manager,Angular,1,2.1
+technical product manager,SQL,1,2.1
+technical product manager,Big Data,1,2.1
+technical product manager,Oracle,1,2.1
+technical product manager,Salesforce,1,2.1
+technical program manager,Cybersecurity,13,9.1
+technical program manager,Risk Management,11,7.7
+technical program manager,Machine Learning,7,4.9
+technical program manager,AWS,7,4.9
+technical program manager,Azure,6,4.2
+technical program manager,Jira,6,4.2
+technical program manager,DevOps,5,3.5
+technical program manager,System Design,4,2.8
+technical program manager,Excel,4,2.8
+technical program manager,Oracle,3,2.1
+technical program manager,Data Analysis,3,2.1
+technical program manager,Python,3,2.1
+technical program manager,Java,3,2.1
+technical program manager,Prototyping,3,2.1
+technical program manager,Distributed Systems,2,1.4
+technical support,Windows,4,16.0
+technical support,Machine Learning,4,16.0
+technical support,Active Directory,2,8.0
+technical support,Data Analysis,1,4.0
+technical support,Data Modeling,1,4.0
+technical support,Azure,1,4.0
+technical support,ServiceNow,1,4.0
+technical support,Oracle,1,4.0
+technical support,SQL,1,4.0
+technical support,PowerShell,1,4.0
+technical support,ETL,1,4.0
+technical support,Segment,1,4.0
+technical support analyst,Windows,19,38.0
+technical support analyst,Active Directory,11,22.0
+technical support analyst,SQL,4,8.0
+technical support analyst,Firewalls,3,6.0
+technical support analyst,Azure,3,6.0
+technical support analyst,Linux,3,6.0
+technical support analyst,PowerShell,2,4.0
+technical support analyst,Python,2,4.0
+technical support analyst,VMware,2,4.0
+technical support analyst,Bash,2,4.0
+technical support analyst,Jira,1,2.0
+technical support analyst,Confluence,1,2.0
+technical support analyst,Kanban,1,2.0
+technical support analyst,Excel,1,2.0
+technical support analyst,Risk Management,1,2.0
+technical support engineer,Azure,6,13.6
+technical support engineer,Windows,6,13.6
+technical support engineer,Linux,6,13.6
+technical support engineer,AWS,5,11.4
+technical support engineer,HTML,4,9.1
+technical support engineer,JavaScript,4,9.1
+technical support engineer,Jira,4,9.1
+technical support engineer,Datadog,4,9.1
+technical support engineer,Salesforce,3,6.8
+technical support engineer,SQL,3,6.8
+technical support engineer,CSS,3,6.8
+technical support engineer,Data Analysis,3,6.8
+technical support engineer,Confluence,3,6.8
+technical support engineer,Active Directory,2,4.5
+technical support engineer,Linear,2,4.5
+technical support manager,CI/CD,2,10.0
+technical support manager,Helm,2,10.0
+technical support manager,Windows,2,10.0
+technical support manager,Oracle,1,5.0
+technical support manager,Java,1,5.0
+technical support manager,Linux,1,5.0
+technical support manager,Azure,1,5.0
+technical support manager,Active Directory,1,5.0
+technical support manager,PowerShell,1,5.0
+technical support manager,ServiceNow,1,5.0
+technical support manager,Dynamics 365,1,5.0
+technical support manager,Salesforce,1,5.0
+technical support manager,VMware,1,5.0
+technical support manager,Risk Management,1,5.0
+technical support specialist,Windows,37,33.9
+technical support specialist,Active Directory,12,11.0
+technical support specialist,Excel,9,8.3
+technical support specialist,VMware,4,3.7
+technical support specialist,ServiceNow,4,3.7
+technical support specialist,Salesforce,4,3.7
+technical support specialist,Linux,4,3.7
+technical support specialist,Firewalls,3,2.8
+technical support specialist,SQL,3,2.8
+technical support specialist,Azure,3,2.8
+technical support specialist,Jira,2,1.8
+technical support specialist,MySQL,2,1.8
+technical support specialist,Workday,2,1.8
+technical support specialist,Spark,1,0.9
+technical support specialist,System Design,1,0.9
+test automation engineer,Python,14,43.8
+test automation engineer,Java,8,25.0
+test automation engineer,CI/CD,7,21.9
+test automation engineer,Azure,7,21.9
+test automation engineer,Jenkins,6,18.8
+test automation engineer,Jira,5,15.6
+test automation engineer,DevOps,4,12.5
+test automation engineer,Agile / Scrum,3,9.4
+test automation engineer,GitHub,3,9.4
+test automation engineer,C++,3,9.4
+test automation engineer,JavaScript,3,9.4
+test automation engineer,SQL,3,9.4
+test automation engineer,Kubernetes,2,6.2
+test automation engineer,PowerShell,2,6.2
+test automation engineer,Git,2,6.2
+test engineer,Python,33,8.8
+test engineer,C++,21,5.6
+test engineer,Data Analysis,19,5.1
+test engineer,Linux,18,4.8
+test engineer,Windows,14,3.7
+test engineer,Excel,14,3.7
+test engineer,MATLAB,12,3.2
+test engineer,Risk Management,11,2.9
+test engineer,SQL,10,2.7
+test engineer,Statistical Analysis,9,2.4
+test engineer,Jira,9,2.4
+test engineer,Java,9,2.4
+test engineer,Segment,8,2.1
+test engineer,CI/CD,7,1.9
+test engineer,GitHub,7,1.9
+ui developer,JavaScript,15,71.4
+ui developer,React,14,66.7
+ui developer,CSS,10,47.6
+ui developer,HTML,7,33.3
+ui developer,Git,7,33.3
+ui developer,TypeScript,5,23.8
+ui developer,Node.js,5,23.8
+ui developer,Jenkins,4,19.0
+ui developer,SQL,4,19.0
+ui developer,Angular,4,19.0
+ui developer,Java,4,19.0
+ui developer,REST API,3,14.3
+ui developer,Agile / Scrum,3,14.3
+ui developer,Spring,3,14.3
+ui developer,Spring Boot,3,14.3
+user experience designer,Figma,23,39.7
+user experience designer,Prototyping,18,31.0
+user experience designer,User Research,13,22.4
+user experience designer,CSS,12,20.7
+user experience designer,HTML,11,19.0
+user experience designer,JavaScript,5,8.6
+user experience designer,Jira,4,6.9
+user experience designer,React,2,3.4
+user experience designer,A/B Testing,2,3.4
+user experience designer,Big Data,2,3.4
+user experience designer,Mixpanel,1,1.7
+user experience designer,jQuery,1,1.7
+user experience designer,Vue,1,1.7
+user experience designer,Agile / Scrum,1,1.7
+user experience designer,Java,1,1.7
+ux designer,User Research,71,34.6
+ux designer,Figma,61,29.8
+ux designer,Prototyping,38,18.5
+ux designer,CSS,20,9.8
+ux designer,HTML,16,7.8
+ux designer,Jira,10,4.9
+ux designer,JavaScript,8,3.9
+ux designer,Data Analysis,7,3.4
+ux designer,Confluence,5,2.4
+ux designer,Cybersecurity,5,2.4
+ux designer,Salesforce,4,2.0
+ux designer,Data Visualization,3,1.5
+ux designer,Linux,2,1.0
+ux designer,Windows,2,1.0
+ux designer,Angular,2,1.0
+ux developer,JavaScript,6,54.5
+ux developer,CSS,5,45.5
+ux developer,React,4,36.4
+ux developer,HTML,4,36.4
+ux developer,TypeScript,3,27.3
+ux developer,jQuery,2,18.2
+ux developer,Angular,2,18.2
+ux developer,Git,2,18.2
+ux developer,User Research,2,18.2
+ux developer,JSON,1,9.1
+ux developer,XML,1,9.1
+ux developer,SQL,1,9.1
+ux developer,Figma,1,9.1
+ux developer,Prototyping,1,9.1
+ux developer,MongoDB,1,9.1
+ux/ui designer,User Research,6,25.0
+ux/ui designer,Figma,5,20.8
+ux/ui designer,CSS,3,12.5
+ux/ui designer,Prototyping,3,12.5
+ux/ui designer,HTML,2,8.3
+ux/ui designer,Data Visualization,2,8.3
+ux/ui designer,Data Analysis,1,4.2
+ux/ui designer,NetSuite,1,4.2
+ux/ui designer,Oracle,1,4.2
+ux/ui designer,SAP,1,4.2
+ux/ui designer,Salesforce,1,4.2
+ux/ui designer,jQuery,1,4.2
+ux/ui designer,Angular,1,4.2
+ux/ui designer,JavaScript,1,4.2
+ux/ui designer,Excel,1,4.2
+virtualization engineer,VMware,3,75.0
+virtualization engineer,DevOps,1,25.0
+virtualization engineer,PowerShell,1,25.0
+virtualization engineer,Python,1,25.0
+virtualization engineer,Windows,1,25.0
+vulnerability researcher,Python,24,64.9
+vulnerability researcher,C++,18,48.6
+vulnerability researcher,Cybersecurity,10,27.0
+vulnerability researcher,Unix,3,8.1
+vulnerability researcher,Windows,3,8.1
+vulnerability researcher,Prototyping,3,8.1
+vulnerability researcher,Linux,2,5.4
+vulnerability researcher,Git,2,5.4
+vulnerability researcher,Data Analysis,1,2.7
+vulnerability researcher,System Design,1,2.7
+vulnerability researcher,React,1,2.7
+vulnerability researcher,Ruby,1,2.7
+vulnerability researcher,.NET,1,2.7
+vulnerability researcher,Java,1,2.7
+web developer,JavaScript,44,51.2
+web developer,HTML,34,39.5
+web developer,CSS,34,39.5
+web developer,React,27,31.4
+web developer,Angular,21,24.4
+web developer,SQL,19,22.1
+web developer,Java,16,18.6
+web developer,jQuery,15,17.4
+web developer,PHP,14,16.3
+web developer,DevOps,12,14.0
+web developer,.NET,12,14.0
+web developer,Vue,11,12.8
+web developer,Python,11,12.8
+web developer,AWS,10,11.6
+web developer,Git,9,10.5
+wordpress developer,PHP,5,62.5
+wordpress developer,HTML,3,37.5
+wordpress developer,JavaScript,3,37.5
+wordpress developer,CSS,2,25.0
+wordpress developer,Git,1,12.5
+wordpress developer,Google Analytics,1,12.5
+wordpress developer,AWS,1,12.5
+wordpress developer,React,1,12.5
+wordpress developer,MySQL,1,12.5

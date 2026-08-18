@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Study guide{% endblock %}
+
+{% block content %}
+<h1>Study guide</h1>
+<p class="lede">Describe what you already know, or the work you want to move into.
+This finds the roles whose job adverts match, and each one opens a learning plan
+built from what its postings actually ask for.</p>
+
+<form class="filters" method="get" action="/study">
+  <label style="flex:1 1 22rem">What do you already know?
+    <input type="search" name="q" value="{{ q }}"
+      placeholder="python and sql, i build dashboards and clean data">
+  </label>
+  <label>Job family
+    <select name="family">
+      <option value="">any</option>
+      {% for f in families %}
+      <option value="{{ f }}" {% if f == family %}selected{% endif %}>{{ family_label(f) }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <button type="submit">Find roles</button>
+  {% if q %}<a class="clear" href="/study">Clear</a>{% endif %}
+</form>
+<p class="aside">{{ help }}</p>
+
+{% if rows|length == 0 %}
+<p class="empty">{% if scored %}Nothing matched "{{ q }}". None of those words appear
+in any role's postings. Try naming tools instead of describing tasks: "kubernetes
+terraform" rather than "i manage servers".{% else %}No roles in that family.{% endif %}</p>
+{% else %}
+{% if scored %}
+<p class="count">Closest {{ rows|length }} of {{ pool }} roles</p>
+{% else %}
+<p class="count">{{ rows|length }} largest roles of {{ pool }}. Type above to rank
+these by how well they match what you know.</p>
+{% endif %}
+<table>
+  <thead><tr><th>Role</th><th>Family</th><th class="n">Postings</th>
+    <th>Skills its adverts ask for</th>{% if scored %}<th class="n">Match</th>{% endif %}</tr></thead>
+  <tbody>
+  {% for r in rows.itertuples() %}
+  <tr>
+    <td><a href="/study/{{ r.role }}">{{ r.role_label }}</a></td>
+    <td class="dim">{{ family_label(r.job_family) }}</td>
+    <td class="n">{{ r.postings|count }}</td>
+    <td class="dim trunc">{{ r.top_skills if r.top_skills == r.top_skills else "" }}</td>
+    {% if scored %}<td class="n">{{ '%.3f'|format(r.relevance) }}</td>{% endif %}
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}

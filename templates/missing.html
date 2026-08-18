@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Not found{% endblock %}
+
+{% block content %}
+<h1>No {{ what }} called that</h1>
+<p class="lede">Nothing here is filed under <code>{{ where }}</code>. The name has
+to match exactly, and roles with junk labels are filtered out of this site
+entirely.</p>
+<p class="links"><a class="go" href="{{ back_url }}">{{ back_label }}</a></p>
+{% endblock %}

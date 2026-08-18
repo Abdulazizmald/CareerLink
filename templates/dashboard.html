@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent, hbars %}
+{% block title %}Skill &amp; Job — find work, learn what pays{% endblock %}
+
+{% block content %}
+{#
+  The hero is the product, not a stat block. Finishing the sentence and running
+  the search are the same gesture, so the first thing on the page is also the
+  most useful thing on the page.
+#}
+<section class="opener">
+  <form action="/study" method="get">
+    <h1 class="sentence">I already know
+      <span class="fill"><input type="search" name="q" autocomplete="off"
+        placeholder="python, sql" aria-label="Skills you already have"></span>
+    </h1>
+    <p class="hint">Tell us the tools you can already use. We will show you the
+      jobs they lead to, what those jobs pay, and exactly what to learn next.</p>
+    <button class="btn btn-lg" type="submit">Show me what to learn</button>
+  </form>
+</section>
+
+<div class="grid grid-3">
+  <a class="panel" href="/jobs">
+    <h3>Find a job</h3>
+    <p>Search {{ stats.postings|count }} openings from {{ stats.employers|count }}
+      employers. Filter by remote, level and field, then apply on LinkedIn.</p>
+    <span class="more">Browse jobs &rarr;</span>
+  </a>
+  <a class="panel" href="/skills">
+    <h3>Look up a skill</h3>
+    <p>See who is hiring for it, what it pays, and which skills are worth
+      learning alongside it, or would only repeat what you have.</p>
+    <span class="more">Explore skills &rarr;</span>
+  </a>
+  <a class="panel" href="/candidates">
+    <h3>Hiring someone?</h3>
+    <p>See what other companies ask for and pay for the same role, then search
+      the candidate pool by role or by what you need.</p>
+    <span class="more">Open the recruiter view &rarr;</span>
+  </a>
+</div>
+
+<h2>Where the jobs are</h2>
+<p class="aside">The roles with the most openings. Job titles are grouped, so
+"Senior Data Analyst" and "Data Analyst II" count as one job here.</p>
+<table>
+  <thead><tr><th>Job</th><th>Field</th><th class="n">Openings</th>
+    <th class="n">Employers</th><th>Commonly asks for</th></tr></thead>
+  <tbody>
+  {% for r in roles %}
+  <tr>
+    <td><a href="/study/{{ r.role }}">{{ r.label }}</a></td>
+    <td class="dim">{{ r.family }}</td>
+    <td class="n">{{ r.postings|count }}</td>
+    <td class="n">{{ r.companies|count }}</td>
+    <td>{% for s in r.skills %}<a class="chip chip-next" href="/skills/{{ s }}">{{ s }}</a>{% endfor %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<div class="grid grid-2">
+  <div>
+    <h2>What pays most</h2>
+    <p class="aside">Median pay, counted one figure per employer so a single large
+      company cannot set the number.</p>
+    <table>
+      <thead><tr><th>Job</th><th class="n">Median pay</th></tr></thead>
+      <tbody>
+      {% for r in paid %}
+      <tr>
+        <td><a href="/study/{{ r.role }}">{{ r.label }}</a><br>
+          <span class="dim" style="font-size:.86rem">{{ r.family }}</span></td>
+        <td class="n">{{ figure(r.pay|money, r.employers ~ " " ~ r.employers|plural("employer")) }}</td>
+      </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <h2>Most asked-for skills</h2>
+    <p class="aside">Counted across every job advert. A skill wanted in many
+      fields travels further if you change direction later.</p>
+    <table>
+      <thead><tr><th>Skill</th><th class="n">Jobs</th><th class="n">Fields</th></tr></thead>
+      <tbody>
+      {% for s in skills %}
+      <tr>
+        <td><a href="/skills/{{ s.skill }}">{{ s.skill }}</a></td>
+        <td class="n">{{ s.postings|count }}</td>
+        <td class="n">{{ s.families }} of {{ stats.families }}</td>
+      </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h2>Where you can work from home</h2>
+<p class="aside">Share of adverts offering remote or hybrid, among those that said
+where you would be based.</p>
+{{ hbars(remote_rows, 100, "%") }}
+
+<section class="note">
+  <h2 style="margin-top:0">Start with one of these</h2>
+  <p class="links">
+    <a class="btn" href="/study">Build a study plan</a>
+    <a class="go" href="/jobs">Search jobs</a>
+    <a class="go" href="/skills">Compare skills</a>
+  </p>
+</section>
+{% endblock %}

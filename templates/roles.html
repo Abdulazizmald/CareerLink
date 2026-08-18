@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% from "macros.html" import figure, absent %}
+{% block title %}Roles{% endblock %}
+
+{% block content %}
+<h1>Roles</h1>
+<p class="lede">{{ total }} roles, each collapsed from every posting whose title
+means the same job. "Senior Data Analyst" and "Data Analyst II" are one role
+here, because level is a separate column.</p>
+
+<form class="filters" method="get" action="/roles">
+  <label>Job family
+    <select name="family">
+      <option value="">any</option>
+      {% for f in families %}
+      <option value="{{ f }}" {% if f == family %}selected{% endif %}>{{ family_label(f) }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Order by
+    <select name="sort">
+      <option value="postings" {% if sort == 'postings' %}selected{% endif %}>Postings</option>
+      <option value="employers" {% if sort == 'employers' %}selected{% endif %}>Employers hiring</option>
+      <option value="pay" {% if sort == 'pay' %}selected{% endif %}>Median pay</option>
+    </select>
+  </label>
+  <button type="submit">Apply</button>
+</form>
+
+{% if rows|length == 0 %}
+<p class="empty">No roles in that family. Choose another, or clear the filter.</p>
+{% else %}
+<p class="count">Showing {{ rows|length }} of {{ total }}</p>
+<table>
+  <thead><tr>
+    <th>Role</th><th>Family</th><th class="n">Postings</th>
+    <th class="n">Employers</th><th class="n">Median pay</th>
+    <th class="n">Senior or above</th>
+  </tr></thead>
+  <tbody>
+  {% for r in rows.itertuples() %}
+  <tr>
+    <td><a href="/roles/{{ r.role }}">{{ r.role_label }}</a></td>
+    <td class="dim">{{ family_label(r.job_family) }}</td>
+    <td class="n">{{ r.postings|count }}</td>
+    <td class="n">{{ r.companies|count }}</td>
+    <td class="n">{% if r.median_salary|money %}
+        {{ figure(r.median_salary|money,
+                  r.salary_companies|count ~ " " ~ r.salary_companies|plural("employer")) }}
+      {% else %}{{ absent(pay_basis(r.salary_companies)) }}{% endif %}</td>
+    <td class="n">{{ r.pct_senior_or_above|pct(0) }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}
