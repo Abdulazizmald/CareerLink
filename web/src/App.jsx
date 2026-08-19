@@ -13,7 +13,7 @@ import CandidateDetail from './pages/CandidateDetail.jsx'
 // Two audiences, labelled. A person can be both, so these are groups in one bar
 // rather than a mode switch that makes you feel you have left the site.
 const SEEKER = [
-  ['/study', 'Study guide'],
+  ['/study', 'What jobs need'],
   ['/jobs', 'Jobs'],
   ['/skills', 'Skills'],
 ]
@@ -37,7 +37,7 @@ export default function App() {
         <div className="wrap">
           <NavLink className="brand" to="/">
             <span>Career<em>Link</em>
-              <small>Find work. Learn what pays.</small>
+              <small>Find work. Find candidates.</small>
             </span>
           </NavLink>
           <nav>

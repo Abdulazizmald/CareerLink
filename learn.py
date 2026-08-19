@@ -10,6 +10,7 @@ different from an empty list with no error: the first means the call failed,
 the second means the API answered and had nothing. The app says which.
 """
 
+import time
 from urllib.parse import quote_plus
 
 import requests
@@ -17,6 +18,29 @@ import requests
 YOUTUBE_URL = "https://www.googleapis.com/youtube/v3/search"
 BOOKS_URL = "https://www.googleapis.com/books/v1/volumes"
 TIMEOUT = 8
+RETRIES = 2            # extra attempts after the first, for 5xx only
+BACKOFF = 0.6           # seconds, multiplied by attempt number
+
+
+def _get(url, params):
+    """GET with a short retry for a 5xx.
+
+    Google's own APIs answer with a transient 503 ("backendFailed") often
+    enough that a first failure should not be treated as final: a 4xx means
+    the request itself is wrong (bad key, bad quota) and retrying changes
+    nothing, but a 5xx means Google's side had a hiccup, and it usually
+    clears within a second or two.
+    """
+    last = None
+    for attempt in range(RETRIES + 1):
+        try:
+            last = requests.get(url, params=params, timeout=TIMEOUT)
+        except requests.RequestException as e:
+            return None, e
+        if last.status_code < 500 or attempt == RETRIES:
+            return last, None
+        time.sleep(BACKOFF * (attempt + 1))
+    return last, None
 
 
 def youtube_search_link(query):
@@ -36,10 +60,9 @@ def search_videos(query, api_key, n=3):
     params = {"key": api_key, "q": query, "part": "snippet", "type": "video",
               "maxResults": n, "videoEmbeddable": "true",
               "relevanceLanguage": "en", "safeSearch": "moderate"}
-    try:
-        r = requests.get(YOUTUBE_URL, params=params, timeout=TIMEOUT)
-    except requests.RequestException as e:
-        return [], f"could not reach YouTube: {e}"
+    r, err = _get(YOUTUBE_URL, params)
+    if err:
+        return [], f"could not reach YouTube: {err}"
 
     if r.status_code != 200:
         # YouTube names the cause in the body. quotaExceeded and keyInvalid are
@@ -95,10 +118,9 @@ def search_books(query, api_key="", n=3):
               "langRestrict": "en", "country": "US"}
     if api_key:
         params["key"] = api_key
-    try:
-        r = requests.get(BOOKS_URL, params=params, timeout=TIMEOUT)
-    except requests.RequestException as e:
-        return [], f"could not reach Google Books: {e}"
+    r, err = _get(BOOKS_URL, params)
+    if err:
+        return [], f"could not reach Google Books: {err}"
 
     if r.status_code == 429:
         return [], ("Google Books rate limit hit. Enable the Books API in your "
